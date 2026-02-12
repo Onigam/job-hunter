@@ -25,7 +25,7 @@ jobs:
         env:
           LINKEDIN_COOKIE: ${{ secrets.LINKEDIN_COOKIE }}
         with:
-          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           prompt: |
             You are the Job Hunter orchestrator. Your goal is to find the best new job offers for the candidate.
 
