@@ -1,0 +1,31 @@
+🎯 *Job Hunter — 2026-02-12*
+
+Found *23 new offers* today — here are the top 5 matches:
+
+*1.* 🥇 *Founding Engineer* @ Bloom (YC S25)
+📍 Zürich, Switzerland | ⭐ 87/100
+💡 Perfect founding role at YC S25 startup in Zürich with strong equity package (0.5%-2%), ideal for someone with cofounder background
+🔗 https://www.ycombinator.com/companies/bloom-4
+
+*2.* 🥈 *Staff Software Engineer* @ Lakera
+📍 Zürich, Switzerland | ⭐ 82/100
+💡 Staff-level technical leadership at AI security startup (acquired by Check Point), hands-on builder role in Switzerland
+🔗 https://aijobnetwork.com/jobs/lakera-staff-software-engineer-zurich-e74f9532-3a88-4b77-8972-e231a1b0fa0d
+
+*3.* 🥉 *Staff ML Engineer* @ Lakera
+📍 Zürich, Switzerland | ⭐ 80/100
+💡 Cutting-edge AI/ML work at cybersecurity startup in Switzerland, post-acquisition stability with startup culture
+🔗 https://jobs.ashbyhq.com/lakera.ai/6f04a898-893e-439f-8601-c25a30418c13
+
+*4.* 4️⃣ *Staff Engineers (7+ years)* @ Stealth AI-security startup
+📍 Remote | ⭐ 78/100
+💡 Well-funded ($15M) AI security startup with perfect tech stack (Python/Node/React/TS/AWS) and competitive compensation ($200K-$250K)
+🔗 https://news.ycombinator.com/item?id=46857488
+
+*5.* 5️⃣ *Senior / Principal Software Engineer* @ Weflow
+📍 Remote (Europe preferred) | ⭐ 76/100
+💡 Principal-level role with perfect full-stack match (React/TypeScript/Node.js/PostgreSQL/AWS) at AI platform company
+🔗 https://weworkremotely.com/remote-jobs/weflow-senior-principal-software-engineer
+
+---
+📊 _23 new offers found | 23 total tracked_

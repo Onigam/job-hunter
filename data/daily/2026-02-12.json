@@ -1,0 +1,66 @@
+{
+  "date": "2026-02-12",
+  "total_new_offers": 23,
+  "offers": [
+    {
+      "rank": 1,
+      "id": "a8f3d9c4b7e2f1a5",
+      "title": "Founding Engineer",
+      "company": "Bloom (YC S25)",
+      "location": "Zürich, Switzerland",
+      "url": "https://www.ycombinator.com/companies/bloom-4",
+      "source": "other",
+      "description_short": "Founding engineer role at Y Combinator Spring 2025 batch company building mobile app platform in Zürich. Offers $150K-$250K + 0.50%-2.00% equity. Multiple founding positions available.",
+      "score": 87,
+      "match_reason": "Perfect seniority (founding role), excellent location (Zürich), YC-backed startup with strong equity package, dream founding-engineer scenario for someone with Magino's cofounder background."
+    },
+    {
+      "rank": 2,
+      "id": "b9e4f8a2c6d3e1b7",
+      "title": "Staff Software Engineer",
+      "company": "Lakera",
+      "location": "Zürich, Switzerland",
+      "url": "https://aijobnetwork.com/jobs/lakera-staff-software-engineer-zurich-e74f9532-3a88-4b77-8972-e231a1b0fa0d",
+      "source": "other",
+      "description_short": "Technical leadership role at rapidly growing AI security startup. Work hands-on across all aspects of Lakera's applications, directly contributing code, processes, and technical direction.",
+      "score": 82,
+      "match_reason": "Perfect seniority level (Staff), AI/ML focus matches technical interests, Switzerland location, acquired by Check Point validates company traction, hands-on technical leadership aligns with Magino's builder mindset."
+    },
+    {
+      "rank": 3,
+      "id": "c3f7d9e2a8b5f1c4",
+      "title": "Staff ML Engineer",
+      "company": "Lakera",
+      "location": "Zürich, Switzerland",
+      "url": "https://jobs.ashbyhq.com/lakera.ai/6f04a898-893e-439f-8601-c25a30418c13",
+      "source": "other",
+      "description_short": "Staff-level ML engineer role at AI cybersecurity startup (acquired by Check Point). Operating at cutting edge of AI to build strongest defenses in AI cybersecurity market.",
+      "score": 80,
+      "match_reason": "Staff-level role in Switzerland, cutting-edge AI/ML work aligns with Magino's AI-augmented engineering experience, post-acquisition stability with startup culture, strong technical match."
+    },
+    {
+      "rank": 4,
+      "id": "d7a2e9f3c8b4d1e6",
+      "title": "Staff Engineers (7+ years)",
+      "company": "Stealth AI-security startup",
+      "location": "Remote",
+      "url": "https://news.ycombinator.com/item?id=46857488",
+      "source": "hn",
+      "description_short": "Seed-funded ($15M) AI security startup seeking staff engineers with Python/Node/Rust, React/TS, Kafka, ClickHouse, AWS. Prefer experience at scale (Google/Meta/AWS). Base: $200K-$250K + equity.",
+      "score": 78,
+      "match_reason": "Perfect tech stack match (Python, Node, React/TS, AWS), Staff-level seniority, well-funded seed startup, AI focus aligns with interests, competitive compensation, though remote-only is less ideal than Geneva."
+    },
+    {
+      "rank": 5,
+      "id": "e1b8f4c9d7a3e2b5",
+      "title": "Senior / Principal Software Engineer",
+      "company": "Weflow",
+      "location": "Remote (Europe preferred)",
+      "url": "https://weworkremotely.com/remote-jobs/weflow-senior-principal-software-engineer",
+      "source": "weworkremotely",
+      "description_short": "Senior/Principal engineer role for Revenue AI Platform requiring expert-level proficiency in React + TypeScript/Next.js, Node.js, and PostgreSQL. AWS experience required. EU timezone preferred.",
+      "score": 76,
+      "match_reason": "Principal-level opportunity with perfect tech stack match (React, TypeScript, Node.js, PostgreSQL, AWS), AI platform focus, Europe-friendly remote work, strong technical alignment with Magino's full-stack expertise."
+    }
+  ]
+}
