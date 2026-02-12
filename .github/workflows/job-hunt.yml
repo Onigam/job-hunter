@@ -84,6 +84,7 @@ jobs:
             IMPORTANT: Only include REAL job offers found via WebSearch or LinkedIn API. Never fabricate or hallucinate offers.
             Use today's date for all file names and timestamps.
           claude_args: "--max-turns 40"
+          show_full_output: true
 
       - name: Send Telegram Notification
         if: always()
