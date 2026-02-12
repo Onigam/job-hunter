@@ -9,7 +9,8 @@
       "WebSearch",
       "Task",
       "Bash(git:*)",
-      "Bash(date:*)"
+      "Bash(date:*)",
+      "Bash(curl:*)"
     ]
   }
 }

@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write
+  id-token: write
 
 jobs:
   hunt:
@@ -21,6 +22,8 @@ jobs:
 
       - name: Run Job Hunter with Claude Code
         uses: anthropics/claude-code-action@v1
+        env:
+          LINKEDIN_COOKIE: ${{ secrets.LINKEDIN_COOKIE }}
         with:
           anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
           prompt: |
@@ -37,11 +40,24 @@ jobs:
             ## Step 3: Search for New Offers
             Use the `job-searcher` agent (via Task tool) to search for new job offers.
             Run multiple searches across different platforms and keywords:
-            - LinkedIn Jobs: "Staff Engineer" Geneva, "Platform Engineer" remote, "Founding Engineer" startup Switzerland
+
+            ### LinkedIn Authenticated Search (PRIMARY SOURCE)
+            A LinkedIn session cookie is available via the `LINKEDIN_COOKIE` environment variable.
+            Use it to search LinkedIn's job search API directly via curl. The agent instructions
+            in `.claude/agents/job-searcher.md` contain detailed curl examples.
+            Run searches for:
+            - "Staff Engineer" in Geneva/Switzerland
+            - "Platform Engineer" remote or Switzerland
+            - "Founding Engineer" startup Switzerland
+            - "CTO" OR "VP Engineering" early-stage startup Geneva
+            - "Principal Engineer" TypeScript OR Node.js Switzerland OR remote
+
+            ### Web Search (SECONDARY SOURCES)
+            Also use WebSearch to find jobs on:
             - Indeed/SwissDevJobs: Senior engineering roles in Geneva/Switzerland
             - Wellfound/Remote boards: Startup founding/staff roles, remote-friendly
-            - Include searches for CTO/VP Engineering at early-stage startups in Geneva
-            Aim for 15-25 raw results.
+            - Hacker News Who's Hiring threads
+            Aim for 15-25 raw results total across all sources.
 
             ## Step 4: Match and Rank
             Use the `profile-matcher` agent (via Task tool) to:
@@ -65,9 +81,8 @@ jobs:
             git push
             ```
 
-            IMPORTANT: Only include REAL job offers found via WebSearch. Never fabricate or hallucinate offers.
+            IMPORTANT: Only include REAL job offers found via WebSearch or LinkedIn API. Never fabricate or hallucinate offers.
             Use today's date for all file names and timestamps.
-          allowed_tools: "Bash(git:*),Bash(date:*),Read,Write,Edit,Glob,Grep,WebSearch,Task"
           claude_args: "--max-turns 40"
 
       - name: Send Telegram Notification
