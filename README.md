@@ -1,0 +1,170 @@
+# Job Hunter
+
+Automated daily job hunting powered by **Claude Code** + **GitHub Actions**.
+
+Searches for senior engineering roles matching your profile across multiple platforms, ranks them by relevance, and sends the top 5 via **Telegram** every morning.
+
+---
+
+## How It Works
+
+```
+┌─────────────┐     ┌──────────────┐     ┌─────────────────┐     ┌──────────┐
+│  Cron/Manual │────▶│ Job Searcher │────▶│ Profile Matcher │────▶│  Report  │
+│   Trigger    │     │    Agent     │     │     Agent       │     │ Builder  │
+└─────────────┘     └──────────────┘     └─────────────────┘     └──────────┘
+                          │                      │                      │
+                    WebSearch on             Score & rank          Generate daily
+                    LinkedIn, Indeed,       against profile        report + Telegram
+                    SwissDevJobs...         Dedup vs history       notification
+```
+
+### Daily Pipeline
+
+1. **Search** — The `job-searcher` agent runs multiple web searches across LinkedIn Jobs, Indeed, SwissDevJobs, Wellfound, WeWorkRemotely, RemoteOK, and Hacker News hiring threads.
+2. **Match** — The `profile-matcher` agent scores each offer against your profile (technical fit, seniority, location, company type, role impact) and filters duplicates.
+3. **Report** — The `report-builder` agent generates a daily JSON report, updates the offers database, and creates a Telegram notification message.
+4. **Notify** — The workflow sends the top 5 offers to your Telegram chat.
+
+---
+
+## Setup
+
+### 1. Fork or Clone
+
+```bash
+git clone https://github.com/Onigam/job-hunter.git
+cd job-hunter
+```
+
+### 2. Configure Your Profile
+
+Edit `profile/context.md` with your:
+- Career summary and highlights
+- Technical skills
+- Target roles (priority order)
+- Location preferences
+- Company preferences
+- Search keywords
+
+### 3. Add GitHub Secrets
+
+Go to **Settings → Secrets and variables → Actions** in your GitHub repo and add:
+
+| Secret | Description | How to get it |
+|--------|-------------|---------------|
+| `ANTHROPIC_API_KEY` | Anthropic API key for Claude | [console.anthropic.com](https://console.anthropic.com/) |
+| `TELEGRAM_BOT_TOKEN` | Telegram bot token | Talk to [@BotFather](https://t.me/BotFather) on Telegram |
+| `TELEGRAM_CHAT_ID` | Your Telegram chat ID | See [instructions below](#getting-your-telegram-chat-id) |
+
+### 4. Test the Workflow
+
+Go to the **Actions** tab in your repo → Select **Job Hunter** → Click **Run workflow**.
+
+The first run may take a few minutes. Check the workflow logs for results.
+
+### 5. Automatic Daily Runs
+
+The workflow runs automatically every day at **08:00 UTC** (09:00 Geneva time). You can change the schedule in `.github/workflows/job-hunt.yml`:
+
+```yaml
+on:
+  schedule:
+    - cron: '0 8 * * *'  # Change this to your preferred time
+```
+
+---
+
+## Getting Your Telegram Chat ID
+
+1. Create a bot with [@BotFather](https://t.me/BotFather) on Telegram:
+   - Send `/newbot`
+   - Choose a name and username
+   - Copy the **bot token**
+
+2. Start a chat with your new bot (send `/start`)
+
+3. Get your chat ID:
+   ```bash
+   curl https://api.telegram.org/bot<YOUR_BOT_TOKEN>/getUpdates
+   ```
+   Look for `"chat":{"id": 123456789}` in the response — that number is your chat ID.
+
+4. Add both values as GitHub secrets (`TELEGRAM_BOT_TOKEN` and `TELEGRAM_CHAT_ID`).
+
+---
+
+## Project Structure
+
+```
+job-hunter/
+├── .claude/
+│   ├── agents/
+│   │   ├── job-searcher.md        # Searches for offers across platforms
+│   │   ├── profile-matcher.md     # Scores and ranks offers vs profile
+│   │   └── report-builder.md      # Generates reports + Telegram messages
+│   └── settings.json              # Claude Code permissions
+├── .github/
+│   └── workflows/
+│       └── job-hunt.yml           # GitHub Actions workflow
+├── CLAUDE.md                       # Project configuration for Claude
+├── data/
+│   ├── offers.json                # All tracked offers (dedup database)
+│   └── daily/                     # Daily report files
+│       ├── YYYY-MM-DD.json        # Daily results
+│       └── YYYY-MM-DD-telegram.txt # Telegram message
+├── profile/
+│   └── context.md                 # Your candidate profile
+└── README.md
+```
+
+## Offers Database
+
+All offers are tracked in `data/offers.json` to avoid duplicates. Each offer includes:
+- Title, company, location, source URL
+- Relevance score (0-100)
+- Date found
+- Status (new/seen)
+
+## Scoring System
+
+Offers are scored on 5 dimensions (100 points total):
+
+| Dimension | Points | What it measures |
+|-----------|--------|-----------------|
+| Technical Fit | 30 | Tech stack overlap (TypeScript, Node.js, React, Python, AWS...) |
+| Seniority | 25 | Role level (Staff+, Principal, Founding, CTO) |
+| Location | 20 | Geneva > Switzerland > Remote Europe > USA |
+| Company Fit | 15 | Startup/scale-up vs enterprise/consulting |
+| Role Impact | 10 | Platform ownership, build-from-zero opportunities |
+
+---
+
+## Customization
+
+### Change Search Keywords
+Edit the search queries in `.claude/agents/job-searcher.md`.
+
+### Adjust Scoring Weights
+Modify the scoring criteria in `.claude/agents/profile-matcher.md`.
+
+### Change Notification Format
+Update the Telegram message template in `.claude/agents/report-builder.md`.
+
+### Change Schedule
+Edit the cron expression in `.github/workflows/job-hunt.yml`.
+
+---
+
+## Tech Stack
+
+- **Claude Code** (via `anthropics/claude-code-action@v1`) — AI-powered job search and analysis
+- **GitHub Actions** — Scheduling and orchestration
+- **Telegram Bot API** — Notifications
+- **WebSearch** — Real-time job board searches
+
+---
+
+## License
+
+MIT
