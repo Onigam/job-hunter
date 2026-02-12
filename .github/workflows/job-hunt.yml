@@ -100,10 +100,11 @@ jobs:
             fi
           else
             echo "No Telegram message file found for today (${MSG_FILE})"
+            MSG="🎯 Job Hunter — ${DATE}
+
+          ⚠️ No results generated today. Check workflow logs."
             curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
               -d chat_id="${TELEGRAM_CHAT_ID}" \
-              --data-urlencode text="🎯 Job Hunter — ${DATE}
-
-⚠️ No results generated today. Check workflow logs." \
+              --data-urlencode text="$MSG" \
               -d parse_mode="Markdown" || true
           fi
