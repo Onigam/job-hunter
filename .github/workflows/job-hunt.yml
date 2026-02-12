@@ -74,8 +74,8 @@ jobs:
             ## Step 6: Commit Changes
             Use Bash to commit and push changes:
             ```bash
-            git config user.name "Job Hunter Bot"
-            git config user.email "bot@job-hunter.github.io"
+            git config user.name "Magino"
+            git config user.email "13470680+Onigam@users.noreply.github.com"
             git add data/
             git commit -m "🎯 Daily job hunt — $(date +%Y-%m-%d)" || echo "No changes to commit"
             git push
