@@ -2,7 +2,7 @@
 
 Automated daily job hunting powered by **Claude Code** + **GitHub Actions**.
 
-Searches for senior engineering roles matching your profile across multiple platforms, ranks them by relevance, and sends the top 5 via **Telegram** every morning.
+Searches for senior engineering roles matching your profile across multiple platforms (including authenticated LinkedIn search), ranks them by relevance, and sends the top 5 via **Telegram** every morning at 8:00 Geneva time.
 
 ---
 
@@ -14,17 +14,18 @@ Searches for senior engineering roles matching your profile across multiple plat
 │   Trigger    │     │    Agent     │     │     Agent       │     │ Builder  │
 └─────────────┘     └──────────────┘     └─────────────────┘     └──────────┘
                           │                      │                      │
-                    WebSearch on             Score & rank          Generate daily
-                    LinkedIn, Indeed,       against profile        report + Telegram
-                    SwissDevJobs...         Dedup vs history       notification
+                    LinkedIn API +          Score & rank          Generate daily
+                    WebSearch on            against profile        report + Telegram
+                    Indeed, Wellfound...    Dedup vs history       notification
 ```
 
 ### Daily Pipeline
 
-1. **Search** — The `job-searcher` agent runs multiple web searches across LinkedIn Jobs, Indeed, SwissDevJobs, Wellfound, WeWorkRemotely, RemoteOK, and Hacker News hiring threads.
+1. **Search** — The `job-searcher` agent searches LinkedIn via authenticated API (primary source) and runs web searches across Indeed, SwissDevJobs, Wellfound, WeWorkRemotely, RemoteOK, and Hacker News hiring threads.
 2. **Match** — The `profile-matcher` agent scores each offer against your profile (technical fit, seniority, location, company type, role impact) and filters duplicates.
 3. **Report** — The `report-builder` agent generates a daily JSON report, updates the offers database, and creates a Telegram notification message.
 4. **Notify** — The workflow sends the top 5 offers to your Telegram chat.
+5. **Commit** — Results are committed under your GitHub identity, so daily runs show up in your contribution calendar.
 
 ---
 
@@ -53,9 +54,12 @@ Go to **Settings → Secrets and variables → Actions** in your GitHub repo and
 
 | Secret | Description | How to get it |
 |--------|-------------|---------------|
-| `ANTHROPIC_API_KEY` | Anthropic API key for Claude | [console.anthropic.com](https://console.anthropic.com/) |
+| `CLAUDE_CODE_OAUTH_TOKEN` | Claude Code OAuth token (uses your Pro/Max plan) | Run `claude config get oauthToken` locally |
+| `LINKEDIN_COOKIE` | LinkedIn `li_at` session cookie for authenticated search | Browser DevTools → Application → Cookies → linkedin.com → `li_at` |
 | `TELEGRAM_BOT_TOKEN` | Telegram bot token | Talk to [@BotFather](https://t.me/BotFather) on Telegram |
 | `TELEGRAM_CHAT_ID` | Your Telegram chat ID | See [instructions below](#getting-your-telegram-chat-id) |
+
+> **Note:** The workflow uses your Claude Pro/Max subscription via OAuth token — no API credits needed.
 
 ### 4. Test the Workflow
 
@@ -65,12 +69,12 @@ The first run may take a few minutes. Check the workflow logs for results.
 
 ### 5. Automatic Daily Runs
 
-The workflow runs automatically every day at **08:00 UTC** (09:00 Geneva time). You can change the schedule in `.github/workflows/job-hunt.yml`:
+The workflow runs automatically every day at **08:00 Geneva time** (07:00 UTC). You can change the schedule in `.github/workflows/job-hunt.yml`:
 
 ```yaml
 on:
   schedule:
-    - cron: '0 8 * * *'  # Change this to your preferred time
+    - cron: '0 7 * * *'  # Change this to your preferred time (UTC)
 ```
 
 ---
@@ -100,7 +104,7 @@ on:
 job-hunter/
 ├── .claude/
 │   ├── agents/
-│   │   ├── job-searcher.md        # Searches for offers across platforms
+│   │   ├── job-searcher.md        # Searches LinkedIn API + web platforms
 │   │   ├── profile-matcher.md     # Scores and ranks offers vs profile
 │   │   └── report-builder.md      # Generates reports + Telegram messages
 │   └── settings.json              # Claude Code permissions
@@ -158,7 +162,8 @@ Edit the cron expression in `.github/workflows/job-hunt.yml`.
 
 ## Tech Stack
 
-- **Claude Code** (via `anthropics/claude-code-action@v1`) — AI-powered job search and analysis
+- **Claude Code** (via `anthropics/claude-code-action@v1`) — AI-powered job search and analysis, using OAuth (Pro/Max plan)
+- **LinkedIn Voyager API** — Authenticated job search via session cookie
 - **GitHub Actions** — Scheduling and orchestration
 - **Telegram Bot API** — Notifications
 - **WebSearch** — Real-time job board searches
