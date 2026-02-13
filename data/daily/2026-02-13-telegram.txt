@@ -1,0 +1,58 @@
+🎯 Daily Job Hunt — February 13, 2026
+
+🎯 #1 — Senior/Staff Engineer - Verified Autonomous Remediation
+🏢 Company: SonarSource
+📍 Location: Geneva, Switzerland
+⭐ Match: 85/100
+
+Architect backend for sophisticated agentic workflows in code generation and validation at a leading code quality/security platform. Excellent benefits with 27 PTO days and 60% pension contribution.
+
+🔗 [Apply Here](https://jobs.insightpartners.com/companies/sonarsource/jobs/58292003-senior-full-stack-engineer)
+
+---
+
+🎯 #2 — Staff Engineer, Experimental Projects
+🏢 Company: Stripe
+📍 Location: Zurich, Switzerland (or Remote)
+⭐ Match: 83/100
+
+Work on cutting-edge experimental projects at Stripe with exceptional compensation ($246K-$370K base). Flexibility to work from Zurich office or remote across Europe.
+
+🔗 [Apply Here](https://stripe.com/jobs/listing/staff-engineer-experimental-projects/7280343)
+
+---
+
+🎯 #3 — Staff Engineer, Account Engineering
+🏢 Company: Stripe
+📍 Location: Zurich, Switzerland (or Remote)
+⭐ Match: 82/100
+
+Build and scale critical account engineering infrastructure at Stripe, working on authentication and account management systems. Strong backend/systems focus with remote or Zurich office options.
+
+🔗 [Apply Here](https://stripe.com/jobs/listing/staff-engineer-account-engineering/7369269)
+
+---
+
+🎯 #4 — Principal DevSecOps Engineer
+🏢 Company: CloudBees
+📍 Location: Russin, Geneva, Switzerland
+⭐ Match: 80/100
+
+Lead DevSecOps platform development at CloudBees, building automated security solutions and architecting secure systems. Principal-level role combining development and security operations expertise.
+
+🔗 [Apply Here](https://www.linkedin.com/jobs/view/principal-devsecops-engineer-at-cloudbees-1523557369)
+
+---
+
+🎯 #5 — Principal Engineer, Artificial Intelligence and Cerebra
+🏢 Company: Google
+📍 Location: Zurich, Switzerland
+⭐ Match: 80/100
+
+Develop and launch ambient AI projects at Google's Zurich office, working on cutting-edge AI research for the Cerebra and AI:E teams. Posted just 3 days ago.
+
+🔗 [Apply Here](https://ch.linkedin.com/jobs/view/principal-engineer-artificial-intelligence-and-cerebra-at-google-3119910955)
+
+---
+
+Found 15 new relevant positions today.

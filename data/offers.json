@@ -1,6 +1,66 @@
 {
-  "last_updated": "2026-02-12",
+  "last_updated": "2026-02-13",
   "offers": [
+    {
+      "id": "7c4e9b2f5a8d3c1e6f4a9b7d2e5c8f1a3b6d9e2f5a8c1d4e7b0f3a6c9e2d5f8a1",
+      "title": "Senior/Staff Engineer - Verified Autonomous Remediation",
+      "company": "SonarSource",
+      "location": "Geneva, Switzerland",
+      "url": "https://jobs.insightpartners.com/companies/sonarsource/jobs/58292003-senior-full-stack-engineer",
+      "source": "other",
+      "summary": "Architect backend for Verified Autonomous Remediation with sophisticated agentic workflows for code generation and validation. Full stack role (Java, React) at a code quality/security platform company. 27 PTO days, 60% pension contribution. Posted Feb 6, 2026.",
+      "score": 85,
+      "date_found": "2026-02-13",
+      "status": "new"
+    },
+    {
+      "id": "3f8a2e5c9d1b4f7a0e3c6b9d2f5a8c1e4b7d0f3a6c9e2d5f8a1b4e7c0d3f6a9b2",
+      "title": "Staff Engineer, Experimental Projects",
+      "company": "Stripe",
+      "location": "Zurich, Switzerland (or Remote)",
+      "url": "https://stripe.com/jobs/listing/staff-engineer-experimental-projects/7280343",
+      "source": "other",
+      "summary": "Work on experimental and cutting-edge projects at Stripe. Available in office (including Zurich) or remote (35+ miles from office). $246,600-$369,800 base salary range. Stripe has expanded remote hiring across Europe.",
+      "score": 83,
+      "date_found": "2026-02-13",
+      "status": "new"
+    },
+    {
+      "id": "8d2f5a1c4e7b0d3f6a9c2e5d8f1a4b7c0e3d6f9a2b5c8e1d4f7a0b3c6e9d2f5a8",
+      "title": "Staff Engineer, Account Engineering",
+      "company": "Stripe",
+      "location": "Zurich, Switzerland (or Remote)",
+      "url": "https://stripe.com/jobs/listing/staff-engineer-account-engineering/7369269",
+      "source": "other",
+      "summary": "Build and scale account engineering systems at Stripe. Work on critical infrastructure for account management and authentication. Remote or office-based in European cities including Zurich. Strong backend/systems experience required.",
+      "score": 82,
+      "date_found": "2026-02-13",
+      "status": "new"
+    },
+    {
+      "id": "9a5c2e7f1b4d8a3c6e9f2b5d8a1c4e7f0b3d6a9c2e5f8b1d4a7c0e3f6b9d2e5a8",
+      "title": "Principal DevSecOps Engineer",
+      "company": "CloudBees",
+      "location": "Russin, Geneva, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/principal-devsecops-engineer-at-cloudbees-1523557369",
+      "source": "linkedin",
+      "summary": "Principal Engineer role focusing on product security and DevSecOps. Build and automate DevSecOps platform leveraging CI/CD practices. Work with product engineering teams to architect inherently secure solutions. 5+ years Ops/Dev experience and 2+ years in Application Security required.",
+      "score": 80,
+      "date_found": "2026-02-13",
+      "status": "new"
+    },
+    {
+      "id": "2b7e4f9a1c5d8b3e6f0a4c7e1b5d9a2c6f8e1b4d7a0c3e6f9b2d5a8c1e4f7b0d3",
+      "title": "Principal Engineer, Artificial Intelligence and Cerebra",
+      "company": "Google",
+      "location": "Zurich, Switzerland",
+      "url": "https://ch.linkedin.com/jobs/view/principal-engineer-artificial-intelligence-and-cerebra-at-google-3119910955",
+      "source": "linkedin",
+      "summary": "Principal Engineer developing and landing ambient AI projects for AI:E (Artificial Intelligence for Empowering Everyone Equitably) and Cerebra teams. Cutting-edge AI research and development at Google's Zurich office. Posted 3 days ago.",
+      "score": 80,
+      "date_found": "2026-02-13",
+      "status": "new"
+    },
     {
       "id": "56a7c8d2e9f1b3a4c6d8e2f7b9a1c3e5d7f2a4b6c8e1d3f5a7b9c2e4f6a8b1c3",
       "title": "Cloud Platform Engineer (w/d/m), 80-100%",
