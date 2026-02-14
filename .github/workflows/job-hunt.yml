@@ -20,10 +20,13 @@ jobs:
         with:
           fetch-depth: 1
 
-      - name: Run Job Hunter with Claude Code
-        uses: anthropics/claude-code-action@v1
+      - name: Prepare LinkedIn cookie
+        run: echo "$LINKEDIN_COOKIE" > /tmp/linkedin_cookie.txt
         env:
           LINKEDIN_COOKIE: ${{ secrets.LINKEDIN_COOKIE }}
+
+      - name: Run Job Hunter with Claude Code
+        uses: anthropics/claude-code-action@v1
         with:
           claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           prompt: |
@@ -42,9 +45,10 @@ jobs:
             Run multiple searches across different platforms and keywords:
 
             ### LinkedIn Authenticated Search (PRIMARY SOURCE)
-            A LinkedIn session cookie is available via the `LINKEDIN_COOKIE` environment variable.
-            Use it to search LinkedIn's job search API directly via curl. The agent instructions
-            in `.claude/agents/job-searcher.md` contain detailed curl examples.
+            A LinkedIn session cookie (`li_at` value) is available in the file `/tmp/linkedin_cookie.txt`.
+            Read it with the Read tool, then use the value in curl commands to search LinkedIn's
+            job search API. The agent instructions in `.claude/agents/job-searcher.md` contain
+            detailed curl examples.
             Run searches for:
             - "Staff Engineer" in Geneva/Switzerland
             - "Platform Engineer" remote or Switzerland
