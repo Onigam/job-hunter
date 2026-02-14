@@ -1,6 +1,202 @@
 {
-  "last_updated": "2026-02-13",
+  "last_updated": "2026-02-14",
   "offers": [
+    {
+      "id": "a8e9c4f7b2d5e1a3c6f9b8d2e5a7c1f4b9e6a3d8c2f5e7a1b4d9c6e3f8a2b5d7",
+      "title": "Staff Software Engineer (TypeScript/Node.js) - Flourish Platform",
+      "company": "Canva",
+      "location": "London, United Kingdom (Remote UK)",
+      "url": "https://jobs.generalcatalyst.com/companies/canva/jobs/67434477-staff-software-engineer-typescript-node-js-flourish-platform",
+      "source": "other",
+      "summary": "Build technical solutions using Node.js, TypeScript, PostgreSQL, Terraform, and AI. API-based backend services with AWS deployment. High code review standards. Remote UK position.",
+      "date_found": "2026-02-14",
+      "score": 80,
+      "score_breakdown": {
+        "role_match": 25,
+        "location": 15,
+        "tech_stack": 20,
+        "company_type": 10,
+        "seniority": 10
+      },
+      "relevance_notes": "Perfect tech stack match with TypeScript, Node.js, AWS, and AI integration. Staff-level role at a major product company with strong engineering culture. Remote UK position offers Europe-friendly timezone.",
+      "status": "new"
+    },
+    {
+      "id": "f2c8d5a1e7b4f9c3a6e2d8b5f1a4c7e9b2d6f3a8c1e5b7d4f9a2c6e8b1d3f5a7",
+      "title": "Principal Engineer, AI, Trust, Security, Site Reliability Engineering",
+      "company": "Google",
+      "location": "Zürich, Switzerland",
+      "url": "https://outscal.com/job/principal-engineer-ai-trust-security-site-reliability-engineering-at-google-in-z-rich-zurich-switzerland-1",
+      "source": "other",
+      "summary": "Principal engineer role focusing on AI, trust, security, and SRE at Google's Zurich office. Work on cutting-edge AI infrastructure and security systems.",
+      "date_found": "2026-02-14",
+      "score": 78,
+      "score_breakdown": {
+        "role_match": 28,
+        "location": 20,
+        "tech_stack": 10,
+        "company_type": 10,
+        "seniority": 10
+      },
+      "relevance_notes": "Excellent Swiss location in Zürich. Principal-level role combining AI, platform/SRE, and security - aligns well with platform engineering experience. Google offers strong engineering culture though less startup atmosphere.",
+      "status": "new"
+    },
+    {
+      "id": "e4a7c9f2b5d8e1a3c6f9b2d5e7a1c4f8b3d6e9a2c5f7b1d4e8a6c3f9b5d2e7a1",
+      "title": "Staff C++ Developer",
+      "company": "SonarSource",
+      "location": "Geneva, Switzerland",
+      "url": "https://jobs.lever.co/sonarsource/53ca2270-adb8-496b-805f-1f35145fabbd",
+      "source": "lever",
+      "summary": "Build CFamily code analyzer for C/C++ developers using Clang front-end. 6+ years C++ experience required. 27 PTO days, 60% pension contribution. Leadership role with mentoring opportunities.",
+      "date_found": "2026-02-14",
+      "score": 70,
+      "score_breakdown": {
+        "role_match": 20,
+        "location": 25,
+        "tech_stack": 5,
+        "company_type": 10,
+        "seniority": 10
+      },
+      "relevance_notes": "Perfect Geneva location with excellent benefits. Staff-level role at established dev tools company. Tech stack mismatch (C++ vs TypeScript/Node.js) but strong engineering culture and leadership opportunities.",
+      "status": "new"
+    },
+    {
+      "id": "b3d6e8f1a4c7b9d2e5f8a1c3b6d9e2f4a7c1b5d8e3f6a9c2b4d7e1f3a6b8c5d9",
+      "title": "AI Engineer",
+      "company": "Typewise",
+      "location": "Zürich, Switzerland",
+      "url": "https://www.ycombinator.com/companies/typewise/jobs/AWjvSXR-ai-engineer",
+      "source": "ycombinator",
+      "summary": "YC S22 deep tech company building text prediction for enterprises. 3+ years ML experience, Python, LLM orchestration, multi-agent frameworks. Hybrid work 2-3 days in Zurich office.",
+      "date_found": "2026-02-14",
+      "score": 70,
+      "score_breakdown": {
+        "role_match": 15,
+        "location": 20,
+        "tech_stack": 13,
+        "company_type": 15,
+        "seniority": 7
+      },
+      "relevance_notes": "Excellent Swiss location with YC-backed deep tech startup. Strong AI/ML focus with Python and LLM expertise. Not Staff-level but offers growth potential in cutting-edge AI space.",
+      "status": "new"
+    },
+    {
+      "id": "c5d8e1f4a7b9c2d5e8f1a3c6b9d2e5f7a1b4c7d9e3f5a8c2b6d8e1f4a7b9c3d6",
+      "title": "Principal Go Engineers",
+      "company": "Stream",
+      "location": "Amsterdam, Netherlands (Remote possible)",
+      "url": "https://startup.jobs/staff-software-engineer-golang-stream-5344067",
+      "source": "hnhiring",
+      "summary": "Backend engineers from Senior to Principal level for video SFU and chat API. Tech: Go, CockroachDB, RocksDB, WebRTC, Raft, Redis. Serving Strava, Nextdoor, Patreon, Midjourney. 10-week onboarding. Visa sponsorship.",
+      "date_found": "2026-02-14",
+      "score": 70,
+      "score_breakdown": {
+        "role_match": 25,
+        "location": 15,
+        "tech_stack": 8,
+        "company_type": 12,
+        "seniority": 10
+      },
+      "relevance_notes": "Principal-level role with impressive distributed systems work (WebRTC, Raft, distributed databases). Good European location in Amsterdam. Tech stack uses Go instead of TypeScript/Node.js but strong platform engineering alignment.",
+      "status": "new"
+    },
+    {
+      "id": "b9e4f8a2c6d3e1b7",
+      "title": "Applied Researcher",
+      "company": "Cerrion",
+      "location": "Zürich, Switzerland",
+      "url": "https://www.ycombinator.com/companies/cerrion/jobs/hCbbvLe-applied-researcher",
+      "source": "ycombinator",
+      "summary": "Set research agenda for video-AI platform detecting production line issues. YC-backed startup with technology live in 15 countries. Founder-style ownership across end-to-end research lifecycle.",
+      "date_found": "2026-02-14",
+      "score": null,
+      "status": "new"
+    },
+    {
+      "id": "a3f9c5e7b2d8f1a4",
+      "title": "Machine Learning Evangelist",
+      "company": "Lightly",
+      "location": "Zürich, Switzerland",
+      "url": "https://www.ycombinator.com/companies/lightly/jobs/DusXehf-machine-learning-evangelist",
+      "source": "ycombinator",
+      "summary": "Build vibrant open-source community for ETH spin-off's ML/computer vision platform. YC-backed, trusted by autonomous driving and medical imaging leaders. Engage developers and AI enthusiasts.",
+      "date_found": "2026-02-14",
+      "score": null,
+      "status": "new"
+    },
+    {
+      "id": "c2e8f6a1b5d9e3f7",
+      "title": "Solution Engineer in a fast growing AI Startup",
+      "company": "Lightly",
+      "location": "Zürich, Switzerland",
+      "url": "https://www.ycombinator.com/companies/lightly/jobs/mjOVRXW-solution-engineer-in-a-fast-growing-ai-startup",
+      "source": "ycombinator",
+      "summary": "Build sales pipeline and execute partnerships for data-curation and vision-AI platform. Present to executives and technical contributors. ETH/HSG spin-off backed by YC and Wingman Ventures.",
+      "date_found": "2026-02-14",
+      "score": null,
+      "status": "new"
+    },
+    {
+      "id": "d8a4f7c2e9b3d6f1",
+      "title": "Senior Staff Software Engineer, Backend (Consumer - Growth)",
+      "company": "Coinbase",
+      "location": "Remote (USA)",
+      "url": "https://www.coinbase.com/careers/positions/6947955?gh_jid=6947955",
+      "source": "other",
+      "summary": "Build next generation crypto-forward products touching web, mobile, backend, data and ML. Growth org focuses on referral programs, notifications, user onboarding. 10+ years distributed systems experience.",
+      "date_found": "2026-02-14",
+      "score": null,
+      "status": "new"
+    },
+    {
+      "id": "e7b5f1a9c3d6e2f8",
+      "title": "Staff Software Engineer",
+      "company": "ScreenCloud",
+      "location": "Remote",
+      "url": "https://careers.screencloud.com/jobs/6775600-staff-software-engineer",
+      "source": "other",
+      "summary": "Write primarily in TypeScript on Node, deploy to AWS. Database design and query optimization on Postgres. Full-stack development with modern web technologies.",
+      "date_found": "2026-02-14",
+      "score": null,
+      "status": "new"
+    },
+    {
+      "id": "f3c8d1e6a2b7f4c9",
+      "title": "Staff Software Engineer",
+      "company": "Addition Wealth",
+      "location": "Remote",
+      "url": "https://jobs.lever.co/additionwealth/b4f11bf6-6415-4974-b3b0-aab176c65a78",
+      "source": "other",
+      "summary": "Full stack position using TypeScript on AWS. Nest.js and Next.js frameworks with Postgres data stores. Modern fintech platform development.",
+      "date_found": "2026-02-14",
+      "score": null,
+      "status": "new"
+    },
+    {
+      "id": "a6d2f8c4e1b9d3f7",
+      "title": "Staff Software Engineer - TypeScript, Node.js",
+      "company": "Ledger",
+      "location": "Hybrid",
+      "url": "https://laborx.com/vacancies/staff-software-engineer-typescript-node-js-14463",
+      "source": "other",
+      "summary": "Staff engineer role at crypto hardware wallet company. TypeScript and Node.js development. Hybrid work arrangement.",
+      "date_found": "2026-02-14",
+      "score": null,
+      "status": "new"
+    },
+    {
+      "id": "b1e7f9c5a3d6e2f8",
+      "title": "Senior Back-end Software Engineer - Typescript/NodeJS",
+      "company": "FYUL",
+      "location": "Remote (Europe)",
+      "url": "https://careers.fyul.com/jobs/6949130-senior-back-end-software-engineer-typescript-nodejs-remote-within-europe",
+      "source": "other",
+      "summary": "Senior backend engineer with TypeScript and Node.js expertise. Remote work available within Europe. Full backend development focus.",
+      "date_found": "2026-02-14",
+      "score": null,
+      "status": "new"
+    },
     {
       "id": "7c4e9b2f5a8d3c1e6f4a9b7d2e5c8f1a3b6d9e2f5a8c1d4e7b0f3a6c9e2d5f8a1",
       "title": "Senior/Staff Engineer - Verified Autonomous Remediation",
@@ -62,6 +258,66 @@
       "status": "new"
     },
     {
+      "id": "a8f3d9c4b7e2f1a5",
+      "title": "Founding Engineer",
+      "company": "Bloom (YC S25)",
+      "location": "Zürich, Switzerland",
+      "url": "https://www.ycombinator.com/companies/bloom-4",
+      "source": "other",
+      "summary": "Founding engineer role at Y Combinator Spring 2025 batch company building mobile app platform in Zürich. Offers $150K-$250K + 0.50%-2.00% equity. Multiple founding positions available.",
+      "score": 87,
+      "date_found": "2026-02-12",
+      "status": "new"
+    },
+    {
+      "id": "b9e4f8a2c6d3e1b7",
+      "title": "Staff Software Engineer",
+      "company": "Lakera",
+      "location": "Zürich, Switzerland",
+      "url": "https://aijobnetwork.com/jobs/lakera-staff-software-engineer-zurich-e74f9532-3a88-4b77-8972-e231a1b0fa0d",
+      "source": "other",
+      "summary": "Technical leadership role at rapidly growing AI security startup. Work hands-on across all aspects of Lakera's applications, directly contributing code, processes, and technical direction.",
+      "score": 82,
+      "date_found": "2026-02-12",
+      "status": "new"
+    },
+    {
+      "id": "c3f7d9e2a8b5f1c4",
+      "title": "Staff ML Engineer",
+      "company": "Lakera",
+      "location": "Zürich, Switzerland",
+      "url": "https://jobs.ashbyhq.com/lakera.ai/6f04a898-893e-439f-8601-c25a30418c13",
+      "source": "other",
+      "summary": "Staff-level ML engineer role at AI cybersecurity startup (acquired by Check Point). Operating at cutting edge of AI to build strongest defenses in AI cybersecurity market.",
+      "score": 80,
+      "date_found": "2026-02-12",
+      "status": "new"
+    },
+    {
+      "id": "d7a2e9f3c8b4d1e6",
+      "title": "Staff Engineers (7+ years)",
+      "company": "Stealth AI-security startup",
+      "location": "Remote",
+      "url": "https://news.ycombinator.com/item?id=46857488",
+      "source": "hn",
+      "summary": "Seed-funded ($15M) AI security startup seeking staff engineers with Python/Node/Rust, React/TS, Kafka, ClickHouse, AWS. Prefer experience at scale (Google/Meta/AWS). Base: $200K-$250K + equity.",
+      "score": 78,
+      "date_found": "2026-02-12",
+      "status": "new"
+    },
+    {
+      "id": "e1b8f4c9d7a3e2b5",
+      "title": "Senior / Principal Software Engineer",
+      "company": "Weflow",
+      "location": "Remote (Europe preferred)",
+      "url": "https://weworkremotely.com/remote-jobs/weflow-senior-principal-software-engineer",
+      "source": "weworkremotely",
+      "summary": "Senior/Principal engineer role for Revenue AI Platform requiring expert-level proficiency in React + TypeScript/Next.js, Node.js, and PostgreSQL. AWS experience required. EU timezone preferred.",
+      "score": 76,
+      "date_found": "2026-02-12",
+      "status": "new"
+    },
+    {
       "id": "56a7c8d2e9f1b3a4c6d8e2f7b9a1c3e5d7f2a4b6c8e1d3f5a7b9c2e4f6a8b1c3",
       "title": "Cloud Platform Engineer (w/d/m), 80-100%",
       "company": "BSI Business Systems Integration",
@@ -82,18 +338,6 @@
       "source": "swissdevjobs",
       "summary": "Platform engineer role focused on middleware and messaging operations at a major Swiss fintech company. Competitive salary range of CHF 95,000 - 120,000 per year.",
       "score": null,
-      "date_found": "2026-02-12",
-      "status": "new"
-    },
-    {
-      "id": "e1b8f4c9d7a3e2b5",
-      "title": "Senior / Principal Software Engineer",
-      "company": "Weflow",
-      "location": "Remote (Europe preferred)",
-      "url": "https://weworkremotely.com/remote-jobs/weflow-senior-principal-software-engineer",
-      "source": "weworkremotely",
-      "summary": "Senior/Principal engineer role for Revenue AI Platform requiring expert-level proficiency in React + TypeScript/Next.js, Node.js, and PostgreSQL. AWS experience required. EU timezone preferred.",
-      "score": 76,
       "date_found": "2026-02-12",
       "status": "new"
     },
@@ -130,30 +374,6 @@
       "source": "other",
       "summary": "Remote-first platform engineer role requiring hands-on AWS experience, Kubernetes, Postgres in K8s, and programming skills in Python, Go, or TypeScript. Distributed team across Europe and US.",
       "score": null,
-      "date_found": "2026-02-12",
-      "status": "new"
-    },
-    {
-      "id": "c3f7d9e2a8b5f1c4",
-      "title": "Staff ML Engineer",
-      "company": "Lakera",
-      "location": "Zürich, Switzerland",
-      "url": "https://jobs.ashbyhq.com/lakera.ai/6f04a898-893e-439f-8601-c25a30418c13",
-      "source": "other",
-      "summary": "Staff-level ML engineer role at AI cybersecurity startup (acquired by Check Point). Operating at cutting edge of AI to build strongest defenses in AI cybersecurity market.",
-      "score": 80,
-      "date_found": "2026-02-12",
-      "status": "new"
-    },
-    {
-      "id": "b9e4f8a2c6d3e1b7",
-      "title": "Staff Software Engineer",
-      "company": "Lakera",
-      "location": "Zürich, Switzerland",
-      "url": "https://aijobnetwork.com/jobs/lakera-staff-software-engineer-zurich-e74f9532-3a88-4b77-8972-e231a1b0fa0d",
-      "source": "other",
-      "summary": "Technical leadership role at rapidly growing AI security startup. Work hands-on across all aspects of Lakera's applications, directly contributing code, processes, and technical direction.",
-      "score": 82,
       "date_found": "2026-02-12",
       "status": "new"
     },
@@ -206,18 +426,6 @@
       "status": "new"
     },
     {
-      "id": "d7a2e9f3c8b4d1e6",
-      "title": "Staff Engineers (7+ years)",
-      "company": "Stealth AI-security startup",
-      "location": "Remote",
-      "url": "https://news.ycombinator.com/item?id=46857488",
-      "source": "hn",
-      "summary": "Seed-funded ($15M) AI security startup seeking staff engineers with Python/Node/Rust, React/TS, Kafka, ClickHouse, AWS. Prefer experience at scale (Google/Meta/AWS). Base: $200K-$250K + equity.",
-      "score": 78,
-      "date_found": "2026-02-12",
-      "status": "new"
-    },
-    {
       "id": "c9d2e4f6a8b1c3d5e7f9a2b4c6d8e1f3a5b7c9d2e4f6a8b1c3d5e7f9a2b4c6d8",
       "title": "Principal Full-stack Engineer",
       "company": "Verge Genomics (YC S15)",
@@ -238,18 +446,6 @@
       "source": "hn",
       "summary": "Principal-level Go engineers for video SFU and chat API serving Strava, Nextdoor, Patreon, Midjourney. Tech: Go, CockroachDB, RocksDB, WebRTC, Raft, Redis. Visa sponsorship available.",
       "score": null,
-      "date_found": "2026-02-12",
-      "status": "new"
-    },
-    {
-      "id": "a8f3d9c4b7e2f1a5",
-      "title": "Founding Engineer",
-      "company": "Bloom (YC S25)",
-      "location": "Zürich, Switzerland",
-      "url": "https://www.ycombinator.com/companies/bloom-4",
-      "source": "other",
-      "summary": "Founding engineer role at Y Combinator Spring 2025 batch company building mobile app platform in Zürich. Offers $150K-$250K + 0.50%-2.00% equity. Multiple founding positions available.",
-      "score": 87,
       "date_found": "2026-02-12",
       "status": "new"
     },

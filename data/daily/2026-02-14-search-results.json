@@ -1,0 +1,119 @@
+[
+  {
+    "title": "Staff C++ Developer",
+    "company": "SonarSource",
+    "location": "Geneva, Switzerland",
+    "url": "https://jobs.lever.co/sonarsource/53ca2270-adb8-496b-805f-1f35145fabbd",
+    "source": "lever",
+    "summary": "Build CFamily code analyzer for C/C++ developers using Clang front-end. 6+ years C++ experience required. 27 PTO days, 60% pension contribution. Leadership role with mentoring opportunities.",
+    "date_found": "2026-02-14"
+  },
+  {
+    "title": "Applied Researcher",
+    "company": "Cerrion",
+    "location": "Zürich, Switzerland",
+    "url": "https://www.ycombinator.com/companies/cerrion/jobs/hCbbvLe-applied-researcher",
+    "source": "ycombinator",
+    "summary": "Set research agenda for video-AI platform detecting production line issues. YC-backed startup with technology live in 15 countries. Founder-style ownership across end-to-end research lifecycle.",
+    "date_found": "2026-02-14"
+  },
+  {
+    "title": "AI Engineer",
+    "company": "Typewise",
+    "location": "Zürich, Switzerland",
+    "url": "https://www.ycombinator.com/companies/typewise/jobs/AWjvSXR-ai-engineer",
+    "source": "ycombinator",
+    "summary": "YC S22 deep tech company building text prediction for enterprises. 3+ years ML experience, Python, LLM orchestration, multi-agent frameworks. Hybrid work 2-3 days in Zurich office.",
+    "date_found": "2026-02-14"
+  },
+  {
+    "title": "Machine Learning Evangelist",
+    "company": "Lightly",
+    "location": "Zürich, Switzerland",
+    "url": "https://www.ycombinator.com/companies/lightly/jobs/DusXehf-machine-learning-evangelist",
+    "source": "ycombinator",
+    "summary": "Build vibrant open-source community for ETH spin-off's ML/computer vision platform. YC-backed, trusted by autonomous driving and medical imaging leaders. Engage developers and AI enthusiasts.",
+    "date_found": "2026-02-14"
+  },
+  {
+    "title": "Solution Engineer in a fast growing AI Startup",
+    "company": "Lightly",
+    "location": "Zürich, Switzerland",
+    "url": "https://www.ycombinator.com/companies/lightly/jobs/mjOVRXW-solution-engineer-in-a-fast-growing-ai-startup",
+    "source": "ycombinator",
+    "summary": "Build sales pipeline and execute partnerships for data-curation and vision-AI platform. Present to executives and technical contributors. ETH/HSG spin-off backed by YC and Wingman Ventures.",
+    "date_found": "2026-02-14"
+  },
+  {
+    "title": "Principal Go Engineers",
+    "company": "Stream",
+    "location": "Amsterdam, Netherlands (Remote possible)",
+    "url": "https://startup.jobs/staff-software-engineer-golang-stream-5344067",
+    "source": "hnhiring",
+    "summary": "Backend engineers from Senior to Principal level for video SFU and chat API. Tech: Go, CockroachDB, RocksDB, WebRTC, Raft, Redis. Serving Strava, Nextdoor, Patreon, Midjourney. 10-week onboarding. Visa sponsorship.",
+    "date_found": "2026-02-14"
+  },
+  {
+    "title": "Senior Staff Software Engineer, Backend (Consumer - Growth)",
+    "company": "Coinbase",
+    "location": "Remote (USA)",
+    "url": "https://www.coinbase.com/careers/positions/6947955?gh_jid=6947955",
+    "source": "other",
+    "summary": "Build next generation crypto-forward products touching web, mobile, backend, data and ML. Growth org focuses on referral programs, notifications, user onboarding. 10+ years distributed systems experience.",
+    "date_found": "2026-02-14"
+  },
+  {
+    "title": "Staff Software Engineer (TypeScript/Node.js) - Flourish Platform",
+    "company": "Canva",
+    "location": "London, United Kingdom (Remote UK)",
+    "url": "https://jobs.generalcatalyst.com/companies/canva/jobs/67434477-staff-software-engineer-typescript-node-js-flourish-platform",
+    "source": "other",
+    "summary": "Build technical solutions using Node.js, TypeScript, PostgreSQL, Terraform, and AI. API-based backend services with AWS deployment. High code review standards. Remote UK position.",
+    "date_found": "2026-02-14"
+  },
+  {
+    "title": "Staff Software Engineer",
+    "company": "ScreenCloud",
+    "location": "Remote",
+    "url": "https://careers.screencloud.com/jobs/6775600-staff-software-engineer",
+    "source": "other",
+    "summary": "Write primarily in TypeScript on Node, deploy to AWS. Database design and query optimization on Postgres. Full-stack development with modern web technologies.",
+    "date_found": "2026-02-14"
+  },
+  {
+    "title": "Staff Software Engineer",
+    "company": "Addition Wealth",
+    "location": "Remote",
+    "url": "https://jobs.lever.co/additionwealth/b4f11bf6-6415-4974-b3b0-aab176c65a78",
+    "source": "other",
+    "summary": "Full stack position using TypeScript on AWS. Nest.js and Next.js frameworks with Postgres data stores. Modern fintech platform development.",
+    "date_found": "2026-02-14"
+  },
+  {
+    "title": "Staff Software Engineer - TypeScript, Node.js",
+    "company": "Ledger",
+    "location": "Hybrid",
+    "url": "https://laborx.com/vacancies/staff-software-engineer-typescript-node-js-14463",
+    "source": "other",
+    "summary": "Staff engineer role at crypto hardware wallet company. TypeScript and Node.js development. Hybrid work arrangement.",
+    "date_found": "2026-02-14"
+  },
+  {
+    "title": "Principal Engineer, AI, Trust, Security, Site Reliability Engineering",
+    "company": "Google",
+    "location": "Zürich, Switzerland",
+    "url": "https://outscal.com/job/principal-engineer-ai-trust-security-site-reliability-engineering-at-google-in-z-rich-zurich-switzerland-1",
+    "source": "other",
+    "summary": "Principal engineer role focusing on AI, trust, security, and SRE at Google's Zurich office. Work on cutting-edge AI infrastructure and security systems.",
+    "date_found": "2026-02-14"
+  },
+  {
+    "title": "Senior Back-end Software Engineer - Typescript/NodeJS",
+    "company": "FYUL",
+    "location": "Remote (Europe)",
+    "url": "https://careers.fyul.com/jobs/6949130-senior-back-end-software-engineer-typescript-nodejs-remote-within-europe",
+    "source": "other",
+    "summary": "Senior backend engineer with TypeScript and Node.js expertise. Remote work available within Europe. Full backend development focus.",
+    "date_found": "2026-02-14"
+  }
+]

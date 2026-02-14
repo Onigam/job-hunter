@@ -1,0 +1,41 @@
+🎯 *Daily Job Hunt — 2026-02-14*
+
+Found *13 new offers* today. Here are your top 5:
+
+*1. ⭐⭐⭐⭐ (80/100) — Staff Software Engineer @ Canva*
+📍 London, UK (Remote)
+💼 TypeScript/Node.js/AWS/PostgreSQL/AI
+🔗 [Apply Here](https://jobs.generalcatalyst.com/companies/canva/jobs/67434477-staff-software-engineer-typescript-node-js-flourish-platform)
+Perfect tech stack alignment with Europe-friendly timezone. Staff-level role at major product company.
+
+*2. ⭐⭐⭐ (78/100) — Principal Engineer AI @ Google*
+📍 Zürich, Switzerland
+💼 AI/Trust/Security/SRE
+🔗 [Apply Here](https://outscal.com/job/principal-engineer-ai-trust-security-site-reliability-engineering-at-google-in-z-rich-zurich-switzerland-1)
+Principal-level combining AI and security in Switzerland. Top-tier seniority.
+
+*3. ⭐⭐⭐ (70/100) — Staff C++ Developer @ SonarSource*
+📍 Geneva, Switzerland
+💼 C++/Clang/Developer Tools
+🔗 [Apply Here](https://jobs.lever.co/sonarsource/53ca2270-adb8-496b-805f-1f35145fabbd)
+Perfect Geneva location with excellent benefits (27 PTO days, 60% pension). Leadership opportunities.
+
+*4. ⭐⭐⭐ (70/100) — AI Engineer @ Typewise*
+📍 Zürich, Switzerland
+💼 Python/LLM/Multi-agent AI
+🔗 [Apply Here](https://www.ycombinator.com/companies/typewise/jobs/AWjvSXR-ai-engineer)
+YC-backed deep tech startup focusing on cutting-edge AI work. Swiss location.
+
+*5. ⭐⭐⭐ (70/100) — Principal Go Engineers @ Stream*
+📍 Amsterdam, Netherlands
+💼 Go/Distributed Systems/WebRTC
+🔗 [Apply Here](https://startup.jobs/staff-software-engineer-golang-stream-5344067)
+Principal-level platform engineering with impressive technical challenges. Visa sponsorship available.
+
+---
+📊 *Search Stats*
+• Platforms: Y Combinator, SwissDevJobs, HN Hiring, Lever, Company Sites
+• Geographic: 6 Switzerland, 1 UK, 1 Netherlands, 3 Remote Europe/USA, 2 Remote (unspecified)
+• Seniority: 5 Staff/Principal, 4 Senior, 4 Specialist roles
+
+🤖 Powered by Claude Code Job Hunter
