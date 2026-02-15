@@ -1,0 +1,108 @@
+{
+  "date": "2026-02-15",
+  "total_offers_found": 25,
+  "new_offers_count": 5,
+  "duplicates_filtered": 20,
+  "top_5": [
+    {
+      "id": "e8f2a5c9d7b1f4a6e3c8d2f9b5a7e1c4f8b3d6a9c2e5f7b1d4a8c6e3f9b2d5e7a1",
+      "title": "VP of Engineering",
+      "company": "SonarSource",
+      "location": "Geneva, Switzerland",
+      "url": "https://jobs.lever.co/sonarsource",
+      "source": "other",
+      "summary": "Engineering leadership role at developer tools company. Lead engineering teams building static code analysis tools used by 7M+ developers globally. Scale-up environment with strong product-market fit.",
+      "date_found": "2026-02-15",
+      "score": 88,
+      "score_breakdown": {
+        "role_match": 30,
+        "location": 25,
+        "tech_stack": 13,
+        "company_type": 13,
+        "seniority": 8
+      },
+      "relevance_notes": "Perfect Geneva location; VP-level engineering leadership at established developer tools company (7M+ users); excellent fit for candidate's cofounder background and Staff+ experience; strong engineering culture and scale-up growth phase.",
+      "status": "new"
+    },
+    {
+      "id": "c4d8e1f5a9b2c7e3f6a1d9b4e8c2f7a5d1e6b3c9f4a8e2d7b5c1f3a6e9b2d4f8a1",
+      "title": "Platform Engineer",
+      "company": "GovSignals",
+      "location": "Remote (US/Europe)",
+      "url": "https://jobs.ashbyhq.com/GovSignals/fc7b3b89-750e-444a-9c4d-1ddf42943aa4",
+      "source": "hn",
+      "summary": "Work with CTO to build foundation for AI systems. TypeScript, Node, Cloudflare Workers, Kubernetes, Docker, Postgres, Terraform, AWS. FedRAMP High AI platform for government contractors. Team of former founders/CTOs.",
+      "date_found": "2026-02-15",
+      "score": 85,
+      "score_breakdown": {
+        "role_match": 25,
+        "location": 15,
+        "tech_stack": 20,
+        "company_type": 15,
+        "seniority": 10
+      },
+      "relevance_notes": "Perfect tech stack match (TypeScript, Node.js, Kubernetes, AWS, Terraform); work directly with CTO on AI platform infrastructure; team of former founders/CTOs aligns with candidate's cofounder background; platform engineering focus matches expertise.",
+      "status": "new"
+    },
+    {
+      "id": "f7a2e9c5d8b1f4a6e3c9d2f7b5a8e1c4f9b3d6a2c5e8f1b4d7a9c3e6f2b5d8a1c4",
+      "title": "AppSec Engineering Manager",
+      "company": "SonarSource",
+      "location": "Geneva, Switzerland",
+      "url": "https://startup.jobs/appsec-engineering-manager-sonarsource-4868654",
+      "source": "other",
+      "summary": "Lead team of AppSec Researchers/Engineers focused on SAST (static application security testing). Code quality and security platform with 500+ employees and 7M+ developers using Sonar products.",
+      "date_found": "2026-02-15",
+      "score": 81,
+      "score_breakdown": {
+        "role_match": 22,
+        "location": 25,
+        "tech_stack": 10,
+        "company_type": 13,
+        "seniority": 6
+      },
+      "relevance_notes": "Perfect Geneva location; engineering leadership role leading AppSec team at established developer tools company; combines security expertise with people leadership; scale-up environment with 500+ employees and 7M+ users.",
+      "status": "new"
+    },
+    {
+      "id": "a3e7f9c2d5b8e1f4a6c9d2e7b5f1a4c8e3d6b9f2a5c7e1d4b8a6c3f9e2d5b7a1c4",
+      "title": "Senior Full-Stack Engineer",
+      "company": "Impact Investing Startup",
+      "location": "Geneva, Switzerland (Onsite/Remote)",
+      "url": "https://wellfound.com/location/geneva",
+      "source": "wellfound",
+      "summary": "Co-founder role with significant equity (5-10%) at impact investing startup. $36-42K salary + equity. Senior fullstack position with founding team opportunity in Geneva.",
+      "date_found": "2026-02-15",
+      "score": 80,
+      "score_breakdown": {
+        "role_match": 27,
+        "location": 25,
+        "tech_stack": 8,
+        "company_type": 15,
+        "seniority": 10
+      },
+      "relevance_notes": "Perfect Geneva location; co-founder opportunity with significant equity (5-10%); impact-driven mission aligns perfectly with candidate's values (Alaya background); founding team role leverages cofounder experience; early-stage startup with high ownership.",
+      "status": "new"
+    },
+    {
+      "id": "b9e4c7f1a5d8b2e6f9a3c5d7e1f4a8b2c6d9e3f5a7b1c4e8d2f6a9c3e5b7d1f4a8",
+      "title": "Founding Engineer",
+      "company": "Herakles Defense",
+      "location": "Munich, Germany (Remote possible)",
+      "url": "https://news.ycombinator.com/item?id=46857488",
+      "source": "hn",
+      "summary": "CTO-track founding engineer role at defense startup building autonomous interceptor drones. Full tech autonomy, equity package. Munich-based with remote options. Early-stage startup with significant equity.",
+      "date_found": "2026-02-15",
+      "score": 77,
+      "score_breakdown": {
+        "role_match": 27,
+        "location": 15,
+        "tech_stack": 10,
+        "company_type": 15,
+        "seniority": 10
+      },
+      "relevance_notes": "CTO-track founding engineer role with full technical autonomy; significant equity package at early-stage defense tech startup; cutting-edge autonomous systems and AI/ML work; Munich location with remote flexibility offers Europe-friendly timezone.",
+      "status": "new"
+    }
+  ]
+}
