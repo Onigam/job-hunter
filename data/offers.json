@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-15",
+  "last_updated": "2026-02-16",
   "offers": [
     {
       "id": "e8f2a5c9d7b1f4a6e3c8d2f9b5a7e1c4f8b3d6a9c2e5f7b1d4a8c6e3f9b2d5e7a1",
@@ -631,6 +631,286 @@
       "summary": "Fast-growing telemedicine startup focused on dermatological care seeking fullstack engineer. Tech stack includes Python, TypeScript, and Dart (Flutter). Collaborate with product team on healthcare applications.",
       "score": null,
       "date_found": "2026-02-12",
+      "status": "new"
+    },
+    {
+      "id": "1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b3",
+      "title": "Senior Android Engineer",
+      "company": "Proton AG",
+      "location": "Geneva, Switzerland",
+      "url": "https://swissdevjobs.ch/jobs/Proton-AG-Senior-Android-Engineer",
+      "source": "swissdevjobs",
+      "summary": "Android engineering role at privacy-focused tech company, CHF 160-200K",
+      "date_found": "2026-02-16",
+      "score": null,
+      "status": "new"
+    },
+    {
+      "id": "2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b3c4",
+      "title": "Staff Software Engineer (Golang)",
+      "company": "Stream",
+      "location": "Amsterdam, Netherlands (Remote EU)",
+      "url": "https://jobs.ashbyhq.com/stream/69536de0-6349-4394-a1a0-ea2ec0ede945",
+      "source": "hn",
+      "summary": "Staff-level Go engineer for chat/feed infrastructure powering Strava, Nextdoor, Midjourney",
+      "date_found": "2026-02-16",
+      "score": null,
+      "status": "new"
+    },
+    {
+      "id": "4e9f2a6b8c1d3e5f7a9b2c4d6e8f1a3b5c7d9e2f4a6b8c1d3e5f7a9b2c4d6e8f1",
+      "title": "Staff Software Engineer (Full Stack)",
+      "company": "StraighterLine",
+      "location": "Remote (US)",
+      "url": "https://jobs.lever.co/straighterline/36d8f56b-14ac-4a35-af0c-5c267fe51315",
+      "source": "hn",
+      "summary": "Full-stack role with React/Next.js, TypeScript, Node.js, GraphQL, AWS for EdTech platform",
+      "date_found": "2026-02-16",
+      "score": 75,
+      "score_breakdown": {
+        "role_match": 25,
+        "location": 10,
+        "tech_stack": 20,
+        "company_type": 10,
+        "seniority": 10
+      },
+      "relevance_notes": "Staff-level role; Perfect tech stack match (TypeScript, Node.js, React, GraphQL, AWS); Full-stack engineering aligns with skillset; Remote US position offers flexibility.",
+      "status": "new"
+    },
+    {
+      "id": "3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b3c4d5",
+      "title": "Staff or Principal Site Reliability Engineer",
+      "company": "Zefr",
+      "location": "Los Angeles, CA (Marina del Rey)",
+      "url": "https://www.ziprecruiter.com/c/Zefr/Job/Staff-Site-Reliability-Engineer/-in-Los-Angeles,CA?jid=c77112664a570b20",
+      "source": "ziprecruiter",
+      "summary": "Multi-cloud SRE role, $190-235K, hybrid 2-3x/week onsite",
+      "date_found": "2026-02-16",
+      "score": null,
+      "status": "new"
+    },
+    {
+      "id": "4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b3c4d5e6",
+      "title": "Senior Software Engineer (.NET)",
+      "company": "SILEX Investment Partners",
+      "location": "Geneva, Switzerland",
+      "url": "https://swissdevjobs.ch/jobs/SILEX-Investment-Partners-Senior-Software-Engineer-NET",
+      "source": "swissdevjobs",
+      "summary": "FinTech role at investment firm, CHF 90-120K, Geneva and Paris offices",
+      "date_found": "2026-02-16",
+      "score": null,
+      "status": "new"
+    },
+    {
+      "id": "5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b3c4d5e6f7",
+      "title": "Software Engineer",
+      "company": "CERN",
+      "location": "Geneva, Switzerland",
+      "url": "https://careers.cern/jobs/en-el-cbs-2026-24-grap/",
+      "source": "cern",
+      "summary": "Full-stack web applications for particle physics research, CHF 6.3-7K/month tax-free",
+      "date_found": "2026-02-16",
+      "score": null,
+      "status": "new"
+    },
+    {
+      "id": "6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b3c4d5e6f7a8",
+      "title": "Full-Stack Software Engineer",
+      "company": "CERN",
+      "location": "Geneva, Switzerland",
+      "url": "https://careers.cern/jobs/en-im-plm-2026-10-grae/",
+      "source": "cern",
+      "summary": "Engineering information management solutions, CHF 5.2-5.7K/month tax-free",
+      "date_found": "2026-02-16",
+      "score": null,
+      "status": "new"
+    },
+    {
+      "id": "2c7d9e1f4a6b8c1d3e5f7a9b2c4d6e8f1a3b5c7d9e2f4a6b8c1d3e5f7a9b2c4d6",
+      "title": "Senior AI/ML Platform Engineer",
+      "company": "Unknown (via datacareer.ch)",
+      "location": "Givisiez, Fribourg, Switzerland",
+      "url": "https://www.datacareer.ch/job/12789/senior-ai-ml-platform-engineer/",
+      "source": "datacareer",
+      "summary": "AI/ML infrastructure for enterprise software, AWS platform focus",
+      "date_found": "2026-02-16",
+      "score": 77,
+      "score_breakdown": {
+        "role_match": 25,
+        "location": 20,
+        "tech_stack": 17,
+        "company_type": 10,
+        "seniority": 7
+      },
+      "relevance_notes": "Excellent Swiss location; Strong tech stack match (AI/ML, Platform, AWS); Platform engineering focus aligns with expertise; Enterprise software environment with AI/ML specialization.",
+      "status": "new"
+    },
+    {
+      "id": "3d8e1f5a7b9c2d4e6f8a1b3c5d7e9f2a4b6c8d1e3f5a7b9c2d4e6f8a1b3c5d7e9",
+      "title": "Senior AI Engineer",
+      "company": "Unknown (via datacareer.ch)",
+      "location": "Lausanne, VD, Switzerland",
+      "url": "https://www.datacareer.ch/job/12822/senior-ai-engineer/",
+      "source": "datacareer",
+      "summary": "End-to-end AI initiatives, architecting scalable AI solutions",
+      "date_found": "2026-02-16",
+      "score": 76,
+      "score_breakdown": {
+        "role_match": 25,
+        "location": 20,
+        "tech_stack": 16,
+        "company_type": 10,
+        "seniority": 7
+      },
+      "relevance_notes": "Excellent Swiss location in Lausanne; Strong AI/ML focus with end-to-end ownership; Architecting scalable solutions matches platform engineering background; Startup-like responsibility.",
+      "status": "new"
+    },
+    {
+      "id": "7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b3c4d5e6f7a8b9",
+      "title": "Senior Full Stack Engineer",
+      "company": "Lightdash",
+      "location": "Remote (Europe)",
+      "url": "https://jobs.ashbyhq.com/lightdash/9efa292a-cc34-4388-90a2-2bed5126ace4",
+      "source": "ashby",
+      "summary": "Open-source BI platform, TypeScript+React+Node+SQL, £80-130K, Series A funded",
+      "date_found": "2026-02-16",
+      "score": null,
+      "status": "new"
+    },
+    {
+      "id": "8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b3c4d5e6f7a8b9c0",
+      "title": "Engineering Roles (Multiple Levels)",
+      "company": "Radix ILS",
+      "location": "Remote (Americas/Western Europe)",
+      "url": "https://radixils.com",
+      "source": "hn",
+      "summary": "Reinsurance tech platform, Python/TypeScript/AWS/Kubernetes/React, $100-200K + equity",
+      "date_found": "2026-02-16",
+      "score": null,
+      "status": "new"
+    },
+    {
+      "id": "9c0d1e2f3a4b5c6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b3c4d5e6f7a8b9c0d1",
+      "title": "Software Engineer (Hybrid)",
+      "company": "SOPHiA GENETICS",
+      "location": "Rolle, Switzerland",
+      "url": "https://careers.sophiagenomics.com/jobs/software-engineer-bidart-nouvelle-aquitaine-france-rolle-vaud-switzerland",
+      "source": "sophiagenetics",
+      "summary": "Full-stack for genomics AI platform, React/Next.js/Node.js/Java, 3 days onsite",
+      "date_found": "2026-02-16",
+      "score": null,
+      "status": "new"
+    },
+    {
+      "id": "0d1e2f3a4b5c6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b3c4d5e6f7a8b9c0d1e2",
+      "title": "DevOps Engineer",
+      "company": "Blockstream",
+      "location": "Zurich, Switzerland",
+      "url": "https://wellfound.com/jobs/3835325-devops-engineer",
+      "source": "wellfound",
+      "summary": "Blockchain infrastructure, AWS/Kubernetes/Docker, fintech/banking focus",
+      "date_found": "2026-02-16",
+      "score": null,
+      "status": "new"
+    },
+    {
+      "id": "1e2f3a4b5c6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b3c4d5e6f7a8b9c0d1e2f3",
+      "title": "Senior Frontend Engineer",
+      "company": "SonarSource",
+      "location": "Geneva, Switzerland",
+      "url": "https://www.sonarsource.com/company/careers/",
+      "source": "sonarsource",
+      "summary": "Code quality platform used by 7M+ developers, CHF 105-155K",
+      "date_found": "2026-02-16",
+      "score": null,
+      "status": "new"
+    },
+    {
+      "id": "2f3a4b5c6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b3c4d5e6f7a8b9c0d1e2f3a4",
+      "title": "Senior Full Stack Engineer (Java, React)",
+      "company": "SonarSource",
+      "location": "Geneva, Switzerland",
+      "url": "https://www.sonarsource.com/company/careers/",
+      "source": "sonarsource",
+      "summary": "Full-stack development for developer tools platform, Java + React",
+      "date_found": "2026-02-16",
+      "score": null,
+      "status": "new"
+    },
+    {
+      "id": "8f3e5a1c9b7d2e4f6a8b1c3d5e7f9a2b4c6d8e1f3a5b7c9d2e4f6a8b1c3d5e7f9",
+      "title": "VP of Engineering",
+      "company": "SonarSource",
+      "location": "Geneva, Switzerland",
+      "url": "https://www.sonarsource.com/company/careers/",
+      "source": "sonarsource",
+      "summary": "Engineering leadership role at established developer tools company",
+      "date_found": "2026-02-16",
+      "score": 88,
+      "score_breakdown": {
+        "role_match": 30,
+        "location": 25,
+        "tech_stack": 13,
+        "company_type": 12,
+        "seniority": 10
+      },
+      "relevance_notes": "Perfect Geneva location; VP-level engineering leadership matches target roles; established developer tools company (7M+ users globally); strong engineering culture and scale-up environment at SonarSource.",
+      "status": "new"
+    },
+    {
+      "id": "3a4b5c6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b3c4d5e6f7a8b9c0d1e2f3a4b5",
+      "title": "Senior Software Engineer",
+      "company": "Google",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.google.com/about/careers/applications/jobs/results?q=Google&location=Zurich,+Switzerland",
+      "source": "google",
+      "summary": "Multiple senior roles in AI/ML, Search Ads, Hardware Security at Google Zurich",
+      "date_found": "2026-02-16",
+      "score": null,
+      "status": "new"
+    },
+    {
+      "id": "9a4b6c8d1e3f5a7b9c2d4e6f8a1b3c5d7e9f2a4b6c8d1e3f5a7b9c2d4e6f8a1b3",
+      "title": "Senior Staff Systems Engineer (SRE)",
+      "company": "Google",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.google.com/about/careers/applications/jobs/results?q=Google&location=Zurich,+Switzerland",
+      "source": "google",
+      "summary": "Site Reliability Engineering at senior staff level, CHF 400-500K+ total comp",
+      "date_found": "2026-02-16",
+      "score": 85,
+      "score_breakdown": {
+        "role_match": 28,
+        "location": 20,
+        "tech_stack": 12,
+        "company_type": 10,
+        "seniority": 10
+      },
+      "relevance_notes": "Excellent Swiss location in Zurich; Senior Staff level aligns perfectly with candidate's seniority; Platform/SRE focus matches expertise; Strong engineering culture though less startup-focused.",
+      "status": "new"
+    },
+    {
+      "id": "4b5c6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6",
+      "title": "Founding Full-stack Software Engineer (JavaScript)",
+      "company": "Unknown (via Wellfound)",
+      "location": "Remote or Chicago",
+      "url": "https://wellfound.com",
+      "source": "wellfound",
+      "summary": "Early-stage founding role, €60K + 0.5-2.5% equity",
+      "date_found": "2026-02-16",
+      "score": null,
+      "status": "new"
+    },
+    {
+      "id": "5c6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7",
+      "title": "Senior Software Engineer",
+      "company": "Swissquote",
+      "location": "Geneva/Gland, Switzerland",
+      "url": "https://careers.smartrecruiters.com/Swissquote",
+      "source": "swissquote",
+      "summary": "Fintech bank platform, Java/mobile development roles available",
+      "date_found": "2026-02-16",
+      "score": null,
       "status": "new"
     }
   ]

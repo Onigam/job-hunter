@@ -1,0 +1,36 @@
+🎯 *Daily Job Hunt — February 16, 2026*
+
+Found *20 new offers* today. Here are the top 5 most relevant:
+
+*1. VP of Engineering @ SonarSource* ⭐⭐⭐⭐⭐
+📍 Geneva, Switzerland
+🔗 [Apply now](https://www.sonarsource.com/company/careers/)
+Perfect Geneva location; VP-level engineering leadership matches target roles; established developer tools company (7M+ users globally); strong engineering culture and scale-up environment at SonarSource.
+_Score: 88/100_
+
+*2. Senior Staff Systems Engineer (SRE) @ Google* ⭐⭐⭐⭐⭐
+📍 Zurich, Switzerland
+🔗 [Apply now](https://www.google.com/about/careers/applications/jobs/results?q=Google&location=Zurich,+Switzerland)
+Excellent Swiss location in Zurich; Senior Staff level aligns perfectly with candidate's seniority; Platform/SRE focus matches expertise; Strong engineering culture though less startup-focused.
+_Score: 85/100_
+
+*3. Senior AI/ML Platform Engineer @ Unknown (via datacareer.ch)* ⭐⭐⭐⭐
+📍 Givisiez, Fribourg, Switzerland
+🔗 [Apply now](https://www.datacareer.ch/job/12789/senior-ai-ml-platform-engineer/)
+Excellent Swiss location; Strong tech stack match (AI/ML, Platform, AWS); Platform engineering focus aligns with expertise; Enterprise software environment with AI/ML specialization.
+_Score: 77/100_
+
+*4. Senior AI Engineer @ Unknown (via datacareer.ch)* ⭐⭐⭐⭐
+📍 Lausanne, VD, Switzerland
+🔗 [Apply now](https://www.datacareer.ch/job/12822/senior-ai-engineer/)
+Excellent Swiss location in Lausanne; Strong AI/ML focus with end-to-end ownership; Architecting scalable solutions matches platform engineering background; Startup-like responsibility.
+_Score: 76/100_
+
+*5. Staff Software Engineer (Full Stack) @ StraighterLine* ⭐⭐⭐⭐
+📍 Remote (US)
+🔗 [Apply now](https://jobs.lever.co/straighterline/36d8f56b-14ac-4a35-af0c-5c267fe51315)
+Staff-level role; Perfect tech stack match (TypeScript, Node.js, React, GraphQL, AWS); Full-stack engineering aligns with skillset; Remote US position offers flexibility.
+_Score: 75/100_
+
+---
+🤖 Powered by [Claude Code](https://claude.com/claude-code)
