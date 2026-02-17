@@ -1,0 +1,48 @@
+🎯 *Job Hunt Report — 2026-02-17*
+
+Found *5 new offers* today (27 searched, deduplicated from LinkedIn & web)
+
+---
+
+*🥇 #1 — Chief Technology Officer*
+🏢 Neho | 📍 Lausanne, Switzerland
+🔗 [View on LinkedIn](https://www.linkedin.com/jobs/view/4363704282)
+💡 Swiss PropTech startup disrupting real estate. CTO role at an early-stage product company — perfect match for co-founder background and executive engineering leadership aspirations.
+⭐⭐⭐⭐⭐ Score: 86/100
+
+---
+
+*🥈 #2 — Staff Incubation Engineer*
+🏢 Snyk | 📍 Zurich, Switzerland
+🔗 [View on LinkedIn](https://www.linkedin.com/jobs/view/4318084599)
+💡 Leading developer security platform. Staff-level 0-to-1 product incubation using TypeScript & Node.js — mirrors founding engineer DNA. Top-tier engineering culture.
+⭐⭐⭐⭐⭐ Score: 85/100
+
+---
+
+*🥉 #3 — Staff / Principal AI Engineer*
+🏢 Inworld AI | 📍 Switzerland (Remote)
+🔗 [View on LinkedIn](https://www.linkedin.com/jobs/view/4360039074)
+💡 AI-native startup (character AI & game AI). Staff or Principal level, remote from Switzerland. Direct match for AI/ML expertise and LLM integration experience.
+⭐⭐⭐⭐½ Score: 83/100
+
+---
+
+*#4 — Staff Software Engineer*
+🏢 Ripple | 📍 Geneva, Switzerland (Hybrid)
+🔗 [View on LinkedIn](https://www.linkedin.com/jobs/view/4368552853)
+💡 Global fintech/blockchain payment infrastructure. Staff IC role in Geneva — top location match. Scale-up with strong engineering culture.
+⭐⭐⭐⭐ Score: 81/100
+
+---
+
+*#5 — Sr Platform Engineer*
+🏢 Authzed | 📍 Remote (EU)
+🔗 [View Posting](https://jobs.generalcatalyst.com/companies/authzed/jobs/46488683-sr-platform-engineer-remote-u-s-eastern-or-eu)
+💡 Open-source authorization platform (SpiceDB) backed by General Catalyst. TypeScript + Kubernetes + Pulumi stack — near-perfect tech match. Remote EU compatible with Geneva.
+⭐⭐⭐⭐ Score: 80/100
+
+---
+
+_Searched: LinkedIn (Staff/Platform/VP/Principal/CTO in Switzerland & Geneva), Wellfound, SwissDevJobs, WebSearch_
+_Total in database: 70+ offers tracked_

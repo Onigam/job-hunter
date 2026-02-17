@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-16",
+  "last_updated": "2026-02-17",
   "offers": [
     {
       "id": "e8f2a5c9d7b1f4a6e3c8d2f9b5a7e1c4f8b3d6a9c2e5f7b1d4a8c6e3f9b2d5e7a1",
@@ -911,6 +911,106 @@
       "summary": "Fintech bank platform, Java/mobile development roles available",
       "date_found": "2026-02-16",
       "score": null,
+      "status": "new"
+    },
+    {
+      "id": "a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2",
+      "title": "Chief Technology Officer",
+      "company": "Neho",
+      "location": "Lausanne, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4363704282",
+      "source": "linkedin",
+      "summary": "CTO role at Neho, a Swiss PropTech startup disrupting the real estate market in Lausanne. Early-stage local startup with product-driven team building consumer-facing tech. Ideal match for Magino's co-founder and senior engineering leadership background.",
+      "date_found": "2026-02-17",
+      "score": 86,
+      "score_breakdown": {
+        "role_match": 29,
+        "location": 22,
+        "tech_stack": 12,
+        "company_type": 13,
+        "seniority": 10
+      },
+      "relevance_notes": "CTO at a Swiss startup is one of Magino's highest-priority target roles. Lausanne is within Switzerland. Startup context aligns with Alaya co-founder background.",
+      "status": "new"
+    },
+    {
+      "id": "b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2c3",
+      "title": "Staff Incubation Engineer",
+      "company": "Snyk",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4318084599",
+      "source": "linkedin",
+      "summary": "Staff-level incubation engineering role at Snyk (leading developer security platform) in Zurich. Focused on new product development using TypeScript and Node.js. 0-to-1 product work closely mirrors founding engineer experience.",
+      "date_found": "2026-02-17",
+      "score": 85,
+      "score_breakdown": {
+        "role_match": 26,
+        "location": 20,
+        "tech_stack": 17,
+        "company_type": 13,
+        "seniority": 9
+      },
+      "relevance_notes": "Top-tier developer tools company with engineering-led culture. TypeScript and Node.js are direct tech stack matches. Greenfield/0-to-1 work aligns with Magino's founding engineer and co-founder experience.",
+      "status": "new"
+    },
+    {
+      "id": "c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2c3d4",
+      "title": "Staff / Principal AI Engineer",
+      "company": "Inworld AI",
+      "location": "Switzerland (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/4360039074",
+      "source": "linkedin",
+      "summary": "Staff or Principal AI Engineer at Inworld AI (AI-native startup building character AI and game AI infrastructure), fully remote from Switzerland. Strong alignment with AI/ML interest and startup/scale-up preference.",
+      "date_found": "2026-02-17",
+      "score": 83,
+      "score_breakdown": {
+        "role_match": 28,
+        "location": 15,
+        "tech_stack": 16,
+        "company_type": 14,
+        "seniority": 10
+      },
+      "relevance_notes": "Staff/Principal at an AI-native startup is a top-tier match. Remote from Switzerland means Geneva base while working for cutting-edge AI startup. LLM integration and AI/ML directly matches Magino's expertise.",
+      "status": "new"
+    },
+    {
+      "id": "d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2c3d4e5",
+      "title": "Staff Software Engineer",
+      "company": "Ripple",
+      "location": "Geneva, Switzerland (Hybrid)",
+      "url": "https://www.linkedin.com/jobs/view/4368552853",
+      "source": "linkedin",
+      "summary": "Staff Software Engineer at Ripple (leading fintech/blockchain company building global payment infrastructure) in Geneva hybrid. Staff-level IC engineering role at Magino's top location preference.",
+      "date_found": "2026-02-17",
+      "score": 81,
+      "score_breakdown": {
+        "role_match": 24,
+        "location": 25,
+        "tech_stack": 13,
+        "company_type": 10,
+        "seniority": 9
+      },
+      "relevance_notes": "Geneva hybrid is Magino's top location preference. Staff SWE is a direct role match. Ripple is a scale-up fintech product company. Tech stack likely includes TypeScript/Node.js given fintech API-driven architecture.",
+      "status": "new"
+    },
+    {
+      "id": "e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2c3d4e5f6",
+      "title": "Sr Platform Engineer",
+      "company": "Authzed",
+      "location": "Remote (EU)",
+      "url": "https://jobs.generalcatalyst.com/companies/authzed/jobs/46488683-sr-platform-engineer-remote-u-s-eastern-or-eu",
+      "source": "other",
+      "summary": "Senior Platform Engineer at Authzed (builds SpiceDB, open-source authorization platform, backed by General Catalyst). Stack includes TypeScript, Kubernetes, Pulumi, ArgoCD. Remote from EU — compatible with Geneva.",
+      "date_found": "2026-02-17",
+      "score": 80,
+      "score_breakdown": {
+        "role_match": 26,
+        "location": 15,
+        "tech_stack": 17,
+        "company_type": 13,
+        "seniority": 9
+      },
+      "relevance_notes": "Early-stage developer infrastructure startup (General Catalyst-backed). Near-perfect tech stack match: TypeScript, Kubernetes, Pulumi, ArgoCD. Remote EU compatible with Geneva base.",
       "status": "new"
     }
   ]
