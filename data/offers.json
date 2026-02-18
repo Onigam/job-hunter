@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-17",
+  "last_updated": "2026-02-18",
   "offers": [
     {
       "id": "e8f2a5c9d7b1f4a6e3c8d2f9b5a7e1c4f8b3d6a9c2e5f7b1d4a8c6e3f9b2d5e7a1",
@@ -1011,6 +1011,106 @@
         "seniority": 9
       },
       "relevance_notes": "Early-stage developer infrastructure startup (General Catalyst-backed). Near-perfect tech stack match: TypeScript, Kubernetes, Pulumi, ArgoCD. Remote EU compatible with Geneva base.",
+      "status": "new"
+    },
+    {
+      "id": "a9b1c3d5e7f2a4b6c8d0e2f4a6b8c1d3e5f7a9b2c4d6e8f0a1b3c5d7e9f2a4b6",
+      "title": "Head of Engineering (Stealth Crypto Startup)",
+      "company": "Confidential (via AP Executive)",
+      "location": "Geneva, Switzerland",
+      "url": "https://www.ap-executive.com/en-ch/industries-ch/fintech-and-blockchain-ch",
+      "source": "other",
+      "summary": "Head of Engineering at a stealth crypto/fintech startup in Geneva, surfaced via AP Executive executive search. The role combines engineering leadership with technical hands-on ownership, aligning with the candidate's target of VP Engineering or hybrid IC/Lead positions. Geneva location is the highest priority preference.",
+      "date_found": "2026-02-18",
+      "score": 87,
+      "score_breakdown": {
+        "role_match": 28,
+        "location": 25,
+        "tech_stack": 12,
+        "company_type": 13,
+        "seniority": 9
+      },
+      "relevance_notes": "Rare Geneva-based engineering leadership role at a startup. Head of Engineering is a direct match for target role #3 (VP/Lead hybrid IC). Crypto/blockchain startups typically run TypeScript/Node.js stacks. Candidate's cofounder-to-acquisition background makes them a compelling candidate for executive search at this level.",
+      "status": "new"
+    },
+    {
+      "id": "b0c2d4e6f8a1b3c5d7e9f1a3b5c7d9e2f4a6b8c0d2e4f6a8b1c3d5e7f9a2b4c6",
+      "title": "API Platform Engineer",
+      "company": "PostFinance",
+      "location": "Bern, Switzerland (hybrid)",
+      "url": "https://platformengineering.org/jobs/api-platform-engineer",
+      "source": "other",
+      "summary": "Platform Engineer role at PostFinance focused on implementing secure APIs and multi-cloud infrastructure (AWS, Azure, GCP) with Kubernetes and Terraform. CHF 105,000–125,000/year. Switzerland-based hybrid role with strong technical alignment to candidate's core skills in cloud infrastructure and platform engineering.",
+      "date_found": "2026-02-18",
+      "score": 82,
+      "score_breakdown": {
+        "role_match": 27,
+        "location": 20,
+        "tech_stack": 19,
+        "company_type": 7,
+        "seniority": 9
+      },
+      "relevance_notes": "Platform Engineer is the #1 target role type. Tech stack is near-perfect: AWS, Kubernetes, Terraform, API design. Switzerland location. CHF 105-125K salary.",
+      "status": "new"
+    },
+    {
+      "id": "c1d3e5f7a9b2c4d6e8f0a2b4c6d8e1f3a5b7c9d2e4f6a8b0c2d4e6f8a1b3c5d7",
+      "title": "Principal Engineer, Software Supply Chain Security",
+      "company": "GitLab",
+      "location": "Remote (Europe-friendly)",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8373553002",
+      "source": "other",
+      "summary": "Principal Engineer at GitLab defining security architecture for software supply chains across the GitLab platform. GitLab is fully remote-first with a strong engineering culture. Principal-level scope with broad architectural ownership over a critical security domain.",
+      "date_found": "2026-02-18",
+      "score": 79,
+      "score_breakdown": {
+        "role_match": 28,
+        "location": 15,
+        "tech_stack": 14,
+        "company_type": 12,
+        "seniority": 10
+      },
+      "relevance_notes": "Principal Engineer at one of the premier developer tools companies globally. Fully remote-first is practical from Geneva. Architectural ownership scope aligns with Staff+ track record.",
+      "status": "new"
+    },
+    {
+      "id": "d2e4f6a8b0c3d5e7f9a1b3c5d7e9f2a4b6c8d0e2f4a6b8c1d3e5f7a9b2c4d6e8",
+      "title": "Staff Engineer (AWS + Python)",
+      "company": "CARU AG",
+      "location": "Zürich, Switzerland",
+      "url": "https://swissdevjobs.ch/jobs/CARU-AG-Staff-Engineer-AWS--Python",
+      "source": "swissdevjobs",
+      "summary": "Staff Engineer at CARU AG in Zürich focusing on AWS and Python infrastructure. CHF 90,000–110,000/year. Switzerland-based role with direct Staff Engineer title match.",
+      "date_found": "2026-02-18",
+      "score": 79,
+      "score_breakdown": {
+        "role_match": 25,
+        "location": 20,
+        "tech_stack": 16,
+        "company_type": 8,
+        "seniority": 10
+      },
+      "relevance_notes": "Staff Engineer is the exact target title. Switzerland location (Zürich). AWS is core competency. Python in candidate's stack. Compensation CHF 90-110K.",
+      "status": "new"
+    },
+    {
+      "id": "e3f5a7b9c1d4e6f8a0b2c4d6e8f1a3b5c7d9e2f4a6b8c0d2e4f6a8b1c3d5e7f9",
+      "title": "Principal Engineer",
+      "company": "Ripple",
+      "location": "London, UK (Europe timezone)",
+      "url": "https://ripple.com/careers/all-jobs/job/5035196/",
+      "source": "other",
+      "summary": "Principal Engineer at Ripple (XRP/crypto payments) defining future-state architecture, scaling payments 10X, migrating monolith to microservices on AWS/GCP. Europe timezone role based in London. High architectural ownership typical of Principal-level work at a fintech scale-up.",
+      "date_found": "2026-02-18",
+      "score": 78,
+      "score_breakdown": {
+        "role_match": 28,
+        "location": 12,
+        "tech_stack": 16,
+        "company_type": 12,
+        "seniority": 10
+      },
+      "relevance_notes": "Principal Engineer at high-profile fintech scale-up. Distributed systems, microservices migration, AWS/GCP in candidate's wheelhouse. London is less ideal than Geneva but Europe timezone works.",
       "status": "new"
     }
   ]

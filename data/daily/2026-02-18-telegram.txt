@@ -1,0 +1,47 @@
+🎯 *Daily Job Hunt — 2026-02-18*
+5 new offers found today
+
+---
+
+*#1 — Head of Engineering (Stealth Crypto Startup)*
+🏢 Confidential (via AP Executive)
+📍 Geneva, Switzerland
+🔗 [View offer](https://www.ap-executive.com/en-ch/industries-ch/fintech-and-blockchain-ch)
+> Rare Geneva-based engineering leadership role at a stealth crypto/fintech startup via executive search — Head of Engineering combining hands-on technical ownership with leadership.
+⭐⭐⭐⭐⭐ 87/100
+
+---
+
+*#2 — API Platform Engineer*
+🏢 PostFinance
+📍 Bern, Switzerland (hybrid)
+🔗 [View offer](https://platformengineering.org/jobs/api-platform-engineer)
+> Platform Engineer role with near-perfect tech stack (AWS, Kubernetes, Terraform, multi-cloud API design) at CHF 105–125K/year in Switzerland.
+⭐⭐⭐⭐ 82/100
+
+---
+
+*#3 — Principal Engineer, Software Supply Chain Security*
+🏢 GitLab
+📍 Remote (Europe-friendly)
+🔗 [View offer](https://job-boards.greenhouse.io/gitlab/jobs/8373553002)
+> Principal Engineer at one of the premier developer tools companies globally, owning security architecture for software supply chains — fully remote-first, Europe-compatible.
+⭐⭐⭐ 79/100
+
+---
+
+*#4 — Staff Engineer (AWS + Python)*
+🏢 CARU AG
+📍 Zürich, Switzerland
+🔗 [View offer](https://swissdevjobs.ch/jobs/CARU-AG-Staff-Engineer-AWS--Python)
+> Exact Staff Engineer title match at a Swiss company in Zürich, focused on AWS and Python infrastructure at CHF 90–110K/year.
+⭐⭐⭐ 79/100
+
+---
+
+*#5 — Principal Engineer*
+🏢 Ripple
+📍 London, UK (Europe timezone)
+🔗 [View offer](https://ripple.com/careers/all-jobs/job/5035196/)
+> Principal Engineer at high-profile fintech scale-up (XRP/crypto payments) — defining architecture, scaling payments 10X, migrating monolith to microservices on AWS/GCP.
+⭐⭐⭐ 78/100
