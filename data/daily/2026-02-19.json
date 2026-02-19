@@ -1,0 +1,146 @@
+{
+  "date": "2026-02-19",
+  "sources_searched": [
+    "linkedin (Staff Engineer Switzerland)",
+    "linkedin (Platform Engineer Switzerland)",
+    "linkedin (VP Engineering Geneva)",
+    "linkedin (CTO startup Switzerland)",
+    "linkedin (Principal Engineer Switzerland)",
+    "websearch (HN February 2026 who is hiring)",
+    "websearch (wellfound Switzerland startups)",
+    "websearch (swissdevjobs 2026)"
+  ],
+  "raw_results_count": 47,
+  "new_offers_count": 8,
+  "top_offers": [
+    {
+      "rank": 1,
+      "id": "1ffc8d369a2c6d0a9a45ff29d181e6134d3a37fe18d23a485930b5b330250d2b",
+      "title": "Staff Platform Engineer, EU",
+      "company": "Ashby",
+      "location": "Remote EU (Geneva compatible)",
+      "url": "https://jobs.ashbyhq.com/Ashby/fa001346-ea81-41b2-bfbe-2271d3faac1a",
+      "source": "linkedin",
+      "summary": "Staff Platform Engineer role at Ashby (high-growth ATS startup, >100% YoY, customers include Notion, Linear, Shopify). Full ownership of platform/infra: Kubernetes debugging, database optimization, security enforcement, AWS. Tech stack: TypeScript, Node.js, React, GraphQL, Postgres, Redis, AWS. Engineering-first culture, almost-no-meeting environment. Remote EU.",
+      "date_found": "2026-02-19",
+      "score": 91,
+      "score_breakdown": {
+        "role_match": 30,
+        "location": 18,
+        "tech_stack": 20,
+        "company_type": 13,
+        "seniority": 10
+      },
+      "relevance_notes": "Staff Platform Engineer is the #1 target role for Magino. Near-perfect tech stack: TypeScript, Node.js, React, Postgres, Redis, AWS, Kubernetes. Engineering-first culture matches values. High-growth startup with strong PMF. Remote EU is compatible with Geneva base. Full end-to-end ownership model aligns with co-founder background."
+    },
+    {
+      "rank": 2,
+      "id": "36e7672d2cef096176628777d043c7d22a53d1e31cc9675fe106720f04f42c01",
+      "title": "Co-Founder CTO",
+      "company": "VOXD AI",
+      "location": "Zurich, Switzerland (Hybrid)",
+      "url": "https://www.linkedin.com/jobs/view/4374783160",
+      "source": "linkedin",
+      "summary": "Co-Founder CTO opportunity at VOXD AI, an early-stage AI startup in Zurich. Full technical leadership and co-founder equity stake. Building AI-powered products with a hybrid work model in Zurich.",
+      "date_found": "2026-02-19",
+      "score": 87,
+      "score_breakdown": {
+        "role_match": 27,
+        "location": 20,
+        "tech_stack": 15,
+        "company_type": 15,
+        "seniority": 10
+      },
+      "relevance_notes": "Co-Founder CTO is target role #4 (CTO at early-stage startup). Zurich hybrid gives a Swiss presence close to Geneva. AI startup context aligns with candidate's AI-augmented engineering interest. Co-founder equity reflects Alaya-era founding experience."
+    },
+    {
+      "rank": 3,
+      "id": "641227d7dcc4a08bc856d459aee82dab9483c755784a9fbea290f4cc6d154c81",
+      "title": "Applied AI Engineer, Senior/Staff Fullstack Software Engineer — EMEA",
+      "company": "Mistral AI",
+      "location": "Lausanne, Switzerland (Hybrid)",
+      "url": "https://jobs.lever.co/mistral/5c847a79-1386-4216-86d9-654c00afe5e1",
+      "source": "websearch",
+      "summary": "Senior/Staff Applied AI Engineer role at Mistral AI (Europe's leading open-source AI company, makers of le Chat and Codestral). Build and deploy AI solutions for enterprise customers. Tech stack: Python, TypeScript, React/Next.js, Node.js. Customer-facing technical role across pre-sale to post-implementation. Lausanne office, hybrid.",
+      "date_found": "2026-02-19",
+      "score": 85,
+      "score_breakdown": {
+        "role_match": 22,
+        "location": 20,
+        "tech_stack": 20,
+        "company_type": 15,
+        "seniority": 8
+      },
+      "relevance_notes": "Mistral AI is one of the most exciting AI companies in Europe. Senior/Staff fullstack role with perfect tech stack match (Python, TypeScript, React, Node.js). Lausanne is very close to Geneva. Applied AI + enterprise deployments aligns with LLM integration expertise. Slightly below Staff in role hierarchy but AI-native company compensates."
+    },
+    {
+      "rank": 4,
+      "id": "a63f7cb07b796738bb7c2cde13b9b845fb8f12c327befc20cc7c027c21772253",
+      "title": "Principal/Staff Software Engineer",
+      "company": "Nexthink",
+      "location": "Lausanne, Switzerland (Hybrid)",
+      "url": "https://www.linkedin.com/jobs/view/4373999481",
+      "source": "linkedin",
+      "summary": "Principal or Staff Software Engineer role at Nexthink, the leader in digital employee experience management software. Lausanne-based hybrid position at a fast-growing Swiss scale-up with a strong engineering culture. Backend and full-stack engineering responsibilities.",
+      "date_found": "2026-02-19",
+      "score": 81,
+      "score_breakdown": {
+        "role_match": 27,
+        "location": 20,
+        "tech_stack": 12,
+        "company_type": 12,
+        "seniority": 10
+      },
+      "relevance_notes": "Principal/Staff SWE at a Swiss scale-up is a solid match. Lausanne is close to Geneva. Nexthink is a well-funded scale-up (IPO-track) in the employee experience space. Staff/Principal level aligns perfectly with target seniority."
+    },
+    {
+      "rank": 5,
+      "id": "3fb03bba7d768c1bdead86ca159ff1c511d9793ae3b14d313c0461ab2a1b0a0b",
+      "title": "Senior Staff Software Engineer, Applied AI, Google Cloud",
+      "company": "Google",
+      "location": "Zurich, Switzerland (On-site)",
+      "url": "https://www.linkedin.com/jobs/view/4371529761",
+      "source": "linkedin",
+      "summary": "Senior Staff Software Engineer on the Applied AI, Google Cloud team at Google Zurich. Cutting-edge AI/cloud engineering at senior staff level. Work on AI infrastructure powering Google Cloud services. Zurich on-site with world-class engineering culture.",
+      "date_found": "2026-02-19",
+      "score": 80,
+      "score_breakdown": {
+        "role_match": 28,
+        "location": 20,
+        "tech_stack": 12,
+        "company_type": 10,
+        "seniority": 10
+      },
+      "relevance_notes": "Senior Staff level matches perfectly. Zurich is excellent Swiss location. Applied AI focus aligns with AI-augmented engineering interest. Google Zurich is a top-tier engineering environment though less startup culture. Strong signal for AI/cloud platform engineering expertise."
+    }
+  ],
+  "additional_offers_found": [
+    {
+      "id": "3bfa7598d6b9abffb04f268a5d4701586c1e9900afc5b0c4306f8bbe40add4bf",
+      "title": "Staff Software Engineer, Product Engineering, EU",
+      "company": "Ashby",
+      "location": "Switzerland Remote",
+      "url": "https://jobs.ashbyhq.com/ashby/c3c7125d-7883-4dff-a2bf-f5a55de4a364",
+      "source": "linkedin",
+      "score": 87
+    },
+    {
+      "id": "1938c5b30395b5d5a6be9bf70aa901781a146efde3a9d30b9d06e781ea1d8248",
+      "title": "Senior Staff Software Engineer, Delta",
+      "company": "Databricks",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4347060005",
+      "source": "linkedin",
+      "score": 78
+    },
+    {
+      "id": "8e69dbc408faf74d6b644657e503b7f843ebbb8d335d8997aef52ec5243604d8",
+      "title": "Senior Staff Engineer (80-100%)",
+      "company": "Sygnum Bank",
+      "location": "Zurich, Switzerland (Hybrid)",
+      "url": "https://www.linkedin.com/jobs/view/4369684362",
+      "source": "linkedin",
+      "score": 80
+    }
+  ]
+}
