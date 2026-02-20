@@ -1,0 +1,101 @@
+{
+  "date": "2026-02-20",
+  "total_new_offers": 5,
+  "offers": [
+    {
+      "rank": 1,
+      "id": "a3f7c2e91b084d56a2c1f830",
+      "title": "Founding Product Engineer Full-Stack (or Forward Deployed Engineer)",
+      "company": "Zenline AI",
+      "location": "Zurich, Switzerland (On-site)",
+      "url": "https://www.linkedin.com/jobs/view/4361563134",
+      "source": "linkedin",
+      "summary": "Zenline AI is an AI startup in Zurich seeking a founding full-stack engineer to build the product from the ground up. The role spans full-stack development and potentially customer-facing forward deployment, meaning direct impact on early product-market fit. As a founding engineer, this person shapes architecture, culture, and technical direction from day one.",
+      "score": 88,
+      "score_breakdown": {
+        "role_match": 28,
+        "location": 20,
+        "tech_stack": 17,
+        "company_type": 14,
+        "seniority": 9
+      },
+      "match_reason": "Founding engineer at an AI startup in Zurich — near-perfect match for priority #2 role type with AI/ML interest, Switzerland location, and full-stack TypeScript/React/Node overlap."
+    },
+    {
+      "rank": 2,
+      "id": "b82d5f1e3c097a4e81f3d219",
+      "title": "Staff Software Engineer, Cloud Platform",
+      "company": "Pinterest",
+      "location": "Zurich, Switzerland (Hybrid)",
+      "url": "https://www.linkedin.com/jobs/view/4358274618",
+      "source": "linkedin",
+      "summary": "Pinterest is hiring a Staff Software Engineer to work on Cloud Platform infrastructure in their Zurich office. The role focuses on infrastructure and platform engineering at scale for a major consumer tech product. Hybrid work in Zurich with the scope and ownership expected at Staff IC level.",
+      "score": 80,
+      "score_breakdown": {
+        "role_match": 26,
+        "location": 20,
+        "tech_stack": 17,
+        "company_type": 10,
+        "seniority": 7
+      },
+      "match_reason": "Staff Cloud Platform Engineer at a major product company in Zurich hits the #1 priority role type (Staff Platform Engineer) with strong AWS/Kubernetes/platform alignment."
+    },
+    {
+      "rank": 3,
+      "id": "c91e4a2f0b136d57b3e52a78",
+      "title": "Late-Founder CTO",
+      "company": "Neology",
+      "location": "Lausanne, Vaud, Switzerland (On-site)",
+      "url": "https://www.linkedin.com/jobs/view/4366306538",
+      "source": "linkedin",
+      "summary": "Neology, a startup in Lausanne, is seeking a late-stage co-founder or CTO to take full technical leadership as the company grows. This is an equity-heavy founding role with complete ownership of technical direction, architecture, and the engineering team. Lausanne sits within the Geneva-Lausanne corridor making it accessible from Geneva.",
+      "score": 79,
+      "score_breakdown": {
+        "role_match": 28,
+        "location": 20,
+        "tech_stack": 8,
+        "company_type": 14,
+        "seniority": 9
+      },
+      "match_reason": "Co-founder CTO at a Swiss startup precisely matches priority #4 target and mirrors co-founding experience at Alaya, with founding/build-from-zero nature and Geneva corridor location."
+    },
+    {
+      "rank": 4,
+      "id": "d5083b7a1c2e4f96a7d2b341",
+      "title": "Principal Software Engineer",
+      "company": "Microsoft",
+      "location": "Geneva, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4365488131",
+      "source": "linkedin",
+      "summary": "Microsoft is hiring a Principal Software Engineer at their Geneva office, representing the rarest combination of top location and Staff+ seniority in this batch. The Principal IC role involves broad technical leadership and architecture. Geneva office engineering roles at this level are exceptionally uncommon.",
+      "score": 78,
+      "score_breakdown": {
+        "role_match": 25,
+        "location": 25,
+        "tech_stack": 14,
+        "company_type": 8,
+        "seniority": 6
+      },
+      "match_reason": "Geneva location (maximum score 25/25) combined with Principal-level seniority — Geneva is top location priority and Staff+-equivalent Principal roles there are vanishingly rare."
+    },
+    {
+      "rank": 5,
+      "id": "e1472c8d0f395b2ea4c63f90",
+      "title": "Staff Software Engineer, Applied AI, Google Cloud",
+      "company": "Google",
+      "location": "Zurich, Switzerland (On-site)",
+      "url": "https://www.linkedin.com/jobs/view/4371540588",
+      "source": "linkedin",
+      "summary": "Google is hiring a Staff Software Engineer on the Applied AI team within Google Cloud in Zurich. The role involves building AI/ML-powered cloud products at Google scale with Staff-level IC scope and deep applied AI focus. This is a distinct role from the already-tracked Senior Staff Applied AI position.",
+      "score": 78,
+      "score_breakdown": {
+        "role_match": 24,
+        "location": 20,
+        "tech_stack": 18,
+        "company_type": 9,
+        "seniority": 7
+      },
+      "match_reason": "Staff Applied AI at Google Zurich matches AI/ML interest and Python/TypeScript/cloud stack — a high-signal opportunity in Switzerland despite Google being a large company."
+    }
+  ]
+}
