@@ -1,0 +1,29 @@
+🎯 *Job Hunter — 2026-02-23*
+
+*1.* *Staff Software Engineer (Java) - AI & Developer Experience* @ Sonar
+📍 Geneva, Switzerland | ⭐ 88/100
+💡 Staff-level AI tooling role building MCP server & IDE extensions for 1M+ users — Java/TypeScript/Node.js at Geneva's premier dev tools company.
+🔗 https://jobs.lever.co/sonarsource/e0060bc5-6855-4150-84a3-7d89f9a77cb4
+
+*2.* *CodeNext - Staff Software Engineer* @ Sonar
+📍 Geneva, Switzerland | ⭐ 85/100
+💡 LLM + static analysis R&D-to-production role — architect AI-driven code quality using SFT, DPO, RLHF, RAG. Python/Java/TypeScript/Rust.
+🔗 https://jobs.lever.co/sonarsource/7049f316-ed29-4b0e-a6a5-953c0f24f7db
+
+*3.* *Sr. Staff Core Infrastructure Engineer - Core Platform* @ Kraken
+📍 Switzerland (Remote) | ⭐ 72/100
+💡 Sr. Staff platform infrastructure at a major crypto exchange. Core platform engineering with Switzerland remote flexibility.
+🔗 https://www.linkedin.com/jobs/search?keywords=Sr.+Staff+Core+Infrastructure+Engineer+Kraken&location=Switzerland
+
+*4.* *Staff Software Engineer – Special Projects* @ Kraken
+📍 Switzerland (Remote) | ⭐ 69/100
+💡 High-scope special projects under Chairman's Office. Staff-level with strategic visibility at the world's largest crypto exchange.
+🔗 https://www.linkedin.com/jobs/search?keywords=Staff+Software+Engineer+Special+Projects+Kraken&location=Switzerland
+
+*5.* *Staff Software Engineer* @ GTreasury
+📍 Geneva, Switzerland | ⭐ 65/100
+💡 Staff SWE at a treasury fintech in Geneva — top location match with Staff-level seniority.
+🔗 https://www.linkedin.com/jobs/search?keywords=Staff+Software+Engineer+GTreasury+Geneva
+
+---
+📊 _5 new offers found | 94 total tracked_

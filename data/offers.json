@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-20",
+  "last_updated": "2026-02-23",
   "offers": [
     {
       "id": "e8f2a5c9d7b1f4a6e3c8d2f9b5a7e1c4f8b3d6a9c2e5f7b1d4a8c6e3f9b2d5e7a1",
@@ -1371,6 +1371,106 @@
         "seniority": 7
       },
       "relevance_notes": "Staff Applied AI at Google Zurich matches AI/ML interest and Python/TypeScript/cloud stack — high-signal opportunity in Switzerland.",
+      "status": "new"
+    },
+    {
+      "id": "37346bd3fd6f9448149b5d0d789a1142b705cbdfb8574656067f9b10a2612862",
+      "title": "Staff Software Engineer (Java) - AI & Developer Experience",
+      "company": "Sonar (SonarSource)",
+      "location": "Geneva, Switzerland (On-site)",
+      "url": "https://jobs.lever.co/sonarsource/e0060bc5-6855-4150-84a3-7d89f9a77cb4",
+      "source": "lever",
+      "summary": "Staff engineer building Sonar MCP Server, IDE Extensions (VS Code, IntelliJ), and AI agent tooling for 1M+ active users. Architect the 'inner loop' for human engineers and AI agents. Stack: Java, TypeScript/Node.js, C#. Geneva office with 27 PTO days and 60% pension contribution.",
+      "date_found": "2026-02-23",
+      "score": 88,
+      "score_breakdown": {
+        "technical": 24,
+        "seniority": 23,
+        "location": 20,
+        "company": 13,
+        "impact": 8
+      },
+      "relevance_notes": "Staff-level AI tooling role at Geneva's premier dev tools company — builds MCP server and IDE extensions using Java/TypeScript/Node.js, directly matching the candidate's platform engineering expertise and AI-augmented engineering interest.",
+      "status": "new"
+    },
+    {
+      "id": "91c5ce569cf0061490cefdaf2f9cad4d194372eaae275255ce61300667a788b5",
+      "title": "CodeNext - Staff Software Engineer",
+      "company": "Sonar (SonarSource)",
+      "location": "Geneva, Switzerland (On-site)",
+      "url": "https://jobs.lever.co/sonarsource/7049f316-ed29-4b0e-a6a5-953c0f24f7db",
+      "source": "lever",
+      "summary": "Staff engineer on the Data & AI team working at the intersection of LLMs, static analysis, and programming languages. Architect AI-driven code quality solutions using SFT, DPO, RLHF, and RAG. Stack: Python, Java, TypeScript, Rust. Geneva office.",
+      "date_found": "2026-02-23",
+      "score": 85,
+      "score_breakdown": {
+        "technical": 22,
+        "seniority": 22,
+        "location": 20,
+        "company": 13,
+        "impact": 8
+      },
+      "relevance_notes": "Staff-level AI/ML engineering role at Sonar Geneva, designing LLM training pipelines and benchmarking infrastructure — combines the candidate's platform architecture skills with cutting-edge AI research-to-production work.",
+      "status": "new"
+    },
+    {
+      "id": "7ccfa38516c8a3978c7735a09af3077fec58d3cb45c62f6876f8f420878ae26f",
+      "title": "Sr. Staff Core Infrastructure Engineer - Core Platform",
+      "company": "Kraken",
+      "location": "Switzerland (Remote)",
+      "url": "https://www.linkedin.com/jobs/search?keywords=Sr.+Staff+Core+Infrastructure+Engineer+Kraken&location=Switzerland",
+      "source": "linkedin",
+      "summary": "Sr. Staff-level core platform infrastructure engineer at Kraken, one of the largest crypto exchanges. Build and scale the core platform powering Kraken's trading infrastructure. Remote from Switzerland.",
+      "date_found": "2026-02-23",
+      "score": 72,
+      "score_breakdown": {
+        "technical": 16,
+        "seniority": 24,
+        "location": 15,
+        "company": 10,
+        "impact": 7
+      },
+      "relevance_notes": "Sr. Staff seniority is an excellent match. Core platform infrastructure aligns with platform engineering expertise. Switzerland remote offers flexibility. Kraken is a major crypto scale-up with serious engineering challenges.",
+      "status": "new"
+    },
+    {
+      "id": "f1457e0dd54a9cbeade62f3a98cf870f686cbe9058dbf2655fac485ffa95f918",
+      "title": "Staff Software Engineer – Special Projects @ Chairman Office",
+      "company": "Kraken",
+      "location": "Switzerland (Remote)",
+      "url": "https://www.linkedin.com/jobs/search?keywords=Staff+Software+Engineer+Special+Projects+Kraken&location=Switzerland",
+      "source": "linkedin",
+      "summary": "Staff engineer working on special projects directly under the Chairman's Office at Kraken. High-scope, high-autonomy role tackling strategic technical challenges for one of the world's largest crypto exchanges. Remote from Switzerland.",
+      "date_found": "2026-02-23",
+      "score": 69,
+      "score_breakdown": {
+        "technical": 15,
+        "seniority": 22,
+        "location": 15,
+        "company": 10,
+        "impact": 7
+      },
+      "relevance_notes": "Staff-level special projects role with high autonomy and strategic scope at a major crypto exchange. Switzerland remote compatible with Geneva base. 'Chairman Office' suggests direct executive visibility and high-impact work.",
+      "status": "new"
+    },
+    {
+      "id": "357b680dd776bd210e589edced66907bbf50c3ff8de13ce75ec0d3ce3775d003",
+      "title": "Staff Software Engineer",
+      "company": "GTreasury",
+      "location": "Geneva, Switzerland",
+      "url": "https://www.linkedin.com/jobs/search?keywords=Staff+Software+Engineer+GTreasury+Geneva",
+      "source": "linkedin",
+      "summary": "Staff software engineer at GTreasury, a treasury management fintech platform. Geneva-based role at a company specializing in treasury and risk management solutions for enterprises. Posted 4 days ago.",
+      "date_found": "2026-02-23",
+      "score": 65,
+      "score_breakdown": {
+        "technical": 12,
+        "seniority": 22,
+        "location": 20,
+        "company": 7,
+        "impact": 4
+      },
+      "relevance_notes": "Staff-level role in Geneva (top location priority) at a fintech company. Lower score due to unknown tech stack alignment and enterprise treasury focus, but Geneva location and Staff seniority are strong positives.",
       "status": "new"
     }
   ]

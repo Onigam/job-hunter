@@ -1,6 +1,6 @@
 # Job Hunter
 
-Automated daily job hunting powered by **Claude Code** + **GitHub Actions**.
+Automated daily job hunting powered by **Cursor Agent** (`cursor-agent` CLI) + **GitHub Actions**.
 
 Searches for senior engineering roles matching your profile across multiple platforms (including authenticated LinkedIn search), ranks them by relevance, and sends the top 5 via **Telegram** every morning at 8:00 Geneva time.
 
@@ -54,12 +54,10 @@ Go to **Settings → Secrets and variables → Actions** in your GitHub repo and
 
 | Secret | Description | How to get it |
 |--------|-------------|---------------|
-| `CLAUDE_CODE_OAUTH_TOKEN` | Claude Code OAuth token (uses your Pro/Max plan) | Run `claude config get oauthToken` locally |
+| `CURSOR_API_KEY` | Cursor API key for the cursor-agent CLI | [Cursor Dashboard → Integrations](https://cursor.com/dashboard?tab=integrations) |
 | `LINKEDIN_COOKIE` | LinkedIn `li_at` session cookie for authenticated search | Browser DevTools → Application → Cookies → linkedin.com → `li_at` |
 | `TELEGRAM_BOT_TOKEN` | Telegram bot token | Talk to [@BotFather](https://t.me/BotFather) on Telegram |
 | `TELEGRAM_CHAT_ID` | Your Telegram chat ID | See [instructions below](#getting-your-telegram-chat-id) |
-
-> **Note:** The workflow uses your Claude Pro/Max subscription via OAuth token — no API credits needed.
 
 ### 4. Test the Workflow
 
@@ -102,16 +100,16 @@ on:
 
 ```
 job-hunter/
-├── .claude/
+├── .cursor/
 │   ├── agents/
 │   │   ├── job-searcher.md        # Searches LinkedIn API + web platforms
 │   │   ├── profile-matcher.md     # Scores and ranks offers vs profile
 │   │   └── report-builder.md      # Generates reports + Telegram messages
-│   └── settings.json              # Claude Code permissions
+│   └── rules/
+│       └── job-hunter.md          # Project rules and configuration
 ├── .github/
 │   └── workflows/
 │       └── job-hunt.yml           # GitHub Actions workflow
-├── CLAUDE.md                       # Project configuration for Claude
 ├── data/
 │   ├── offers.json                # All tracked offers (dedup database)
 │   └── daily/                     # Daily report files
@@ -147,13 +145,13 @@ Offers are scored on 5 dimensions (100 points total):
 ## Customization
 
 ### Change Search Keywords
-Edit the search queries in `.claude/agents/job-searcher.md`.
+Edit the search queries in `.cursor/agents/job-searcher.md`.
 
 ### Adjust Scoring Weights
-Modify the scoring criteria in `.claude/agents/profile-matcher.md`.
+Modify the scoring criteria in `.cursor/agents/profile-matcher.md`.
 
 ### Change Notification Format
-Update the Telegram message template in `.claude/agents/report-builder.md`.
+Update the Telegram message template in `.cursor/agents/report-builder.md`.
 
 ### Change Schedule
 Edit the cron expression in `.github/workflows/job-hunt.yml`.
@@ -162,7 +160,7 @@ Edit the cron expression in `.github/workflows/job-hunt.yml`.
 
 ## Tech Stack
 
-- **Claude Code** (via `anthropics/claude-code-action@v1`) — AI-powered job search and analysis, using OAuth (Pro/Max plan)
+- **Cursor Agent** (`cursor-agent` CLI) — AI-powered job search and analysis
 - **LinkedIn Voyager API** — Authenticated job search via session cookie
 - **GitHub Actions** — Scheduling and orchestration
 - **Telegram Bot API** — Notifications

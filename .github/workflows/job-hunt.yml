@@ -25,70 +25,91 @@ jobs:
         env:
           LINKEDIN_COOKIE: ${{ secrets.LINKEDIN_COOKIE }}
 
-      - name: Run Job Hunter with Claude Code
-        uses: anthropics/claude-code-action@v1
-        with:
-          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
-          prompt: |
-            You are the Job Hunter orchestrator. Your goal is to find the best new job offers for the candidate.
+      - name: Install Cursor CLI
+        run: |
+          curl https://cursor.com/install -fsS | bash
+          echo "$HOME/.cursor/bin" >> $GITHUB_PATH
 
-            Follow these steps carefully:
+      - name: Configure Git
+        run: |
+          git config user.name "Magino"
+          git config user.email "13470680+Onigam@users.noreply.github.com"
 
-            ## Step 1: Understand the Profile
-            Read `profile/context.md` to understand the candidate's background, skills, and preferences.
+      - name: Run Job Hunter with Cursor Agent
+        env:
+          CURSOR_API_KEY: ${{ secrets.CURSOR_API_KEY }}
+        run: |
+          TEMP_PROMPT_FILE=$(mktemp)
+          cat > "$TEMP_PROMPT_FILE" <<'PROMPT_EOF'
+          You are the Job Hunter orchestrator. Your goal is to find the best new job offers for the candidate.
 
-            ## Step 2: Load Existing Offers
-            Read `data/offers.json` to know which offers have already been found (for deduplication).
+          Follow these steps carefully:
 
-            ## Step 3: Search for New Offers
-            Use the `job-searcher` agent (via Task tool) to search for new job offers.
-            Run multiple searches across different platforms and keywords:
+          ## Step 1: Understand the Profile
+          Read `profile/context.md` to understand the candidate's background, skills, and preferences.
 
-            ### LinkedIn Authenticated Search (PRIMARY SOURCE)
-            A LinkedIn session cookie (`li_at` value) is available in the file `/tmp/linkedin_cookie.txt`.
-            Read it with the Read tool, then use the value in curl commands to search LinkedIn's
-            job search API. The agent instructions in `.claude/agents/job-searcher.md` contain
-            detailed curl examples.
-            Run searches for:
-            - "Staff Engineer" in Geneva/Switzerland
-            - "Platform Engineer" remote or Switzerland
-            - "Founding Engineer" startup Switzerland
-            - "CTO" OR "VP Engineering" early-stage startup Geneva
-            - "Principal Engineer" TypeScript OR Node.js Switzerland OR remote
+          ## Step 2: Load Existing Offers
+          Read `data/offers.json` to know which offers have already been found (for deduplication).
 
-            ### Web Search (SECONDARY SOURCES)
-            Also use WebSearch to find jobs on:
-            - Indeed/SwissDevJobs: Senior engineering roles in Geneva/Switzerland
-            - Wellfound/Remote boards: Startup founding/staff roles, remote-friendly
-            - Hacker News Who's Hiring threads
-            Aim for 15-25 raw results total across all sources.
+          ## Step 3: Search for New Offers
+          Follow the search instructions in `.cursor/agents/job-searcher.md` to search for new job offers.
+          Run multiple searches across different platforms and keywords:
 
-            ## Step 4: Match and Rank
-            Use the `profile-matcher` agent (via Task tool) to:
-            - Deduplicate against existing offers
-            - Score each new offer against the profile
-            - Return the top 5 most relevant new offers
+          ### LinkedIn Authenticated Search (PRIMARY SOURCE)
+          A LinkedIn session cookie (`li_at` value) is available in the file `/tmp/linkedin_cookie.txt`.
+          Read it, then use the value in curl commands to search LinkedIn's
+          job search API. The agent instructions in `.cursor/agents/job-searcher.md` contain
+          detailed curl examples.
+          Run searches for:
+          - "Staff Engineer" in Geneva/Switzerland
+          - "Platform Engineer" remote or Switzerland
+          - "Founding Engineer" startup Switzerland
+          - "CTO" OR "VP Engineering" early-stage startup Geneva
+          - "Principal Engineer" TypeScript OR Node.js Switzerland OR remote
 
-            ## Step 5: Generate Report
-            Use the `report-builder` agent (via Task tool) to:
-            - Create `data/daily/YYYY-MM-DD.json` with today's results
-            - Update `data/offers.json` with new offers
-            - Generate `data/daily/YYYY-MM-DD-telegram.txt` with the Telegram message
+          ### Web Search (SECONDARY SOURCES)
+          Also use WebSearch to find jobs on:
+          - Indeed/SwissDevJobs: Senior engineering roles in Geneva/Switzerland
+          - Wellfound/Remote boards: Startup founding/staff roles, remote-friendly
+          - Hacker News Who's Hiring threads
+          Aim for 15-25 raw results total across all sources.
 
-            ## Step 6: Commit Changes
-            Use Bash to commit and push changes:
-            ```bash
-            git config user.name "Magino"
-            git config user.email "13470680+Onigam@users.noreply.github.com"
-            git add data/
-            git commit -m "🎯 Daily job hunt — $(date +%Y-%m-%d)" || echo "No changes to commit"
-            git push
-            ```
+          ## Step 4: Match and Rank
+          Follow the matching instructions in `.cursor/agents/profile-matcher.md` to:
+          - Deduplicate against existing offers
+          - Score each new offer against the profile
+          - Return the top 5 most relevant new offers
 
-            IMPORTANT: Only include REAL job offers found via WebSearch or LinkedIn API. Never fabricate or hallucinate offers.
-            Use today's date for all file names and timestamps.
-          claude_args: "--max-turns 40"
-          show_full_output: true
+          ## Step 5: Generate Report
+          Follow the report instructions in `.cursor/agents/report-builder.md` to:
+          - Create `data/daily/YYYY-MM-DD.json` with today's results
+          - Update `data/offers.json` with new offers
+          - Generate `data/daily/YYYY-MM-DD-telegram.txt` with the Telegram message
+
+          ## Step 6: Commit Changes
+          Commit and push changes:
+          ```bash
+          git add data/
+          git commit -m "🎯 Daily job hunt — $(date +%Y-%m-%d)" || echo "No changes to commit"
+          git push
+          ```
+
+          IMPORTANT: Only include REAL job offers found via WebSearch or LinkedIn API. Never fabricate or hallucinate offers.
+          Use today's date for all file names and timestamps.
+          PROMPT_EOF
+
+          echo "Running cursor-agent..."
+          cursor-agent -p --force --stream-partial-output --output-format=stream-json . < "$TEMP_PROMPT_FILE"
+          EXIT_CODE=$?
+
+          rm -f "$TEMP_PROMPT_FILE"
+
+          if [ $EXIT_CODE -ne 0 ]; then
+            echo "cursor-agent failed with exit code: $EXIT_CODE"
+            exit 1
+          fi
+
+          echo "Job hunt completed successfully"
 
       - name: Send Telegram Notification
         if: always()
