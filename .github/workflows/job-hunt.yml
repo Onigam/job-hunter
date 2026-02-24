@@ -3,7 +3,7 @@ name: Job Hunter
 on:
   schedule:
     - cron: '0 7 * * *' # Every day at 8:00 Geneva (7:00 UTC)
-  workflow_dispatch: # Manual trigger
+  workflow_dispatch: {}
 
 permissions:
   contents: write
@@ -25,19 +25,19 @@ jobs:
         env:
           LINKEDIN_COOKIE: ${{ secrets.LINKEDIN_COOKIE }}
 
-      - name: Install Cursor CLI
+      - name: Install Claude Code CLI
         run: |
-          curl https://cursor.com/install -fsS | bash
-          echo "$HOME/.cursor/bin" >> $GITHUB_PATH
+          npm install -g @anthropic-ai/claude-code
+          claude --version
 
       - name: Configure Git
         run: |
           git config user.name "Magino"
           git config user.email "13470680+Onigam@users.noreply.github.com"
 
-      - name: Run Job Hunter with Cursor Agent
+      - name: Run Job Hunter with Claude Code
         env:
-          CURSOR_API_KEY: ${{ secrets.CURSOR_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
           TEMP_PROMPT_FILE=$(mktemp)
           cat > "$TEMP_PROMPT_FILE" <<'PROMPT_EOF'
@@ -52,64 +52,34 @@ jobs:
           Read `data/offers.json` to know which offers have already been found (for deduplication).
 
           ## Step 3: Search for New Offers
-          Follow the search instructions in `.cursor/agents/job-searcher.md` to search for new job offers.
-          Run multiple searches across different platforms and keywords:
+          Follow the search instructions in `.claude/agents/job-searcher.md` to search for new job offers.
+          Run multiple searches across different platforms and keywords.
 
           ### LinkedIn Authenticated Search (PRIMARY SOURCE)
           A LinkedIn session cookie (`li_at` value) is available in the file `/tmp/linkedin_cookie.txt`.
-          Read it, then use the value in curl commands to search LinkedIn's
-          job search API. The agent instructions in `.cursor/agents/job-searcher.md` contain
-          detailed curl examples.
-          Run searches for:
-          - "Staff Engineer" in Geneva/Switzerland
-          - "Platform Engineer" remote or Switzerland
-          - "Founding Engineer" startup Switzerland
-          - "CTO" OR "VP Engineering" early-stage startup Geneva
-          - "Principal Engineer" TypeScript OR Node.js Switzerland OR remote
+          Read it, then use the value in curl commands to search LinkedIn's job search API.
 
           ### Web Search (SECONDARY SOURCES)
-          Also use WebSearch to find jobs on:
-          - Indeed/SwissDevJobs: Senior engineering roles in Geneva/Switzerland
-          - Wellfound/Remote boards: Startup founding/staff roles, remote-friendly
-          - Hacker News Who's Hiring threads
-          Aim for 15-25 raw results total across all sources.
+          Also use WebSearch to find jobs on Indeed/SwissDevJobs, Wellfound/Remote boards, and HN Who's Hiring.
 
           ## Step 4: Match and Rank
-          Follow the matching instructions in `.cursor/agents/profile-matcher.md` to:
-          - Deduplicate against existing offers
-          - Score each new offer against the profile
-          - Return the top 5 most relevant new offers
+          Follow `.claude/agents/profile-matcher.md` to deduplicate and score.
 
           ## Step 5: Generate Report
-          Follow the report instructions in `.cursor/agents/report-builder.md` to:
-          - Create `data/daily/YYYY-MM-DD.json` with today's results
-          - Update `data/offers.json` with new offers
-          - Generate `data/daily/YYYY-MM-DD-telegram.txt` with the Telegram message
+          Follow `.claude/agents/report-builder.md` to:
+          - Create `data/daily/YYYY-MM-DD.json`
+          - Update `data/offers.json`
+          - Generate `data/daily/YYYY-MM-DD-telegram.txt`
 
           ## Step 6: Commit Changes
-          Commit and push changes:
-          ```bash
           git add data/
           git commit -m "🎯 Daily job hunt — $(date +%Y-%m-%d)" || echo "No changes to commit"
           git push
-          ```
 
-          IMPORTANT: Only include REAL job offers found via WebSearch or LinkedIn API. Never fabricate or hallucinate offers.
-          Use today's date for all file names and timestamps.
+          IMPORTANT: Only include REAL job offers found via WebSearch or LinkedIn API. Never fabricate offers.
           PROMPT_EOF
 
-          echo "Running cursor-agent..."
-          cursor-agent -p --force --stream-partial-output --output-format=stream-json . < "$TEMP_PROMPT_FILE"
-          EXIT_CODE=$?
-
-          rm -f "$TEMP_PROMPT_FILE"
-
-          if [ $EXIT_CODE -ne 0 ]; then
-            echo "cursor-agent failed with exit code: $EXIT_CODE"
-            exit 1
-          fi
-
-          echo "Job hunt completed successfully"
+          claude -p --dangerously-skip-permissions "$(cat "$TEMP_PROMPT_FILE")"
 
       - name: Send Telegram Notification
         if: always()
@@ -126,24 +96,15 @@ jobs:
           fi
 
           if [ -f "$MSG_FILE" ]; then
-            # Telegram has a 4096 char limit, truncate if needed
             MSG=$(head -c 4000 "$MSG_FILE")
             curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
               -d chat_id="${TELEGRAM_CHAT_ID}" \
               --data-urlencode text="$MSG" \
-              -d parse_mode="Markdown" || echo "⚠️ Telegram send failed, trying without markdown"
-
-            # Retry without markdown if it failed
-            if [ $? -ne 0 ]; then
-              curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
-                -d chat_id="${TELEGRAM_CHAT_ID}" \
-                --data-urlencode text="$MSG"
-            fi
+              -d parse_mode="Markdown" || true
           else
-            echo "No Telegram message file found for today (${MSG_FILE})"
             MSG="🎯 Job Hunter — ${DATE}
 
-          ⚠️ No results generated today. Check workflow logs."
+⚠️ No results generated today. Check workflow logs."
             curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
               -d chat_id="${TELEGRAM_CHAT_ID}" \
               --data-urlencode text="$MSG" \

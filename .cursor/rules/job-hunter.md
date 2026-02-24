@@ -1,7 +1,7 @@
 # Job Hunter — Project Rules
 
 ## Project Overview
-Automated daily job hunting powered by Cursor Agent + GitHub Actions.
+Automated daily job hunting powered by Claude Code + GitHub Actions.
 Searches for job offers matching Magino's profile, ranks them by relevance, and sends top 5 via Telegram.
 
 ## Architecture
@@ -9,7 +9,7 @@ Searches for job offers matching Magino's profile, ranks them by relevance, and 
 - **Data**: `data/offers.json` — All tracked offers (dedup database)
 - **Daily Reports**: `data/daily/YYYY-MM-DD.json` — Daily search results
 - **Telegram Messages**: `data/daily/YYYY-MM-DD-telegram.txt` — Formatted notification
-- **Agents**: `.cursor/agents/` — Specialized agent instructions
+- **Agents**: `.claude/agents/` — Specialized agent instructions
 - **Workflow**: `.github/workflows/job-hunt.yml` — Cron + manual trigger
 
 ## Agent Roles
