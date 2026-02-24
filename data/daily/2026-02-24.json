@@ -1,0 +1,101 @@
+{
+  "date": "2026-02-24",
+  "total_new_offers": 5,
+  "offers": [
+    {
+      "rank": 1,
+      "id": "aacc3e84c5924d91",
+      "title": "Staff Full Stack Engineer (Java, React)",
+      "company": "Sonar (SonarSource)",
+      "location": "Geneva, Switzerland (On-site)",
+      "url": "https://jobs.lever.co/sonarsource/4a00b120-bd33-460b-a5bf-b935919fc19e",
+      "source": "lever",
+      "summary": "Staff engineer on the Code Quality team at Sonar Geneva. Design and execute high-value experiments, lead cross-functional engineering initiatives, own release lifecycle including deployment and monitoring. Stack: Java backend, React/TypeScript frontend, Postgres, AWS cloud-native. 27 PTO days, 60% pension contribution.",
+      "score": 84,
+      "score_breakdown": {
+        "technical": 22,
+        "seniority": 23,
+        "location": 20,
+        "company": 13,
+        "impact": 6
+      },
+      "match_reason": "Staff-level full-stack role at Geneva's premier developer tools company — strong React/TypeScript/Postgres/AWS overlap with the candidate's core stack, plus distributed systems experience at 7M+ user scale."
+    },
+    {
+      "rank": 2,
+      "id": "9af2692891fc3b10",
+      "title": "Staff / Tech Lead Software Engineer - OpenGRC",
+      "company": "Filigran",
+      "location": "Switzerland (Remote)",
+      "url": "https://www.linkedin.com/jobs/search?keywords=Filigran+OpenGRC+Staff+Engineer&location=Switzerland",
+      "source": "linkedin",
+      "summary": "Staff or Tech Lead engineer building OpenGRC, a new open-source GRC (Governance, Risk, Compliance) platform at Filigran (makers of OpenCTI). Fully remote, cybersecurity-focused product company with open-source DNA. Stack likely includes TypeScript/React (frontend), Python/GraphQL (backend), Elasticsearch, Redis — based on Filigran's existing OpenCTI architecture.",
+      "score": 83,
+      "score_breakdown": {
+        "technical": 22,
+        "seniority": 23,
+        "location": 15,
+        "company": 14,
+        "impact": 9
+      },
+      "match_reason": "Building a brand-new open-source product from zero at a cybersecurity startup — combines Staff/TL seniority with founding-engineer-style ownership, using a TypeScript/Python/React/GraphQL stack that closely matches the candidate's expertise."
+    },
+    {
+      "rank": 3,
+      "id": "3995eff31b42823c",
+      "title": "Head of Engineering",
+      "company": "kaiko.ai",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.linkedin.com/jobs/search?keywords=kaiko.ai+Head+of+Engineering&location=Zurich",
+      "source": "linkedin",
+      "summary": "Head of Engineering at kaiko.ai, an AI startup in Zurich. Engineering leadership role at an AI-focused company, owning technical direction, team building, and platform architecture. Zurich-based with startup culture.",
+      "score": 77,
+      "score_breakdown": {
+        "technical": 16,
+        "seniority": 24,
+        "location": 15,
+        "company": 14,
+        "impact": 8
+      },
+      "match_reason": "Head of Engineering at a Swiss AI startup matches target role #3 (VP/Head of Eng hybrid IC) with direct AI/ML alignment — the candidate's co-founder-to-acquisition trajectory makes them a strong fit for this engineering leadership position."
+    },
+    {
+      "rank": 4,
+      "id": "d49f6d01465217d6",
+      "title": "AI Solution Architecture Lead",
+      "company": "World Economic Forum",
+      "location": "Geneva, Switzerland",
+      "url": "https://www.linkedin.com/jobs/search?keywords=World+Economic+Forum+AI+Solution+Architecture+Lead&location=Geneva",
+      "source": "linkedin",
+      "summary": "AI Solution Architecture Lead at the World Economic Forum in Geneva. Own the AI architecture strategy and implementation for one of the world's most influential international organizations. Purpose-driven mission aligns with the candidate's values.",
+      "score": 73,
+      "score_breakdown": {
+        "technical": 17,
+        "seniority": 20,
+        "location": 20,
+        "company": 9,
+        "impact": 7
+      },
+      "match_reason": "Geneva-based AI architecture leadership at a globally influential, purpose-driven organization — rare combination of top-priority location, AI focus, and architectural ownership that aligns with the candidate's impact-driven values."
+    },
+    {
+      "rank": 5,
+      "id": "129e247fb757cc94",
+      "title": "Founding Engineer",
+      "company": "Alantra",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.linkedin.com/jobs/search?keywords=Alantra+Founding+Engineer&location=Zurich",
+      "source": "linkedin",
+      "summary": "Founding Engineer at Alantra, a European financial advisory and asset management firm building a new technology venture in Zurich. First engineer role with full ownership of technical direction and architecture. Posted 1 day ago.",
+      "score": 71,
+      "score_breakdown": {
+        "technical": 13,
+        "seniority": 24,
+        "location": 15,
+        "company": 10,
+        "impact": 9
+      },
+      "match_reason": "Founding engineer at a fintech venture in Zurich with full technical ownership — mirrors the candidate's Alaya co-founding experience, offering build-from-zero scope at a well-resourced financial firm spinning up a new tech product."
+    }
+  ]
+}
