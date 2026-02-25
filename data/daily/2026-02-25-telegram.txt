@@ -1,0 +1,29 @@
+🎯 *Job Hunter — 2026-02-25*
+
+*1.* *Founding-level Engineer (Full-Stack)* @ enzianlabs
+📍 Zurich, Switzerland | ⭐ 81/100
+💡 AI startup studio seeking founding engineer to build AI ventures from zero — mirrors Alaya co-founding background
+🔗 https://enzianlabs.com
+
+*2.* *Forward Deployed Engineer, ML* @ Sonar
+📍 Geneva, Switzerland | ⭐ 77/100
+💡 First group of ML deployment engineers at Sonar Geneva — Python/K8s/LLM stack with founding-like ownership of new function
+🔗 https://jobs.lever.co/sonarsource/263c8762-35c9-481b-be8c-83070d02d9be
+
+*3.* *Engineering Manager (Code Quality)* @ Sonar
+📍 Geneva, Switzerland | ⭐ 72/100
+💡 Lead squad of 5-10 devs building SonarQube for 7M+ users — engineering leadership at Geneva's top dev tools company
+🔗 https://jobs.lever.co/sonarsource/b3fab326-a465-4968-900f-1a24ab6342f2
+
+*4.* *Engineering Lead (Rust)* @ Keyrock
+📍 Geneva, Switzerland | ⭐ 66/100
+💡 Engineering Lead at crypto market maker in Geneva — strong location/seniority match but Rust stack diverges
+🔗 https://jobs.ashbyhq.com/keyrock/551966c3-fbb5-4032-8490-ae1d089f6834
+
+*5.* *Staff Software Engineer – Growth* @ Kraken
+📍 Switzerland (Remote) | ⭐ 65/100
+💡 Staff-level role at major crypto exchange with Swiss remote flexibility
+🔗 https://www.linkedin.com/jobs/search?keywords=Staff+Software+Engineer+Growth+Kraken&location=Switzerland
+
+---
+📊 _5 new offers found | 104 total tracked_

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-24",
+  "last_updated": "2026-02-25",
   "offers": [
     {
       "id": "e8f2a5c9d7b1f4a6e3c8d2f9b5a7e1c4f8b3d6a9c2e5f7b1d4a8c6e3f9b2d5e7a1",
@@ -1571,6 +1571,106 @@
         "impact": 9
       },
       "relevance_notes": "Founding engineer at a fintech venture in Zurich with full technical ownership \u2014 mirrors the candidate's Alaya co-founding experience, offering build-from-zero scope.",
+      "status": "new"
+    },
+    {
+      "id": "c6004f0a2d2dd541",
+      "title": "Founding-level Engineer (Full-Stack)",
+      "company": "enzianlabs",
+      "location": "Zurich, Switzerland",
+      "url": "https://enzianlabs.com",
+      "source": "linkedin",
+      "summary": "Founding-level full-stack engineer at enzianlabs, an AI-first startup studio in Zurich building leading AI software companies from scratch. Founding-team ownership with complete technical autonomy in new AI ventures.",
+      "date_found": "2026-02-25",
+      "score": 81,
+      "score_breakdown": {
+        "technical": 20,
+        "seniority": 23,
+        "location": 15,
+        "company": 14,
+        "impact": 9
+      },
+      "relevance_notes": "Founding engineer at an AI startup studio in Zurich \u2014 mirrors the candidate's Alaya co-founding experience, with build-from-zero ownership in an AI-first environment matching target role #2 and AI/ML interest.",
+      "status": "new"
+    },
+    {
+      "id": "f1696d100e4e410e",
+      "title": "Forward Deployed Engineer, ML",
+      "company": "Sonar (SonarSource)",
+      "location": "Geneva, Switzerland (On-site)",
+      "url": "https://jobs.lever.co/sonarsource/263c8762-35c9-481b-be8c-83070d02d9be",
+      "source": "lever",
+      "summary": "First group of Forward Deployed ML Engineers at Sonar Geneva. Technical architect deploying ML solutions to strategic enterprise clients. Python, Docker, Kubernetes, LLM expertise. 27 PTO days, 60% pension.",
+      "date_found": "2026-02-25",
+      "score": 77,
+      "score_breakdown": {
+        "technical": 22,
+        "seniority": 15,
+        "location": 20,
+        "company": 13,
+        "impact": 7
+      },
+      "relevance_notes": "Brand-new ML deployment role at Geneva's premier dev tools company \u2014 Python/Docker/Kubernetes/LLM stack matches AI-augmented engineering expertise; being in the first group means founding-like ownership.",
+      "status": "new"
+    },
+    {
+      "id": "d79ac627b4a51eb6",
+      "title": "Engineering Manager (Code Quality)",
+      "company": "Sonar (SonarSource)",
+      "location": "Geneva, Switzerland (On-site)",
+      "url": "https://jobs.lever.co/sonarsource/b3fab326-a465-4968-900f-1a24ab6342f2",
+      "source": "lever",
+      "summary": "Engineering Manager leading squad of 5-10 devs building SonarQube for 7M+ developers. Owns team growth, quarterly objectives, and technical architecture direction. 8+ years SWE, 3+ years leadership. 27 PTO days.",
+      "date_found": "2026-02-25",
+      "score": 72,
+      "score_breakdown": {
+        "technical": 13,
+        "seniority": 20,
+        "location": 20,
+        "company": 13,
+        "impact": 6
+      },
+      "relevance_notes": "Engineering leadership at Geneva's top dev tools company \u2014 managing a squad building products used by millions aligns with VP/Lead target, though Java stack differs from TypeScript/Node.js.",
+      "status": "new"
+    },
+    {
+      "id": "7b8eb5d1e639f0f8",
+      "title": "Engineering Lead (Rust)",
+      "company": "Keyrock",
+      "location": "Geneva, Switzerland (or Brussels)",
+      "url": "https://jobs.ashbyhq.com/keyrock/551966c3-fbb5-4032-8490-ae1d089f6834",
+      "source": "linkedin",
+      "summary": "Engineering Lead on the Spot Market Making Trading team at Keyrock, a leading crypto market maker. Rust-based trading infrastructure. Listed for Geneva on LinkedIn. Team building and technical leadership role.",
+      "date_found": "2026-02-25",
+      "score": 66,
+      "score_breakdown": {
+        "technical": 8,
+        "seniority": 22,
+        "location": 20,
+        "company": 10,
+        "impact": 6
+      },
+      "relevance_notes": "Engineering Lead in Geneva at a crypto fintech scale-up \u2014 strong location and seniority match for target role #3, though Rust tech stack differs from TypeScript/Node.js/Python.",
+      "status": "new"
+    },
+    {
+      "id": "cd1deaff7a2f9ff2",
+      "title": "Staff Software Engineer \u2013 Growth",
+      "company": "Kraken",
+      "location": "Switzerland (Remote)",
+      "url": "https://www.linkedin.com/jobs/search?keywords=Staff+Software+Engineer+Growth+Kraken&location=Switzerland",
+      "source": "linkedin",
+      "summary": "Staff-level growth engineer at Kraken, one of the world's largest crypto exchanges. Remote from Switzerland. Growth team focuses on user acquisition, retention, and engagement optimization.",
+      "date_found": "2026-02-25",
+      "score": 65,
+      "score_breakdown": {
+        "technical": 14,
+        "seniority": 22,
+        "location": 15,
+        "company": 10,
+        "impact": 4
+      },
+      "relevance_notes": "Staff-level role at a major crypto exchange with Swiss remote \u2014 good seniority match, but growth optimization focus is less aligned than platform/architecture roles.",
       "status": "new"
     }
   ]
