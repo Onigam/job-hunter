@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-import json, sys, subprocess, re
+import json, os, sys, subprocess, re
 
 def fetch_linkedin(url, cookie):
     result = subprocess.run([
@@ -72,7 +72,10 @@ def parse_jobs(raw_json):
 
     return jobs
 
-COOKIE = 'AQEDARMq-UQCVQt0AAABnEIhwMoAAAGcZi5Eyk4Ad7yugyZH3mbilt1Aloj3DBmgGEQRpErrMLLJG2p7Hi6dpop74Q9ct2wMqlsLEx4xnO9JgeC9PvFomlwj0g4zEaboWWpjcszYUeFw-K3fo0hI_zf0'
+COOKIE = os.getenv('LINKEDIN_COOKIE', '').strip()
+if not COOKIE:
+    print('ERROR: Missing LINKEDIN_COOKIE environment variable', file=sys.stderr)
+    sys.exit(1)
 
 searches = [
     ('Staff Engineer Switzerland', 'https://www.linkedin.com/voyager/api/voyagerJobsDashJobCards?decorationId=com.linkedin.voyager.dash.deco.jobs.search.JobSearchCardsCollection-227&count=25&q=jobSearch&query=(origin:JOB_SEARCH_PAGE_SEARCH_BUTTON,keywords:Staff%20Engineer,locationUnion:(geoId:106693272),spellCorrectionEnabled:true)&start=0'),
