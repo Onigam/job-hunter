@@ -1,0 +1,101 @@
+{
+  "date": "2026-02-26",
+  "total_new_offers": 5,
+  "offers": [
+    {
+      "rank": 1,
+      "id": "a4c1d8e7f29b5036",
+      "title": "CTO Associé — Medtech Start-up",
+      "company": "Esthetic Match",
+      "location": "Geneva, Switzerland",
+      "url": "https://www.linkedin.com/jobs/search?keywords=%22Esthetic+Match%22+CTO&location=Geneva",
+      "source": "linkedin",
+      "summary": "CTO co-founder role at Esthetic Match, an early-stage medtech startup in the Geneva metropolitan area. Full technical ownership and founding-team responsibility building health/beauty tech from scratch. Posted within the last 24 hours.",
+      "score": 83,
+      "score_breakdown": {
+        "technical": 16,
+        "seniority": 24,
+        "location": 20,
+        "company": 14,
+        "impact": 9
+      },
+      "match_reason": "CTO at a Geneva medtech startup is a direct match for target role #4 — co-founder-level ownership at the candidate's highest-priority location, with purpose-driven mission echoing the Alaya trajectory."
+    },
+    {
+      "rank": 2,
+      "id": "b7e3f9a1c5d20846",
+      "title": "DeFi Co-Founder / CTO (100% remote)",
+      "company": "EWOR",
+      "location": "Geneva, Switzerland (Remote)",
+      "url": "https://www.linkedin.com/jobs/search?keywords=DeFi+Co-Founder+CTO+EWOR&location=Geneva",
+      "source": "linkedin",
+      "summary": "Co-Founder / CTO role through EWOR's startup incubator for a DeFi venture based in Geneva. 100% remote with full technical co-founder ownership, equity stake, and autonomy to define the architecture and product from day one.",
+      "score": 80,
+      "score_breakdown": {
+        "technical": 14,
+        "seniority": 24,
+        "location": 20,
+        "company": 13,
+        "impact": 9
+      },
+      "match_reason": "Co-Founder/CTO at a Geneva-based DeFi startup through a top European incubator — mirrors the candidate's Alaya co-founding trajectory with full build-from-zero ownership."
+    },
+    {
+      "rank": 3,
+      "id": "c8d2e6f4a1b73950",
+      "title": "Member of Technical Staff, Software Engineer — MAI SuperIntelligence team",
+      "company": "Microsoft AI",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.linkedin.com/jobs/search?keywords=Member+Technical+Staff+MAI+SuperIntelligence+Microsoft+AI&location=Zurich",
+      "source": "linkedin",
+      "summary": "Member of Technical Staff on Microsoft AI's MAI SuperIntelligence team in Zurich. Working on frontier AI models and infrastructure at one of the world's most advanced AI research labs. MTS is Staff-equivalent seniority at Microsoft AI.",
+      "score": 78,
+      "score_breakdown": {
+        "technical": 20,
+        "seniority": 22,
+        "location": 15,
+        "company": 12,
+        "impact": 9
+      },
+      "match_reason": "Prestigious frontier AI role in Zurich at Microsoft's most advanced AI lab — MTS is Staff-equivalent, Switzerland location, and cutting-edge AI/ML work aligns with the candidate's AI-augmented engineering interest."
+    },
+    {
+      "rank": 4,
+      "id": "d9e3f7a2b1c84061",
+      "title": "Staff Fullstack Software Engineer",
+      "company": "SoFi",
+      "location": "Lucerne, Switzerland",
+      "url": "https://www.linkedin.com/jobs/search?keywords=Staff+Fullstack+Software+Engineer+SoFi&location=Switzerland",
+      "source": "linkedin",
+      "summary": "Staff-level fullstack software engineer at SoFi (major US fintech) in their Lucerne, Switzerland office. Full-stack product engineering at a well-funded, publicly traded fintech company with a strong engineering culture.",
+      "score": 74,
+      "score_breakdown": {
+        "technical": 18,
+        "seniority": 22,
+        "location": 15,
+        "company": 10,
+        "impact": 9
+      },
+      "match_reason": "Staff-level fullstack role at a major fintech in Switzerland — strong seniority match with likely TypeScript/React/Node.js stack alignment and product-company culture."
+    },
+    {
+      "rank": 5,
+      "id": "e1f4a8b2c5d96072",
+      "title": "Senior Software Engineer — AI Infrastructure",
+      "company": "Kraken",
+      "location": "Switzerland (Remote)",
+      "url": "https://www.linkedin.com/jobs/search?keywords=Senior+Software+Engineer+AI+Infrastructure+Kraken&location=Switzerland",
+      "source": "linkedin",
+      "summary": "Senior Software Engineer focused on AI infrastructure at Kraken, one of the world's largest cryptocurrency exchanges. Remote from Switzerland. Building ML/AI systems powering trading, fraud detection, and platform intelligence.",
+      "score": 72,
+      "score_breakdown": {
+        "technical": 19,
+        "seniority": 17,
+        "location": 15,
+        "company": 10,
+        "impact": 11
+      },
+      "match_reason": "AI infrastructure role at a major crypto exchange, remote from Switzerland — combines AI/ML platform work with cloud infrastructure expertise, complementing the candidate's AWS and platform engineering background."
+    }
+  ]
+}
