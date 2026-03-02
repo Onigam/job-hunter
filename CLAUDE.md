@@ -1,7 +1,8 @@
 # Job Hunter — Project Configuration
 
-> Project rules have moved to `.cursor/rules/job-hunter.md`.
-> Agent instructions are in `.cursor/agents/`.
-> This file is kept for backward compatibility.
+Agent instructions are in `.claude/agents/`:
+- `job-searcher.md` — how to search LinkedIn + web sources
+- `profile-matcher.md` — how to score and rank offers
+- `report-builder.md` — how to generate daily reports
 
-See `.cursor/rules/job-hunter.md` for full project documentation.
+Claude Code settings (permissions, allowed tools) are in `.claude/settings.json`.
