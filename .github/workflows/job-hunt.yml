@@ -25,19 +25,22 @@ jobs:
         env:
           LINKEDIN_COOKIE: ${{ secrets.LINKEDIN_COOKIE }}
 
-      - name: Install Cursor CLI
-        run: |
-          curl https://cursor.com/install -fsS | bash
-          echo "$HOME/.cursor/bin" >> $GITHUB_PATH
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Install Claude Code CLI
+        run: npm install -g @anthropic-ai/claude-code
 
       - name: Configure Git
         run: |
           git config user.name "Magino"
           git config user.email "13470680+Onigam@users.noreply.github.com"
 
-      - name: Run Job Hunter with Cursor Agent
+      - name: Run Job Hunter with Claude Code
         env:
-          CURSOR_API_KEY: ${{ secrets.CURSOR_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
           TEMP_PROMPT_FILE=$(mktemp)
           cat > "$TEMP_PROMPT_FILE" <<'PROMPT_EOF'
@@ -52,13 +55,13 @@ jobs:
           Read `data/offers.json` to know which offers have already been found (for deduplication).
 
           ## Step 3: Search for New Offers
-          Follow the search instructions in `.cursor/agents/job-searcher.md` to search for new job offers.
+          Follow the search instructions in `.claude/agents/job-searcher.md` to search for new job offers.
           Run multiple searches across different platforms and keywords:
 
           ### LinkedIn Authenticated Search (PRIMARY SOURCE)
           A LinkedIn session cookie (`li_at` value) is available in the file `/tmp/linkedin_cookie.txt`.
           Read it, then use the value in curl commands to search LinkedIn's
-          job search API. The agent instructions in `.cursor/agents/job-searcher.md` contain
+          job search API. The agent instructions in `.claude/agents/job-searcher.md` contain
           detailed curl examples.
           Run searches for:
           - "Staff Engineer" in Geneva/Switzerland
@@ -75,13 +78,13 @@ jobs:
           Aim for 15-25 raw results total across all sources.
 
           ## Step 4: Match and Rank
-          Follow the matching instructions in `.cursor/agents/profile-matcher.md` to:
+          Follow the matching instructions in `.claude/agents/profile-matcher.md` to:
           - Deduplicate against existing offers
           - Score each new offer against the profile
           - Return the top 5 most relevant new offers
 
           ## Step 5: Generate Report
-          Follow the report instructions in `.cursor/agents/report-builder.md` to:
+          Follow the report instructions in `.claude/agents/report-builder.md` to:
           - Create `data/daily/YYYY-MM-DD.json` with today's results
           - Update `data/offers.json` with new offers
           - Generate `data/daily/YYYY-MM-DD-telegram.txt` with the Telegram message
@@ -98,14 +101,14 @@ jobs:
           Use today's date for all file names and timestamps.
           PROMPT_EOF
 
-          echo "Running cursor-agent..."
-          cursor-agent -p --force --stream-partial-output --output-format=stream-json . < "$TEMP_PROMPT_FILE"
+          echo "Running Claude Code agent..."
+          claude -p "$(cat "$TEMP_PROMPT_FILE")" --dangerously-skip-permissions
           EXIT_CODE=$?
 
           rm -f "$TEMP_PROMPT_FILE"
 
           if [ $EXIT_CODE -ne 0 ]; then
-            echo "cursor-agent failed with exit code: $EXIT_CODE"
+            echo "claude failed with exit code: $EXIT_CODE"
             exit 1
           fi
 
