@@ -1,6 +1,6 @@
 # Job Hunter
 
-Automated daily job hunting powered by **Cursor Agent** (`cursor-agent` CLI) + **GitHub Actions**.
+Automated daily job hunting powered by **Claude Code** (`claude` CLI) + **GitHub Actions**.
 
 Searches for senior engineering roles matching your profile across multiple platforms (including authenticated LinkedIn search), ranks them by relevance, and sends the top 5 via **Telegram** every morning at 8:00 Geneva time.
 
@@ -54,10 +54,13 @@ Go to **Settings → Secrets and variables → Actions** in your GitHub repo and
 
 | Secret | Description | How to get it |
 |--------|-------------|---------------|
-| `CURSOR_API_KEY` | Cursor API key for the cursor-agent CLI | [Cursor Dashboard → Integrations](https://cursor.com/dashboard?tab=integrations) |
+| `CLAUDE_CODE_OAUTH_TOKEN` | Claude OAuth token (preferred — uses Pro plan, no API credits) | Run `claude` locally → `~/.claude/.credentials.json` → copy `claudeAiOauth2Token` |
+| `ANTHROPIC_API_KEY` | Anthropic API key (fallback if no OAuth token) | [console.anthropic.com](https://console.anthropic.com) |
 | `LINKEDIN_COOKIE` | LinkedIn `li_at` session cookie for authenticated search | Browser DevTools → Application → Cookies → linkedin.com → `li_at` |
 | `TELEGRAM_BOT_TOKEN` | Telegram bot token | Talk to [@BotFather](https://t.me/BotFather) on Telegram |
 | `TELEGRAM_CHAT_ID` | Your Telegram chat ID | See [instructions below](#getting-your-telegram-chat-id) |
+
+> **Note:** `CLAUDE_CODE_OAUTH_TOKEN` takes priority. If set, `ANTHROPIC_API_KEY` is ignored. You only need one of the two.
 
 ### 4. Test the Workflow
 
@@ -100,13 +103,14 @@ on:
 
 ```
 job-hunter/
-├── .cursor/
+├── .claude/
 │   ├── agents/
 │   │   ├── job-searcher.md        # Searches LinkedIn API + web platforms
 │   │   ├── profile-matcher.md     # Scores and ranks offers vs profile
 │   │   └── report-builder.md      # Generates reports + Telegram messages
-│   └── rules/
-│       └── job-hunter.md          # Project rules and configuration
+│   ├── prompts/
+│   │   └── job-hunter-orchestrator.md  # Main orchestrator prompt
+│   └── settings.json              # Claude Code permissions config
 ├── .github/
 │   └── workflows/
 │       └── job-hunt.yml           # GitHub Actions workflow
@@ -117,6 +121,7 @@ job-hunter/
 │       └── YYYY-MM-DD-telegram.txt # Telegram message
 ├── profile/
 │   └── context.md                 # Your candidate profile
+├── CLAUDE.md                      # Claude Code project config
 └── README.md
 ```
 
@@ -145,13 +150,16 @@ Offers are scored on 5 dimensions (100 points total):
 ## Customization
 
 ### Change Search Keywords
-Edit the search queries in `.cursor/agents/job-searcher.md`.
+Edit the search queries in `.claude/agents/job-searcher.md`.
 
 ### Adjust Scoring Weights
-Modify the scoring criteria in `.cursor/agents/profile-matcher.md`.
+Modify the scoring criteria in `.claude/agents/profile-matcher.md`.
 
 ### Change Notification Format
-Update the Telegram message template in `.cursor/agents/report-builder.md`.
+Update the Telegram message template in `.claude/agents/report-builder.md`.
+
+### Change Orchestrator Prompt
+Edit `.claude/prompts/job-hunter-orchestrator.md`.
 
 ### Change Schedule
 Edit the cron expression in `.github/workflows/job-hunt.yml`.
@@ -160,7 +168,7 @@ Edit the cron expression in `.github/workflows/job-hunt.yml`.
 
 ## Tech Stack
 
-- **Cursor Agent** (`cursor-agent` CLI) — AI-powered job search and analysis
+- **Claude Code** (`@anthropic-ai/claude-code`) — AI-powered job search and analysis
 - **LinkedIn Voyager API** — Authenticated job search via session cookie
 - **GitHub Actions** — Scheduling and orchestration
 - **Telegram Bot API** — Notifications
