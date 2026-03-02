@@ -54,7 +54,7 @@ jobs:
             exit 1
           fi
 
-          claude -p --dangerously-skip-permissions "$(cat .claude/prompts/job-hunter-orchestrator.md)"
+          claude -p --dangerously-skip-permissions --output-format text < .claude/prompts/job-hunter-orchestrator.md
 
       - name: Send Telegram Notification
         if: always()
