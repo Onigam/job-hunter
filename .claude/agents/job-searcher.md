@@ -46,6 +46,9 @@ blocks it. Paste the literal value directly into the curl command.
 5. `keywords=CTO%20startup` + geoId Switzerland
 6. `keywords=VP%20Engineering` + geoId Geneva
 7. `keywords=Staff%20Engineer%20remote` (no geoId filter)
+8. `keywords=Biblioth%C3%A9caire` + geoId Switzerland
+9. `keywords=Auxiliaire%20biblioth%C3%A9caire` + geoId Switzerland
+10. `keywords=Aide%20biblioth%C3%A9caire` + geoId Switzerland
 
 **Parsing LinkedIn response:**
 The response is JSON. Look for job cards in the `elements` array. Each card contains:
@@ -76,6 +79,9 @@ Combine role keywords with location filters:
 - "Founding Engineer" OR "First Engineer"
 - "VP Engineering" OR "Head of Engineering"
 - "CTO" startup
+- "Bibliothécaire" OR "Auxiliaire bibliothécaire" OR "Aide bibliothécaire"
+- "Bibliothécaire numérique" OR "Chargé de documentation" OR "Documentaliste"
+- "Responsable de bibliothèque" OR "Coordinateur bibliothèque"
 
 **Location filters** (priority order):
 - Geneva, Switzerland
@@ -93,6 +99,9 @@ Combine role keywords with location filters:
 - `"Founding Engineer" startup Switzerland`
 - `"Senior Staff Engineer" OR "Principal Engineer" Geneva`
 - `"CTO" OR "VP Engineering" startup Geneva Switzerland`
+- `"bibliothécaire" OR "auxiliaire bibliothécaire" Genève Suisse`
+- `"bibliothécaire" OR "aide bibliothécaire" Suisse site:indeed.ch`
+- `"documentaliste" OR "bibliothécaire numérique" Genève`
 
 ## Output Format
 Return a JSON array of offers. For each offer include:
@@ -109,7 +118,7 @@ Return a JSON array of offers. For each offer include:
 ```
 
 ## Rules
-- Search broadly but stay relevant to senior engineering roles
+- Search broadly — the candidate is exploring both senior engineering roles AND library/documentation sector (bibliothécaire, auxiliaire bibliothécaire, documentaliste) — treat both track equally
 - Include at least 3-4 different search queries to cover various platforms
 - Do NOT fabricate or hallucinate job postings — only include real offers found via search
 - If a search returns no results, move to the next query
