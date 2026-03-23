@@ -41,9 +41,6 @@ Combines founding-engineer ownership with deep hands-on expertise across distrib
 2. Founding Engineer / First Engineer
 3. VP Engineering / Engineering Lead (hybrid IC)
 4. CTO (early-stage startup)
-5. Bibliothécaire / Auxiliaire bibliothécaire / Aide bibliothécaire
-6. Documentaliste / Chargé de documentation / Bibliothécaire numérique
-   _(secteur bibliothèques, pas forcément artistique — public, universitaire, municipal, cantonal)_
 
 ## Location Preferences (Priority Order)
 1. **Geneva, Switzerland** — Highest priority
@@ -64,4 +61,4 @@ Combines founding-engineer ownership with deep hands-on expertise across distrib
 - Geneva market rates expected for local positions
 
 ## Keywords for Search
-Staff Engineer, Senior Staff Engineer, Principal Engineer, Platform Engineer, Founding Engineer, First Engineer, Engineering Lead, VP Engineering, CTO, Head of Engineering, TypeScript, Node.js, React, Python, AWS, Kubernetes, AI, Platform, Architecture, Geneva, Switzerland, Remote, bibliothécaire, auxiliaire bibliothécaire, aide bibliothécaire, documentaliste, bibliothèque, Genève, Suisse
+Staff Engineer, Senior Staff Engineer, Principal Engineer, Platform Engineer, Founding Engineer, First Engineer, Engineering Lead, VP Engineering, CTO, Head of Engineering, TypeScript, Node.js, React, Python, AWS, Kubernetes, AI, Platform, Architecture, Geneva, Switzerland, Remote
