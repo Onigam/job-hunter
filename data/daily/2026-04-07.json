@@ -1,0 +1,121 @@
+{
+  "date": "2026-04-07",
+  "total_new_offers": 6,
+  "sources": ["linkedin", "greenhouse"],
+  "offers": [
+    {
+      "rank": 1,
+      "id": "fe44f58c370a8891bdf0c2a7e3d9b415",
+      "title": "Engineering Manager",
+      "company": "Sonar (SonarSource)",
+      "location": "Geneva, Switzerland",
+      "url": "https://jobs.lever.co/sonarsource",
+      "source": "linkedin",
+      "description_short": "Engineering Manager role at Sonar (SonarSource), the leading static code analysis company used by 7M+ developers. Based in Geneva. Sonar is actively hiring across engineering leadership roles and is rapidly expanding its AI-driven code quality and security platform.",
+      "score": 88,
+      "score_breakdown": {
+        "technical": 22,
+        "seniority": 22,
+        "location": 20,
+        "company": 14,
+        "impact": 10
+      },
+      "match_reason": "Geneva-based engineering leadership at top developer tools company; Sonar's developer-first culture and scale-up phase perfectly aligns with Magino's cofounder/staff+ profile. Previously tracked VP role — this new EM opening is a distinct listing posted <24h ago."
+    },
+    {
+      "rank": 2,
+      "id": "106cc1bf44f3452e9a7c5e2f8b0d3a9c",
+      "title": "VP of Engineering",
+      "company": "Neural Concept",
+      "location": "Lausanne, Vaud, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/vp-of-engineering-at-neural-concept",
+      "source": "linkedin",
+      "description_short": "VP of Engineering at Neural Concept, a deep-learning AI startup (founded 2018, EPFL spin-off) building the AI-first engineering platform for product development. The company helps engineering teams leverage AI copilots for product design. Posted 4 days ago, based in Lausanne.",
+      "score": 85,
+      "score_breakdown": {
+        "technical": 20,
+        "seniority": 25,
+        "location": 15,
+        "company": 15,
+        "impact": 10
+      },
+      "match_reason": "VP Engineering role at an AI/deep-learning scale-up in Switzerland — ideal seniority match. Company was founded in 2018 (same year as Alaya), is engineering-first and AI-driven. Lausanne is close to Geneva and Magino's target region."
+    },
+    {
+      "rank": 3,
+      "id": "cb7412b42ff78be1a3f9d26c0e7b5214",
+      "title": "Head of Engineering",
+      "company": "Lyceum",
+      "location": "Zurich, Switzerland",
+      "url": "https://lyceum.technology/careers",
+      "source": "linkedin",
+      "description_short": "Head of Engineering at Lyceum, a 2025-founded Swiss AI infrastructure startup that simplifies GPU/CPU compute access for AI model deployment — eliminating DevOps overhead. European sovereign compute focus. Series A-stage with 11-50 employees. Posted 5 days ago.",
+      "score": 82,
+      "score_breakdown": {
+        "technical": 20,
+        "seniority": 23,
+        "location": 13,
+        "company": 15,
+        "impact": 11
+      },
+      "match_reason": "Founding Head of Engineering at an early-stage AI infrastructure startup — exactly Magino's sweet spot. Platform/cloud compute focus aligns with AWS/Kubernetes/infra experience. European sovereign AI angle is compelling."
+    },
+    {
+      "rank": 4,
+      "id": "87fbd26b5797fd11c4e8a3b290d6f152",
+      "title": "Engineering Manager, Detection and Response",
+      "company": "Anthropic",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/engineering-manager-detection-and-response-at-anthropic",
+      "source": "linkedin",
+      "description_short": "Engineering Manager for Detection & Response at Anthropic's Zurich office. Anthropic is the AI safety company behind Claude. This is one of the few Anthropic engineering roles based in Europe (Zurich). Posted 3 days ago. Anthropic is among the top-tier AI companies globally.",
+      "score": 78,
+      "score_breakdown": {
+        "technical": 18,
+        "seniority": 22,
+        "location": 13,
+        "company": 15,
+        "impact": 10
+      },
+      "match_reason": "Engineering leadership at Anthropic's Zurich office — prestige AI company with real safety mission. Magino's AI-augmented engineering experience and platform background translate well. Detection/Response is security-adjacent but the EM scope is broad."
+    },
+    {
+      "rank": 5,
+      "id": "e4d8f55addc97707b2f3c8a9e1d4b037",
+      "title": "Senior Staff Software Engineer - Unity Catalog Runtime Enforcement",
+      "company": "Databricks",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/senior-staff-software-engineer-unity-catalog-runtime-enforcement-at-databricks",
+      "source": "linkedin",
+      "description_short": "Senior Staff Software Engineer on the Unity Catalog Runtime Enforcement team at Databricks Zurich. Databricks is a data + AI unicorn ($43B valuation). This role works on the security enforcement layer of their open data catalog. Posted 1 week ago — still within dedup window.",
+      "score": 74,
+      "score_breakdown": {
+        "technical": 20,
+        "seniority": 20,
+        "location": 13,
+        "company": 12,
+        "impact": 9
+      },
+      "match_reason": "Senior Staff IC role at a top-tier data/AI company in Zurich. Runtime enforcement layer overlaps with distributed systems and platform architecture expertise. Note: Databricks is already tracked but with a different title (Delta team) — this is a new separate opening."
+    },
+    {
+      "rank": 6,
+      "id": "3a8161f9722281c2d5f7b4c9e0a3d287",
+      "title": "Senior Software Engineer - Distributed Systems",
+      "company": "Decentriq",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-distributed-systems-at-decentriq",
+      "source": "linkedin",
+      "description_short": "Senior Software Engineer on distributed systems at Decentriq, a Swiss confidential computing startup (privacy-preserving data collaboration). Engineering-first culture, strong technical challenges. Posted 4 days ago. Actively seeking early applicants.",
+      "score": 68,
+      "score_breakdown": {
+        "technical": 20,
+        "seniority": 18,
+        "location": 13,
+        "company": 10,
+        "impact": 7
+      },
+      "match_reason": "Technically strong match (distributed systems, Swiss startup, engineering culture). Slightly below target seniority (Senior vs Staff+) but Decentriq is a product company with real architectural depth in confidential computing. New company not previously tracked."
+    }
+  ]
+}

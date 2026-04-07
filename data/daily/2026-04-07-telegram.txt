@@ -1,0 +1,34 @@
+🎯 *Job Hunter — 2026-04-07*
+
+*1.* *Engineering Manager* @ Sonar (SonarSource)
+📍 Geneva, Switzerland | ⭐ 88/100
+💡 Geneva-based EM role at top developer tools company (7M+ devs). Sonar's engineering-first culture + scale-up phase = ideal fit. New opening posted <24h ago.
+🔗 https://jobs.lever.co/sonarsource
+
+*2.* *VP of Engineering* @ Neural Concept
+📍 Lausanne, Switzerland | ⭐ 85/100
+💡 VP Engineering at an AI/DL startup (EPFL spin-off, founded 2018). Building AI copilots for engineering product design. Same founding year as Alaya — déjà vu energy.
+🔗 https://www.linkedin.com/jobs/view/vp-of-engineering-at-neural-concept
+
+*3.* *Head of Engineering* @ Lyceum
+📍 Zurich, Switzerland | ⭐ 82/100
+💡 First Head of Eng at a 2025-born AI infra startup simplifying GPU compute access. Sovereign European compute, platform engineering focus — classic Magino territory.
+🔗 https://lyceum.technology/careers
+
+*4.* *Engineering Manager, Detection and Response* @ Anthropic
+📍 Zurich, Switzerland | ⭐ 78/100
+💡 EM role at Anthropic Zurich — Claude's builders, one of few European EM openings. AI safety mission + prestige. Magino's AI-augmented engineering experience is a strong signal.
+🔗 https://www.linkedin.com/jobs/view/engineering-manager-detection-and-response-at-anthropic
+
+*5.* *Senior Staff Software Engineer - Unity Catalog Runtime Enforcement* @ Databricks
+📍 Zurich, Switzerland | ⭐ 74/100
+💡 Senior Staff IC at Databricks on the Unity Catalog security enforcement layer. Top-tier data/AI company, real platform depth. New opening (different from previously tracked Delta role).
+🔗 https://www.linkedin.com/jobs/view/senior-staff-software-engineer-unity-catalog-runtime-enforcement-at-databricks
+
+*6.* *Senior Software Engineer - Distributed Systems* @ Decentriq
+📍 Zurich, Switzerland | ⭐ 68/100
+💡 Swiss confidential computing startup — strong technical match on distributed systems. Below Staff+ target but Decentriq is product-first, engineering-heavy. New company in tracker.
+🔗 https://www.linkedin.com/jobs/view/senior-software-engineer-distributed-systems-at-decentriq
+
+---
+📊 _6 new offers found | 115 total tracked_
