@@ -1,0 +1,107 @@
+{
+  "date": "2026-04-08",
+  "search_queries": [
+    "\"Staff Engineer\" OR \"Principal Engineer\" remote Europe TypeScript Node.js site:weworkremotely.com",
+    "\"Founding Engineer\" AI startup remote Europe TypeScript Python 2026",
+    "site:news.ycombinator.com \"who is hiring\" \"April 2026\" engineer TypeScript",
+    "\"CTO\" OR \"VP Engineering\" startup Switzerland Geneva 2026",
+    "\"Staff Engineer\" OR \"Senior Staff Engineer\" remote Switzerland TypeScript site:linkedin.com/jobs"
+  ],
+  "offers": [
+    {
+      "title": "Principal Frontend Engineer",
+      "company": "Hostaway",
+      "location": "Remote — EMEA (Europe, Middle East, Africa)",
+      "url": "https://careers.recruiteecdn.com/companies/hostaway/jobs/principal-frontend-engineer-100-remote-emea-1788372",
+      "description": "Hostaway seeks a Principal Frontend Engineer to define org-wide frontend vision, design systems, and developer experience across teams. Stack includes React, Node.js, TypeScript, AWS, and GCP — 100% remote within EMEA.",
+      "source": "linkedin.com/jobs",
+      "query_index": 5
+    },
+    {
+      "title": "Founding Engineer",
+      "company": "CoLoop",
+      "location": "Central London, UK (hybrid remote)",
+      "url": "https://www.ycombinator.com/companies/coloop/jobs/ksRGYzg-founding-engineer",
+      "description": "CoLoop is building an AI copilot for Insights & Strategy teams, automating content analysis and knowledge management with a 70% time/cost reduction for market research. Requires TypeScript, Python, and LLM API experience (OpenAI, Claude, Gemini).",
+      "source": "ycombinator.com",
+      "query_index": 2
+    },
+    {
+      "title": "Founding Engineer — AI-First B2B SaaS (German Real Estate)",
+      "company": "Zero to One Search (client: stealth AI real estate startup)",
+      "location": "Remote — Europe preferred; Berlin, Germany",
+      "url": "https://linkedin.com/jobs/view/founding-engineer-ai-first-b2b-saas-%E2%80%93-german-real-estate-at-zero-to-one-search-recruitment-agency-4383679579",
+      "description": "Architect an AI-first infrastructure layer for the German real estate industry from scratch, building LLM-powered backends with Python, Node.js, Go, RAG, and embeddings. Pre-external-funding stage with meaningful equity; €80K–€120K.",
+      "source": "designremotejobs.com",
+      "query_index": 2
+    },
+    {
+      "title": "Founding AI Engineer",
+      "company": "Weave",
+      "location": "San Francisco, CA, US (on-site)",
+      "url": "https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer",
+      "description": "Weave (YC, $4.2M seed, 150+ customers) builds an AI platform to measure and improve engineering team productivity. Stack: React + TypeScript (frontend), Go (backend), Python (ML). $150K–$200K + 0.10–0.25% equity.",
+      "source": "ycombinator.com",
+      "query_index": 2,
+      "note": "US on-site; not Europe-remote eligible"
+    },
+    {
+      "title": "Staff Software Engineer (HN April 2026 — AI Agent Platform)",
+      "company": "Caribou",
+      "location": "Toronto or Remote Canada",
+      "url": "https://caribou.breezy.hr/p/37866c9bf96c-senior-staff-software-engineer-ai-agent-platform",
+      "description": "Senior Staff Software Engineer on the AI Agent Platform team at Caribou. From the HN 'Who is hiring? April 2026' thread — full details at the Breezy HR link.",
+      "source": "news.ycombinator.com (HN April 2026 thread)",
+      "query_index": 3,
+      "note": "Canada-remote; not EMEA-eligible"
+    },
+    {
+      "title": "Head of AI & Engineering",
+      "company": "BrandMultiplier",
+      "location": "Remote (worldwide)",
+      "url": "https://www.notion.so/brandmultiplier/Head-of-AI-Engineering-33616b9aed8a81c198cfdee8a9941967",
+      "description": "Head of AI & Engineering at BrandMultiplier, responsible for LLM-powered systems and full-stack product delivery. Stack: LLMs, LangGraph, React, Next.js, Python, Node.js, AWS. Remote-first with no regional restriction listed.",
+      "source": "news.ycombinator.com (HN April 2026 thread)",
+      "query_index": 3
+    },
+    {
+      "title": "Staff Software Engineer — Labs",
+      "company": "Higharc",
+      "location": "Remote — United States only",
+      "url": "https://www.higharc.com/company/careers",
+      "description": "Staff/Founding engineer role inside Higharc's Labs division, owning experiments end-to-end with TypeScript monorepo, React, Node.js, and AI/LLM agent architectures. $83M raised. US-only remote.",
+      "source": "news.ycombinator.com (HN April 2026 thread)",
+      "query_index": 3,
+      "note": "US-only; not Europe-eligible"
+    },
+    {
+      "title": "Principal Engineer, Software",
+      "company": "Verint",
+      "location": "Remote — USA",
+      "url": "https://fa-epcb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3727",
+      "description": "Principal Engineer driving technical direction of Verint's Quality Management and Performance Management SaaS platform, integrating AI/ML (LLMs, RAG). Stack: TypeScript, React, Java, AWS, Azure, Kubernetes. Senior technical leadership with global team mentoring.",
+      "source": "remotive.com",
+      "query_index": 1,
+      "note": "USA remote; likely not Europe-eligible"
+    },
+    {
+      "title": "Product Engineer — Web & UI",
+      "company": "Stackable",
+      "location": "Remote — Germany or UK only",
+      "url": "recruiting@stackable.tech",
+      "description": "Product Engineer working on a Kubernetes-based data platform at Stackable, using Svelte/SvelteKit, TypeScript, TailwindCSS, and Rust. Europe-based remote (Germany/UK restricted).",
+      "source": "news.ycombinator.com (HN April 2026 thread)",
+      "query_index": 3
+    },
+    {
+      "title": "CTO / Head of IT (AI)",
+      "company": "Undisclosed startup",
+      "location": "Geneva, Switzerland",
+      "url": "https://www.glassdoor.com/Job/switzerland-cto-jobs-SRCH_IL.0,11_IN226_KO12,15.htm",
+      "description": "CTO and Head of IT role with 1.0–4.0% equity, requiring 8 years of experience. Based in Geneva. Full details available via Glassdoor Switzerland CTO listings (54 active as of April 2026).",
+      "source": "glassdoor.com",
+      "query_index": 4,
+      "note": "Company name not disclosed in search snippet; visit Glassdoor for direct listing"
+    }
+  ]
+}

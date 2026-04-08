@@ -1,0 +1,29 @@
+🎯 *Job Hunter — 2026-04-08*
+
+*1.* *Founding Engineer — Backend* @ FutureClinic (YC F24)
+📍 Remote — USA only | ⭐ 81/100
+💡 YC-backed healthtech founding role with exact stack match (TypeScript, Node.js, Kubernetes, Temporal) — high equity and true 0-to-1 ownership, US-remote only
+🔗 https://www.ycombinator.com/companies/futureclinic/jobs/Xb0We0p-founding-engineer-backend
+
+*2.* *Founding Engineer* @ CoLoop (YC W25)
+📍 Central London, UK (hybrid) | ⭐ 79/100
+💡 YC-backed AI copilot startup seeking founding engineer with TypeScript and LLM API experience — London hybrid but strong founding ownership and AI stack alignment
+🔗 https://www.ycombinator.com/companies/coloop/jobs/ksRGYzg-founding-engineer
+
+*3.* *Founding Engineer (Fullstack TypeScript)* @ Cluely
+📍 San Francisco, CA (on-site, housing provided) | ⭐ 76/100
+💡 Founding engineer with perfect TypeScript stack and exceptional compensation ($250–350K + equity) — major downside is SF on-site relocation required
+🔗 https://jobs.ashbyhq.com/cluely/9ed623a7-fc2d-4afc-ab88-a01af977cb9f
+
+*4.* *Principal Frontend Engineer* @ Hostaway
+📍 Remote — EMEA (Switzerland eligible) | ⭐ 72/100
+💡 Principal-level role with full frontend architecture ownership, perfect React/TypeScript/Node stack, 100% remote EMEA including Switzerland
+🔗 https://careers.recruiteecdn.com/companies/hostaway/jobs/principal-frontend-engineer-100-remote-emea-1788372
+
+*5.* *Senior Product Engineer — AI* @ Checkly
+📍 Remote (UTC-3 to UTC+3, Switzerland eligible) | ⭐ 69/100
+💡 Exact TypeScript/Node.js/AWS stack in a DevTools AI startup, Switzerland-compatible timezone — seniority is Senior not Staff but strong tech and culture fit
+🔗 https://jobs.ashbyhq.com/checkly/8f52de96-f5d5-4efe-b8d5-a7c96577d237
+
+---
+📊 _5 new offers found | 298 total tracked_

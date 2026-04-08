@@ -1,0 +1,101 @@
+{
+  "date": "2026-04-08",
+  "total_new_offers": 5,
+  "offers": [
+    {
+      "rank": 1,
+      "id": "4c411ba39dfc347e4fa59e0e9ef245ea",
+      "title": "Founding Engineer — Backend",
+      "company": "FutureClinic (YC F24)",
+      "location": "Remote — USA only",
+      "url": "https://www.ycombinator.com/companies/futureclinic/jobs/Xb0We0p-founding-engineer-backend",
+      "source": "hn",
+      "description_short": "Own backend features end-to-end for a healthcare-AI platform enabling physicians to launch chat-based digital clinics. Design PostgreSQL schemas, build Hono/Node.js APIs, and develop Temporal durable workflows on GCP/Kubernetes. $180K–$250K + 1.5–3% equity.",
+      "score": 81,
+      "score_breakdown": {
+        "technical": 28,
+        "seniority": 22,
+        "location": 8,
+        "company": 13,
+        "impact": 10
+      },
+      "match_reason": "YC-backed healthtech founding role with exact stack match (TypeScript, Node.js, Kubernetes, Temporal) — high equity and true 0-to-1 ownership, US-remote only"
+    },
+    {
+      "rank": 2,
+      "id": "3b61b8bcb09930bfcd29202d2fee2547",
+      "title": "Founding Engineer",
+      "company": "CoLoop (YC W25)",
+      "location": "Central London, UK (hybrid)",
+      "url": "https://www.ycombinator.com/companies/coloop/jobs/ksRGYzg-founding-engineer",
+      "source": "hn",
+      "description_short": "YC-backed AI copilot for Insights & Strategy teams, automating market research analysis with 70% time/cost reduction. Build product from scratch with TypeScript, Python, and LLM APIs (OpenAI, Claude, Gemini). Small founding team, direct impact.",
+      "score": 79,
+      "score_breakdown": {
+        "technical": 26,
+        "seniority": 22,
+        "location": 6,
+        "company": 15,
+        "impact": 10
+      },
+      "match_reason": "YC-backed AI copilot startup seeking founding engineer with TypeScript and LLM API experience — London hybrid but strong founding ownership and AI stack alignment"
+    },
+    {
+      "rank": 3,
+      "id": "bce693ecd3629635b6f43418dd0ff9fc",
+      "title": "Founding Engineer (Fullstack TypeScript)",
+      "company": "Cluely",
+      "location": "San Francisco, CA (on-site, housing provided)",
+      "url": "https://jobs.ashbyhq.com/cluely/9ed623a7-fc2d-4afc-ab88-a01af977cb9f",
+      "source": "ashbyhq",
+      "description_short": "Foundational engineering role at an AI desktop assistant startup building across React, Electron, and a Bun/Elysia backend. Requires world-class strictly-typed TypeScript and prior 0-to-1 product experience. $250K–$350K base + 0.25–0.5% equity.",
+      "score": 76,
+      "score_breakdown": {
+        "technical": 28,
+        "seniority": 22,
+        "location": 4,
+        "company": 12,
+        "impact": 10
+      },
+      "match_reason": "Founding engineer with perfect TypeScript stack and exceptional compensation ($250–350K + equity) — major downside is SF on-site relocation required"
+    },
+    {
+      "rank": 4,
+      "id": "525d53ee7f35e43388f5e50c39ed1709",
+      "title": "Principal Frontend Engineer",
+      "company": "Hostaway",
+      "location": "Remote — EMEA (100% remote, Switzerland eligible)",
+      "url": "https://careers.recruiteecdn.com/companies/hostaway/jobs/principal-frontend-engineer-100-remote-emea-1788372",
+      "source": "other",
+      "description_short": "Own org-wide frontend vision, design systems, and developer experience at Hostaway (leading vacation rental SaaS). Stack: React, Node.js, TypeScript, AWS, GCP. 100% remote within EMEA including Switzerland.",
+      "score": 72,
+      "score_breakdown": {
+        "technical": 25,
+        "seniority": 20,
+        "location": 12,
+        "company": 9,
+        "impact": 6
+      },
+      "match_reason": "Principal-level role with full frontend architecture ownership, perfect React/TypeScript/Node stack, 100% remote EMEA including Switzerland"
+    },
+    {
+      "rank": 5,
+      "id": "ce69c5a76ce7601aec9acd582ac29c8b",
+      "title": "Senior Product Engineer — AI",
+      "company": "Checkly",
+      "location": "Remote (UTC-3 to UTC+3, Switzerland eligible)",
+      "url": "https://jobs.ashbyhq.com/checkly/8f52de96-f5d5-4efe-b8d5-a7c96577d237",
+      "source": "ashbyhq",
+      "description_short": "Full-stack role designing and shipping AI agents and AI-enhanced features to help developers write and debug tests faster. Stack: Vue.js, Node.js, TypeScript, Postgres, ClickHouse, AWS. €84K–€103.8K + equity. Posted April 1, 2026.",
+      "score": 69,
+      "score_breakdown": {
+        "technical": 26,
+        "seniority": 14,
+        "location": 12,
+        "company": 11,
+        "impact": 6
+      },
+      "match_reason": "Exact TypeScript/Node.js/AWS stack in a DevTools AI startup, Switzerland-compatible timezone — seniority is Senior not Staff but strong tech and culture fit"
+    }
+  ]
+}
