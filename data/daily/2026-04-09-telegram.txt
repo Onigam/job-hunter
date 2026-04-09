@@ -1,0 +1,29 @@
+🎯 *Job Hunter — 2026-04-09*
+
+*1.* *Founding Engineer* @ Glidely
+📍 Remote (EU timezone) | ⭐ 84/100
+💡 Classic founding engineer role at an AI startup with a perfect TypeScript/React/Next.js stack — system-level ownership from day one.
+🔗 https://weworkremotely.com/remote-jobs/glidely-founding-engineer
+
+*2.* *Technical Co-Founder (CTO)* @ Stealth AI/Data Startup
+📍 Zurich or Remote, Switzerland | ⭐ 83/100
+💡 Swiss-based CTO co-founder opportunity with equity — highest seniority and impact match, ideal for a serial builder with Magino's founding experience.
+🔗 https://www.startupticker.ch/en/jobs/technical-co-founder-cto
+
+*3.* *Principal Engineer / Head of Engineering — Payments* @ ThriveCart
+📍 Remote (EU or South America) | ⭐ 79/100
+💡 Rare Principal/Head-level greenfield build at a profitable scale-up — zero-to-one payments platform in Node.js/TypeScript, $118k–$173k.
+🔗 https://job-boards.greenhouse.io/thrivecart/jobs/4992065008
+
+*4.* *Sr AI Engineer — Remote Europe (TS/Vue/NodeJS)* @ n8n
+📍 Remote (Europe) | ⭐ 79/100
+💡 Near-perfect tech stack alignment at a fast-growing open-source startup — TypeScript, Node.js, AI workflows with strong engineering culture.
+🔗 https://jobs.ashbyhq.com/n8n/d195a389-6af5-4b95-82e5-2258953c7297
+
+*5.* *Staff Software Engineer (Full Stack)* @ MagicSchool AI
+📍 Remote (global) | ⭐ 78/100
+💡 Perfect technical match at Staff level in a hypergrowth EdTech AI startup (2.5M+ teachers) — TypeScript, React, Next.js, Python stack.
+🔗 https://jobs.ashbyhq.com/magicschool/96fa3cdf-f2a8-4046-befe-ad1c63ae6647
+
+---
+📊 _5 new offers found | 303 total tracked_

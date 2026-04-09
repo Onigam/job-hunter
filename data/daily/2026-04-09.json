@@ -1,0 +1,101 @@
+{
+  "date": "2026-04-09",
+  "total_new_offers": 5,
+  "offers": [
+    {
+      "rank": 1,
+      "id": "54c60cf764e6",
+      "title": "Founding Engineer",
+      "company": "Glidely",
+      "location": "Remote (EU timezone)",
+      "url": "https://weworkremotely.com/remote-jobs/glidely-founding-engineer",
+      "source": "weworkremotely",
+      "description_short": "First engineering hire at an AI-powered startup. Build architecture end-to-end using React, TypeScript, Next.js and AI workflows. Design scalable, lean architecture suited for early-stage growth.",
+      "score": 84,
+      "score_breakdown": {
+        "technical": 26,
+        "seniority": 23,
+        "location": 12,
+        "company": 14,
+        "impact": 9
+      },
+      "match_reason": "Classic founding engineer role at an AI startup with a perfect TypeScript/React/Next.js stack — system-level ownership from day one."
+    },
+    {
+      "rank": 2,
+      "id": "0b842a38fde5",
+      "title": "Technical Co-Founder (CTO)",
+      "company": "Stealth AI/Data Startup",
+      "location": "Zurich or Remote, Switzerland",
+      "url": "https://www.startupticker.ch/en/jobs/technical-co-founder-cto",
+      "source": "startupticker",
+      "description_short": "Co-founder CTO role at an early-stage AI/ML startup in Switzerland. Full ownership of the tech stack, shaping company strategy, and building the engineering team from scratch. Equity-based compensation.",
+      "score": 83,
+      "score_breakdown": {
+        "technical": 20,
+        "seniority": 24,
+        "location": 15,
+        "company": 14,
+        "impact": 10
+      },
+      "match_reason": "Swiss-based CTO co-founder opportunity with equity — highest seniority and impact match, ideal for a serial builder with Magino's founding experience."
+    },
+    {
+      "rank": 3,
+      "id": "24726faacf9c",
+      "title": "Principal Engineer / Head of Engineering — Payments",
+      "company": "ThriveCart",
+      "location": "Remote (EU or South America)",
+      "url": "https://job-boards.greenhouse.io/thrivecart/jobs/4992065008",
+      "source": "greenhouse",
+      "description_short": "Greenfield opportunity to build ThrivePay, ThriveCart's next-generation payment processing engine handling billions of dollars for 50,000+ businesses. Node.js/TypeScript preferred. Salary $118k–$173k.",
+      "score": 79,
+      "score_breakdown": {
+        "technical": 24,
+        "seniority": 24,
+        "location": 12,
+        "company": 10,
+        "impact": 9
+      },
+      "match_reason": "Rare Principal/Head-level greenfield build at a profitable scale-up — strong seniority match and zero-to-one platform opportunity in Node.js/TypeScript."
+    },
+    {
+      "rank": 4,
+      "id": "f52ebe28f943",
+      "title": "Sr AI Engineer — Remote Europe (TS/Vue/NodeJS)",
+      "company": "n8n",
+      "location": "Remote (Europe)",
+      "url": "https://jobs.ashbyhq.com/n8n/d195a389-6af5-4b95-82e5-2258953c7297",
+      "source": "ashbyhq",
+      "description_short": "Senior AI Engineer at n8n, the open-source workflow automation platform. Build AI-powered workflow features using TypeScript, Vue, and Node.js in a strong engineering-first remote culture.",
+      "score": 79,
+      "score_breakdown": {
+        "technical": 27,
+        "seniority": 19,
+        "location": 12,
+        "company": 14,
+        "impact": 7
+      },
+      "match_reason": "Near-perfect tech stack alignment (TypeScript, Node.js, AI) at a fast-growing open-source startup with strong engineering culture — one notch below Staff but high-impact AI work."
+    },
+    {
+      "rank": 5,
+      "id": "42a335c03376",
+      "title": "Staff Software Engineer (Full Stack)",
+      "company": "MagicSchool AI",
+      "location": "Remote (US-based, global team)",
+      "url": "https://jobs.ashbyhq.com/magicschool/96fa3cdf-f2a8-4046-befe-ad1c63ae6647",
+      "source": "ashbyhq",
+      "description_short": "Staff Engineer at the leading generative AI platform for teachers (2.5M+ users). End-to-end ownership of features using TypeScript, React, Next.js, PostgreSQL, and Python. Generous equity + unlimited PTO.",
+      "score": 78,
+      "score_breakdown": {
+        "technical": 28,
+        "seniority": 23,
+        "location": 8,
+        "company": 12,
+        "impact": 7
+      },
+      "match_reason": "Perfect technical match (TypeScript, React, Next.js, Python) at Staff level in a hypergrowth EdTech AI startup — main trade-off is US-centric timezone."
+    }
+  ]
+}
