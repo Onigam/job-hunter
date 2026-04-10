@@ -1,0 +1,29 @@
+🎯 *Job Hunter — 2026-04-10*
+
+*1.* *Hands-on CTO (Full-Stack, AI)* @ Undisclosed AI Startup (via Pragmatike)
+📍 Remote — EMEA | ⭐ 83/100
+💡 CTO-level founding role at AI data infrastructure startup — perfect match for Magino's cofounder DNA, hands-on AI platform building, and leadership credentials.
+🔗 https://jobs.ashbyhq.com/pragmatike/36b20c23-a62b-41aa-8c78-e29f6db397ec
+
+*2.* *Founding Engineer AI Start-up Full-Stack* @ Zenline AI
+📍 Zurich, Switzerland | ⭐ 80/100
+💡 Founding engineer role in Zurich at a Seedcamp-backed AI retail startup — Swiss location priority, early-stage founding team, and AI/ML product work align perfectly.
+🔗 https://swissdevjobs.ch/jobs/Zenline-AI-Founding-Engineer-AI-Start-up-Full-Stack
+
+*3.* *Founding Full Stack AI Engineer* @ Undisclosed AI Infrastructure Startup (via Pragmatike)
+📍 Remote — EMEA | ⭐ 78/100
+💡 Founding Full Stack role at AI data infrastructure startup — Magino's 0-to-1 product DNA and AI/LLM experience match the scope well, with broad technical ownership.
+🔗 https://jobs.ashbyhq.com/pragmatike/5ab6774c-d907-4535-9b31-fae4f70235cb
+
+*4.* *Staff Software Engineer, Full-Stack* @ Owner.com
+📍 Remote — USA/Canada | ⭐ 75/100
+💡 Perfect tech stack match (TypeScript, Node.js, React, Next.js) and Staff-level scope at a YC-backed AI product company — only downside is USA/Canada-only remote policy.
+🔗 https://jobs.lever.co/owner/a50c8e21-f712-4ac5-b0f4-1e47c1de7479
+
+*5.* *Staff Platform Engineer — NodeJS/DevOps* @ Printify
+📍 Remote — EMEA | ⭐ 74/100
+💡 Strong tech fit (Node.js, TypeScript, Kubernetes, AWS) at Staff-level, EMEA-remote Switzerland-eligible, platform engineering ownership.
+🔗 https://jobs.lever.co/printify/e7680e96-d256-46da-a72f-4ec3845c92bb
+
+---
+📊 _5 new offers found | 308 total tracked_

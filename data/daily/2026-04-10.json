@@ -1,0 +1,101 @@
+{
+  "date": "2026-04-10",
+  "total_new_offers": 5,
+  "offers": [
+    {
+      "rank": 1,
+      "id": "9c4946408bf5a84530997699c5984689",
+      "title": "Hands-on CTO (Full-Stack, AI)",
+      "company": "Undisclosed AI Startup (via Pragmatike)",
+      "location": "Remote — EMEA",
+      "url": "https://jobs.ashbyhq.com/pragmatike/36b20c23-a62b-41aa-8c78-e29f6db397ec",
+      "source": "ashbyhq",
+      "description_short": "Hands-on CTO / Founding Engineer role at early-stage startup building a distributed AI data infrastructure platform. Provide real-world training data to AI companies through 500K+ contributors across 150+ countries. Build scalable AI-native pipelines for multimodal datasets (audio, image, video). FastAPI backend, React frontend, fully remote EMEA.",
+      "score": 83,
+      "score_breakdown": {
+        "technical": 22,
+        "seniority": 25,
+        "location": 12,
+        "company": 14,
+        "impact": 10
+      },
+      "match_reason": "CTO-level founding role at AI data infrastructure startup — perfect match for Magino's cofounder DNA, hands-on AI platform building, and leadership credentials."
+    },
+    {
+      "rank": 2,
+      "id": "045a544545eaf3843c84d898f8cd26bb",
+      "title": "Founding Engineer AI Start-up Full-Stack",
+      "company": "Zenline AI",
+      "location": "Zurich, Switzerland",
+      "url": "https://swissdevjobs.ch/jobs/Zenline-AI-Founding-Engineer-AI-Start-up-Full-Stack",
+      "source": "swissdevjobs",
+      "description_short": "Founding engineer at Zenline AI, a Zurich-based AI product portfolio optimization startup ($1.6M funded, 6 employees, Seedcamp-backed). Build AI agents analyzing margin data, competitor trends, and social signals to deliver assortment and pricing recommendations for retailers. Swiss location with early founding team impact.",
+      "score": 80,
+      "score_breakdown": {
+        "technical": 20,
+        "seniority": 23,
+        "location": 15,
+        "company": 13,
+        "impact": 9
+      },
+      "match_reason": "Founding engineer role in Zurich at a Seedcamp-backed AI retail startup — Swiss location priority, early-stage founding team, and AI/ML product work align perfectly."
+    },
+    {
+      "rank": 3,
+      "id": "17a5ed7fb6d4958f13abd9dc19b53be8",
+      "title": "Founding Full Stack AI Engineer",
+      "company": "Undisclosed AI Infrastructure Startup (via Pragmatike)",
+      "location": "Remote — EMEA",
+      "url": "https://jobs.ashbyhq.com/pragmatike/5ab6774c-d907-4535-9b31-fae4f70235cb",
+      "source": "ashbyhq",
+      "description_short": "Founding engineer at an early-stage startup providing real-world AI training data through a global 500K+ contributor network across 150 countries. Design FastAPI backend services, build React interfaces, architect AI-powered QA pipelines, and own end-to-end feature delivery. Fully remote EMEA.",
+      "score": 78,
+      "score_breakdown": {
+        "technical": 22,
+        "seniority": 22,
+        "location": 12,
+        "company": 13,
+        "impact": 9
+      },
+      "match_reason": "Founding Full Stack role at AI data infrastructure startup — Magino's 0-to-1 product DNA and AI/LLM experience match the scope well, with broad technical ownership across backend, frontend, and pipelines."
+    },
+    {
+      "rank": 4,
+      "id": "75c3954103522f627c28349d1d3f795d",
+      "title": "Staff Software Engineer, Full-Stack",
+      "company": "Owner.com",
+      "location": "Remote — USA/Canada",
+      "url": "https://jobs.lever.co/owner/a50c8e21-f712-4ac5-b0f4-1e47c1de7479",
+      "source": "lever",
+      "description_short": "Staff full-stack engineer at Owner.com, the AI growth system for local restaurants (YC-backed, pre-IPO). Stack: React, Next.js, Vue, Node.js, MongoDB, TypeScript. $220K–$240K base + generous pre-IPO equity. 100% remote (USA/Canada only). Own projects end-to-end across the full system with high code quality bar.",
+      "score": 75,
+      "score_breakdown": {
+        "technical": 27,
+        "seniority": 22,
+        "location": 8,
+        "company": 12,
+        "impact": 6
+      },
+      "match_reason": "Perfect tech stack match (TypeScript, Node.js, React, Next.js) and Staff-level scope at a YC-backed AI product company — main limitation is USA/Canada-only remote policy."
+    },
+    {
+      "rank": 5,
+      "id": "add30c56baaf13dfc17b303ee8c1629c",
+      "title": "Staff Platform Engineer — NodeJS/DevOps",
+      "company": "Printify",
+      "location": "Remote — EMEA",
+      "url": "https://jobs.lever.co/printify/e7680e96-d256-46da-a72f-4ec3845c92bb",
+      "source": "lever",
+      "description_short": "Staff Platform Engineer on Printify's Engineering Productivity squad — leverage Node.js, TypeScript, AWS, and Kubernetes to optimize engineering processes and CI/CD pipelines for hundreds of engineers. Remote within EMEA (Latvia/Tallinn offices available). Stock options included.",
+      "score": 74,
+      "score_breakdown": {
+        "technical": 26,
+        "seniority": 22,
+        "location": 12,
+        "company": 8,
+        "impact": 6
+      },
+      "match_reason": "Strong tech fit (Node.js, TypeScript, Kubernetes, AWS) at Staff-level, EMEA-remote Switzerland-eligible, platform engineering ownership — though less startup/AI-native than ideal."
+    }
+  ]
+}
