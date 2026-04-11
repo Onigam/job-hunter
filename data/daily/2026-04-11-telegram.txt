@@ -1,0 +1,29 @@
+🎯 *Job Hunter — 2026-04-11*
+
+*1.* *Staff Backend Engineer (Remote, Switzerland)* @ Nango
+📍 Remote — Switzerland | ⭐ 85/100
+💡 Staff-level TypeScript/Node.js infra role at YC-backed dev-tooling startup, Switzerland-specific remote posting — near-ideal match.
+🔗 https://jobs.ashbyhq.com/Nango/5daa4859-7fa8-4a2e-a181-aac1b3428b9f
+
+*2.* *Staff LLM Interaction Engineer (Europe remote)* @ n8n
+📍 Remote — Europe | ⭐ 82/100
+💡 Staff AI/LLM product engineering at a fast-growing open-source automation platform — TypeScript + Node.js stack and AI orchestration focus are a perfect fit.
+🔗 https://jobs.ashbyhq.com/n8n/5c1d1b67-604c-46b3-9c59-cfe0cd703688
+
+*3.* *Founding Software Engineer — TypeScript* @ Neuroscale AI
+📍 Remote (Global) | ⭐ 76/100
+💡 Founding engineer with full ownership at an early-stage AI recruiting platform — TypeScript/Node.js + agentic workflow focus maps well to the profile.
+🔗 https://jobs.ashbyhq.com/neuroscale/c5d2c09f-c732-4a84-9c16-16f0186d678c
+
+*4.* *Staff / Principal Full-Stack Engineer* @ A5 Labs
+📍 Remote — Europe (EEA) | ⭐ 68/100
+💡 Strong tech fit (TypeScript, Node.js, Staff/Principal level) + remote EEA; gaming domain reduces company score but scope is strong.
+🔗 https://www.remoteitjobs.app/job/a5-labs-staff-principal-full-stack-engineer-b2c-anti-cheat-product
+
+*5.* *Head of IT (AI)* @ GF-ACCORD AI
+📍 Geneva, Switzerland | ⭐ 67/100
+💡 Geneva location is a top priority hit and leadership role with 1–4% equity; ML research stack (TensorFlow, PyTorch, PhD pref.) is a mismatch — worth a look for a leadership pivot.
+🔗 https://wellfound.com/jobs/3026092-head-of-it-ai
+
+---
+📊 _5 new offers found | 313 total tracked_

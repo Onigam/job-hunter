@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10",
+  "last_updated": "2026-04-11",
   "offers": [
     {
       "id": "9c4946408bf5a84530997699c5984689",
@@ -4545,6 +4545,66 @@
       "summary": "Staff Engineer at leading AI platform for teachers (2.5M+ users). TypeScript, React, Next.js, PostgreSQL, Python. Equity + unlimited PTO.",
       "score": 78,
       "date_found": "2026-04-09",
+      "status": "new"
+    },
+    {
+      "id": "bfb9f9303bb4e2fdbc8b64066cc357cd",
+      "title": "Staff Backend Engineer (Remote, Switzerland)",
+      "company": "Nango",
+      "location": "Remote — Switzerland",
+      "url": "https://jobs.ashbyhq.com/Nango/5daa4859-7fa8-4a2e-a181-aac1b3428b9f",
+      "source": "ashbyhq",
+      "summary": "Staff Backend Engineer at Nango (YC W23), the open-source platform for building product integrations supporting 700+ APIs. Write integration logic as TypeScript functions or let AI generate them, deployed to Nango's production runtime. $120–200k + equity, fully remote, Switzerland-specific posting.",
+      "score": 85,
+      "date_found": "2026-04-11",
+      "status": "new"
+    },
+    {
+      "id": "aee946c4d4c8b6f621fa671dd7f79f9f",
+      "title": "Staff LLM Interaction Engineer (Europe remote — TS/Vue/NodeJS)",
+      "company": "n8n",
+      "location": "Remote — Europe",
+      "url": "https://jobs.ashbyhq.com/n8n/5c1d1b67-604c-46b3-9c59-cfe0cd703688",
+      "source": "ashbyhq",
+      "summary": "Staff-level LLM Interaction Engineer at n8n, shaping the AI Workflow Builder end-to-end. Owns the orchestration layer between users, workflows, and LLMs — designing context, tool interactions, and evaluation loops. TypeScript/Vue/Node.js stack, 7+ years required, remote Europe.",
+      "score": 82,
+      "date_found": "2026-04-11",
+      "status": "new"
+    },
+    {
+      "id": "a7fd0d71a4a70dfdd1b707688e2ddc52",
+      "title": "Founding Software Engineer — TypeScript",
+      "company": "Neuroscale AI",
+      "location": "Remote (Global)",
+      "url": "https://jobs.ashbyhq.com/neuroscale/c5d2c09f-c732-4a84-9c16-16f0186d678c",
+      "source": "ashbyhq",
+      "summary": "Founding Engineer at Neuroscale AI, building Arbi — the AI recruiting operating system. Owns end-to-end TypeScript/Node.js backend services and AI agent orchestration with ATS integrations. Early-stage, high-ownership role with agentic workflow focus.",
+      "score": 76,
+      "date_found": "2026-04-11",
+      "status": "new"
+    },
+    {
+      "id": "0e158a7af59d3ea21d4d53c729cb7f1d",
+      "title": "Staff / Principal Full-Stack Engineer (B2C Anti-Cheat)",
+      "company": "A5 Labs",
+      "location": "Remote — Europe (EEA)",
+      "url": "https://www.remoteitjobs.app/job/a5-labs-staff-principal-full-stack-engineer-b2c-anti-cheat-product",
+      "source": "weworkremotely",
+      "summary": "Staff/Principal Full-Stack Engineer at A5 Labs powering AI-driven online gaming experiences. Own complex systems and shape technical direction on a TypeScript/Node.js full-stack product. Remote within EEA, 6+ years required.",
+      "score": 68,
+      "date_found": "2026-04-11",
+      "status": "new"
+    },
+    {
+      "id": "d27417d1d39ef8f7856bf0387ceb40f4",
+      "title": "Head of IT (AI)",
+      "company": "GF-ACCORD AI",
+      "location": "Geneva, Switzerland (Remote possible)",
+      "url": "https://wellfound.com/jobs/3026092-head-of-it-ai",
+      "source": "wellfound",
+      "summary": "Head of IT (AI) at GF-ACCORD AI, a Geneva-based stealth AI startup delivering non-hallucinating AI for business and financial analysis. Leadership role building the technical function from scratch, 1–4% equity, $110k–$170k. Requires deep AI/ML background (Python, TensorFlow, PyTorch).",
+      "score": 67,
+      "date_found": "2026-04-11",
       "status": "new"
     }
   ]
