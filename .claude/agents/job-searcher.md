@@ -46,6 +46,8 @@ blocks it. Paste the literal value directly into the curl command.
 5. `keywords=CTO%20startup` + geoId Switzerland
 6. `keywords=VP%20Engineering` + geoId Geneva
 7. `keywords=Staff%20Engineer%20remote` (no geoId filter)
+8. `keywords=Staff%20Engineer%20part-time` + geoId Switzerland (50% / part-time)
+9. `keywords=CTO%20part-time` OR `keywords=fractional%20CTO` + geoId Switzerland
 
 **Parsing LinkedIn response:**
 The response is JSON. Look for job cards in the `elements` array. Each card contains:
@@ -76,6 +78,8 @@ Combine role keywords with location filters:
 - "Founding Engineer" OR "First Engineer"
 - "VP Engineering" OR "Head of Engineering"
 - "CTO" startup
+- "fractional CTO" OR "part-time CTO" Switzerland
+- "Staff Engineer" "50%" OR "part-time" OR "mi-temps" Switzerland
 
 **Location filters** (priority order):
 - Geneva, Switzerland
@@ -107,6 +111,16 @@ Return a JSON array of offers. For each offer include:
   "date_posted": "YYYY-MM-DD if available, null otherwise"
 }
 ```
+
+## Part-time / Fractional Roles
+The candidate is launching a startup (Givernance) in parallel and is interested in **50% roles** as a good compromise. Flag part-time and fractional opportunities explicitly.
+
+Include in searches:
+- "part-time" OR "50%" OR "mi-temps" engineering leadership roles in Switzerland
+- "fractional CTO" or "fractional engineering lead" Switzerland / remote
+- Advisory / interim CTO roles
+
+In the output JSON, add a `"part_time": true` flag for any role that is explicitly 50%, part-time, fractional or advisory.
 
 ## Rules
 - Search broadly but stay relevant to senior engineering roles
