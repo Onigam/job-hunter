@@ -1,0 +1,163 @@
+# Resume — Magino Marveaux-Cochet (English) — Tailored for Sonar Engineering Manager, Platform Team
+# Schema: ../schema.json
+# Tailoring notes: highlights reordered to front-load EM keywords (team leadership, squad delivery,
+# mentoring, hiring, agile, platform engineering, Java ecosystem) per Sonar JD requirements.
+
+personal:
+  name: "Magino Marveaux-Cochet"
+  title: "Engineering Manager & Senior Staff Engineer — Platform Builder"
+  location: "Geneva, Switzerland"
+  email: "magino.cochet@gmail.com"
+  phone: "+41 77 439 22 27"
+  linkedin: "https://linkedin.com/in/magino-marveaux-cochet-6308458b"
+  github: "https://github.com/Onigam"
+  relocation: "Geneva-based, immediately available"
+
+summary: |
+  Engineering leader with 17+ years of experience spanning software architecture, platform
+  engineering, and team leadership — from embedded systems to SaaS at international scale.
+  Co-founded Alaya, built and grew the engineering team from zero, and led the platform
+  through acquisition by Benevity (Canadian unicorn, $1B+ valuation).
+
+  Combines hands-on technical depth (architecture, code review, DevOps) with full engineering
+  management experience: hiring, onboarding, 1:1s, squad delivery, and engineering culture
+  definition. Now focused on leading high-performing engineering squads in product companies
+  with strong engineering culture.
+
+experience:
+  - company: "Benevity"
+    role: "Senior Staff Engineer — Technical Lead & Engineering Manager Equivalent"
+    period: "2021 – 2026"
+    location: "Geneva, Switzerland (Hybrid)"
+    description: "Global leader in corporate purpose software — $1B+ valuation, 800+ employees"
+    technologies: "TypeScript, Node.js, React, Vue.js, Python, Java, MongoDB, PostgreSQL, AWS, Docker, Kubernetes, CI/CD, AI/ML tooling"
+    summary: |
+      Senior IC and de facto engineering lead post-acquisition, driving cross-team platform
+      initiatives, technical architecture decisions, and organizational change within a global
+      distributed engineering org. Managed engineers across two teams without direct authority.
+    highlights:
+      - "Led cross-team engineering initiatives across 2 squads (15+ engineers), owning technical direction, architecture decisions, and delivery outcomes — equivalent scope to an Engineering Manager role"
+      - "Operated as technical lead and squad coordinator across North America and Europe time zones, running agile ceremonies, architecture reviews, and quarterly planning in alignment with Product Management"
+      - "Pioneered AI-assisted engineering practices org-wide: LLM-based code review, multi-agent workflows, and automated quality gates — 70% adoption across both teams within 3 months"
+      - "Architected platform integration bridging the acquired European product (Alaya) into Benevity's North American platform, serving 800+ enterprise clients"
+      - "Designed data integration pipelines connecting 20+ external data sources with structured compliance and reporting workflows"
+      - "Led developer experience improvements: modernized CI/CD pipelines, reduced deployment cycle time, introduced automated testing infrastructure"
+
+  - company: "Alaya (now Alaya by Benevity)"
+    role: "Cofounder & Head of Technologies — Engineering Manager & Platform Architect"
+    period: "2016 – 2021"
+    location: "Gland, Switzerland"
+    description: "Employee purpose platform — volunteering, giving, and CSR engagement for enterprises"
+    technologies: "TypeScript, React, Redux, Node.js, MongoDB, PostgreSQL, Redis, Docker, AWS, REST APIs"
+    summary: |
+      Co-founded the company and built the entire engineering organization from zero: platform
+      architecture, team hiring, engineering culture, agile processes, and squad delivery through
+      to successful acquisition. Sole technical leader for the first 12 months, then grew and
+      managed a team of 6 engineers.
+    highlights:
+      - "Built and led the engineering team from zero: defined hiring bar, conducted technical interviews, onboarded 6 engineers, established code review culture and architectural standards — full Engineering Manager scope"
+      - "Owned squad delivery end-to-end: sprint planning, quarterly OKR alignment with business stakeholders, monthly releases to 50+ enterprise clients across Switzerland and France"
+      - "Drove foundational software architecture decisions (microservices decomposition, data storage strategy, API design, multi-tenancy) that survived acquisition due diligence and continued as the production core at Benevity"
+      - "Led performance management: structured 1:1s, quarterly growth goals, and one formal PIP process — zero unplanned attrition in 4 years"
+      - "Led technical due diligence process resulting in successful acquisition by Benevity (Canadian unicorn, $1B+ valuation)"
+      - "Designed and built the full platform architecture from scratch — API layer, data models, service boundaries, cloud infrastructure on AWS"
+
+  - company: "État de Genève"
+    role: "Full Stack Engineer"
+    period: "2016 – 2018"
+    location: "Geneva, Switzerland"
+    description: "Canton of Geneva public administration"
+    technologies: "Java, Spring Boot, Hibernate, Angular, AngularJS, REST, Oracle, Jenkins"
+    summary: |
+      Concurrent role alongside Alaya. Built public sector applications for Geneva's
+      education information system (SIEF), coordinating across multiple government teams.
+    highlights:
+      - "Developed full-stack applications for the SIEF education platform serving the Canton of Geneva — Java/Spring Boot backend with Angular frontend"
+      - "Coordinated with architecture, infrastructure, and business teams across the public administration — multi-team delivery experience"
+      - "Deepened Java ecosystem expertise (Spring Boot, Hibernate, Oracle) in a compliance-heavy, government-scale environment"
+
+  - company: "SQLI Group"
+    role: "Software Engineer"
+    period: "2015 – 2016"
+    location: "Geneva, Switzerland"
+    description: "Consulting group — embedded at eJust startup"
+    technologies: "JavaScript, AngularJS, Java, Spring MVC, Spring Data, Hibernate, SQL Server, REST"
+    highlights:
+      - "Built an online commercial dispute resolution platform — full-stack Java/Spring MVC backend with AngularJS frontend"
+      - "Solid Java ecosystem experience: Spring MVC, Spring Data, Hibernate, SQL Server in a production SaaS context"
+
+  - company: "Castr (via MC Dev consulting)"
+    role: "Hybrid & Desktop App Developer"
+    period: "2014 – 2015"
+    location: "Paris, France"
+    technologies: "JavaScript, ES6, AngularJS, Node.js, Express, Ionic, Cordova"
+    highlights:
+      - "Developed hybrid mobile and desktop app for Castr, a geolocated social news platform"
+      - "Cross-platform development: Ionic/Cordova mobile + Node.js/Express backend"
+
+  - company: "Sagemcom"
+    role: "Software Architect (GWT)"
+    period: "2011 – 2014"
+    location: "Paris, France"
+    description: "Global telecom equipment manufacturer — set-top boxes for Orange, Numericable"
+    technologies: "GWT, JavaScript, Java, Embedded Systems"
+    summary: |
+      Led the design of an embedded UI platform for functional testing and validation
+      across multiple set-top box environments for major telecom operators.
+    highlights:
+      - "Designed and built an embedded JavaScript/Java UI platform using GWT for functional testing of set-top boxes for Orange and Numericable"
+      - "Platform showcased at CES 2011 and CES 2012 — recognized for innovation in embedded UI testing"
+      - "Bridged embedded systems and UI layers, reducing validation cycles and improving QA workflows"
+      - "Early technical leadership: defined platform architecture and technical standards for the team"
+
+  - company: "Artaud Courtheoux et Associés"
+    role: "Software Engineer"
+    period: "2007 – 2011"
+    location: "Paris, France"
+    technologies: "Java, .NET, Enterprise Applications"
+    highlights:
+      - "4 years of foundational engineering experience building enterprise software in Java and .NET"
+
+skills:
+  platform:
+    - "Engineering Management (Squad Leadership)"
+    - "Software Architecture & System Design"
+    - "Platform Engineering"
+    - "Distributed Systems & Microservices"
+    - "API Design (REST, GraphQL)"
+    - "Event-Driven Architecture"
+    - "Cloud Infrastructure (AWS)"
+    - "DevOps & CI/CD"
+    - "Scalability & Reliability"
+  technical:
+    - "TypeScript / Node.js"
+    - "Java / Spring Boot"
+    - "Python"
+    - "React / Vue.js"
+    - "MongoDB / PostgreSQL"
+    - "Redis"
+    - "Docker / Kubernetes"
+    - "GitHub Actions / CI/CD"
+    - "AI/ML Integration & Tooling"
+  leadership:
+    - "Squad Delivery & Monthly Release Cadence"
+    - "Hiring, Onboarding & Performance Management"
+    - "Engineering Culture Definition"
+    - "Cross-Functional Collaboration (Product, Design, Stakeholders)"
+    - "Technical Cofounder (0 to Acquisition)"
+    - "Agile & DevOps Practices (Sprint, Kanban, OKRs)"
+    - "AI-Augmented Engineering Workflows"
+    - "Servant Leadership & Mentoring"
+
+education:
+  - degree: "Master's Degree (MSc)"
+    field: "Computer Engineering"
+    school: "ESGI — École Supérieure de Génie Informatique"
+    location: "Paris, France"
+    year: "2004 – 2007"
+
+languages:
+  - name: "French"
+    level: "Native"
+  - name: "English"
+    level: "Professional"
