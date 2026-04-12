@@ -1,0 +1,29 @@
+🎯 *Job Hunter — 2026-04-12*
+
+*1.* *Staff Software Engineer — AI & Developer Experience* @ SonarSource
+📍 Geneva, Switzerland | ⭐ 81/100
+💡 Staff level in Geneva at an engineering-first product company — AI/LLM platform engineering role aligns with Magino's AI expertise despite Java-primary stack
+🔗 https://www.datacareer.ch/job/13019/staff-software-engineer-java-ai-developer-experience/
+
+*2.* *Staff TypeScript Engineer (Library & Algorithm Focus)* @ WunderGraph
+📍 Remote — EMEA | ⭐ 80/100
+💡 Near-perfect TypeScript and GraphQL stack match at a developer tools company, Staff level, fully remote EMEA — Switzerland fits cleanly in scope
+🔗 https://jobs.ashbyhq.com/wundergraph/97443b40-84cd-4d9e-8598-0d5d19c1f9fc
+
+*3.* *Staff Software Engineer — CodeNext (LLM & Static Analysis)* @ SonarSource
+📍 Geneva, Switzerland | ⭐ 79/100
+💡 Staff Engineer in Geneva on an LLM/AI platform team — Magino's AI-augmented engineering experience maps directly to this role despite Python-primary tech
+🔗 https://www.datacareer.ch/job/13025/codenext-staff-software-engineer/
+
+*4.* *Staff Product Engineer — Fullstack (IC-4)* @ Moxie
+📍 Remote (EST core hours) | ⭐ 75/100
+💡 Staff level with near-perfect TypeScript/React/GraphQL/AWS stack match — EST timezone overlap from Geneva is challenging but role is fully remote
+🔗 https://weworkremotely.com/remote-jobs/moxie-staff-product-engineer-fullstack-ic-4
+
+*5.* *Staff Software Engineer* @ EngagedMD
+📍 Remote (US residents only) | ⭐ 66/100
+💡 Excellent Node.js/TypeScript/GraphQL match at Staff level, but US residency requirement is a hard blocker
+🔗 https://weworkremotely.com/remote-jobs/engagedmd-staff-software-engineer
+
+---
+📊 _5 new offers found | 318 total tracked_

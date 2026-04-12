@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11",
+  "last_updated": "2026-04-12",
   "offers": [
     {
       "id": "9c4946408bf5a84530997699c5984689",
@@ -4605,6 +4605,66 @@
       "summary": "Head of IT (AI) at GF-ACCORD AI, a Geneva-based stealth AI startup delivering non-hallucinating AI for business and financial analysis. Leadership role building the technical function from scratch, 1–4% equity, $110k–$170k. Requires deep AI/ML background (Python, TensorFlow, PyTorch).",
       "score": 67,
       "date_found": "2026-04-11",
+      "status": "new"
+    },
+    {
+      "id": "221f621ce8d22f900bbd5c8fe48404d7",
+      "title": "Staff Software Engineer — AI & Developer Experience",
+      "company": "SonarSource",
+      "location": "Geneva, Switzerland",
+      "url": "https://www.datacareer.ch/job/13019/staff-software-engineer-java-ai-developer-experience/",
+      "source": "datacareer",
+      "summary": "SonarSource building a Context Engine for AI agents and Sonar MCP Server — Staff Engineer at the intersection of distributed systems, AI/ML integration, and developer tooling. Java primary with Python and JS/TS; Geneva-based.",
+      "score": 81,
+      "date_found": "2026-04-12",
+      "status": "new"
+    },
+    {
+      "id": "749795c6c43fe2fe13047c5ff78accde",
+      "title": "Staff TypeScript Engineer (Library & Algorithm Focus)",
+      "company": "WunderGraph",
+      "location": "Remote — EMEA",
+      "url": "https://jobs.ashbyhq.com/wundergraph/97443b40-84cd-4d9e-8598-0d5d19c1f9fc",
+      "source": "ashbyhq",
+      "summary": "Build core TypeScript libraries and GraphQL tooling at WunderGraph. Staff-level, TypeScript expert role, remote across EMEA. Developer tools company focused on GraphQL Federation.",
+      "score": 80,
+      "date_found": "2026-04-12",
+      "status": "new"
+    },
+    {
+      "id": "fa16851753c42022988a05c23db991ab",
+      "title": "Staff Software Engineer — CodeNext (LLM & Static Analysis)",
+      "company": "SonarSource",
+      "location": "Geneva, Switzerland",
+      "url": "https://www.datacareer.ch/job/13025/codenext-staff-software-engineer/",
+      "source": "datacareer",
+      "summary": "SonarSource CodeNext team — Staff Engineer designing LLM benchmarking pipelines and AI/static analysis integration. Python primary with Java/JS/TS. Geneva-based with generous benefits.",
+      "score": 79,
+      "date_found": "2026-04-12",
+      "status": "new"
+    },
+    {
+      "id": "157ba89d2f52ed80c55851305dbe39dc",
+      "title": "Staff Product Engineer — Fullstack (IC-4)",
+      "company": "Moxie",
+      "location": "Remote (EST core hours)",
+      "url": "https://weworkremotely.com/remote-jobs/moxie-staff-product-engineer-fullstack-ic-4",
+      "source": "weworkremotely",
+      "summary": "MedSpa platform SaaS, Staff IC-4 owning frontend and backend architecture. TypeScript, React, Next.js, GraphQL, Django, AWS. Fully remote but EST core hours required.",
+      "score": 75,
+      "date_found": "2026-04-12",
+      "status": "new"
+    },
+    {
+      "id": "07b90704d985c21a2a33003ad0040119",
+      "title": "Staff Software Engineer",
+      "company": "EngagedMD",
+      "location": "Remote (US residents only)",
+      "url": "https://weworkremotely.com/remote-jobs/engagedmd-staff-software-engineer",
+      "source": "weworkremotely",
+      "summary": "Patient journey platform (3M+ users). Staff Engineer owning backend domains in Node.js, React, TypeScript, GraphQL. Salary $100k+. US residency required — blocker for Geneva candidate.",
+      "score": 66,
+      "date_found": "2026-04-12",
       "status": "new"
     }
   ]

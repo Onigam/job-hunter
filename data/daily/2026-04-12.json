@@ -1,0 +1,106 @@
+{
+  "date": "2026-04-12",
+  "total_new_offers": 5,
+  "offers": [
+    {
+      "rank": 1,
+      "id": "221f621ce8d22f900bbd5c8fe48404d7",
+      "title": "Staff Software Engineer — AI & Developer Experience",
+      "company": "SonarSource",
+      "location": "Geneva, Switzerland",
+      "url": "https://www.datacareer.ch/job/13019/staff-software-engineer-java-ai-developer-experience/",
+      "source": "datacareer",
+      "description_short": "SonarSource is building a 'Context Engine' for AI agents and a Sonar MCP Server to power AI-assisted code quality insights. The role sits at the intersection of distributed systems, AI/ML integration, and developer tooling — architecting the infrastructure that makes Sonar's AI initiatives production-ready at global scale.",
+      "score": 81,
+      "score_breakdown": {
+        "technical": 18,
+        "seniority": 23,
+        "location": 20,
+        "company": 13,
+        "impact": 7
+      },
+      "match_reason": "Staff level in Geneva at an engineering-first product company — AI/LLM platform engineering role aligns with Magino's AI-augmented engineering background despite Java-primary stack",
+      "date_posted": "2026-03-20"
+    },
+    {
+      "rank": 2,
+      "id": "749795c6c43fe2fe13047c5ff78accde",
+      "title": "Staff TypeScript Engineer (Library & Algorithm Focus)",
+      "company": "WunderGraph",
+      "location": "Remote — EMEA",
+      "url": "https://jobs.ashbyhq.com/wundergraph/97443b40-84cd-4d9e-8598-0d5d19c1f9fc",
+      "source": "ashbyhq",
+      "description_short": "WunderGraph is looking for a Staff TypeScript Engineer to build core TypeScript libraries and GraphQL tooling at the heart of their developer platform. The role requires deep TypeScript expertise, algorithm design, and production-grade library architecture — remote across Europe/EMEA.",
+      "score": 80,
+      "score_breakdown": {
+        "technical": 28,
+        "seniority": 23,
+        "location": 12,
+        "company": 11,
+        "impact": 6
+      },
+      "match_reason": "Near-perfect TypeScript and GraphQL stack match at a developer tools company, Staff level, fully remote EMEA — Switzerland fits cleanly in scope",
+      "date_posted": null
+    },
+    {
+      "rank": 3,
+      "id": "fa16851753c42022988a05c23db991ab",
+      "title": "Staff Software Engineer — CodeNext (LLM & Static Analysis)",
+      "company": "SonarSource",
+      "location": "Geneva, Switzerland",
+      "url": "https://www.datacareer.ch/job/13025/codenext-staff-software-engineer/",
+      "source": "datacareer",
+      "description_short": "The CodeNext team at SonarSource is at the intersection of LLMs, static analysis, and programming languages. As a Staff Engineer you'd design high-throughput LLM benchmarking pipelines and define integration strategy between AI systems and code analysis tools — primary stack Python/Java with explicit JS/TS mentioned.",
+      "score": 79,
+      "score_breakdown": {
+        "technical": 16,
+        "seniority": 23,
+        "location": 20,
+        "company": 13,
+        "impact": 7
+      },
+      "match_reason": "Staff Engineer in Geneva on an LLM/AI platform team — Magino's AI-augmented engineering experience maps directly to this role despite Python-primary tech",
+      "date_posted": "2026-03-20"
+    },
+    {
+      "rank": 4,
+      "id": "157ba89d2f52ed80c55851305dbe39dc",
+      "title": "Staff Product Engineer — Fullstack (IC-4)",
+      "company": "Moxie",
+      "location": "Remote (EST core hours)",
+      "url": "https://weworkremotely.com/remote-jobs/moxie-staff-product-engineer-fullstack-ic-4",
+      "source": "weworkremotely",
+      "description_short": "Moxie builds the operating platform for MedSpas — scheduling, payments, analytics, purchasing. The Staff IC-4 role owns major frontend and backend architecture, working on TypeScript, React, Next.js, GraphQL, Django, AWS, and integrations with Stripe, Twilio, Datadog.",
+      "score": 75,
+      "score_breakdown": {
+        "technical": 27,
+        "seniority": 23,
+        "location": 8,
+        "company": 10,
+        "impact": 7
+      },
+      "match_reason": "Staff level with near-perfect TypeScript/React/GraphQL/AWS stack match — EST timezone overlap from Geneva is challenging but role is fully remote",
+      "date_posted": "2026-04-12"
+    },
+    {
+      "rank": 5,
+      "id": "07b90704d985c21a2a33003ad0040119",
+      "title": "Staff Software Engineer",
+      "company": "EngagedMD",
+      "location": "Remote (US residents only)",
+      "url": "https://weworkremotely.com/remote-jobs/engagedmd-staff-software-engineer",
+      "source": "weworkremotely",
+      "description_short": "EngagedMD's patient journey application serves 3M+ users. The Staff Engineer role owns complex backend domains, leads system design across Node.js, React, TypeScript, and GraphQL, and drives technical direction. Salary $100k+. Note: explicitly requires US residency.",
+      "score": 66,
+      "score_breakdown": {
+        "technical": 27,
+        "seniority": 22,
+        "location": 2,
+        "company": 9,
+        "impact": 6
+      },
+      "match_reason": "Excellent technical and seniority match on Node.js/TypeScript/GraphQL stack, but US residency requirement is a hard blocker for Geneva-based candidate",
+      "date_posted": "2026-04-12"
+    }
+  ]
+}
