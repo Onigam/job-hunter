@@ -1,0 +1,101 @@
+{
+  "date": "2026-04-13",
+  "total_new_offers": 5,
+  "offers": [
+    {
+      "rank": 1,
+      "id": "3e7757652a13d71eb8fb5cb14ac37edc",
+      "title": "Principal Platform Engineer (Java, Architecture & Enablement)",
+      "company": "SonarSource",
+      "location": "Geneva, Switzerland",
+      "url": "https://jobs.lever.co/sonarsource/1f0c6b2f-ff60-4f15-9e2e-948275a15d23",
+      "source": "lever",
+      "description_short": "Technical catalyst behind Sonar's 'Golden Path' strategy — design and build core scaffolding, CLI tools, and internal developer portal integrations that let engineering teams bootstrap production-ready services in minutes. Acts as force multiplier across the full dev lifecycle from IDE to production. Principal-level platform engineering in Geneva.",
+      "score": 80,
+      "score_breakdown": {
+        "technical": 18,
+        "seniority": 22,
+        "location": 20,
+        "company": 12,
+        "impact": 8
+      },
+      "match_reason": "Geneva-based Principal-level platform engineering with architectural ownership — 'Golden Path' tooling scope is a strong conceptual fit even though Java is the primary language"
+    },
+    {
+      "rank": 2,
+      "id": "dc955a7a44bf642de3641341fea6fee0",
+      "title": "Staff Software Engineer",
+      "company": "TENEX.AI",
+      "location": "Remote (USA, global-friendly possible)",
+      "url": "https://jobs.ashbyhq.com/tenex/5b3051ee-9585-4c7e-b515-c65679a0979f",
+      "source": "ashbyhq",
+      "description_short": "Staff-level technical leader driving architecture and execution of an AI-native Managed Detection and Response platform backed by Andreessen Horowitz. Stack: TypeScript, React, Next.js, PostgreSQL, Docker, Kubernetes, GCP/AWS. Fully remote with staff-level ownership over engineering vision.",
+      "score": 71,
+      "score_breakdown": {
+        "technical": 25,
+        "seniority": 22,
+        "location": 8,
+        "company": 10,
+        "impact": 6
+      },
+      "match_reason": "Strong TypeScript/K8s technical match and staff-level architectural scope at an A16Z-backed AI security startup — US remote timezone is the primary limitation"
+    },
+    {
+      "rank": 3,
+      "id": "2d23979a59236066dd58689764360b2f",
+      "title": "Senior/Staff Software Engineer, Back End Leaning (Enterprise)",
+      "company": "Synthesia",
+      "location": "Remote — EU/UK/Switzerland eligible",
+      "url": "https://jobs.ashbyhq.com/Synthesia/2206efb1-b165-48e5-84cc-baace2a1f4e1",
+      "source": "ashbyhq",
+      "description_short": "Build and scale enterprise backend platform systems for Synthesia, the world's leading AI video platform ($4B valuation, 90% of Fortune 100). Focus on distributed backend services ensuring security, reliability, and scalability for the largest enterprise customers. Remote from Switzerland. €/£/CHF 100K+ base + stock option plan.",
+      "score": 65,
+      "score_breakdown": {
+        "technical": 20,
+        "seniority": 18,
+        "location": 12,
+        "company": 10,
+        "impact": 5
+      },
+      "match_reason": "Switzerland-eligible remote at a $4B AI company with enterprise backend scope — solid fit but seniority range and enterprise focus reduce the founding-engineer ownership appeal"
+    },
+    {
+      "rank": 4,
+      "id": "e3ce65646c5e98cf47f2fc250ce633fb",
+      "title": "Applied AI Engineer",
+      "company": "Bug Bounty Switzerland",
+      "location": "Switzerland",
+      "url": "https://jobs.ashbyhq.com/bug-bounty-switzerland/88279ded-9b2d-499f-8ab3-895edee51e1d",
+      "source": "ashbyhq",
+      "description_short": "Own the AI capabilities that power Switzerland's leading bug bounty and security testing platform — memory systems, orchestration logic, and adaptive interfaces that translate security intent into action. Switzerland-based role at the intersection of AI engineering and cybersecurity. Posted ~3 weeks ago.",
+      "score": 63,
+      "score_breakdown": {
+        "technical": 18,
+        "seniority": 10,
+        "location": 20,
+        "company": 8,
+        "impact": 7
+      },
+      "match_reason": "Swiss company with AI orchestration ownership scope — location is perfect but seniority level and exact tech stack remain unclear from available postings"
+    },
+    {
+      "rank": 5,
+      "id": "9b6d253a6a9e58c8cb215edb417c8ccd",
+      "title": "Senior/Staff AI Engineer",
+      "company": "Ironclad",
+      "location": "San Francisco, CA (hybrid) — remote variant possible",
+      "url": "https://jobs.ashbyhq.com/ironcladhq/083eb08d-8e0b-4e72-8a04-ec3414bdba31",
+      "source": "ashbyhq",
+      "description_short": "Build AI-powered legal contract features at Ironclad (TypeScript, Node.js, ReactJS, Java, GCP, Kubernetes). Staff-level full-stack AI development with LLM integration for a $500M+ funded legal tech platform serving enterprise clients. Base $190K–$210K USD. SF hybrid primary.",
+      "score": 62,
+      "score_breakdown": {
+        "technical": 25,
+        "seniority": 18,
+        "location": 4,
+        "company": 9,
+        "impact": 6
+      },
+      "match_reason": "Strong TypeScript/Node.js + LLM technical fit for AI-powered legal platform at staff level — SF hybrid requirement is the main blocker for a Geneva-based candidate"
+    }
+  ]
+}

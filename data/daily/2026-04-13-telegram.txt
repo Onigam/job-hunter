@@ -1,0 +1,29 @@
+🎯 *Job Hunter — 2026-04-13*
+
+*1.* *Principal Platform Engineer (Architecture & Enablement)* @ SonarSource
+📍 Geneva, Switzerland | ⭐ 80/100
+💡 Geneva-based Principal-level platform engineering — "Golden Path" tooling ownership, Java-primary but perfect architectural scope
+🔗 https://jobs.lever.co/sonarsource/1f0c6b2f-ff60-4f15-9e2e-948275a15d23
+
+*2.* *Staff Software Engineer* @ TENEX.AI
+📍 Remote (USA-primary) | ⭐ 71/100
+💡 A16Z-backed AI security startup — strong TypeScript/K8s technical match, staff-level architectural leadership
+🔗 https://jobs.ashbyhq.com/tenex/5b3051ee-9585-4c7e-b515-c65679a0979f
+
+*3.* *Senior/Staff Software Engineer, Back End Leaning (Enterprise)* @ Synthesia
+📍 Remote — EU/UK/Switzerland eligible | ⭐ 65/100
+💡 Switzerland-eligible remote at $4B AI video platform — enterprise backend ownership, CHF 100K+ base + stock
+🔗 https://jobs.ashbyhq.com/Synthesia/2206efb1-b165-48e5-84cc-baace2a1f4e1
+
+*4.* *Applied AI Engineer* @ Bug Bounty Switzerland
+📍 Switzerland | ⭐ 63/100
+💡 Swiss company, AI orchestration ownership (memory systems, adaptive interfaces) — seniority level unclear
+🔗 https://jobs.ashbyhq.com/bug-bounty-switzerland/88279ded-9b2d-499f-8ab3-895edee51e1d
+
+*5.* *Senior/Staff AI Engineer* @ Ironclad
+📍 San Francisco, CA (hybrid) | ⭐ 62/100
+💡 Strong TypeScript/LLM match for AI legal platform — SF hybrid is the main blocker
+🔗 https://jobs.ashbyhq.com/ironcladhq/083eb08d-8e0b-4e72-8a04-ec3414bdba31
+
+---
+📊 _5 new offers found | 323 total tracked_

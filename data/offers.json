@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-04-12",
+  "last_updated": "2026-04-13",
   "offers": [
     {
       "id": "9c4946408bf5a84530997699c5984689",
       "title": "Hands-on CTO (Full-Stack, AI)",
       "company": "Undisclosed AI Startup (via Pragmatike)",
-      "location": "Remote — EMEA",
+      "location": "Remote \u2014 EMEA",
       "url": "https://jobs.ashbyhq.com/pragmatike/36b20c23-a62b-41aa-8c78-e29f6db397ec",
       "source": "ashbyhq",
       "summary": "Hands-on CTO / Founding Engineer role at early-stage startup building a distributed AI data infrastructure platform. Provide real-world training data to AI companies through 500K+ contributors across 150+ countries. Build scalable AI-native pipelines for multimodal datasets (audio, image, video). FastAPI backend, React frontend, fully remote EMEA.",
@@ -20,7 +20,7 @@
       "location": "Zurich, Switzerland",
       "url": "https://swissdevjobs.ch/jobs/Zenline-AI-Founding-Engineer-AI-Start-up-Full-Stack",
       "source": "swissdevjobs",
-      "summary": "Founding engineer at Zenline AI, a Zurich-based AI product portfolio optimization startup ($1.6M funded, 6 employees, Seedcamp-backed). Build AI agents analyzing margin data, competitor trends, and social signals to deliver assortment and pricing recommendations for retailers. CHF 100K–125K.",
+      "summary": "Founding engineer at Zenline AI, a Zurich-based AI product portfolio optimization startup ($1.6M funded, 6 employees, Seedcamp-backed). Build AI agents analyzing margin data, competitor trends, and social signals to deliver assortment and pricing recommendations for retailers. CHF 100K\u2013125K.",
       "score": 80,
       "date_found": "2026-04-10",
       "status": "new"
@@ -29,7 +29,7 @@
       "id": "17a5ed7fb6d4958f13abd9dc19b53be8",
       "title": "Founding Full Stack AI Engineer",
       "company": "Undisclosed AI Infrastructure Startup (via Pragmatike)",
-      "location": "Remote — EMEA",
+      "location": "Remote \u2014 EMEA",
       "url": "https://jobs.ashbyhq.com/pragmatike/5ab6774c-d907-4535-9b31-fae4f70235cb",
       "source": "ashbyhq",
       "summary": "Founding engineer at early-stage startup providing real-world AI training data through a global 500K+ contributor network across 150 countries. Design FastAPI backend services, build React interfaces, architect AI-powered QA pipelines, and own end-to-end feature delivery. Fully remote EMEA.",
@@ -41,34 +41,34 @@
       "id": "75c3954103522f627c28349d1d3f795d",
       "title": "Staff Software Engineer, Full-Stack",
       "company": "Owner.com",
-      "location": "Remote — USA/Canada",
+      "location": "Remote \u2014 USA/Canada",
       "url": "https://jobs.lever.co/owner/a50c8e21-f712-4ac5-b0f4-1e47c1de7479",
       "source": "lever",
-      "summary": "Staff full-stack engineer at Owner.com, the AI growth system for local restaurants (YC-backed, pre-IPO). Stack: React, Next.js, Vue, Node.js, MongoDB, TypeScript. $220K–$240K base + generous pre-IPO equity. 100% remote (USA/Canada only).",
+      "summary": "Staff full-stack engineer at Owner.com, the AI growth system for local restaurants (YC-backed, pre-IPO). Stack: React, Next.js, Vue, Node.js, MongoDB, TypeScript. $220K\u2013$240K base + generous pre-IPO equity. 100% remote (USA/Canada only).",
       "score": 75,
       "date_found": "2026-04-10",
       "status": "new"
     },
     {
       "id": "add30c56baaf13dfc17b303ee8c1629c",
-      "title": "Staff Platform Engineer — NodeJS/DevOps",
+      "title": "Staff Platform Engineer \u2014 NodeJS/DevOps",
       "company": "Printify",
-      "location": "Remote — EMEA",
+      "location": "Remote \u2014 EMEA",
       "url": "https://jobs.lever.co/printify/e7680e96-d256-46da-a72f-4ec3845c92bb",
       "source": "lever",
-      "summary": "Staff Platform Engineer on Printify's Engineering Productivity squad — Node.js, TypeScript, AWS, Kubernetes to optimize engineering processes and CI/CD pipelines. Remote within EMEA. Stock options included.",
+      "summary": "Staff Platform Engineer on Printify's Engineering Productivity squad \u2014 Node.js, TypeScript, AWS, Kubernetes to optimize engineering processes and CI/CD pipelines. Remote within EMEA. Stock options included.",
       "score": 74,
       "date_found": "2026-04-10",
       "status": "new"
     },
     {
       "id": "4c411ba39dfc347e4fa59e0e9ef245ea",
-      "title": "Founding Engineer — Backend",
+      "title": "Founding Engineer \u2014 Backend",
       "company": "FutureClinic (YC F24)",
-      "location": "Remote — USA only",
+      "location": "Remote \u2014 USA only",
       "url": "https://www.ycombinator.com/companies/futureclinic/jobs/Xb0We0p-founding-engineer-backend",
       "source": "hn",
-      "summary": "Own backend features end-to-end for a healthcare-AI platform enabling physicians to launch chat-based digital clinics. Design PostgreSQL schemas, build Hono/Node.js APIs, and develop Temporal durable workflows on GCP/Kubernetes. $180K–$250K + 1.5–3% equity.",
+      "summary": "Own backend features end-to-end for a healthcare-AI platform enabling physicians to launch chat-based digital clinics. Design PostgreSQL schemas, build Hono/Node.js APIs, and develop Temporal durable workflows on GCP/Kubernetes. $180K\u2013$250K + 1.5\u20133% equity.",
       "score": 81,
       "date_found": "2026-04-08",
       "status": "new"
@@ -92,7 +92,7 @@
       "location": "San Francisco, CA (on-site, housing provided)",
       "url": "https://jobs.ashbyhq.com/cluely/9ed623a7-fc2d-4afc-ab88-a01af977cb9f",
       "source": "ashbyhq",
-      "summary": "Foundational engineering role at an AI desktop assistant startup building across React, Electron, and a Bun/Elysia backend. Requires world-class strictly-typed TypeScript and prior 0-to-1 product experience. $250K–$350K base + 0.25–0.5% equity.",
+      "summary": "Foundational engineering role at an AI desktop assistant startup building across React, Electron, and a Bun/Elysia backend. Requires world-class strictly-typed TypeScript and prior 0-to-1 product experience. $250K\u2013$350K base + 0.25\u20130.5% equity.",
       "score": 76,
       "date_found": "2026-04-08",
       "status": "new"
@@ -101,7 +101,7 @@
       "id": "525d53ee7f35e43388f5e50c39ed1709",
       "title": "Principal Frontend Engineer",
       "company": "Hostaway",
-      "location": "Remote — EMEA (100% remote, Switzerland eligible)",
+      "location": "Remote \u2014 EMEA (100% remote, Switzerland eligible)",
       "url": "https://careers.recruiteecdn.com/companies/hostaway/jobs/principal-frontend-engineer-100-remote-emea-1788372",
       "source": "other",
       "summary": "Own org-wide frontend vision, design systems, and developer experience at Hostaway (leading vacation rental SaaS). Stack: React, Node.js, TypeScript, AWS, GCP. 100% remote within EMEA including Switzerland.",
@@ -111,12 +111,12 @@
     },
     {
       "id": "ce69c5a76ce7601aec9acd582ac29c8b",
-      "title": "Senior Product Engineer — AI",
+      "title": "Senior Product Engineer \u2014 AI",
       "company": "Checkly",
       "location": "Remote (UTC-3 to UTC+3, Switzerland eligible)",
       "url": "https://jobs.ashbyhq.com/checkly/8f52de96-f5d5-4efe-b8d5-a7c96577d237",
       "source": "ashbyhq",
-      "summary": "Full-stack role designing and shipping AI agents and AI-enhanced features to help developers write and debug tests faster. Stack: Vue.js, Node.js, TypeScript, Postgres, ClickHouse, AWS. €84K–€103.8K + equity.",
+      "summary": "Full-stack role designing and shipping AI agents and AI-enhanced features to help developers write and debug tests faster. Stack: Vue.js, Node.js, TypeScript, Postgres, ClickHouse, AWS. \u20ac84K\u2013\u20ac103.8K + equity.",
       "score": 69,
       "date_found": "2026-04-08",
       "status": "new"
@@ -125,7 +125,7 @@
       "id": "9105f5fa88b9580c02431618c962da2c",
       "title": "Staff FullStack Engineer",
       "company": "WunderGraph",
-      "location": "Remote — EMEA",
+      "location": "Remote \u2014 EMEA",
       "url": "https://jobs.ashbyhq.com/WunderGraph/d395aaf3-fdb9-4288-acd2-b04b668e3946",
       "source": "ashbyhq",
       "summary": "Staff-level full-stack engineer at WunderGraph (Series A, GraphQL/API federation platform) building the Cosmo SaaS platform. Stack: TypeScript, Node.js, React, GraphQL, Next.js, Golang, Tailwind. Full architectural ownership and OSS contributions, fully remote EMEA.",
@@ -147,9 +147,9 @@
     },
     {
       "id": "5e891badd4f2aaaa8b3a8ecc17ae5590",
-      "title": "Senior Engineer I-II — Core Workflow Engine",
+      "title": "Senior Engineer I-II \u2014 Core Workflow Engine",
       "company": "n8n",
-      "location": "Remote — Europe",
+      "location": "Remote \u2014 Europe",
       "url": "https://jobs.ashbyhq.com/n8n/7ab55fc3-dee1-4fe4-aa6f-8c71417850f6",
       "source": "ashbyhq",
       "summary": "Senior engineer owning n8n's core workflow execution engine and frontend canvas ($240M raised, Series C, 145k+ GitHub stars). TypeScript, Node.js, Vue.js, durable execution. Fully remote Europe.",
@@ -161,7 +161,7 @@
       "id": "81147d67b9e6e28dfb0b145663fb3504",
       "title": "Senior Backend Engineer",
       "company": "Checkly",
-      "location": "Remote — UTC-3 to UTC+3",
+      "location": "Remote \u2014 UTC-3 to UTC+3",
       "url": "https://jobs.ashbyhq.com/checkly/7b38e56f-cf0f-4115-bb7a-32d3d18a1da7",
       "source": "ashbyhq",
       "summary": "Senior backend engineer at Checkly (DevTools SaaS monitoring platform). Stack: TypeScript, Node.js, Vue.js, Postgres, ClickHouse, AWS. Distributed infrastructure and AI agent features. Remote UTC-3/+3 compatible with Switzerland, async-first culture.",
@@ -185,7 +185,7 @@
       "id": "4236fe7d13fd444fa7c1542e74adba32",
       "title": "Founding Engineer",
       "company": "Panora (Hexa / eFounders studio)",
-      "location": "Remote — Europe",
+      "location": "Remote \u2014 Europe",
       "url": "https://jobs.lever.co/hexa/4236fe7d-13fd-444f-a7c1-542e74adba32",
       "source": "lever",
       "summary": "AI Operating System for European insurance brokers, built inside Hexa studio (creators of Aircall, Spendesk, Front). Founding Engineer role with full ownership: TypeScript, Node.js, React/Next.js, AWS, LLMs, RAG, AI agents. Strong equity, remote Europe.",
@@ -221,7 +221,7 @@
       "id": "d8f1a9b2c4e6f0a8b2c4d6e8f0a2b4c6",
       "title": "Staff Backend Engineer, AI Engineering: Code Creation",
       "company": "GitLab",
-      "location": "Remote — EMEA",
+      "location": "Remote \u2014 EMEA",
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8199789002",
       "source": "greenhouse",
       "summary": "Staff Backend Engineer building AI-driven code creation at GitLab. Rails app, AI Gateway (Python), Knowledge Graph (Rust), Language Server (TypeScript). Fully remote EMEA.",
@@ -233,10 +233,10 @@
       "id": "e7c2a4b6d8f0a1b3c5d7e9f1a2b4c6d8",
       "title": "Staff Software Engineer (TypeScript / React)",
       "company": "Circuit",
-      "location": "Remote — CET-compatible (UTC-5 to UTC+2)",
+      "location": "Remote \u2014 CET-compatible (UTC-5 to UTC+2)",
       "url": "https://weworkremotely.com/remote-jobs/circuit-staff-software-engineer-typescript-react-remote",
       "source": "weworkremotely",
-      "summary": "Staff Software Engineer at Circuit — full-stack TypeScript and React, explicitly CET-compatible timezone. Small high-trust team with paid take-home interview.",
+      "summary": "Staff Software Engineer at Circuit \u2014 full-stack TypeScript and React, explicitly CET-compatible timezone. Small high-trust team with paid take-home interview.",
       "score": 72,
       "date_found": "2026-04-02",
       "status": "new"
@@ -267,12 +267,12 @@
     },
     {
       "id": "cb739e3a0e51461e89c1ef7821f56666",
-      "title": "Senior/Staff Engineer — Core Workflow Engine",
+      "title": "Senior/Staff Engineer \u2014 Core Workflow Engine",
       "company": "n8n",
       "location": "Remote Europe",
       "url": "https://jobs.ashbyhq.com/n8n/cb739e3a-0e51-461e-89c1-ef7821f56666",
       "source": "ashbyhq",
-      "summary": "Platform engineer owning the core workflow execution engine at n8n ($240M raised, Series C, 145k+ GitHub stars). TypeScript, Node.js, distributed systems, durable execution, queue/task distribution. Full architectural ownership. Remote Europe, ~£145K.",
+      "summary": "Platform engineer owning the core workflow execution engine at n8n ($240M raised, Series C, 145k+ GitHub stars). TypeScript, Node.js, distributed systems, durable execution, queue/task distribution. Full architectural ownership. Remote Europe, ~\u00a3145K.",
       "score": 80,
       "date_found": "2026-04-01",
       "status": "new"
@@ -284,7 +284,7 @@
       "location": "Geneva, Switzerland",
       "url": "https://jobs.lever.co/sonarsource/3694f242-8346-4c76-826a-b6340da1797b",
       "source": "lever",
-      "summary": "AI Engineer driving Sonar internal AI transformation — designing and deploying autonomous AI agents and full-stack automation tools using Python, Node.js, React, LangChain/AutoGen, and AWS. Geneva office. 28 PTO days, 60% pension contribution.",
+      "summary": "AI Engineer driving Sonar internal AI transformation \u2014 designing and deploying autonomous AI agents and full-stack automation tools using Python, Node.js, React, LangChain/AutoGen, and AWS. Geneva office. 28 PTO days, 60% pension contribution.",
       "score": 78,
       "date_found": "2026-04-01",
       "status": "new"
@@ -303,19 +303,19 @@
     },
     {
       "id": "63f4e6c61f5d4387b9cfe661dd7a7cb6",
-      "title": "CodeNext — Staff Software Engineer",
+      "title": "CodeNext \u2014 Staff Software Engineer",
       "company": "Sonar",
       "location": "Geneva, Switzerland",
       "url": "https://jobs.lever.co/sonarsource/63f4e6c6-1f5d-4387-b9cf-e661dd7a7cb6",
       "source": "lever",
-      "summary": "Visionary Staff Software Engineer at the intersection of LLMs, static analysis, and programming languages — directly shaping AI-driven code quality solutions. Writes scalable Python (and TypeScript/Rust) to support AI workflows, dataset processing, and evaluation frameworks. Geneva office with 28 PTO days and 60% pension contribution.",
+      "summary": "Visionary Staff Software Engineer at the intersection of LLMs, static analysis, and programming languages \u2014 directly shaping AI-driven code quality solutions. Writes scalable Python (and TypeScript/Rust) to support AI workflows, dataset processing, and evaluation frameworks. Geneva office with 28 PTO days and 60% pension contribution.",
       "score": 86,
       "date_found": "2026-03-26",
       "status": "new"
     },
     {
       "id": "3ce9feb9a7de482292311c8ccb1694d3",
-      "title": "Founding Engineer — SF Hackerhouse (Visa sponsored, $3M pre-seed)",
+      "title": "Founding Engineer \u2014 SF Hackerhouse (Visa sponsored, $3M pre-seed)",
       "company": "Clera",
       "location": "San Francisco, USA (Visa sponsorship for EU/Swiss candidates)",
       "url": "https://jobs.ashbyhq.com/Clera/3ce9feb9-a7de-4822-9231-1c8ccb1694d3",
@@ -339,12 +339,12 @@
     },
     {
       "id": "1d8584a5740a43f5bba220f0af7a90f9",
-      "title": "IAM + JavaScript Principal Engineer (6–12 month contract)",
+      "title": "IAM + JavaScript Principal Engineer (6\u201312 month contract)",
       "company": "SoSafe",
       "location": "Remote (Europe)",
       "url": "https://jobs.ashbyhq.com/sosafe/1d8584a5-740a-43f5-bba2-20f0af7a90f9",
       "source": "ashbyhq",
-      "summary": "Principal Engineer/Architect contract role defining and building product IAM in a SaaS context for SoSafe's Platform Engineering team. Requires deep JavaScript/TypeScript expertise and IAM design patterns. Remote across Europe, 6–12 months.",
+      "summary": "Principal Engineer/Architect contract role defining and building product IAM in a SaaS context for SoSafe's Platform Engineering team. Requires deep JavaScript/TypeScript expertise and IAM design patterns. Remote across Europe, 6\u201312 months.",
       "score": 67,
       "date_found": "2026-03-26",
       "status": "new"
@@ -416,7 +416,7 @@
       "location": "Gland, Switzerland",
       "url": "https://swissdevjobs.ch/jobs/Swissquote-Senior-Platform-Engineer",
       "source": "swissdevjobs",
-      "summary": "Senior platform engineer role at Swissquote (Swiss leader in online banking, 650K+ clients). Own Kubernetes infrastructure with ArgoCD, Istio, GitOps workflows, Ansible, Terraform, and Python/TypeScript. CHF 120K–150K/year.",
+      "summary": "Senior platform engineer role at Swissquote (Swiss leader in online banking, 650K+ clients). Own Kubernetes infrastructure with ArgoCD, Istio, GitOps workflows, Ansible, Terraform, and Python/TypeScript. CHF 120K\u2013150K/year.",
       "score": 58,
       "date_found": "2026-03-24",
       "status": "new"
@@ -440,7 +440,7 @@
       "location": "Zurich, Switzerland",
       "url": "https://swissdevjobs.ch/jobs/Rockstar-Recruiting-AG-Fullstack--Product-AI-Founding-Engineer",
       "source": "swissdevjobs",
-      "summary": "Founding engineer at early-stage Zurich AI startup automating enterprise travel. Own full feature verticals from infra to deployment. Stack: TypeScript, React, Python, Node.js, AWS, Docker, Terraform, PostgreSQL, Redis, LLM integration. CHF 140–150K + equity.",
+      "summary": "Founding engineer at early-stage Zurich AI startup automating enterprise travel. Own full feature verticals from infra to deployment. Stack: TypeScript, React, Python, Node.js, AWS, Docker, Terraform, PostgreSQL, Redis, LLM integration. CHF 140\u2013150K + equity.",
       "score": 84,
       "date_found": "2026-03-22",
       "status": "new"
@@ -452,7 +452,7 @@
       "location": "Zurich, Switzerland",
       "url": "https://swissdevjobs.ch/jobs/Rockstar-Recruiting-AG-Applied-AI-Founding-Engineer",
       "source": "swissdevjobs",
-      "summary": "Co-define system architecture from day 1 at a Zurich founding team building AI agents for autonomous enterprise transaction processing. Stack: Python (FastAPI), Node.js, LangGraph, AWS. CHF 140–150K + equity.",
+      "summary": "Co-define system architecture from day 1 at a Zurich founding team building AI agents for autonomous enterprise transaction processing. Stack: Python (FastAPI), Node.js, LangGraph, AWS. CHF 140\u2013150K + equity.",
       "score": 79,
       "date_found": "2026-03-22",
       "status": "new"
@@ -461,10 +461,10 @@
       "id": "97bd62d2e94de9e227a395181a088a80",
       "title": "VP of Software Engineering",
       "company": "Hilo by Aktiia",
-      "location": "Remote (Neuchâtel, Switzerland)",
+      "location": "Remote (Neuch\u00e2tel, Switzerland)",
       "url": "https://apply.workable.com/hilobyaktiia/j/EAF9735302",
       "source": "other",
-      "summary": "Define long-term software vision, shape data architecture, and lead engineering at Hilo by Aktiia ($96M funded Swiss healthtech). Remote-first with travel to Neuchâtel. Reports directly to CEO.",
+      "summary": "Define long-term software vision, shape data architecture, and lead engineering at Hilo by Aktiia ($96M funded Swiss healthtech). Remote-first with travel to Neuch\u00e2tel. Reports directly to CEO.",
       "score": 66,
       "date_found": "2026-03-22",
       "status": "new"
@@ -500,7 +500,7 @@
       "location": "Remote EU (Berlin office ~once/month)",
       "url": "https://jobs.ashbyhq.com/langfuse/1225fa3d-d590-41d2-b798-ef927320fb2e",
       "source": "ashbyhq",
-      "summary": "Own the data ingestion pipeline processing terabytes of LLM traces daily at the leading open-source LLM observability platform. Tech: TypeScript, PostgreSQL, ClickHouse, Express, Redis. EU hybrid. €90K–€160K + equity. Now part of ClickHouse.",
+      "summary": "Own the data ingestion pipeline processing terabytes of LLM traces daily at the leading open-source LLM observability platform. Tech: TypeScript, PostgreSQL, ClickHouse, Express, Redis. EU hybrid. \u20ac90K\u2013\u20ac160K + equity. Now part of ClickHouse.",
       "score": 72,
       "date_found": "2026-03-18",
       "status": "new"
@@ -653,7 +653,7 @@
       "id": "f2c8d5a1e7b4f9c3a6e2d8b5f1a4c7e9b2d6f3a8c1e5b7d4f9a2c6e8b1d3f5a7",
       "title": "Principal Engineer, AI, Trust, Security, Site Reliability Engineering",
       "company": "Google",
-      "location": "Zürich, Switzerland",
+      "location": "Z\u00fcrich, Switzerland",
       "url": "https://outscal.com/job/principal-engineer-ai-trust-security-site-reliability-engineering-at-google-in-z-rich-zurich-switzerland-1",
       "source": "other",
       "summary": "Principal engineer role focusing on AI, trust, security, and SRE at Google's Zurich office. Work on cutting-edge AI infrastructure and security systems.",
@@ -666,7 +666,7 @@
         "company_type": 10,
         "seniority": 10
       },
-      "relevance_notes": "Excellent Swiss location in Zürich. Principal-level role combining AI, platform/SRE, and security - aligns well with platform engineering experience. Google offers strong engineering culture though less startup atmosphere.",
+      "relevance_notes": "Excellent Swiss location in Z\u00fcrich. Principal-level role combining AI, platform/SRE, and security - aligns well with platform engineering experience. Google offers strong engineering culture though less startup atmosphere.",
       "status": "new"
     },
     {
@@ -693,7 +693,7 @@
       "id": "b3d6e8f1a4c7b9d2e5f8a1c3b6d9e2f4a7c1b5d8e3f6a9c2b4d7e1f3a6b8c5d9",
       "title": "AI Engineer",
       "company": "Typewise",
-      "location": "Zürich, Switzerland",
+      "location": "Z\u00fcrich, Switzerland",
       "url": "https://www.ycombinator.com/companies/typewise/jobs/AWjvSXR-ai-engineer",
       "source": "ycombinator",
       "summary": "YC S22 deep tech company building text prediction for enterprises. 3+ years ML experience, Python, LLM orchestration, multi-agent frameworks. Hybrid work 2-3 days in Zurich office.",
@@ -733,7 +733,7 @@
       "id": "b9e4f8a2c6d3e1b7",
       "title": "Applied Researcher",
       "company": "Cerrion",
-      "location": "Zürich, Switzerland",
+      "location": "Z\u00fcrich, Switzerland",
       "url": "https://www.ycombinator.com/companies/cerrion/jobs/hCbbvLe-applied-researcher",
       "source": "ycombinator",
       "summary": "Set research agenda for video-AI platform detecting production line issues. YC-backed startup with technology live in 15 countries. Founder-style ownership across end-to-end research lifecycle.",
@@ -745,7 +745,7 @@
       "id": "a3f9c5e7b2d8f1a4",
       "title": "Machine Learning Evangelist",
       "company": "Lightly",
-      "location": "Zürich, Switzerland",
+      "location": "Z\u00fcrich, Switzerland",
       "url": "https://www.ycombinator.com/companies/lightly/jobs/DusXehf-machine-learning-evangelist",
       "source": "ycombinator",
       "summary": "Build vibrant open-source community for ETH spin-off's ML/computer vision platform. YC-backed, trusted by autonomous driving and medical imaging leaders. Engage developers and AI enthusiasts.",
@@ -757,7 +757,7 @@
       "id": "c2e8f6a1b5d9e3f7",
       "title": "Solution Engineer in a fast growing AI Startup",
       "company": "Lightly",
-      "location": "Zürich, Switzerland",
+      "location": "Z\u00fcrich, Switzerland",
       "url": "https://www.ycombinator.com/companies/lightly/jobs/mjOVRXW-solution-engineer-in-a-fast-growing-ai-startup",
       "source": "ycombinator",
       "summary": "Build sales pipeline and execute partnerships for data-curation and vision-AI platform. Present to executives and technical contributors. ETH/HSG spin-off backed by YC and Wingman Ventures.",
@@ -889,10 +889,10 @@
       "id": "a8f3d9c4b7e2f1a5",
       "title": "Founding Engineer",
       "company": "Bloom (YC S25)",
-      "location": "Zürich, Switzerland",
+      "location": "Z\u00fcrich, Switzerland",
       "url": "https://www.ycombinator.com/companies/bloom-4",
       "source": "other",
-      "summary": "Founding engineer role at Y Combinator Spring 2025 batch company building mobile app platform in Zürich. Offers $150K-$250K + 0.50%-2.00% equity. Multiple founding positions available.",
+      "summary": "Founding engineer role at Y Combinator Spring 2025 batch company building mobile app platform in Z\u00fcrich. Offers $150K-$250K + 0.50%-2.00% equity. Multiple founding positions available.",
       "score": 87,
       "date_found": "2026-02-12",
       "status": "new"
@@ -901,7 +901,7 @@
       "id": "b9e4f8a2c6d3e1b7",
       "title": "Staff Software Engineer",
       "company": "Lakera",
-      "location": "Zürich, Switzerland",
+      "location": "Z\u00fcrich, Switzerland",
       "url": "https://aijobnetwork.com/jobs/lakera-staff-software-engineer-zurich-e74f9532-3a88-4b77-8972-e231a1b0fa0d",
       "source": "other",
       "summary": "Technical leadership role at rapidly growing AI security startup. Work hands-on across all aspects of Lakera's applications, directly contributing code, processes, and technical direction.",
@@ -913,7 +913,7 @@
       "id": "c3f7d9e2a8b5f1c4",
       "title": "Staff ML Engineer",
       "company": "Lakera",
-      "location": "Zürich, Switzerland",
+      "location": "Z\u00fcrich, Switzerland",
       "url": "https://jobs.ashbyhq.com/lakera.ai/6f04a898-893e-439f-8601-c25a30418c13",
       "source": "other",
       "summary": "Staff-level ML engineer role at AI cybersecurity startup (acquired by Check Point). Operating at cutting edge of AI to build strongest defenses in AI cybersecurity market.",
@@ -983,7 +983,7 @@
     },
     {
       "id": "c7d9e1f3a5b8c2d4e6f8a1b3c5d7e9f2a4b6c8d1e3f5a7b9c2d4e6f8a1b3c5d7",
-      "title": "Founding Engineer → Path to CTO",
+      "title": "Founding Engineer \u2192 Path to CTO",
       "company": "Yieldo",
       "location": "Prague, Remote",
       "url": "https://wellfound.com/jobs/3718312-founding-engineer-path-to-cto-yieldo",
@@ -1300,7 +1300,7 @@
       "location": "Remote (Europe)",
       "url": "https://jobs.ashbyhq.com/lightdash/9efa292a-cc34-4388-90a2-2bed5126ace4",
       "source": "ashby",
-      "summary": "Open-source BI platform, TypeScript+React+Node+SQL, £80-130K, Series A funded",
+      "summary": "Open-source BI platform, TypeScript+React+Node+SQL, \u00a380-130K, Series A funded",
       "date_found": "2026-02-16",
       "score": null,
       "status": "new"
@@ -1424,7 +1424,7 @@
       "location": "Remote or Chicago",
       "url": "https://wellfound.com",
       "source": "wellfound",
-      "summary": "Early-stage founding role, €60K + 0.5-2.5% equity",
+      "summary": "Early-stage founding role, \u20ac60K + 0.5-2.5% equity",
       "date_found": "2026-02-16",
       "score": null,
       "status": "new"
@@ -1528,7 +1528,7 @@
       "location": "Remote (EU)",
       "url": "https://jobs.generalcatalyst.com/companies/authzed/jobs/46488683-sr-platform-engineer-remote-u-s-eastern-or-eu",
       "source": "other",
-      "summary": "Senior Platform Engineer at Authzed (builds SpiceDB, open-source authorization platform, backed by General Catalyst). Stack includes TypeScript, Kubernetes, Pulumi, ArgoCD. Remote from EU — compatible with Geneva.",
+      "summary": "Senior Platform Engineer at Authzed (builds SpiceDB, open-source authorization platform, backed by General Catalyst). Stack includes TypeScript, Kubernetes, Pulumi, ArgoCD. Remote from EU \u2014 compatible with Geneva.",
       "date_found": "2026-02-17",
       "score": 80,
       "score_breakdown": {
@@ -1568,7 +1568,7 @@
       "location": "Bern, Switzerland (hybrid)",
       "url": "https://platformengineering.org/jobs/api-platform-engineer",
       "source": "other",
-      "summary": "Platform Engineer role at PostFinance focused on implementing secure APIs and multi-cloud infrastructure (AWS, Azure, GCP) with Kubernetes and Terraform. CHF 105,000–125,000/year. Switzerland-based hybrid role with strong technical alignment to candidate's core skills in cloud infrastructure and platform engineering.",
+      "summary": "Platform Engineer role at PostFinance focused on implementing secure APIs and multi-cloud infrastructure (AWS, Azure, GCP) with Kubernetes and Terraform. CHF 105,000\u2013125,000/year. Switzerland-based hybrid role with strong technical alignment to candidate's core skills in cloud infrastructure and platform engineering.",
       "date_found": "2026-02-18",
       "score": 82,
       "score_breakdown": {
@@ -1605,10 +1605,10 @@
       "id": "d2e4f6a8b0c3d5e7f9a1b3c5d7e9f2a4b6c8d0e2f4a6b8c1d3e5f7a9b2c4d6e8",
       "title": "Staff Engineer (AWS + Python)",
       "company": "CARU AG",
-      "location": "Zürich, Switzerland",
+      "location": "Z\u00fcrich, Switzerland",
       "url": "https://swissdevjobs.ch/jobs/CARU-AG-Staff-Engineer-AWS--Python",
       "source": "swissdevjobs",
-      "summary": "Staff Engineer at CARU AG in Zürich focusing on AWS and Python infrastructure. CHF 90,000–110,000/year. Switzerland-based role with direct Staff Engineer title match.",
+      "summary": "Staff Engineer at CARU AG in Z\u00fcrich focusing on AWS and Python infrastructure. CHF 90,000\u2013110,000/year. Switzerland-based role with direct Staff Engineer title match.",
       "date_found": "2026-02-18",
       "score": 79,
       "score_breakdown": {
@@ -1618,7 +1618,7 @@
         "company_type": 8,
         "seniority": 10
       },
-      "relevance_notes": "Staff Engineer is the exact target title. Switzerland location (Zürich). AWS is core competency. Python in candidate's stack. Compensation CHF 90-110K.",
+      "relevance_notes": "Staff Engineer is the exact target title. Switzerland location (Z\u00fcrich). AWS is core competency. Python in candidate's stack. Compensation CHF 90-110K.",
       "status": "new"
     },
     {
@@ -1683,7 +1683,7 @@
     },
     {
       "id": "641227d7dcc4a08bc856d459aee82dab9483c755784a9fbea290f4cc6d154c81",
-      "title": "Applied AI Engineer, Senior/Staff Fullstack Software Engineer — EMEA",
+      "title": "Applied AI Engineer, Senior/Staff Fullstack Software Engineer \u2014 EMEA",
       "company": "Mistral AI",
       "location": "Lausanne, Switzerland (Hybrid)",
       "url": "https://jobs.lever.co/mistral/5c847a79-1386-4216-86d9-654c00afe5e1",
@@ -1818,7 +1818,7 @@
         "company_type": 14,
         "seniority": 9
       },
-      "relevance_notes": "Founding engineer at an AI startup in Zurich — near-perfect match for priority #2 role type with AI/ML interest, Switzerland location, and full-stack TypeScript/React/Node overlap.",
+      "relevance_notes": "Founding engineer at an AI startup in Zurich \u2014 near-perfect match for priority #2 role type with AI/ML interest, Switzerland location, and full-stack TypeScript/React/Node overlap.",
       "status": "new"
     },
     {
@@ -1878,7 +1878,7 @@
         "company_type": 8,
         "seniority": 6
       },
-      "relevance_notes": "Geneva location (maximum 25/25) combined with Principal-level seniority — Geneva is the #1 location priority and Staff+-equivalent Principal roles there are vanishingly rare.",
+      "relevance_notes": "Geneva location (maximum 25/25) combined with Principal-level seniority \u2014 Geneva is the #1 location priority and Staff+-equivalent Principal roles there are vanishingly rare.",
       "status": "new"
     },
     {
@@ -1898,7 +1898,7 @@
         "company_type": 9,
         "seniority": 7
       },
-      "relevance_notes": "Staff Applied AI at Google Zurich matches AI/ML interest and Python/TypeScript/cloud stack — high-signal opportunity in Switzerland.",
+      "relevance_notes": "Staff Applied AI at Google Zurich matches AI/ML interest and Python/TypeScript/cloud stack \u2014 high-signal opportunity in Switzerland.",
       "status": "new"
     },
     {
@@ -1918,7 +1918,7 @@
         "company": 13,
         "impact": 8
       },
-      "relevance_notes": "Staff-level AI tooling role at Geneva's premier dev tools company — builds MCP server and IDE extensions using Java/TypeScript/Node.js, directly matching the candidate's platform engineering expertise and AI-augmented engineering interest.",
+      "relevance_notes": "Staff-level AI tooling role at Geneva's premier dev tools company \u2014 builds MCP server and IDE extensions using Java/TypeScript/Node.js, directly matching the candidate's platform engineering expertise and AI-augmented engineering interest.",
       "status": "new"
     },
     {
@@ -1938,7 +1938,7 @@
         "company": 13,
         "impact": 8
       },
-      "relevance_notes": "Staff-level AI/ML engineering role at Sonar Geneva, designing LLM training pipelines and benchmarking infrastructure — combines the candidate's platform architecture skills with cutting-edge AI research-to-production work.",
+      "relevance_notes": "Staff-level AI/ML engineering role at Sonar Geneva, designing LLM training pipelines and benchmarking infrastructure \u2014 combines the candidate's platform architecture skills with cutting-edge AI research-to-production work.",
       "status": "new"
     },
     {
@@ -1963,7 +1963,7 @@
     },
     {
       "id": "f1457e0dd54a9cbeade62f3a98cf870f686cbe9058dbf2655fac485ffa95f918",
-      "title": "Staff Software Engineer – Special Projects @ Chairman Office",
+      "title": "Staff Software Engineer \u2013 Special Projects @ Chairman Office",
       "company": "Kraken",
       "location": "Switzerland (Remote)",
       "url": "https://www.linkedin.com/jobs/search?keywords=Staff+Software+Engineer+Special+Projects+Kraken&location=Switzerland",
@@ -2018,7 +2018,7 @@
         "company": 13,
         "impact": 6
       },
-      "relevance_notes": "Staff-level full-stack role at Geneva's premier developer tools company — strong React/TypeScript/Postgres/AWS overlap with the candidate's core stack, plus distributed systems experience at 7M+ user scale.",
+      "relevance_notes": "Staff-level full-stack role at Geneva's premier developer tools company \u2014 strong React/TypeScript/Postgres/AWS overlap with the candidate's core stack, plus distributed systems experience at 7M+ user scale.",
       "status": "new"
     },
     {
@@ -2038,7 +2038,7 @@
         "company": 14,
         "impact": 9
       },
-      "relevance_notes": "Building a brand-new open-source product from zero at a cybersecurity startup — combines Staff/TL seniority with founding-engineer-style ownership, using a TypeScript/Python/React/GraphQL stack that closely matches the candidate's expertise.",
+      "relevance_notes": "Building a brand-new open-source product from zero at a cybersecurity startup \u2014 combines Staff/TL seniority with founding-engineer-style ownership, using a TypeScript/Python/React/GraphQL stack that closely matches the candidate's expertise.",
       "status": "new"
     },
     {
@@ -2058,7 +2058,7 @@
         "company": 14,
         "impact": 8
       },
-      "relevance_notes": "Head of Engineering at a Swiss AI startup matches target role #3 (VP/Head of Eng hybrid IC) with direct AI/ML alignment — the candidate's co-founder-to-acquisition trajectory makes them a strong fit.",
+      "relevance_notes": "Head of Engineering at a Swiss AI startup matches target role #3 (VP/Head of Eng hybrid IC) with direct AI/ML alignment \u2014 the candidate's co-founder-to-acquisition trajectory makes them a strong fit.",
       "status": "new"
     },
     {
@@ -2078,7 +2078,7 @@
         "company": 9,
         "impact": 7
       },
-      "relevance_notes": "Geneva-based AI architecture leadership at a globally influential, purpose-driven organization — rare combination of top-priority location, AI focus, and architectural ownership.",
+      "relevance_notes": "Geneva-based AI architecture leadership at a globally influential, purpose-driven organization \u2014 rare combination of top-priority location, AI focus, and architectural ownership.",
       "status": "new"
     },
     {
@@ -2098,7 +2098,7 @@
         "company": 10,
         "impact": 9
       },
-      "relevance_notes": "Founding engineer at a fintech venture in Zurich with full technical ownership — mirrors the candidate's Alaya co-founding experience, offering build-from-zero scope.",
+      "relevance_notes": "Founding engineer at a fintech venture in Zurich with full technical ownership \u2014 mirrors the candidate's Alaya co-founding experience, offering build-from-zero scope.",
       "status": "new"
     },
     {
@@ -2118,7 +2118,7 @@
         "company": 14,
         "impact": 9
       },
-      "relevance_notes": "Founding engineer at an AI startup studio in Zurich — mirrors the candidate's Alaya co-founding experience, with build-from-zero ownership in an AI-first environment matching target role #2 and AI/ML interest.",
+      "relevance_notes": "Founding engineer at an AI startup studio in Zurich \u2014 mirrors the candidate's Alaya co-founding experience, with build-from-zero ownership in an AI-first environment matching target role #2 and AI/ML interest.",
       "status": "new"
     },
     {
@@ -2138,7 +2138,7 @@
         "company": 13,
         "impact": 7
       },
-      "relevance_notes": "Brand-new ML deployment role at Geneva's premier dev tools company — Python/Docker/Kubernetes/LLM stack matches AI-augmented engineering expertise; being in the first group means founding-like ownership.",
+      "relevance_notes": "Brand-new ML deployment role at Geneva's premier dev tools company \u2014 Python/Docker/Kubernetes/LLM stack matches AI-augmented engineering expertise; being in the first group means founding-like ownership.",
       "status": "new"
     },
     {
@@ -2158,7 +2158,7 @@
         "company": 13,
         "impact": 6
       },
-      "relevance_notes": "Engineering leadership at Geneva's top dev tools company — managing a squad building products used by millions aligns with VP/Lead target, though Java stack differs from TypeScript/Node.js.",
+      "relevance_notes": "Engineering leadership at Geneva's top dev tools company \u2014 managing a squad building products used by millions aligns with VP/Lead target, though Java stack differs from TypeScript/Node.js.",
       "status": "new"
     },
     {
@@ -2178,12 +2178,12 @@
         "company": 10,
         "impact": 6
       },
-      "relevance_notes": "Engineering Lead in Geneva at a crypto fintech scale-up — strong location and seniority match for target role #3, though Rust tech stack differs from TypeScript/Node.js/Python.",
+      "relevance_notes": "Engineering Lead in Geneva at a crypto fintech scale-up \u2014 strong location and seniority match for target role #3, though Rust tech stack differs from TypeScript/Node.js/Python.",
       "status": "new"
     },
     {
       "id": "cd1deaff7a2f9ff2",
-      "title": "Staff Software Engineer – Growth",
+      "title": "Staff Software Engineer \u2013 Growth",
       "company": "Kraken",
       "location": "Switzerland (Remote)",
       "url": "https://www.linkedin.com/jobs/search?keywords=Staff+Software+Engineer+Growth+Kraken&location=Switzerland",
@@ -2198,12 +2198,12 @@
         "company": 10,
         "impact": 4
       },
-      "relevance_notes": "Staff-level role at a major crypto exchange with Swiss remote — good seniority match, but growth optimization focus is less aligned than platform/architecture roles.",
+      "relevance_notes": "Staff-level role at a major crypto exchange with Swiss remote \u2014 good seniority match, but growth optimization focus is less aligned than platform/architecture roles.",
       "status": "new"
     },
     {
       "id": "a4c1d8e7f29b5036",
-      "title": "CTO Associé — Medtech Start-up",
+      "title": "CTO Associ\u00e9 \u2014 Medtech Start-up",
       "company": "Esthetic Match",
       "location": "Geneva, Switzerland",
       "url": "https://www.linkedin.com/jobs/search?keywords=%22Esthetic+Match%22+CTO&location=Geneva",
@@ -2218,7 +2218,7 @@
         "company": 14,
         "impact": 9
       },
-      "relevance_notes": "CTO at a Geneva medtech startup is a direct match for target role #4 — co-founder-level ownership at the candidate's highest-priority location, with purpose-driven mission echoing the Alaya trajectory.",
+      "relevance_notes": "CTO at a Geneva medtech startup is a direct match for target role #4 \u2014 co-founder-level ownership at the candidate's highest-priority location, with purpose-driven mission echoing the Alaya trajectory.",
       "status": "new"
     },
     {
@@ -2238,12 +2238,12 @@
         "company": 13,
         "impact": 9
       },
-      "relevance_notes": "Co-Founder/CTO at a Geneva-based DeFi startup through a top European incubator — mirrors the candidate's Alaya co-founding trajectory with full build-from-zero ownership.",
+      "relevance_notes": "Co-Founder/CTO at a Geneva-based DeFi startup through a top European incubator \u2014 mirrors the candidate's Alaya co-founding trajectory with full build-from-zero ownership.",
       "status": "new"
     },
     {
       "id": "c8d2e6f4a1b73950",
-      "title": "Member of Technical Staff, Software Engineer — MAI SuperIntelligence team",
+      "title": "Member of Technical Staff, Software Engineer \u2014 MAI SuperIntelligence team",
       "company": "Microsoft AI",
       "location": "Zurich, Switzerland",
       "url": "https://www.linkedin.com/jobs/search?keywords=Member+Technical+Staff+MAI+SuperIntelligence+Microsoft+AI&location=Zurich",
@@ -2258,7 +2258,7 @@
         "company": 12,
         "impact": 9
       },
-      "relevance_notes": "Prestigious frontier AI role in Zurich at Microsoft's most advanced AI lab — MTS is Staff-equivalent, Switzerland location, and cutting-edge AI/ML work aligns with the candidate's AI-augmented engineering interest.",
+      "relevance_notes": "Prestigious frontier AI role in Zurich at Microsoft's most advanced AI lab \u2014 MTS is Staff-equivalent, Switzerland location, and cutting-edge AI/ML work aligns with the candidate's AI-augmented engineering interest.",
       "status": "new"
     },
     {
@@ -2278,12 +2278,12 @@
         "company": 10,
         "impact": 9
       },
-      "relevance_notes": "Staff-level fullstack role at a major fintech in Switzerland — strong seniority match with likely TypeScript/React/Node.js stack alignment and product-company culture.",
+      "relevance_notes": "Staff-level fullstack role at a major fintech in Switzerland \u2014 strong seniority match with likely TypeScript/React/Node.js stack alignment and product-company culture.",
       "status": "new"
     },
     {
       "id": "e1f4a8b2c5d96072",
-      "title": "Senior Software Engineer — AI Infrastructure",
+      "title": "Senior Software Engineer \u2014 AI Infrastructure",
       "company": "Kraken",
       "location": "Switzerland (Remote)",
       "url": "https://www.linkedin.com/jobs/search?keywords=Senior+Software+Engineer+AI+Infrastructure+Kraken&location=Switzerland",
@@ -2298,7 +2298,7 @@
         "company": 10,
         "impact": 11
       },
-      "relevance_notes": "AI infrastructure role at a major crypto exchange, remote from Switzerland — combines AI/ML platform work with cloud infrastructure expertise, complementing the candidate's AWS and platform engineering background.",
+      "relevance_notes": "AI infrastructure role at a major crypto exchange, remote from Switzerland \u2014 combines AI/ML platform work with cloud infrastructure expertise, complementing the candidate's AWS and platform engineering background.",
       "status": "new"
     },
     {
@@ -2308,7 +2308,7 @@
       "location": "Geneva, Switzerland",
       "url": "https://startup.jobs/principal-platform-engineer-architecture-enablement-sonarsource-7729797",
       "source": "startup.jobs",
-      "summary": "Principal Platform Engineer on the Architecture & Enablement team at SonarSource Geneva. Design and build the Golden Path engine — core scaffolding, CLI tools, internal portal integrations, and foundational software libraries. Prototype emerging technologies including coding agents and ephemeral environments. Lead Sonar's platform engineering R&D. Stack: Java, TypeScript, Kubernetes, AWS. 27 PTO days, 60% pension.",
+      "summary": "Principal Platform Engineer on the Architecture & Enablement team at SonarSource Geneva. Design and build the Golden Path engine \u2014 core scaffolding, CLI tools, internal portal integrations, and foundational software libraries. Prototype emerging technologies including coding agents and ephemeral environments. Lead Sonar's platform engineering R&D. Stack: Java, TypeScript, Kubernetes, AWS. 27 PTO days, 60% pension.",
       "score": 85,
       "score_breakdown": {
         "technical": 22,
@@ -2317,7 +2317,7 @@
         "company": 10,
         "impact": 9
       },
-      "relevance_notes": "Principal Platform Engineer at Geneva's premier developer tools company — 'Golden Path' engine + coding agents + ephemeral environments is textbook Staff+ platform work, directly matching the candidate's platform architecture and AI-augmented engineering expertise.",
+      "relevance_notes": "Principal Platform Engineer at Geneva's premier developer tools company \u2014 'Golden Path' engine + coding agents + ephemeral environments is textbook Staff+ platform work, directly matching the candidate's platform architecture and AI-augmented engineering expertise.",
       "date_found": "2026-03-02",
       "status": "new"
     },
@@ -2325,10 +2325,10 @@
       "id": "b2c3d4e5f6a70891",
       "title": "SRE / Platform Engineer",
       "company": "Peec AI",
-      "location": "Remote (Europe, CET ±3h)",
+      "location": "Remote (Europe, CET \u00b13h)",
       "url": "https://jobs.ashbyhq.com/peec/3fd70f9e-3f48-4543-8c81-bc83e580c862",
       "source": "ashby",
-      "summary": "SRE/Platform Engineer at Peec AI (Series A, AI-driven performance management platform). Own reliability, scalability, and performance of core systems. Build and maintain cloud infrastructure (GCP/AWS), container orchestration (Kubernetes), monitoring (Prometheus/Datadog), and IaC (Terraform). Stack: TypeScript, Python, Kubernetes, Terraform, Prometheus, Datadog. €100-150K + equity.",
+      "summary": "SRE/Platform Engineer at Peec AI (Series A, AI-driven performance management platform). Own reliability, scalability, and performance of core systems. Build and maintain cloud infrastructure (GCP/AWS), container orchestration (Kubernetes), monitoring (Prometheus/Datadog), and IaC (Terraform). Stack: TypeScript, Python, Kubernetes, Terraform, Prometheus, Datadog. \u20ac100-150K + equity.",
       "score": 73,
       "score_breakdown": {
         "technical": 24,
@@ -2337,7 +2337,7 @@
         "company": 12,
         "impact": 7
       },
-      "relevance_notes": "Near-perfect tech stack match (TypeScript, Kubernetes, Terraform, GCP/AWS, Prometheus, Datadog) at a Series A AI startup with remote Europe-first culture — platform infrastructure ownership role aligns directly with candidate's core SRE and cloud engineering background.",
+      "relevance_notes": "Near-perfect tech stack match (TypeScript, Kubernetes, Terraform, GCP/AWS, Prometheus, Datadog) at a Series A AI startup with remote Europe-first culture \u2014 platform infrastructure ownership role aligns directly with candidate's core SRE and cloud engineering background.",
       "date_found": "2026-03-02",
       "status": "new"
     },
@@ -2357,7 +2357,7 @@
         "company": 7,
         "impact": 7
       },
-      "relevance_notes": "Near-perfect tech stack (TypeScript, Node.js, Python, AI agentic platform, Kubernetes) at Staff level — building an AI enterprise orchestration platform mirrors the candidate's multi-agent workflow and platform engineering expertise.",
+      "relevance_notes": "Near-perfect tech stack (TypeScript, Node.js, Python, AI agentic platform, Kubernetes) at Staff level \u2014 building an AI enterprise orchestration platform mirrors the candidate's multi-agent workflow and platform engineering expertise.",
       "date_found": "2026-03-02",
       "status": "new"
     },
@@ -2377,7 +2377,7 @@
         "company": 7,
         "impact": 6
       },
-      "relevance_notes": "Strong technical match (Node.js, TypeScript, AWS, microservices, distributed systems) at Staff level — backend payments architecture aligns with distributed systems expertise. Sustainability mission partially aligns.",
+      "relevance_notes": "Strong technical match (Node.js, TypeScript, AWS, microservices, distributed systems) at Staff level \u2014 backend payments architecture aligns with distributed systems expertise. Sustainability mission partially aligns.",
       "date_found": "2026-03-02",
       "status": "new"
     },
@@ -2397,7 +2397,7 @@
         "company": 12,
         "impact": 8
       },
-      "relevance_notes": "Staff Engineer driving architectural strategy at a YC-backed, impact-driven fintech (financial inclusion for immigrants) — purpose mission aligns with Alaya/Benevity background. London is accessible from Geneva.",
+      "relevance_notes": "Staff Engineer driving architectural strategy at a YC-backed, impact-driven fintech (financial inclusion for immigrants) \u2014 purpose mission aligns with Alaya/Benevity background. London is accessible from Geneva.",
       "date_found": "2026-03-02",
       "status": "new"
     },
@@ -2422,9 +2422,9 @@
     },
     {
       "id": "bceed7e737537da2",
-      "title": "Senior Staff Engineer — Node.js (100% Remote EMEA)",
+      "title": "Senior Staff Engineer \u2014 Node.js (100% Remote EMEA)",
       "company": "Hostaway",
-      "location": "Remote (EMEA — any European country)",
+      "location": "Remote (EMEA \u2014 any European country)",
       "url": "https://careers.hostaway.com/o/senior-staff-engineer-remote-emea",
       "source": "other",
       "summary": "Senior Staff Engineer at Hostaway (leading SaaS vacation rental management platform), owning technical direction for a product domain. Requires expert-level Node.js, TypeScript, AWS cloud-native experience, and event-driven messaging (Kafka/Kinesis). 100% remote from any European country.",
@@ -2441,9 +2441,9 @@
     },
     {
       "id": "bc345912b96964db",
-      "title": "Staff Engineer — React + Node.js (Financial Systems)",
+      "title": "Staff Engineer \u2014 React + Node.js (Financial Systems)",
       "company": "Hostaway",
-      "location": "Remote (100% — work from anywhere in country of residence)",
+      "location": "Remote (100% \u2014 work from anywhere in country of residence)",
       "url": "https://careers.hostaway.com/o/staff-engineer-react-nodejs-financial-systems-100-remote",
       "source": "other",
       "summary": "Staff Engineer for Hostaway's financial systems domain, combining full-stack TypeScript/React/Node.js development with architectural ownership of white-label accounting and ledger products. 8+ years engineering with 2+ years at Staff level required. 100% remote.",
@@ -2462,7 +2462,7 @@
       "id": "5ae79b5d3ac14636",
       "title": "AI Product Engineer",
       "company": "PostHog",
-      "location": "Remote (GMT-8 to GMT+2 — Europe-compatible)",
+      "location": "Remote (GMT-8 to GMT+2 \u2014 Europe-compatible)",
       "url": "https://posthog.com/careers/ai-product-engineer",
       "source": "other",
       "summary": "Full-stack AI product engineer at PostHog (open-source analytics platform), building LLM-powered background agents and AI observability features embedded in engineering workflows. Requires shipped agentic AI applications experience. Engineering-first culture, high autonomy, remote-first.",
@@ -2479,9 +2479,9 @@
     },
     {
       "id": "000b9fc293ba7f8d",
-      "title": "Member of Technical Staff, AI Post-Training — MAI Superintelligence Team",
+      "title": "Member of Technical Staff, AI Post-Training \u2014 MAI Superintelligence Team",
       "company": "Microsoft",
-      "location": "Zürich, Switzerland (On-site 4 days/week)",
+      "location": "Z\u00fcrich, Switzerland (On-site 4 days/week)",
       "url": "https://ch.linkedin.com/jobs/view/member-of-technical-staff-ai-post-training-mai-superintelligence-team-at-microsoft-4358351063",
       "source": "linkedin",
       "summary": "MTS on Microsoft AI's MAI Superintelligence team in Zurich, focused on LLM post-training: data collection, evaluation, fine-tuning, and reinforcement learning for frontier models. Staff-equivalent seniority. Requires Python expertise and LLM fine-tuning background. 4 days/week on-site.",
@@ -2519,7 +2519,7 @@
       "id": "e550c6d348193e126669b4f37ef6fe1e",
       "title": "Principal Platform Engineer, EU",
       "company": "Ashby",
-      "location": "Remote — Europe (Switzerland eligible)",
+      "location": "Remote \u2014 Europe (Switzerland eligible)",
       "url": "https://jobs.ashbyhq.com/ashby/a1bd5a11-7d54-4639-99f4-823fe5c865af",
       "source": "ashby",
       "summary": "Principal Platform Engineer at Ashby (YC '19, >100% YoY growth, customers: Notion, Linear, Shopify, Snowflake). Own infrastructure end-to-end on TypeScript, Node.js, React, GraphQL, Postgres, Redis, AWS. Switzerland explicitly listed as eligible remote country. Async-first culture, minimal meetings.",
@@ -2531,10 +2531,10 @@
       "id": "f4f96223cfef3dafcb41f685bdda595a",
       "title": "Principal Platform Engineer, EMEA",
       "company": "Ashby",
-      "location": "Remote — EMEA (Switzerland eligible)",
+      "location": "Remote \u2014 EMEA (Switzerland eligible)",
       "url": "https://jobs.ashbyhq.com/ashby/9aeb4411-a2a6-49ea-bfa8-8b27a39d4038",
       "source": "ashby",
-      "summary": "Principal Platform Engineer at Ashby with EMEA scope — same role as EU listing but broader candidate pool. TypeScript, Node.js, React, Apollo GraphQL, Postgres, Redis, AWS infrastructure. Engineering-first, minimal meetings, competitive equity with 10-year exercise window.",
+      "summary": "Principal Platform Engineer at Ashby with EMEA scope \u2014 same role as EU listing but broader candidate pool. TypeScript, Node.js, React, Apollo GraphQL, Postgres, Redis, AWS infrastructure. Engineering-first, minimal meetings, competitive equity with 10-year exercise window.",
       "score": 82,
       "date_found": "2026-03-04",
       "status": "new"
@@ -2546,7 +2546,7 @@
       "location": "Remote (Global)",
       "url": "https://wellfound.com/jobs/3840367-founding-engineer",
       "source": "wellfound",
-      "summary": "Founding Engineer at FutureSight venture studio, building and launching 0→1 MVPs across multiple early-stage B2B AI SaaS ventures. AI-native workflows, LLM orchestration, coding agents. Full-stack ownership from day one with path to early technical leadership.",
+      "summary": "Founding Engineer at FutureSight venture studio, building and launching 0\u21921 MVPs across multiple early-stage B2B AI SaaS ventures. AI-native workflows, LLM orchestration, coding agents. Full-stack ownership from day one with path to early technical leadership.",
       "score": 71,
       "date_found": "2026-03-04",
       "status": "new"
@@ -2589,7 +2589,7 @@
     },
     {
       "id": "e3b7f1a9c5d2e8f4a6b0c3d7e1f5a8b2c6d9e0f3a7b1c4d8e2f6a0b4c7d1e5f9",
-      "title": "Platform Engineer – Deployment Team",
+      "title": "Platform Engineer \u2013 Deployment Team",
       "company": "Blackshark AI",
       "location": "Austria or Remote (EU hours)",
       "url": "https://jobs.eu.lever.co/blackshark",
@@ -2603,7 +2603,7 @@
       "id": "d8c2e6f0a4b8c1d5e9f3a7b0c4d8e2f6a0b4c7d1e5f9a3b7c0d4e8f2a6b0c3d7",
       "title": "Blockchain Security Engineer",
       "company": "ChainSecurity",
-      "location": "Zürich, Switzerland (Hybrid/Remote)",
+      "location": "Z\u00fcrich, Switzerland (Hybrid/Remote)",
       "url": "https://www.chainsecurity.com/jobs/blockchain-security-engineer",
       "source": "other",
       "summary": "Cybersecurity startup with experts from ETH Zurich and EPFL Lausanne. Trusted by 100+ blockchain companies for security audits. Flat organization, competitive pay, profit-sharing. VISA sponsorship available.",
@@ -2653,7 +2653,7 @@
       "id": "c71c1a08d9ea4229b7c9a3ac9eabc95c",
       "title": "Senior Platform Engineer",
       "company": "Dash0",
-      "location": "Remote (Europe — Amsterdam HQ)",
+      "location": "Remote (Europe \u2014 Amsterdam HQ)",
       "url": "https://jobs.ashbyhq.com/dash0/c71c1a08-d9ea-4229-b7c9-a3ac9eabc95c",
       "source": "ashby",
       "summary": "Design, build, and maintain foundational infrastructure for Dash0 OpenTelemetry-native observability platform. Infrastructure monitoring, log management, APM, distributed tracing, and Kubernetes monitoring. Collaborate on architecture, automation, and security. Developer-focused SaaS with 7+ remote positions.",
@@ -2670,7 +2670,7 @@
     },
     {
       "id": "81329cf1f3b5496cac0225bf7cd52b03",
-      "title": "Staff Engineer — Technical Leadership",
+      "title": "Staff Engineer \u2014 Technical Leadership",
       "company": "hyperexponential",
       "location": "London, UK (hybrid)",
       "url": "https://jobs.ashbyhq.com/hyperexponential/81329cf1-f3b5-496c-ac02-25bf7cd52b03/application",
@@ -2732,7 +2732,7 @@
       "location": "Remote",
       "url": "https://news.ycombinator.com/item?id=47219668",
       "source": "hn",
-      "summary": "Building 'Cursor for sales' — an AI assistant doubling sales productivity. Pre-seed, backed by founders/operators from Lovable, OpenAI, Neo4j, and Creandum. Stack: TypeScript (Node + React), PostgreSQL, graph databases. Shipping fast.",
+      "summary": "Building 'Cursor for sales' \u2014 an AI assistant doubling sales productivity. Pre-seed, backed by founders/operators from Lovable, OpenAI, Neo4j, and Creandum. Stack: TypeScript (Node + React), PostgreSQL, graph databases. Shipping fast.",
       "score": 75,
       "score_breakdown": {
         "technical": 22,
@@ -2748,10 +2748,10 @@
       "id": "69607328f9fa47888a6e8b2d7a102969",
       "title": "Senior AI Engineer",
       "company": "n8n",
-      "location": "Remote (Europe — CET-compatible)",
+      "location": "Remote (Europe \u2014 CET-compatible)",
       "url": "https://jobs.ashbyhq.com/n8n/69607328-f9fa-4788-8a6e-8b2d7a102969",
       "source": "ashby",
-      "summary": "n8n is the open workflow orchestration platform ($2.5B valuation, 650K+ community, 145K GitHub stars). Building AI-powered capabilities — natural language workflow creation, LLM integrations, agentic automations. Stack: TypeScript, Vue.js, Node.js, LLM APIs, vector stores, RAG.",
+      "summary": "n8n is the open workflow orchestration platform ($2.5B valuation, 650K+ community, 145K GitHub stars). Building AI-powered capabilities \u2014 natural language workflow creation, LLM integrations, agentic automations. Stack: TypeScript, Vue.js, Node.js, LLM APIs, vector stores, RAG.",
       "score": 74,
       "score_breakdown": {
         "technical": 27,
@@ -2784,12 +2784,12 @@
     },
     {
       "id": "n8n-workflow-engine-cb739e3a",
-      "title": "Staff Software Engineer — Core Workflow Engine",
+      "title": "Staff Software Engineer \u2014 Core Workflow Engine",
       "company": "n8n",
-      "location": "Remote — Europe (Berlin HQ, CET-compatible)",
+      "location": "Remote \u2014 Europe (Berlin HQ, CET-compatible)",
       "url": "https://jobs.ashbyhq.com/n8n/cb739e3a-0e51-461e-89c1-ef7821f56666",
       "source": "ashby",
-      "summary": "n8n ($2.5B valuation, 650K+ community, 145K GitHub stars) seeks a Staff Engineer to own the core workflow engine — event-driven systems, state machines, distributed task processors, and fault tolerance at scale. Stack: TypeScript, Node.js, Docker. 30 days vacation, equity, €1K/year learning budget.",
+      "summary": "n8n ($2.5B valuation, 650K+ community, 145K GitHub stars) seeks a Staff Engineer to own the core workflow engine \u2014 event-driven systems, state machines, distributed task processors, and fault tolerance at scale. Stack: TypeScript, Node.js, Docker. 30 days vacation, equity, \u20ac1K/year learning budget.",
       "score": 83,
       "score_breakdown": {
         "technical": 28,
@@ -2803,7 +2803,7 @@
     },
     {
       "id": "keyrock-head-eng-platform-e7fdcf48",
-      "title": "Head of Engineering — Platform",
+      "title": "Head of Engineering \u2014 Platform",
       "company": "Keyrock",
       "location": "Geneva, Switzerland (or Brussels, London, Zurich + 30 EU cities)",
       "url": "https://jobs.ashbyhq.com/Keyrock/e7fdcf48-d5e6-477d-ad2a-6652048a0522/application",
@@ -2824,10 +2824,10 @@
       "id": "nango-staff-backend-33523fa6",
       "title": "Staff Backend Engineer",
       "company": "Nango",
-      "location": "Remote — Europe or Americas",
+      "location": "Remote \u2014 Europe or Americas",
       "url": "https://jobs.ashbyhq.com/nango/33523fa6-a454-4353-8ade-ea8c14376509",
       "source": "ashby",
-      "summary": "YC W23 open-source integration platform ($1M ARR with 6 people, backed by execs from Cloudflare, Retool, Notion). Build backend platform, APIs, SDKs, and runtime enabling developers to build product integrations 10x faster. Near-founding team ownership. Salary: $120K–$200K.",
+      "summary": "YC W23 open-source integration platform ($1M ARR with 6 people, backed by execs from Cloudflare, Retool, Notion). Build backend platform, APIs, SDKs, and runtime enabling developers to build product integrations 10x faster. Near-founding team ownership. Salary: $120K\u2013$200K.",
       "score": 82,
       "score_breakdown": {
         "technical": 25,
@@ -2843,7 +2843,7 @@
       "id": "wundergraph-fullstack-ai-fadbaed1",
       "title": "Staff FullStack AI Engineer",
       "company": "WunderGraph",
-      "location": "Remote — EMEA (Geneva compatible)",
+      "location": "Remote \u2014 EMEA (Geneva compatible)",
       "url": "https://jobs.ashbyhq.com/WunderGraph/fadbaed1-cca0-4e17-8126-b7ab3c00d465",
       "source": "ashby",
       "summary": "WunderGraph builds AI-powered developer experience tools and API federation. Design and ship LLM Agents, drive architecture across full stack. Stack: TypeScript, Next.js, React, LLM APIs, AI agent frameworks. Staff-level architect shaping future of AI developer tooling.",
@@ -2865,7 +2865,7 @@
       "location": "Geneva, Switzerland",
       "url": "https://careers.proton.me/o/engineering-manager-web-core",
       "source": "proton",
-      "summary": "Lead frontend engineering team (~8 engineers) building Proton's core web products (Mail, Drive, VPN, Calendar) — 100M+ users, profitable, 500+ employees. Manage career paths, 1-on-1s, cross-functional alignment. Ideal for Staff+ engineer stepping into people leadership. Stock options included.",
+      "summary": "Lead frontend engineering team (~8 engineers) building Proton's core web products (Mail, Drive, VPN, Calendar) \u2014 100M+ users, profitable, 500+ employees. Manage career paths, 1-on-1s, cross-functional alignment. Ideal for Staff+ engineer stepping into people leadership. Stock options included.",
       "score": 77,
       "score_breakdown": {
         "technical": 18,
@@ -2884,7 +2884,7 @@
       "location": "Geneva, Switzerland (Onsite or Remote)",
       "url": "https://wellfound.com/jobs/3026092-head-of-it-ai",
       "source": "wellfound",
-      "summary": "CTO and Head of IT (AI) at GF-ACCORD AI, an early-stage stealth AI startup in Geneva (runner-up Geneva startup 2023). Offers 1.0–4.0% equity, full-time, 8+ years experience required. Currently in fundraising phase with 1–10 employees. Onsite or remote, Geneva + 8 other locations.",
+      "summary": "CTO and Head of IT (AI) at GF-ACCORD AI, an early-stage stealth AI startup in Geneva (runner-up Geneva startup 2023). Offers 1.0\u20134.0% equity, full-time, 8+ years experience required. Currently in fundraising phase with 1\u201310 employees. Onsite or remote, Geneva + 8 other locations.",
       "score": 82,
       "score_breakdown": {
         "technical": 15,
@@ -2903,7 +2903,7 @@
       "location": "Geneva, Switzerland",
       "url": "https://jobs.generalcatalyst.com/companies/sonarsource/jobs/47050783-principal-cloud-platform-engineer",
       "source": "other",
-      "summary": "Principal Cloud Platform Engineer on SonarSource's IT Operations team in Geneva. Technical lead for AWS Organizations — build and maintain cloud infrastructure and security services across AWS (primary), Azure, and GCP. Implement ZTA-compliant architecture and lead cloud network extension. 27 PTO days, 60% pension contribution.",
+      "summary": "Principal Cloud Platform Engineer on SonarSource's IT Operations team in Geneva. Technical lead for AWS Organizations \u2014 build and maintain cloud infrastructure and security services across AWS (primary), Azure, and GCP. Implement ZTA-compliant architecture and lead cloud network extension. 27 PTO days, 60% pension contribution.",
       "score": 77,
       "score_breakdown": {
         "technical": 20,
@@ -2941,7 +2941,7 @@
       "location": "Remote (Switzerland)",
       "url": "https://join.com/companies/circleup/13116409-founding-backend-engineer-remote-switzerland",
       "source": "other",
-      "summary": "Founding Backend Engineer at Circleup, a Switzerland-based startup simplifying social meetup scheduling and restaurant booking. Self-funded, pre-PMF. Significant equity ownership, high autonomy. Remote with potential relocation support upon investment. Note: originally listed December 2024 — verify current status.",
+      "summary": "Founding Backend Engineer at Circleup, a Switzerland-based startup simplifying social meetup scheduling and restaurant booking. Self-funded, pre-PMF. Significant equity ownership, high autonomy. Remote with potential relocation support upon investment. Note: originally listed December 2024 \u2014 verify current status.",
       "score": 62,
       "score_breakdown": {
         "technical": 12,
@@ -2957,7 +2957,7 @@
       "id": "circuit-staff-swe-ts-react-2026",
       "title": "Staff Software Engineer (TypeScript, React)",
       "company": "Circuit",
-      "location": "Remote (Europe / Americas / Brazil — fully distributed)",
+      "location": "Remote (Europe / Americas / Brazil \u2014 fully distributed)",
       "url": "https://weworkremotely.com/remote-jobs/circuit-staff-software-engineer-typescript-react-remote",
       "source": "weworkremotely",
       "summary": "Circuit helps 100,000+ drivers deliver 1B+ packages with a lean team of ~40. Profitable, $25M ARR, fully bootstrapped. Staff Engineer role to raise technical standards, mentor teammates, and guide cross-platform initiatives. Stack: TypeScript, React, Node.js, GraphQL. Equity for all employees after 1 year.",
@@ -2976,10 +2976,10 @@
       "id": "qevlar-staff-engineer-2026",
       "title": "Staff Engineer (First Staff)",
       "company": "Qevlar AI",
-      "location": "Paris, France (Hybrid — remote-friendly)",
+      "location": "Paris, France (Hybrid \u2014 remote-friendly)",
       "url": "https://qevlar-1721317262.teamtailor.com/jobs/7118767-staff-engineer",
       "source": "other",
-      "summary": "First Staff Engineer at Qevlar AI ($14M Series A, EQT Ventures + Forgepoint Capital). Build autonomous AI security investigation for SOC teams. Own architecture decisions and long-term system design. Mentor senior engineers. Stack: Python, TypeScript, distributed systems, LLM/AI cybersecurity. €90–110K + meaningful equity.",
+      "summary": "First Staff Engineer at Qevlar AI ($14M Series A, EQT Ventures + Forgepoint Capital). Build autonomous AI security investigation for SOC teams. Own architecture decisions and long-term system design. Mentor senior engineers. Stack: Python, TypeScript, distributed systems, LLM/AI cybersecurity. \u20ac90\u2013110K + meaningful equity.",
       "score": 73,
       "score_breakdown": {
         "technical": 22,
@@ -2995,10 +2995,10 @@
       "id": "gitbook-platform-engineer-hn2026",
       "title": "Platform Engineer",
       "company": "GitBook",
-      "location": "Remote — EU & UK (±3h CET, Geneva compatible)",
+      "location": "Remote \u2014 EU & UK (\u00b13h CET, Geneva compatible)",
       "url": "https://www.gitbook.com/careers",
       "source": "hn",
-      "summary": "GitBook (AI-native documentation platform, 120M+ page views/month) hiring Platform Engineers experienced in building and scaling public-facing web platforms. Challenges: concurrent editing, caching, large-scale content delivery. Stack: TypeScript, React, Node.js. No PMs — engineers talk directly with users. Fully remote EU.",
+      "summary": "GitBook (AI-native documentation platform, 120M+ page views/month) hiring Platform Engineers experienced in building and scaling public-facing web platforms. Challenges: concurrent editing, caching, large-scale content delivery. Stack: TypeScript, React, Node.js. No PMs \u2014 engineers talk directly with users. Fully remote EU.",
       "score": 72,
       "score_breakdown": {
         "technical": 27,
@@ -3014,7 +3014,7 @@
       "id": "qevlar-vp-engineering-2026",
       "title": "VP Engineering",
       "company": "Qevlar AI",
-      "location": "Paris, France (Hybrid — remote-flexible)",
+      "location": "Paris, France (Hybrid \u2014 remote-flexible)",
       "url": "https://qevlar-1721317262.teamtailor.com/jobs/7089216-vp-engineering",
       "source": "other",
       "summary": "VP Engineering at Qevlar AI (B2B SaaS AI security, $14M Series A, ~50 people). Scale the engineering organization from ~10 to 20+ engineers. Build high-performing teams, establish delivery systems, partner with CTO on technical strategy. Significant equity stake. BYOC enterprise deployments.",
@@ -3140,7 +3140,7 @@
         "company": 13,
         "impact": 7
       },
-      "match_reason": "Geneva HQ, perfect TypeScript/React stack match, greenfield product from scratch — aligns with builder mindset and co-founder experience at a mission-driven company.",
+      "match_reason": "Geneva HQ, perfect TypeScript/React stack match, greenfield product from scratch \u2014 aligns with builder mindset and co-founder experience at a mission-driven company.",
       "date_found": "2026-03-12",
       "status": "new"
     },
@@ -3151,7 +3151,7 @@
       "location": "Hamburg, Germany (Onsite/Hybrid)",
       "url": "https://news.ycombinator.com/item?id=47219668",
       "source": "hn",
-      "summary": "Scale-up that grew 0→$200M GMV in 3 years and raised $60M Series C. Hiring Senior/Staff Fullstack Engineers for a team growing from 12 to 30 in 2026. Stack: TypeScript, PostgreSQL, React, GraphQL/Hasura, Docker. Shape Up methodology with real engineering ownership.",
+      "summary": "Scale-up that grew 0\u2192$200M GMV in 3 years and raised $60M Series C. Hiring Senior/Staff Fullstack Engineers for a team growing from 12 to 30 in 2026. Stack: TypeScript, PostgreSQL, React, GraphQL/Hasura, Docker. Shape Up methodology with real engineering ownership.",
       "score": 71,
       "score_breakdown": {
         "technical": 26,
@@ -3160,7 +3160,7 @@
         "company": 10,
         "impact": 7
       },
-      "match_reason": "Excellent TypeScript/React/Node.js stack match at Staff level, high-growth $60M Series C scale-up — similar to Alaya/Benevity trajectory.",
+      "match_reason": "Excellent TypeScript/React/Node.js stack match at Staff level, high-growth $60M Series C scale-up \u2014 similar to Alaya/Benevity trajectory.",
       "date_found": "2026-03-12",
       "status": "new"
     },
@@ -3180,7 +3180,7 @@
         "company": 13,
         "impact": 6
       },
-      "match_reason": "Geneva location with mission-driven privacy tech company serving 100M+ users — seniority slightly below target, but strong company/location alignment.",
+      "match_reason": "Geneva location with mission-driven privacy tech company serving 100M+ users \u2014 seniority slightly below target, but strong company/location alignment.",
       "date_found": "2026-03-12",
       "status": "new"
     },
@@ -3191,7 +3191,7 @@
       "location": "Geneva / Zurich / Lausanne, Switzerland",
       "url": "https://join.com/companies/taurusgroup/13110534-senior-platform-engineer-senior-devops-engineer-geneva-zurich-lausanne",
       "source": "other",
-      "summary": "Build and operate infrastructure for the leading European digital asset platform (>50% Swiss market share). Stack: Kubernetes, OpenShift, Docker, Ansible, Terraform, Python, Linux. 3–7 years experience required. Offices in Geneva, Zurich, and Lausanne.",
+      "summary": "Build and operate infrastructure for the leading European digital asset platform (>50% Swiss market share). Stack: Kubernetes, OpenShift, Docker, Ansible, Terraform, Python, Linux. 3\u20137 years experience required. Offices in Geneva, Zurich, and Lausanne.",
       "score": 60,
       "score_breakdown": {
         "technical": 16,
@@ -3200,7 +3200,7 @@
         "company": 11,
         "impact": 5
       },
-      "match_reason": "Geneva/Lausanne location with Swiss fintech leader (70% engineers) — strong infrastructure stack overlap, though 3–7 year requirement means significant overqualification.",
+      "match_reason": "Geneva/Lausanne location with Swiss fintech leader (70% engineers) \u2014 strong infrastructure stack overlap, though 3\u20137 year requirement means significant overqualification.",
       "date_found": "2026-03-12",
       "status": "new"
     },
@@ -3230,7 +3230,7 @@
     },
     {
       "id": "c9f4a2e7d1b8c5f3",
-      "title": "Founding Engineer (Full-Stack) — Quant Execution Systems",
+      "title": "Founding Engineer (Full-Stack) \u2014 Quant Execution Systems",
       "company": "SwissBorg",
       "location": "Remote (Europe timezone)",
       "url": "https://jobs.lever.co/swissborg/ab1ae0fa-f354-4889-a9b6-4df91d057e88",
@@ -3266,7 +3266,7 @@
     },
     {
       "id": "76e9b7dbc4c8a3237365b28e30e38b4e",
-      "title": "Staff Software Engineer — Backend (Python / TypeScript / AWS / Kubernetes)",
+      "title": "Staff Software Engineer \u2014 Backend (Python / TypeScript / AWS / Kubernetes)",
       "company": "Varicent",
       "location": "Remote (worldwide)",
       "url": "https://job-boards.greenhouse.io/varicent/jobs/5038651008",
@@ -3280,7 +3280,7 @@
       "id": "550051b1e76047356012db2332e9a07d",
       "title": "VP of Engineering",
       "company": "Neural Concept",
-      "location": "Lausanne, Switzerland — EPFL Innovation Park (on-site)",
+      "location": "Lausanne, Switzerland \u2014 EPFL Innovation Park (on-site)",
       "url": "https://builtin.com/job/vp-engineering/8157980",
       "source": "builtin.com",
       "summary": "Build and scale Neural Concept's software engineering organisation for AI-powered engineering simulation and design optimization (deep tech / CAE sector). Experience scaling teams to 50+ engineers required.",
@@ -3292,10 +3292,10 @@
       "id": "e2a4f1b8c6d9e3f7a5b2c8d4e1f6a9b3",
       "title": "Senior Fullstack Engineer (TypeScript)",
       "company": "PastaHR",
-      "location": "Zürich, Switzerland",
+      "location": "Z\u00fcrich, Switzerland",
       "url": "https://swissdevjobs.ch/jobs/PastaHR-Senior-Fullstack-Engineer-TypeScript",
       "source": "swissdevjobs",
-      "summary": "Build hiring platform for deskless workers at an early-stage Zürich startup. Stack: TypeScript, Node.js, React/Next.js. Salary: CHF 90,000–120,000/year.",
+      "summary": "Build hiring platform for deskless workers at an early-stage Z\u00fcrich startup. Stack: TypeScript, Node.js, React/Next.js. Salary: CHF 90,000\u2013120,000/year.",
       "score": 70,
       "date_found": "2026-03-14",
       "status": "new"
@@ -3307,14 +3307,14 @@
       "location": "Remote (worldwide)",
       "url": "https://himalayas.app/companies/saas-group/jobs/staff-software-engineer-4255816330",
       "source": "himalayas",
-      "summary": "Lead technical direction for Prerender — SEO rendering SaaS serving 65,000 companies and 2.7 billion pages/month. TypeScript/Node.js or Golang, AWS, cloud-native infrastructure.",
+      "summary": "Lead technical direction for Prerender \u2014 SEO rendering SaaS serving 65,000 companies and 2.7 billion pages/month. TypeScript/Node.js or Golang, AWS, cloud-native infrastructure.",
       "score": 70,
       "date_found": "2026-03-14",
       "status": "new"
     },
     {
       "id": "ffb0f335af0e80d145010496d94503ce",
-      "title": "Staff Frontend Engineer — Activation",
+      "title": "Staff Frontend Engineer \u2014 Activation",
       "company": "Appsmith",
       "location": "Remote (Europe, India, Nigeria)",
       "url": "https://wellfound.com/jobs/3031540-staff-engineer-frontend-activation",
@@ -3340,7 +3340,7 @@
       "id": "b2c5d8e1f4a7b3c6d9e2f5a8b1c4d7e3f6a9b2c5d8e1f4a7b3c9d2e5f8a1b4c7",
       "title": "Product Engineer",
       "company": "GitBook",
-      "location": "Remote (Europe, ±3h)",
+      "location": "Remote (Europe, \u00b13h)",
       "url": "https://careers.gitbook.com/product-engineer",
       "source": "hn",
       "summary": "Build AI-native documentation platform serving 120M+ page views/month. Own features end-to-end, mentorship responsibilities. Stack: TypeScript, React, Node.js, PostgreSQL, serverless, LLMs. Remote EU.",
@@ -3403,7 +3403,7 @@
       "location": "Remote, Switzerland",
       "url": "https://jobs.ashbyhq.com/Nango/5daa4859-7fa8-4a2e-a181-aac1b3428b9f",
       "source": "other",
-      "summary": "Staff Backend Engineer at Nango (YC W23) — open-source platform for product integrations. Design and scale APIs, SDKs, and the integration runtime. 100+ paying customers, $120–200k + equity. Switzerland-eligible.",
+      "summary": "Staff Backend Engineer at Nango (YC W23) \u2014 open-source platform for product integrations. Design and scale APIs, SDKs, and the integration runtime. 100+ paying customers, $120\u2013200k + equity. Switzerland-eligible.",
       "score": 81,
       "date_found": "2026-03-16",
       "status": "new"
@@ -3415,7 +3415,7 @@
       "location": "Remote, Europe",
       "url": "https://jobs.ashbyhq.com/tem/c7f08f30-6dc5-45a2-b2d7-d79a0af96d5f",
       "source": "other",
-      "summary": "Senior Staff Engineer leading the Agent Platform at tem — AI-native energy transaction startup, $75M Series B (Lightspeed). Build the AI agent layer reinventing electricity markets. High-impact founding-level scope.",
+      "summary": "Senior Staff Engineer leading the Agent Platform at tem \u2014 AI-native energy transaction startup, $75M Series B (Lightspeed). Build the AI agent layer reinventing electricity markets. High-impact founding-level scope.",
       "score": 81,
       "date_found": "2026-03-16",
       "status": "new"
@@ -3451,7 +3451,7 @@
       "location": "Zurich, Switzerland",
       "url": "https://ch.linkedin.com/jobs/view/founding-engineer-cto-at-clarm-yc-x25-4292387866",
       "source": "linkedin",
-      "summary": "Clarm (YC X25) builds AI technical support with precise, cited answers — solving hallucination for OSS startups, healthcare, and finance. Founding Engineer/CTO role: build hybrid search engine, architect sensitive data systems, ship in a 0→1 environment.",
+      "summary": "Clarm (YC X25) builds AI technical support with precise, cited answers \u2014 solving hallucination for OSS startups, healthcare, and finance. Founding Engineer/CTO role: build hybrid search engine, architect sensitive data systems, ship in a 0\u21921 environment.",
       "score": 87,
       "score_breakdown": {
         "technical": 22,
@@ -3465,7 +3465,7 @@
     },
     {
       "id": "lemlist-staff-engineer-13a2648b",
-      "title": "Staff Engineer – Fullstack JS/TS",
+      "title": "Staff Engineer \u2013 Fullstack JS/TS",
       "company": "lemlist",
       "location": "Remote (Europe)",
       "url": "https://jobs.ashbyhq.com/lemlist/13a2648b-3742-49b8-a1a7-5a83ded0bb69",
@@ -3484,12 +3484,12 @@
     },
     {
       "id": "z21-founding-engineer-ai-realestate-2026",
-      "title": "Founding Engineer – AI-First B2B SaaS (Real Estate)",
+      "title": "Founding Engineer \u2013 AI-First B2B SaaS (Real Estate)",
       "company": "Undisclosed (via Zero to One Search)",
       "location": "Remote, Europe (Berlin-based)",
       "url": "https://www.designremotejobs.com/job/zero-to-one-search-recruitment-agency-founding-engineer-ai-first-b2b-saas-german-real-estate",
       "source": "other",
-      "summary": "Build AI-native backend from scratch for German real estate market. Python, Node.js, LLMs, RAG, embeddings. €80–120K + meaningful equity. Direct collaboration with founders, 0-to-1 scope. Posted March 16, 2026.",
+      "summary": "Build AI-native backend from scratch for German real estate market. Python, Node.js, LLMs, RAG, embeddings. \u20ac80\u2013120K + meaningful equity. Direct collaboration with founders, 0-to-1 scope. Posted March 16, 2026.",
       "score": 77,
       "score_breakdown": {
         "technical": 22,
@@ -3527,7 +3527,7 @@
       "location": "London, UK / Remote",
       "url": "https://www.ycombinator.com/companies/aglide/jobs/ZsoCZvP-founding-engineer-uk",
       "source": "ycombinator",
-      "summary": "Aglide (YC) pioneered agentic SSO — locking down vulnerable apps for security teams. First founding engineer role, build from zero. £80–130K + equity, largely remote from London.",
+      "summary": "Aglide (YC) pioneered agentic SSO \u2014 locking down vulnerable apps for security teams. First founding engineer role, build from zero. \u00a380\u2013130K + equity, largely remote from London.",
       "score": 73,
       "score_breakdown": {
         "technical": 18,
@@ -3606,7 +3606,7 @@
       "location": "Geneva, Switzerland",
       "url": "https://startup.jobs/principal-platform-engineer-architecture-enablement-sonarsource-7729797",
       "source": "startup.jobs",
-      "summary": "Build SonarSource's 'Golden Path' engine — scaffolding, CLI tools, and internal portal integrations enabling product teams to bootstrap production-ready services in minutes. Prototype coding agents and ephemeral environments as R&D arm of the Platform Division. 7M+ developers trust Sonar products. Geneva office, 100% workload.",
+      "summary": "Build SonarSource's 'Golden Path' engine \u2014 scaffolding, CLI tools, and internal portal integrations enabling product teams to bootstrap production-ready services in minutes. Prototype coding agents and ephemeral environments as R&D arm of the Platform Division. 7M+ developers trust Sonar products. Geneva office, 100% workload.",
       "score": 86,
       "date_found": "2026-03-20",
       "status": "new"
@@ -3618,7 +3618,7 @@
       "location": "Remote (SF / Berlin, EU-accessible)",
       "url": "https://www.cef.ai/career/principal-software-engineer",
       "source": "other",
-      "summary": "Design and scale foundational backend systems and APIs powering real-time multi-agent AI workflows. Own end-to-end developer journey — SDKs, CLIs, interfaces. TypeScript/Effect-TS, Bun, PostgreSQL, Kubernetes, AWS. Well-funded startup (top investors) building decentralized AI infrastructure with founder-level equity alignment.",
+      "summary": "Design and scale foundational backend systems and APIs powering real-time multi-agent AI workflows. Own end-to-end developer journey \u2014 SDKs, CLIs, interfaces. TypeScript/Effect-TS, Bun, PostgreSQL, Kubernetes, AWS. Well-funded startup (top investors) building decentralized AI infrastructure with founder-level equity alignment.",
       "score": 80,
       "date_found": "2026-03-20",
       "status": "new"
@@ -3630,7 +3630,7 @@
       "location": "Zurich, Switzerland (Hybrid/Remote)",
       "url": "https://stripe.com/jobs/listing/senior-staff-software-engineer-developer-infrastructure/7409691",
       "source": "other",
-      "summary": "Define and drive evolution of Stripe's Developer Infrastructure — critical decisions affecting engineering practices for thousands of engineers across Ruby, Java, Go, Python, and TypeScript. Maintain observability systems for 99.9995% uptime. Senior Staff level with org-wide architectural scope. Zurich office or remote Europe.",
+      "summary": "Define and drive evolution of Stripe's Developer Infrastructure \u2014 critical decisions affecting engineering practices for thousands of engineers across Ruby, Java, Go, Python, and TypeScript. Maintain observability systems for 99.9995% uptime. Senior Staff level with org-wide architectural scope. Zurich office or remote Europe.",
       "score": 76,
       "date_found": "2026-03-20",
       "status": "new"
@@ -3642,7 +3642,7 @@
       "location": "Remote (USA)",
       "url": "https://cribl.io/job-detail/5596071004",
       "source": "hn",
-      "summary": "Set technical direction for Cribl Stream platform at a Node.js/TypeScript-first data observability company. Big data processing, distributed systems, AWS. Sr. Staff level with hands-on architecture ownership. Fully remote, $240K–$275K salary. Fortune 500 customers in IT and security.",
+      "summary": "Set technical direction for Cribl Stream platform at a Node.js/TypeScript-first data observability company. Big data processing, distributed systems, AWS. Sr. Staff level with hands-on architecture ownership. Fully remote, $240K\u2013$275K salary. Fortune 500 customers in IT and security.",
       "score": 76,
       "date_found": "2026-03-20",
       "status": "new"
@@ -3654,7 +3654,7 @@
       "location": "Remote (US and EU)",
       "url": "https://news.ycombinator.com/item?id=46467076",
       "source": "hn",
-      "summary": "Open-source platform for running background jobs at scale — queues, background tasks, and durable execution. Early-stage startup building next-generation infrastructure primitives. Remote-friendly including EU timezones.",
+      "summary": "Open-source platform for running background jobs at scale \u2014 queues, background tasks, and durable execution. Early-stage startup building next-generation infrastructure primitives. Remote-friendly including EU timezones.",
       "score": 77,
       "date_found": "2026-03-21",
       "status": "new"
@@ -3702,7 +3702,7 @@
       "location": "Remote",
       "url": "https://dynamitejobs.com/company/zentact/remote-job/staff-software-engineer-typescript-distributed-systems",
       "source": "other",
-      "summary": "Zentact is building white-label payments infrastructure. Hands-on Staff IC Engineer role with deep TypeScript and distributed systems expertise. $7k–$8k/month compensation. Deep technical ownership, no management responsibilities.",
+      "summary": "Zentact is building white-label payments infrastructure. Hands-on Staff IC Engineer role with deep TypeScript and distributed systems expertise. $7k\u2013$8k/month compensation. Deep technical ownership, no management responsibilities.",
       "score": 70,
       "date_found": "2026-03-21",
       "status": "new"
@@ -3745,21 +3745,21 @@
     },
     {
       "id": "9d1b9c7cfde17f2575523f66686606b1",
-      "title": "Senior Software Engineer (f/m/d) — Payment Platform",
+      "title": "Senior Software Engineer (f/m/d) \u2014 Payment Platform",
       "company": "RaiseNow AG",
       "location": "Remote (Switzerland)",
       "url": "https://swissdevjobs.ch/de/jobs/RaiseNow-AG-Senior-Software-Engineer-fmd--Payment-Platform-",
       "source": "swissdevjobs",
-      "summary": "Senior Software Engineer for the Payment Platform at RaiseNow AG, a Swiss SaaS company enabling online fundraising for nonprofits. 100% remote position with Swiss registration. CHF 95,000–115,000.",
+      "summary": "Senior Software Engineer for the Payment Platform at RaiseNow AG, a Swiss SaaS company enabling online fundraising for nonprofits. 100% remote position with Swiss registration. CHF 95,000\u2013115,000.",
       "score": 62,
       "date_found": "2026-03-23",
       "status": "new"
     },
     {
       "id": "1116da9db8036ea5befede4ff321c382",
-      "title": "Senior Fullstack Engineer — DAM",
+      "title": "Senior Fullstack Engineer \u2014 DAM",
       "company": "Frontify",
-      "location": "Remote (Switzerland — St. Gallen HQ)",
+      "location": "Remote (Switzerland \u2014 St. Gallen HQ)",
       "url": "https://jobs.lever.co/frontify/75376ef1-b33c-4545-9bf5-d99e1214a85a",
       "source": "lever",
       "summary": "Senior Fullstack Engineer on Frontify's Digital Asset Management product. Frontify is a Swiss brand management platform (St. Gallen HQ) with a remote-friendly culture. TypeScript/React/Node.js stack at a scale-up serving enterprise brands globally.",
@@ -3774,7 +3774,7 @@
       "location": "Geneva, Switzerland",
       "url": "https://startup.jobs/principal-platform-engineer-architecture-enablement-sonarsource-7729797",
       "source": "startup.jobs",
-      "summary": "Technical catalyst behind SonarSource's \"Golden Path\" strategy — design and build core scaffolding, CLI tools, and internal portal integrations enabling engineering teams to bootstrap production-ready services in minutes. Requires 10+ years, deep Kubernetes/Cloud, and comfort writing new tools in Go/TypeScript from scratch.",
+      "summary": "Technical catalyst behind SonarSource's \"Golden Path\" strategy \u2014 design and build core scaffolding, CLI tools, and internal portal integrations enabling engineering teams to bootstrap production-ready services in minutes. Requires 10+ years, deep Kubernetes/Cloud, and comfort writing new tools in Go/TypeScript from scratch.",
       "score": 87,
       "date_found": "2026-03-25",
       "status": "new"
@@ -3793,19 +3793,19 @@
     },
     {
       "id": "045a544545eaf3843c84d898f8cd26bb",
-      "title": "Founding Engineer — AI Start-up Full-Stack",
+      "title": "Founding Engineer \u2014 AI Start-up Full-Stack",
       "company": "Zenline AI",
       "location": "Zurich, Switzerland",
       "url": "https://swissdevjobs.ch/jobs/Zenline-AI-Founding-Engineer-AI-Start-up-Full-Stack",
       "source": "swissdevjobs",
-      "summary": "First technical hire at Zenline AI, a Zurich-based AI startup. Own the full stack end-to-end, from architecture to deployment. CHF 100,000–125,000/year. Ideal for someone who wants founding-team ownership and equity at an early-stage AI company.",
+      "summary": "First technical hire at Zenline AI, a Zurich-based AI startup. Own the full stack end-to-end, from architecture to deployment. CHF 100,000\u2013125,000/year. Ideal for someone who wants founding-team ownership and equity at an early-stage AI company.",
       "score": 81,
       "date_found": "2026-03-25",
       "status": "new"
     },
     {
       "id": "ffb0f335af0e80d145010496d94503ce",
-      "title": "Staff Engineer Frontend — Activation",
+      "title": "Staff Engineer Frontend \u2014 Activation",
       "company": "Appsmith",
       "location": "Remote (Europe)",
       "url": "https://wellfound.com/jobs/3031540-staff-engineer-frontend-activation",
@@ -3817,12 +3817,12 @@
     },
     {
       "id": "fea891a859c9e5de7311962c66cf9420",
-      "title": "Senior/Staff Software Engineer — Remediation Agent (Java)",
+      "title": "Senior/Staff Software Engineer \u2014 Remediation Agent (Java)",
       "company": "SonarSource",
       "location": "Geneva, Switzerland",
       "url": "https://jobs.generalcatalyst.com/companies/sonarsource/jobs/66854389-senior-software-engineer-java-remediation-agent-f-m-d",
       "source": "other",
-      "summary": "Architect the backend for Sonar's Verified Autonomous Remediation — an agentic workflow that generates, tests, and validates code fixes using AI. Java-heavy role but with deep AI/agentic system design, serving 400K+ orgs. Geneva-region employees get 28 PTO days.",
+      "summary": "Architect the backend for Sonar's Verified Autonomous Remediation \u2014 an agentic workflow that generates, tests, and validates code fixes using AI. Java-heavy role but with deep AI/agentic system design, serving 400K+ orgs. Geneva-region employees get 28 PTO days.",
       "score": 74,
       "date_found": "2026-03-25",
       "status": "new"
@@ -3834,7 +3834,7 @@
       "location": "Remote (USA)",
       "url": "https://jobot.com/details/founding-software-engineer-staff-principal-level-100-remote/7ef4c2fa00",
       "source": "other",
-      "summary": "Founding-level Staff/Principal engineer at a pre-seed AI healthcare startup building a medical billing assistant. Own all technical decisions, collaborate with CEO on roadmap. Tech: TypeScript monorepo, React-Native, GraphQL, Docker, AWS, Temporal. $175K–$230K + 1–3% equity.",
+      "summary": "Founding-level Staff/Principal engineer at a pre-seed AI healthcare startup building a medical billing assistant. Own all technical decisions, collaborate with CEO on roadmap. Tech: TypeScript monorepo, React-Native, GraphQL, Docker, AWS, Temporal. $175K\u2013$230K + 1\u20133% equity.",
       "score": 77,
       "date_found": "2026-03-27",
       "status": "new"
@@ -3858,7 +3858,7 @@
       "location": "San Francisco, USA (onsite)",
       "url": "https://www.ycombinator.com/companies/answerthis/jobs/CNdatw5-founding-engineering-lead",
       "source": "hn",
-      "summary": "AnswerThis builds the OS for scientific knowledge: AI agents that search, synthesize, and draft evidence-based research. $1.5M+ ARR, 200K+ researchers at Stanford/MIT/Amazon. $170K–$240K + equity. YC F25, cash-flow positive.",
+      "summary": "AnswerThis builds the OS for scientific knowledge: AI agents that search, synthesize, and draft evidence-based research. $1.5M+ ARR, 200K+ researchers at Stanford/MIT/Amazon. $170K\u2013$240K + equity. YC F25, cash-flow positive.",
       "score": 65,
       "date_found": "2026-03-27",
       "status": "new"
@@ -3870,7 +3870,7 @@
       "location": "Remote (USA)",
       "url": "https://www.ycombinator.com/companies/litellm/jobs/unlCynJ-founding-reliability-performance-engineer",
       "source": "hn",
-      "summary": "LiteLLM is the open-source LLM API gateway at $7M ARR. Founding reliability engineer to own performance and scalability of critical AI infrastructure. $200K–$270K + 0.5–1% equity.",
+      "summary": "LiteLLM is the open-source LLM API gateway at $7M ARR. Founding reliability engineer to own performance and scalability of critical AI infrastructure. $200K\u2013$270K + 0.5\u20131% equity.",
       "score": 60,
       "date_found": "2026-03-27",
       "status": "new"
@@ -3882,7 +3882,7 @@
       "location": "New York, NY (onsite)",
       "url": "https://www.runconverge.com/careers/founding-platform-engineer",
       "source": "hn",
-      "summary": "First engineer to own and scale Converge's data platform: $4B annual revenue processed, 20 TB/month ingested, 5B jobs/month at peak. Python, Postgres, ClickHouse. $180K–$240K + 0.5–0.85% equity.",
+      "summary": "First engineer to own and scale Converge's data platform: $4B annual revenue processed, 20 TB/month ingested, 5B jobs/month at peak. Python, Postgres, ClickHouse. $180K\u2013$240K + 0.5\u20130.85% equity.",
       "score": 58,
       "date_found": "2026-03-27",
       "status": "new"
@@ -3913,12 +3913,12 @@
     },
     {
       "id": "24a08307ae2e4a40a6fa30fb919fb637",
-      "title": "Senior API Engineer (Node.js) — Remote in Europe",
+      "title": "Senior API Engineer (Node.js) \u2014 Remote in Europe",
       "company": "PhotoRoom",
       "location": "Remote (Europe)",
       "url": "https://jobs.ashbyhq.com/photoroom/24a08307-ae2e-4a40-a6fa-30fb919fb637",
       "source": "ashbyhq",
-      "summary": "PhotoRoom (deep learning image editing app, 100M+ monthly users) seeks a Senior API Engineer to own the public API product end-to-end. Full generative AI integration scope. Node.js, TypeScript. €70–110K + equity. Remote anywhere in Europe.",
+      "summary": "PhotoRoom (deep learning image editing app, 100M+ monthly users) seeks a Senior API Engineer to own the public API product end-to-end. Full generative AI integration scope. Node.js, TypeScript. \u20ac70\u2013110K + equity. Remote anywhere in Europe.",
       "score": 65,
       "date_found": "2026-03-28",
       "status": "new"
@@ -3942,7 +3942,7 @@
       "location": "Lucerne, Switzerland (Hybrid)",
       "url": "https://swissdevjobs.ch/jobs/PEAX-AG-Senior-Agentic-AI-Engineer-mwd",
       "source": "swissdevjobs",
-      "summary": "PEAX AG (Swiss SaaS, document digitization) seeks a Senior Agentic-AI Engineer to build multi-agent LLM pipelines with LangChain, LangGraph, CrewAI, and OpenAI/Claude APIs. Java/Python/Azure stack. CHF 140–180K. Lucerne hybrid. Fluent German required.",
+      "summary": "PEAX AG (Swiss SaaS, document digitization) seeks a Senior Agentic-AI Engineer to build multi-agent LLM pipelines with LangChain, LangGraph, CrewAI, and OpenAI/Claude APIs. Java/Python/Azure stack. CHF 140\u2013180K. Lucerne hybrid. Fluent German required.",
       "score": 53,
       "date_found": "2026-03-28",
       "status": "new"
@@ -3966,14 +3966,14 @@
       "location": "San Francisco, CA",
       "url": "https://news.ycombinator.com/item?id=47224903",
       "source": "hn",
-      "summary": "AI agents automating custom data integrations between enterprises. Stack: TypeScript, Effect-TS, Bun, PostgreSQL, Kubernetes. $150K–$250K.",
+      "summary": "AI agents automating custom data integrations between enterprises. Stack: TypeScript, Effect-TS, Bun, PostgreSQL, Kubernetes. $150K\u2013$250K.",
       "score": 82,
       "date_found": "2026-03-29",
       "status": "new"
     },
     {
       "id": "35912ed9c3d4e5f6a7b8c9d0e1f2a3b4",
-      "title": "Staff Software Engineer — Infrastructure",
+      "title": "Staff Software Engineer \u2014 Infrastructure",
       "company": "Checkly",
       "location": "Remote (UTC-3 to UTC+3)",
       "url": "https://news.ycombinator.com/item?id=47230209",
@@ -3990,7 +3990,7 @@
       "location": "Amsterdam, Netherlands",
       "url": "https://news.ycombinator.com/item?id=47219972",
       "source": "hn",
-      "summary": "AI agent observability and anomaly detection platform built on OpenTelemetry. €60K–€100K + founding equity. European startup in Amsterdam.",
+      "summary": "AI agent observability and anomaly detection platform built on OpenTelemetry. \u20ac60K\u2013\u20ac100K + founding equity. European startup in Amsterdam.",
       "score": 76,
       "date_found": "2026-03-29",
       "status": "new"
@@ -4002,7 +4002,7 @@
       "location": "Zug, Switzerland",
       "url": "https://swissdevjobs.ch/jobs/Dialectic-CTO",
       "source": "swissdevjobs",
-      "summary": "Swiss capital enterprise focused on alternative asset deployment. CTO leading full technical strategy. CHF 240,000–280,000/year.",
+      "summary": "Swiss capital enterprise focused on alternative asset deployment. CTO leading full technical strategy. CHF 240,000\u2013280,000/year.",
       "score": 71,
       "date_found": "2026-03-29",
       "status": "new"
@@ -4069,24 +4069,24 @@
     },
     {
       "id": "7049f316ed294b0ea6a5953c0f24f7db",
-      "title": "CodeNext — Staff Software Engineer",
+      "title": "CodeNext \u2014 Staff Software Engineer",
       "company": "Sonar",
       "location": "Geneva, Switzerland",
       "url": "https://jobs.lever.co/sonarsource/7049f316-ed29-4b0e-a6a5-953c0f24f7db",
       "source": "lever",
-      "summary": "Staff Software Engineer on Sonar’s CodeNext team at the intersection of LLMs, static analysis, and programming languages — directly shaping AI-driven code quality solutions. Writes production-quality code mainly in Python, sometimes TypeScript/Java/Rust, and designs infrastructure at global scale. Geneva-based with 28 PTO days and 60% pension contribution.",
+      "summary": "Staff Software Engineer on Sonar\u2019s CodeNext team at the intersection of LLMs, static analysis, and programming languages \u2014 directly shaping AI-driven code quality solutions. Writes production-quality code mainly in Python, sometimes TypeScript/Java/Rust, and designs infrastructure at global scale. Geneva-based with 28 PTO days and 60% pension contribution.",
       "score": 87,
       "date_found": "2026-03-31",
       "status": "new"
     },
     {
       "id": "cb739e3a0e51461e89c1ef7821f56666",
-      "title": "Senior/Staff Engineer — Core Workflow Engine",
+      "title": "Senior/Staff Engineer \u2014 Core Workflow Engine",
       "company": "n8n",
-      "location": "Remote — Europe",
+      "location": "Remote \u2014 Europe",
       "url": "https://jobs.ashbyhq.com/n8n/cb739e3a-0e51-461e-89c1-ef7821f56666",
       "source": "ashbyhq",
-      "summary": "Own the core platform foundations powering n8n’s workflow engine — including durable execution, orchestration, queue/task distribution, and modularization — for 80+ product engineers and 650K+ community developers. TypeScript/Node.js, distributed systems. $240M raised (Series C), remote across Europe.",
+      "summary": "Own the core platform foundations powering n8n\u2019s workflow engine \u2014 including durable execution, orchestration, queue/task distribution, and modularization \u2014 for 80+ product engineers and 650K+ community developers. TypeScript/Node.js, distributed systems. $240M raised (Series C), remote across Europe.",
       "score": 82,
       "date_found": "2026-03-31",
       "status": "new"
@@ -4119,10 +4119,10 @@
       "id": "bb79a0af27d742969865a347918dba07",
       "title": "Principal Engineer, GenAI Solutions",
       "company": "Jobgether (undisclosed client)",
-      "location": "Remote — Europe",
+      "location": "Remote \u2014 Europe",
       "url": "https://jobs.lever.co/jobgether/bb79a0af-27d7-4296-9865-a347918dba07",
       "source": "lever",
-      "summary": "Principal Engineer leading GenAI system architecture — agentic AI, LangChain/LlamaIndex, TypeScript/React/Next.js, LLM production systems. Remote Europe. Bridges prototype to production for LLM-powered applications.",
+      "summary": "Principal Engineer leading GenAI system architecture \u2014 agentic AI, LangChain/LlamaIndex, TypeScript/React/Next.js, LLM production systems. Remote Europe. Bridges prototype to production for LLM-powered applications.",
       "score": 74,
       "date_found": "2026-03-31",
       "status": "new"
@@ -4134,7 +4134,7 @@
       "location": "Zurich, Switzerland",
       "url": "https://swissdevjobs.ch/jobs/AgentSelly-AG-Head-of-Engineering--CTO",
       "source": "swissdevjobs",
-      "summary": "Head of Engineering / CTO at AgentSelly AG, a Swiss AI startup in Zurich. TypeScript, MongoDB, Serverless architecture. CHF 110,000–140,000/year. Lead the full technical direction of an early-stage product from Zurich.",
+      "summary": "Head of Engineering / CTO at AgentSelly AG, a Swiss AI startup in Zurich. TypeScript, MongoDB, Serverless architecture. CHF 110,000\u2013140,000/year. Lead the full technical direction of an early-stage product from Zurich.",
       "score": 72,
       "date_found": "2026-04-04",
       "status": "new"
@@ -4177,7 +4177,7 @@
     },
     {
       "id": "84aed4f864e64edd2f611f2bffabadf4",
-      "title": "Staff Software Engineer — Platform & Core Services",
+      "title": "Staff Software Engineer \u2014 Platform & Core Services",
       "company": "Multiverse",
       "location": "London, UK",
       "url": "https://jobs.ashbyhq.com/multiverse/5f8063fd-aefe-49d0-b20a-0fa1fce576e9",
@@ -4191,7 +4191,7 @@
       "id": "3af2bb00ffc4b5ac77b443a5829b33e3",
       "title": "Senior / Staff Product Engineer",
       "company": "Linear",
-      "location": "Remote — Europe (Switzerland eligible)",
+      "location": "Remote \u2014 Europe (Switzerland eligible)",
       "url": "https://linear.app/careers/069c4628-88d7-4e4d-b393-c996fc7f3076",
       "source": "linear",
       "summary": "Linear (25k+ orgs incl. OpenAI, Coinbase, Ramp) seeks Senior/Staff Product Engineer to build AI-powered features end-to-end: TypeScript, React, Node.js, GraphQL, PostgreSQL, Redis, Temporal, GCP/Kubernetes. Collaborates with founders, drives product alongside design. Fully remote EU, Switzerland eligible.",
@@ -4203,7 +4203,7 @@
       "id": "c862a0b25b63787292b33a67e4afaf66",
       "title": "Senior / Staff Fullstack Engineer",
       "company": "Linear",
-      "location": "Remote — Europe (Switzerland eligible)",
+      "location": "Remote \u2014 Europe (Switzerland eligible)",
       "url": "https://linear.app/careers/d3bc1ced-3ce4-4086-a050-555055dbb1ff",
       "source": "linear",
       "summary": "Linear seeks Senior/Staff Fullstack Engineer for platform-level systems: real-time collaborative editing, data sync protocols, Temporal-based agentic workflows, virtualized rendering performance. TypeScript, React, Node.js, PostgreSQL, Redis, GraphQL, GCP/Kubernetes. Remote EU, Switzerland eligible.",
@@ -4215,17 +4215,17 @@
       "id": "0d6d6a3c6d04fbc173ff6997ca5ae9ca",
       "title": "Staff Engineer (GenAI Core)",
       "company": "Pleo",
-      "location": "Remote — EU (Denmark, Spain, UK, Portugal only)",
+      "location": "Remote \u2014 EU (Denmark, Spain, UK, Portugal only)",
       "url": "https://jobs.ashbyhq.com/pleo/98614e23-d9db-45a2-8183-6fa0b4604bb5",
       "source": "ashbyhq",
-      "summary": "Pleo (Series C, spend management, 30k+ businesses) seeks Staff Engineer to own GenAI Core — shared LLM routing, budget enforcement, observability. LLM APIs: OpenAI, Anthropic, AWS Bedrock, Azure, Google Gemini; LiteLLM; BrainTrust. Switzerland NOT listed as eligible country.",
+      "summary": "Pleo (Series C, spend management, 30k+ businesses) seeks Staff Engineer to own GenAI Core \u2014 shared LLM routing, budget enforcement, observability. LLM APIs: OpenAI, Anthropic, AWS Bedrock, Azure, Google Gemini; LiteLLM; BrainTrust. Switzerland NOT listed as eligible country.",
       "score": 71,
       "date_found": "2026-04-05",
       "status": "new"
     },
     {
       "id": "da121983f71c6bfcf79bb14c495822af",
-      "title": "Software Engineer (Java) — Integrations & Agentic Workflows",
+      "title": "Software Engineer (Java) \u2014 Integrations & Agentic Workflows",
       "company": "Sonar (SonarSource)",
       "location": "Geneva, Switzerland",
       "url": "https://jobs.lever.co/sonarsource/61674a13-f94b-460a-a4ce-38005d4f4e90",
@@ -4239,7 +4239,7 @@
       "id": "754c9c3af444ba292b0cf805527e2d46",
       "title": "Senior Full-Stack Engineer",
       "company": "Topliner",
-      "location": "Remote — EU timezone",
+      "location": "Remote \u2014 EU timezone",
       "url": "https://topliner.app/careers",
       "source": "hn",
       "summary": "Topliner (AI OS for executive search, early-stage startup) seeks Senior Full-Stack Engineer. TypeScript, React, Laravel (PHP), MySQL, Azure, Redis. Integrate LLMs into structured workflows. Fully remote EU. Apply: careers@topliner.app.",
@@ -4275,7 +4275,7 @@
       "id": "1875be00f064a11e6167c2c1570cf9d6",
       "title": "Staff Engineer",
       "company": "Aircall",
-      "location": "Remote — Europe (Paris HQ)",
+      "location": "Remote \u2014 Europe (Paris HQ)",
       "url": "https://jobs.lever.co/aircall/aecded17-9d52-40f0-931a-52054478c3da",
       "source": "lever",
       "summary": "Staff Engineer at Aircall (business telephony unicorn, offices Paris/London/Berlin/Madrid) leading transversal backend projects across multiple product domains. Stack: TypeScript, Node.js, AWS. Requires 10+ years backend experience with strong system design and cross-team leadership.",
@@ -4290,7 +4290,7 @@
       "location": "Remote (global, remote-first)",
       "url": "https://jobs.ashbyhq.com/teamworks/a1113cb1-539f-416e-80e8-fedd7d529501",
       "source": "ashbyhq",
-      "summary": "Staff engineer at Teamworks, the OS for Sports™ used by 6,500+ sports organizations including all major professional leagues ($165M raised). Stack: TypeScript, Node.js, React, full-stack. Lead complex features, elevate technical standards, mentor teammates, and guide cross-platform initiatives.",
+      "summary": "Staff engineer at Teamworks, the OS for Sports\u2122 used by 6,500+ sports organizations including all major professional leagues ($165M raised). Stack: TypeScript, Node.js, React, full-stack. Lead complex features, elevate technical standards, mentor teammates, and guide cross-platform initiatives.",
       "score": 75,
       "date_found": "2026-04-06",
       "status": "new"
@@ -4322,7 +4322,7 @@
     {
       "id": "bc67687ecc85",
       "title": "Founding Engineer / Full-Stack Builder",
-      "company": "Interview Strategist™",
+      "company": "Interview Strategist\u2122",
       "location": "Vaud, Switzerland (remote possible)",
       "url": "https://www.startupticker.ch/en/jobs/founding-engineer-full-stack-builder",
       "source": "startupticker",
@@ -4357,7 +4357,7 @@
     },
     {
       "id": "93ecf493e073",
-      "title": "Senior Staff Infrastructure Engineer — Developer Platform",
+      "title": "Senior Staff Infrastructure Engineer \u2014 Developer Platform",
       "company": "SentinelOne",
       "location": "Remote (global)",
       "url": "https://www.glassdoor.com/job-listing/senior-staff-infrastructure-engineer-developer-platform-sentinelone-JV_KO0,55_KE56,67.htm?jl=1009996593856",
@@ -4444,7 +4444,7 @@
         "company": 15,
         "impact": 10
       },
-      "relevance_notes": "Engineering leadership at Anthropic Zurich — prestige AI company with real safety mission. AI-augmented engineering background is a strong fit signal.",
+      "relevance_notes": "Engineering leadership at Anthropic Zurich \u2014 prestige AI company with real safety mission. AI-augmented engineering background is a strong fit signal.",
       "status": "new"
     },
     {
@@ -4464,7 +4464,7 @@
         "company": 12,
         "impact": 9
       },
-      "relevance_notes": "Senior Staff IC at Databricks on platform enforcement layer. Second Databricks Zurich role tracked — different team from Delta.",
+      "relevance_notes": "Senior Staff IC at Databricks on platform enforcement layer. Second Databricks Zurich role tracked \u2014 different team from Delta.",
       "status": "new"
     },
     {
@@ -4513,7 +4513,7 @@
     },
     {
       "id": "24726faacf9c",
-      "title": "Principal Engineer / Head of Engineering — Payments",
+      "title": "Principal Engineer / Head of Engineering \u2014 Payments",
       "company": "ThriveCart",
       "location": "Remote (EU or South America)",
       "url": "https://job-boards.greenhouse.io/thrivecart/jobs/4992065008",
@@ -4525,7 +4525,7 @@
     },
     {
       "id": "f52ebe28f943",
-      "title": "Sr AI Engineer — Remote Europe (TS/Vue/NodeJS)",
+      "title": "Sr AI Engineer \u2014 Remote Europe (TS/Vue/NodeJS)",
       "company": "n8n",
       "location": "Remote (Europe)",
       "url": "https://jobs.ashbyhq.com/n8n/d195a389-6af5-4b95-82e5-2258953c7297",
@@ -4551,34 +4551,34 @@
       "id": "bfb9f9303bb4e2fdbc8b64066cc357cd",
       "title": "Staff Backend Engineer (Remote, Switzerland)",
       "company": "Nango",
-      "location": "Remote — Switzerland",
+      "location": "Remote \u2014 Switzerland",
       "url": "https://jobs.ashbyhq.com/Nango/5daa4859-7fa8-4a2e-a181-aac1b3428b9f",
       "source": "ashbyhq",
-      "summary": "Staff Backend Engineer at Nango (YC W23), the open-source platform for building product integrations supporting 700+ APIs. Write integration logic as TypeScript functions or let AI generate them, deployed to Nango's production runtime. $120–200k + equity, fully remote, Switzerland-specific posting.",
+      "summary": "Staff Backend Engineer at Nango (YC W23), the open-source platform for building product integrations supporting 700+ APIs. Write integration logic as TypeScript functions or let AI generate them, deployed to Nango's production runtime. $120\u2013200k + equity, fully remote, Switzerland-specific posting.",
       "score": 85,
       "date_found": "2026-04-11",
       "status": "new"
     },
     {
       "id": "aee946c4d4c8b6f621fa671dd7f79f9f",
-      "title": "Staff LLM Interaction Engineer (Europe remote — TS/Vue/NodeJS)",
+      "title": "Staff LLM Interaction Engineer (Europe remote \u2014 TS/Vue/NodeJS)",
       "company": "n8n",
-      "location": "Remote — Europe",
+      "location": "Remote \u2014 Europe",
       "url": "https://jobs.ashbyhq.com/n8n/5c1d1b67-604c-46b3-9c59-cfe0cd703688",
       "source": "ashbyhq",
-      "summary": "Staff-level LLM Interaction Engineer at n8n, shaping the AI Workflow Builder end-to-end. Owns the orchestration layer between users, workflows, and LLMs — designing context, tool interactions, and evaluation loops. TypeScript/Vue/Node.js stack, 7+ years required, remote Europe.",
+      "summary": "Staff-level LLM Interaction Engineer at n8n, shaping the AI Workflow Builder end-to-end. Owns the orchestration layer between users, workflows, and LLMs \u2014 designing context, tool interactions, and evaluation loops. TypeScript/Vue/Node.js stack, 7+ years required, remote Europe.",
       "score": 82,
       "date_found": "2026-04-11",
       "status": "new"
     },
     {
       "id": "a7fd0d71a4a70dfdd1b707688e2ddc52",
-      "title": "Founding Software Engineer — TypeScript",
+      "title": "Founding Software Engineer \u2014 TypeScript",
       "company": "Neuroscale AI",
       "location": "Remote (Global)",
       "url": "https://jobs.ashbyhq.com/neuroscale/c5d2c09f-c732-4a84-9c16-16f0186d678c",
       "source": "ashbyhq",
-      "summary": "Founding Engineer at Neuroscale AI, building Arbi — the AI recruiting operating system. Owns end-to-end TypeScript/Node.js backend services and AI agent orchestration with ATS integrations. Early-stage, high-ownership role with agentic workflow focus.",
+      "summary": "Founding Engineer at Neuroscale AI, building Arbi \u2014 the AI recruiting operating system. Owns end-to-end TypeScript/Node.js backend services and AI agent orchestration with ATS integrations. Early-stage, high-ownership role with agentic workflow focus.",
       "score": 76,
       "date_found": "2026-04-11",
       "status": "new"
@@ -4587,7 +4587,7 @@
       "id": "0e158a7af59d3ea21d4d53c729cb7f1d",
       "title": "Staff / Principal Full-Stack Engineer (B2C Anti-Cheat)",
       "company": "A5 Labs",
-      "location": "Remote — Europe (EEA)",
+      "location": "Remote \u2014 Europe (EEA)",
       "url": "https://www.remoteitjobs.app/job/a5-labs-staff-principal-full-stack-engineer-b2c-anti-cheat-product",
       "source": "weworkremotely",
       "summary": "Staff/Principal Full-Stack Engineer at A5 Labs powering AI-driven online gaming experiences. Own complex systems and shape technical direction on a TypeScript/Node.js full-stack product. Remote within EEA, 6+ years required.",
@@ -4602,19 +4602,19 @@
       "location": "Geneva, Switzerland (Remote possible)",
       "url": "https://wellfound.com/jobs/3026092-head-of-it-ai",
       "source": "wellfound",
-      "summary": "Head of IT (AI) at GF-ACCORD AI, a Geneva-based stealth AI startup delivering non-hallucinating AI for business and financial analysis. Leadership role building the technical function from scratch, 1–4% equity, $110k–$170k. Requires deep AI/ML background (Python, TensorFlow, PyTorch).",
+      "summary": "Head of IT (AI) at GF-ACCORD AI, a Geneva-based stealth AI startup delivering non-hallucinating AI for business and financial analysis. Leadership role building the technical function from scratch, 1\u20134% equity, $110k\u2013$170k. Requires deep AI/ML background (Python, TensorFlow, PyTorch).",
       "score": 67,
       "date_found": "2026-04-11",
       "status": "new"
     },
     {
       "id": "221f621ce8d22f900bbd5c8fe48404d7",
-      "title": "Staff Software Engineer — AI & Developer Experience",
+      "title": "Staff Software Engineer \u2014 AI & Developer Experience",
       "company": "SonarSource",
       "location": "Geneva, Switzerland",
       "url": "https://www.datacareer.ch/job/13019/staff-software-engineer-java-ai-developer-experience/",
       "source": "datacareer",
-      "summary": "SonarSource building a Context Engine for AI agents and Sonar MCP Server — Staff Engineer at the intersection of distributed systems, AI/ML integration, and developer tooling. Java primary with Python and JS/TS; Geneva-based.",
+      "summary": "SonarSource building a Context Engine for AI agents and Sonar MCP Server \u2014 Staff Engineer at the intersection of distributed systems, AI/ML integration, and developer tooling. Java primary with Python and JS/TS; Geneva-based.",
       "score": 81,
       "date_found": "2026-04-12",
       "status": "new"
@@ -4623,7 +4623,7 @@
       "id": "749795c6c43fe2fe13047c5ff78accde",
       "title": "Staff TypeScript Engineer (Library & Algorithm Focus)",
       "company": "WunderGraph",
-      "location": "Remote — EMEA",
+      "location": "Remote \u2014 EMEA",
       "url": "https://jobs.ashbyhq.com/wundergraph/97443b40-84cd-4d9e-8598-0d5d19c1f9fc",
       "source": "ashbyhq",
       "summary": "Build core TypeScript libraries and GraphQL tooling at WunderGraph. Staff-level, TypeScript expert role, remote across EMEA. Developer tools company focused on GraphQL Federation.",
@@ -4633,19 +4633,19 @@
     },
     {
       "id": "fa16851753c42022988a05c23db991ab",
-      "title": "Staff Software Engineer — CodeNext (LLM & Static Analysis)",
+      "title": "Staff Software Engineer \u2014 CodeNext (LLM & Static Analysis)",
       "company": "SonarSource",
       "location": "Geneva, Switzerland",
       "url": "https://www.datacareer.ch/job/13025/codenext-staff-software-engineer/",
       "source": "datacareer",
-      "summary": "SonarSource CodeNext team — Staff Engineer designing LLM benchmarking pipelines and AI/static analysis integration. Python primary with Java/JS/TS. Geneva-based with generous benefits.",
+      "summary": "SonarSource CodeNext team \u2014 Staff Engineer designing LLM benchmarking pipelines and AI/static analysis integration. Python primary with Java/JS/TS. Geneva-based with generous benefits.",
       "score": 79,
       "date_found": "2026-04-12",
       "status": "new"
     },
     {
       "id": "157ba89d2f52ed80c55851305dbe39dc",
-      "title": "Staff Product Engineer — Fullstack (IC-4)",
+      "title": "Staff Product Engineer \u2014 Fullstack (IC-4)",
       "company": "Moxie",
       "location": "Remote (EST core hours)",
       "url": "https://weworkremotely.com/remote-jobs/moxie-staff-product-engineer-fullstack-ic-4",
@@ -4662,9 +4662,69 @@
       "location": "Remote (US residents only)",
       "url": "https://weworkremotely.com/remote-jobs/engagedmd-staff-software-engineer",
       "source": "weworkremotely",
-      "summary": "Patient journey platform (3M+ users). Staff Engineer owning backend domains in Node.js, React, TypeScript, GraphQL. Salary $100k+. US residency required — blocker for Geneva candidate.",
+      "summary": "Patient journey platform (3M+ users). Staff Engineer owning backend domains in Node.js, React, TypeScript, GraphQL. Salary $100k+. US residency required \u2014 blocker for Geneva candidate.",
       "score": 66,
       "date_found": "2026-04-12",
+      "status": "new"
+    },
+    {
+      "id": "3e7757652a13d71eb8fb5cb14ac37edc",
+      "title": "Principal Platform Engineer (Java, Architecture & Enablement)",
+      "company": "SonarSource",
+      "location": "Geneva, Switzerland",
+      "url": "https://jobs.lever.co/sonarsource/1f0c6b2f-ff60-4f15-9e2e-948275a15d23",
+      "source": "lever",
+      "summary": "Technical catalyst behind Sonar's 'Golden Path' strategy \u2014 design and build core scaffolding, CLI tools, and internal developer portal integrations enabling engineering teams to bootstrap production-ready services in minutes. Acts as force multiplier across the full dev lifecycle. Principal-level platform engineering in Geneva. Java primary.",
+      "score": 80,
+      "date_found": "2026-04-13",
+      "status": "new"
+    },
+    {
+      "id": "dc955a7a44bf642de3641341fea6fee0",
+      "title": "Staff Software Engineer",
+      "company": "TENEX.AI",
+      "location": "Remote (USA, global-friendly possible)",
+      "url": "https://jobs.ashbyhq.com/tenex/5b3051ee-9585-4c7e-b515-c65679a0979f",
+      "source": "ashbyhq",
+      "summary": "Staff-level technical leader driving architecture of an AI-native Managed Detection and Response platform backed by Andreessen Horowitz. Stack: TypeScript, React, Next.js, PostgreSQL, Docker, Kubernetes, GCP/AWS. Fully remote with staff-level ownership over engineering vision.",
+      "score": 71,
+      "date_found": "2026-04-13",
+      "status": "new"
+    },
+    {
+      "id": "2d23979a59236066dd58689764360b2f",
+      "title": "Senior/Staff Software Engineer, Back End Leaning (Enterprise)",
+      "company": "Synthesia",
+      "location": "Remote \u2014 EU/UK/Switzerland eligible",
+      "url": "https://jobs.ashbyhq.com/Synthesia/2206efb1-b165-48e5-84cc-baace2a1f4e1",
+      "source": "ashbyhq",
+      "summary": "Build and scale enterprise backend platform systems for Synthesia, the world leading AI video platform ($4B valuation, 90% Fortune 100). Distributed backend services ensuring security, reliability, and scalability for enterprise customers. Remote from Switzerland. EUR/GBP/CHF 100K+ base + stock.",
+      "score": 65,
+      "date_found": "2026-04-13",
+      "status": "new"
+    },
+    {
+      "id": "e3ce65646c5e98cf47f2fc250ce633fb",
+      "title": "Applied AI Engineer",
+      "company": "Bug Bounty Switzerland",
+      "location": "Switzerland",
+      "url": "https://jobs.ashbyhq.com/bug-bounty-switzerland/88279ded-9b2d-499f-8ab3-895edee51e1d",
+      "source": "ashbyhq",
+      "summary": "Own the AI capabilities of Switzerland's leading bug bounty platform \u2014 memory systems, orchestration logic, and adaptive interfaces that translate security intent into action. Switzerland-based role at the intersection of AI engineering and cybersecurity.",
+      "score": 63,
+      "date_found": "2026-04-13",
+      "status": "new"
+    },
+    {
+      "id": "9b6d253a6a9e58c8cb215edb417c8ccd",
+      "title": "Senior/Staff AI Engineer",
+      "company": "Ironclad",
+      "location": "San Francisco, CA (hybrid) \u2014 remote variant possible",
+      "url": "https://jobs.ashbyhq.com/ironcladhq/083eb08d-8e0b-4e72-8a04-ec3414bdba31",
+      "source": "ashbyhq",
+      "summary": "Build AI-powered legal contract features at Ironclad (TypeScript, Node.js, ReactJS, Java, GCP, Kubernetes). Staff-level full-stack AI development with LLM integration for a 500M+ funded legal tech platform. Base $190K-$210K USD. SF hybrid primary.",
+      "score": 62,
+      "date_found": "2026-04-13",
       "status": "new"
     }
   ]
