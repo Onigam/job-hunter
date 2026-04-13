@@ -7,8 +7,8 @@ set -euo pipefail
 
 export PATH="$HOME/.nvm/versions/node/v24.13.0/bin:$PATH"
 
-REPO_DIR="/Users/magino/magino-dev/job-hunter"
-RESUME_DIR="/Users/magino/magino-dev/resume"
+REPO_DIR="${REPO_DIR:-/Users/magino/magino-dev/job-hunter}"
+RESUME_DIR="${RESUME_DIR:-/Users/magino/magino-dev/resume}"
 JOB_URL="${1:-}"
 JOB_TITLE="${2:-}"
 COMPANY="${3:-}"
