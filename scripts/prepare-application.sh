@@ -71,7 +71,7 @@ EOF
 )
 
 cd "$REPO_DIR"
-claude --dangerously-skip-permissions -p "$PROMPT" --output-format text
+codex exec --dangerously-bypass-approvals-and-sandbox "$PROMPT"
 echo ""
 
 # ── Step 2: Copy tailored YAML to resume repo ─────────────────────────────────
