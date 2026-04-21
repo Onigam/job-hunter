@@ -1,0 +1,162 @@
+# Resume - Magino Marveaux-Cochet (English)
+# Tailored for Zenline AI, Founding Engineer AI Start-up Full-Stack
+
+personal:
+  name: "Magino Marveaux-Cochet"
+  title: "Senior Staff Engineer, Cofounder and Full-Stack Platform Builder"
+  location: "Geneva, Switzerland"
+  email: "magino.cochet@gmail.com"
+  phone: "+41 77 439 22 27"
+  linkedin: "https://linkedin.com/in/magino-marveaux-cochet-6308458b"
+  github: "https://github.com/Onigam"
+  relocation: "Open within Switzerland"
+
+summary: |
+  Senior Staff Engineer with 17+ years of experience building full-stack products,
+  backend systems, cloud infrastructure, and AI-augmented engineering workflows.
+  Co-founded Alaya and built the platform from a blank page to acquisition by
+  Benevity, validating the architecture, product execution, and engineering
+  leadership behind the company.
+
+  Combines founding-engineer ownership with deep hands-on work across TypeScript,
+  Node.js, React, Python, APIs, distributed systems, and data-intensive SaaS
+  platforms. Now focused on LLM-powered applications, agentic workflows, and
+  shipping product experiences that balance speed, reliability, and real business
+  value.
+
+experience:
+  - company: "Benevity"
+    role: "Senior Staff Engineer"
+    period: "2021 - 2026"
+    location: "Geneva, Switzerland (Remote)"
+    description: "Global leader in corporate purpose software, $1B+ valuation, 800+ employees"
+    technologies: "TypeScript, Node.js, Python, React, Vue.js, MongoDB, PostgreSQL, AWS, Docker, Kubernetes, CI/CD, LLM tooling"
+    summary: |
+      Senior individual contributor working across platform and product architecture
+      after the acquisition of Alaya. Drove cross-team technical decisions,
+      integrated product capabilities across regions, and introduced practical
+      AI-assisted engineering workflows in a distributed organization.
+    highlights:
+      - "Pioneered AI-assisted development practices across engineering, including LLM-based code review, prompt patterns, and multi-agent workflows"
+      - "Architected integration work connecting the acquired European product into Benevity's broader platform for enterprise customers"
+      - "Designed data integration pipelines connecting 20+ external data sources with structured compliance and reporting workflows"
+      - "Worked across frontend, backend, and platform concerns, supporting product delivery and long-term system design"
+      - "Led developer experience improvements in CI/CD, automated testing, and engineering quality across distributed teams"
+
+  - company: "Alaya (now Alaya by Benevity)"
+    role: "Cofounder & Head of Technologies"
+    period: "2016 - 2021"
+    location: "Gland, Switzerland"
+    description: "Employee purpose platform for volunteering, giving, and CSR engagement"
+    technologies: "TypeScript, React, Redux, Node.js, MongoDB, PostgreSQL, Redis, Docker, AWS, REST APIs"
+    summary: |
+      Co-founded the company and built the full product and technical platform from
+      zero. Owned architecture, backend systems, frontend delivery, cloud
+      infrastructure, and the first engineering hiring and operating practices.
+    highlights:
+      - "Built the product from zero to production, covering frontend, backend, APIs, data models, and AWS infrastructure"
+      - "Scaled the platform into a SaaS product used by 50+ enterprise clients across Switzerland and France"
+      - "Made foundational architecture decisions around service boundaries, data storage, and system evolution that held through acquisition"
+      - "Built and mentored the early engineering team, setting hiring standards, code review habits, CI/CD, and technical direction"
+      - "Led technical due diligence for the Benevity acquisition and proved the platform could scale beyond its startup phase"
+
+  - company: "État de Genève"
+    role: "Full Stack Engineer"
+    period: "2016 - 2018"
+    location: "Geneva, Switzerland"
+    description: "Canton of Geneva public administration"
+    technologies: "Java, Spring Boot, Hibernate, Angular, AngularJS, REST, Oracle, Jenkins"
+    summary: |
+      Built public sector applications for Geneva's education information system in
+      collaboration with architecture, infrastructure, and business teams.
+    highlights:
+      - "Developed full-stack applications for the SIEF education platform serving the Canton of Geneva"
+      - "Worked across backend services, frontend delivery, and multi-team coordination in a regulated environment"
+      - "Built early experience in compliance, data governance, and structured delivery at institutional scale"
+
+  - company: "SQLI Group"
+    role: "Software Engineer"
+    period: "2015 - 2016"
+    location: "Geneva, Switzerland"
+    description: "Consulting group embedded at eJust startup"
+    technologies: "JavaScript, AngularJS, Java, Spring MVC, Spring Data, Hibernate, SQL Server, REST"
+    highlights:
+      - "Built an online commercial dispute resolution platform with AngularJS on the frontend and Java/Spring on the backend"
+      - "Delivered full-stack product work in a startup environment with direct business impact"
+
+  - company: "Castr (via MC Dev consulting)"
+    role: "Hybrid & Desktop App Developer"
+    period: "2014 - 2015"
+    location: "Paris, France"
+    technologies: "JavaScript, ES6, AngularJS, Node.js, Express, Ionic, Cordova"
+    highlights:
+      - "Developed the hybrid mobile app and desktop version for a geolocated social news platform"
+      - "Worked across client application layers, backend services, and cross-platform delivery"
+
+  - company: "Sagemcom"
+    role: "Software Architect (GWT)"
+    period: "2011 - 2014"
+    location: "Paris, France"
+    description: "Global telecom equipment manufacturer"
+    technologies: "GWT, JavaScript, Java, Embedded Systems"
+    summary: |
+      Designed an embedded UI platform for testing and validation across multiple
+      set-top box environments for major telecom operators.
+    highlights:
+      - "Designed and built an embedded JavaScript UI platform using GWT for functional testing across multiple hardware environments"
+      - "Bridged embedded systems and UI layers, improving validation workflows across firmware and product teams"
+      - "Platform was showcased at CES 2011 and CES 2012"
+
+  - company: "Artaud Courtheoux et Associés"
+    role: "Software Engineer"
+    period: "2007 - 2011"
+    location: "Paris, France"
+    technologies: "Java, .NET, Enterprise Applications"
+    highlights:
+      - "Built enterprise software applications across Java and .NET stacks"
+
+skills:
+  platform:
+    - "Full-Stack Product Engineering"
+    - "LLM Integration and Agentic Workflows"
+    - "Software Architecture"
+    - "System Design"
+    - "API Design (REST)"
+    - "Platform Engineering"
+    - "Distributed Systems"
+    - "Microservices"
+    - "Cloud Infrastructure (AWS)"
+    - "Scalability and Reliability"
+  technical:
+    - "TypeScript / Node.js"
+    - "React / Vue.js"
+    - "Python"
+    - "MongoDB / PostgreSQL"
+    - "Redis"
+    - "Docker / Kubernetes"
+    - "CI/CD and DevOps"
+    - "GitHub Actions"
+    - "Java / Spring"
+    - "AI/ML Integration and Tooling"
+  leadership:
+    - "Founding Engineer Ownership"
+    - "Technical Cofounder, 0 to Acquisition"
+    - "Technical Leadership"
+    - "Engineering Team Building and Mentoring"
+    - "Cross-Functional Collaboration"
+    - "Startup-to-Enterprise Scaling"
+    - "AI-Augmented Engineering Workflows"
+    - "Agile and DevOps Practices"
+
+education:
+  - degree: "Master's Degree (MSc)"
+    field: "Computer Engineering"
+    school: "ESGI - École Supérieure de Génie Informatique"
+    location: "Paris, France"
+    year: "2004 - 2007"
+
+languages:
+  - name: "French"
+    level: "Native"
+  - name: "English"
+    level: "Professional"
