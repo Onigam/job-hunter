@@ -1,0 +1,34 @@
+🎯 *Job Hunt — 2026-04-21*
+
+*1.* *Technical Ex-Founder* @ PostHog
+📍 Remote (GMT+2 — CH eligible) | ⭐ 84/100 | 🏆 Grade B
+💡 Built for ex-founders: own a product area end-to-end, startup-within-a-startup model — Alaya cofounder background is a textbook fit. TypeScript/Python, $270K+ + equity.
+🔗 https://posthog.com/careers/technical-ex-founder
+
+*2.* *Tech Lead, LLM & Generative AI* @ EverAI
+📍 Remote — Europe | ⭐ 77/100 | 🏆 Grade B
+💡 Top-15 fastest-growing AI company globally, tech lead on all LLM/GenAI direction — direct match for AI-augmented engineering expertise.
+🔗 https://jobs.ashbyhq.com/everai/c7c482e1-5866-4f69-84b8-e3f4778a5d84
+
+*3.* *Product Engineer* @ PostHog
+📍 Remote (GMT+2 — CH eligible) | ⭐ 75/100 | 🏆 Grade B
+💡 Full product area ownership at the leading open-source analytics platform. TypeScript/Python/ClickHouse, $270K+. Three teams hiring simultaneously.
+🔗 https://posthog.com/careers/product-engineer
+
+*4.* *Senior Research Engineer* @ Tufalabs
+📍 Onsite — Zurich, Switzerland | ⭐ 75/100 | 🏆 Grade B
+💡 Independent frontier AI lab in Zurich, pre/post-training LLMs + alignment, CHF 100–200K. April 2026 HN posting. EU nationals preferred.
+🔗 https://tufalabs.ai/open_positions.html
+
+*5.* *AI Platform Engineer, Applied AI* @ Jobgether
+📍 Remote — Switzerland eligible | ⭐ 73/100 | 🏆 Grade B
+💡 First dedicated AI platform hire — owns production RAG pipelines and LLM apps from scratch. 35 days PTO, fully remote, Switzerland eligible.
+🔗 https://jobs.lever.co/jobgether/6691b20b-7fef-4a70-8c4b-53ce1eddd2af
+
+*6.* *Software Engineer (AI Platform)* @ Bug Bounty Switzerland
+📍 Switzerland | ⭐ 68/100 | 🏆 Grade C
+💡 Own services, data layer, and AI integration at Switzerland's leading bug bounty platform. Systems where agents, humans, and code interact.
+🔗 https://jobs.ashbyhq.com/bug-bounty-switzerland/c712a9c3-d5cf-492b-ba1f-870bacc61aa3
+
+---
+📊 _7 new offers | 18 searches | 5 Grade B, 1 Grade C_
