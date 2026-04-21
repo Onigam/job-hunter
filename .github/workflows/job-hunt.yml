@@ -7,7 +7,6 @@ on:
 
 permissions:
   contents: write
-  id-token: write
 
 jobs:
   hunt:
@@ -20,13 +19,6 @@ jobs:
         with:
           fetch-depth: 1
 
-      - name: Checkout Resume repository
-        uses: actions/checkout@v4
-        with:
-          repository: Onigam/resume
-          path: resume-repo
-          fetch-depth: 1
-
       - name: Prepare LinkedIn cookie
         run: echo "$LINKEDIN_COOKIE" > /tmp/linkedin_cookie.txt
         env:
@@ -37,12 +29,6 @@ jobs:
         with:
           node-version: '22'
 
-      - name: Install pnpm (for Resume repo)
-        uses: pnpm/action-setup@v3
-        with:
-          version: 10
-          run_install: false
-
       - name: Install Claude Code CLI
         run: npm install -g @anthropic-ai/claude-code
 
@@ -50,12 +36,6 @@ jobs:
         run: |
           git config user.name "Magino"
           git config user.email "13470680+Onigam@users.noreply.github.com"
-
-      - name: Setup Resume Repo (Install & Build dependencies)
-        run: |
-          cd resume-repo/website
-          pnpm install
-          npx playwright install chromium --with-deps
 
       - name: Run Job Hunter (Search & Score)
         env:
@@ -65,7 +45,7 @@ jobs:
           if [ -n "$CLAUDE_CODE_OAUTH_TOKEN" ]; then
             unset ANTHROPIC_API_KEY
           fi
-          
+
           if [ -z "$CLAUDE_CODE_OAUTH_TOKEN" ] && [ -z "$ANTHROPIC_API_KEY" ]; then
             echo "❌ Missing Claude credentials."
             exit 1
@@ -82,36 +62,54 @@ jobs:
           if [ -n "$CLAUDE_CODE_OAUTH_TOKEN" ]; then
             unset ANTHROPIC_API_KEY
           fi
-          
+
           DATE=$(date +%Y-%m-%d)
           JSON_FILE="data/daily/${DATE}.json"
-          
+
           if [ ! -f "$JSON_FILE" ]; then
             echo "No JSON file found. Skipping application generation."
             exit 0
           fi
-          
-          # Find all A and B grade offers from today's JSON
-          # We use jq to extract title, company, url for each
+
           OFFERS=$(cat "$JSON_FILE" | jq -c '.top_offers[] | select(.grade == "A" or .grade == "B")')
-          
+
           echo "$OFFERS" | while read -r offer; do
             TITLE=$(echo "$offer" | jq -r '.title')
             COMPANY=$(echo "$offer" | jq -r '.company')
             URL=$(echo "$offer" | jq -r '.url')
-            
+
             echo "Generating application package for: $TITLE @ $COMPANY"
-            
-            # The script prepare-application.sh relies on REPO_DIR and RESUME_DIR env vars or defaults
-            # Let's override paths for the GitHub Action environment
-            export REPO_DIR="$GITHUB_WORKSPACE"
-            export RESUME_DIR="$GITHUB_WORKSPACE/resume-repo"
-            
-            # Run the preparation script
-            ./scripts/prepare-application.sh "$URL" "$TITLE" "$COMPANY" "classic" || echo "Failed to generate package for $COMPANY"
+
+            COMPANY_SLUG=$(echo "$COMPANY" | tr '[:upper:]' '[:lower:]' | tr ' ' '-' | tr -cd '[:alnum:]-')
+            OUTPUT_DIR="$GITHUB_WORKSPACE/data/applications/$DATE-$COMPANY_SLUG"
+            mkdir -p "$OUTPUT_DIR"
+
+            PROMPT="You are preparing a complete job application package for Magino Marveaux-Cochet.
+
+            Follow the instructions in .claude/agents/application-builder.md strictly — especially the Anti-AI-Detection Rules and content rules in CLAUDE.md (no em-dashes, no 'excited to', no 'leverage'/'synergy', contractions allowed, sentence length variation).
+
+            Job details:
+            - Title: $TITLE
+            - Company: $COMPANY
+            - URL: $URL
+
+            Profile sources:
+            - profile/context.md — core profile, skills, target roles
+            - profile/star-bank.md — STAR behavioral stories (if present)
+
+            Steps:
+            1. Fetch the job description from the URL (WebFetch or web search)
+            2. Read profile/context.md and profile/star-bank.md
+            3. Generate the following files in $OUTPUT_DIR/ :
+               - cover-letter.md (max 230 words, 3 paragraphs of plain prose, no headers, no bullets)
+               - star-stories.md (3-5 STAR+R answers, flowing prose in first person)
+               - negotiation-script.md (Switzerland market anchors, counter-offer scripts, equity notes)
+            4. After writing the files, print exactly: APPLICATION_DOCS_DONE
+            "
+
+            claude -p --dangerously-skip-permissions --output-format text <<< "$PROMPT" || echo "Failed to generate package for $COMPANY"
           done
-          
-          # Commit the generated packages
+
           git add data/
           git commit -m "🚀 Generated application packages for top offers — $DATE" || echo "No packages to commit"
           git push || echo "Push failed"
