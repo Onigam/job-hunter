@@ -1,0 +1,67 @@
+{
+  "date": "2026-04-22",
+  "total_searched": 22,
+  "new_offers": 13,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Founding Engineer — Applied AI & Systems",
+      "company": "Lobby",
+      "location": "Zürich, Switzerland",
+      "url": "https://www.startupticker.ch/en/jobs/founding-engineer-applied-ai-systems",
+      "score": 85,
+      "grade": "A",
+      "why": "Founding engineer at a Zürich AI startup replacing manual travel booking workflows with autonomous agents. Green-field LLM-orchestration + TypeScript/Python stack mirrors exactly what Magino built at Alaya — except this time with a $300B travel niche. Pre-seed stage means genuine technical co-founder influence from day one.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Founding Staff Engineer",
+      "company": "Mercura",
+      "location": "Remote — US/EU TBC (YC W25)",
+      "url": "https://jobs.ashbyhq.com/mercura/bd741ee4-08db-4410-a930-1f20e5e4cbce",
+      "score": 80,
+      "grade": "B",
+      "why": "YC-backed B2B AI automation startup that crossed $2M ARR in its first year. Founding Staff Engineer = setting the technical architecture and culture before the next growth phase. Strong AI-first trajectory, worth confirming remote Europe eligibility.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Sr Cloud Engineer — Node.js + TypeScript",
+      "company": "n8n",
+      "location": "Remote — EMEA",
+      "url": "https://jobs.ashbyhq.com/n8n/640d55b3-3603-42f4-a05b-90962768fd16",
+      "score": 74,
+      "grade": "B",
+      "why": "Senior cloud/infra role at n8n, the open-source workflow automation platform that's become the default substrate for LLM agent pipelines. Node.js/TypeScript/K8s/Terraform stack is a direct hit, remote EMEA keeps Geneva timezone viable. Not Staff+ in title but scope and engineering culture earn a B.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Staff Software Engineer (Labs)",
+      "company": "Higharc",
+      "location": "Remote — USA (Series B, AI-homebuilding)",
+      "url": "https://news.ycombinator.com/item?id=47604662",
+      "score": 67,
+      "grade": "C",
+      "why": "Staff Engineer on a new Labs team at a $53M Series B startup. React/TypeScript/Node.js stack is clean, rapid-experimentation mandate matches Magino's builder mindset. US remote only is the main trade-off — worth a conversation to explore Europe exceptions.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Staff Software Engineer (Elixir / ML)",
+      "company": "River",
+      "location": "Remote — US or Europe",
+      "url": "https://news.ycombinator.com/item?id=47604474",
+      "score": 67,
+      "grade": "C",
+      "why": "Staff Engineer at a payments fintech with genuine EU remote and $200–250K comp. Elixir is the primary language (not a stack match) but an ML/AI track is available. Seniority and Europe timezone are right; worth exploring the ML track alignment.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}

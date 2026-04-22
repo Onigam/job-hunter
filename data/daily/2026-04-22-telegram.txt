@@ -1,0 +1,29 @@
+🎯 *Job Hunt — 2026-04-22*
+
+*1.* *Founding Engineer — Applied AI* @ Lobby
+📍 Zürich, Switzerland | ⭐ 85/100 | 🏆 Grade A
+💡 Green-field AI agent platform for travel bookings ($300B market). TypeScript/Python + LLM orchestration — Magino's Alaya founding arc, v2. Pre-seed, Zürich, full ownership.
+🔗 https://www.startupticker.ch/en/jobs/founding-engineer-applied-ai-systems
+
+*2.* *Founding Staff Engineer* @ Mercura
+📍 Remote — US/EU TBC (YC W25) | ⭐ 80/100 | 🏆 Grade B
+💡 YC-backed B2B AI automation, $2M ARR in year 1. Founding staff = setting the architecture before the next growth phase. Confirm EU remote eligibility.
+🔗 https://jobs.ashbyhq.com/mercura/bd741ee4-08db-4410-a930-1f20e5e4cbce
+
+*3.* *Sr Cloud Engineer — Node.js + TypeScript* @ n8n
+📍 Remote — EMEA | ⭐ 74/100 | 🏆 Grade B
+💡 Open-source workflow automation used everywhere in LLM agent pipelines. Node.js/TypeScript/K8s stack is a direct hit, remote EMEA, engineering-led culture.
+🔗 https://jobs.ashbyhq.com/n8n/640d55b3-3603-42f4-a05b-90962768fd16
+
+*4.* *Staff Software Engineer (Labs)* @ Higharc
+📍 Remote — USA | ⭐ 67/100 | 🏆 Grade C
+💡 $53M Series B, Labs team with rapid-experimentation mandate. React/TypeScript/Node.js. US remote only but worth a conversation.
+🔗 https://news.ycombinator.com/item?id=47604662
+
+*5.* *Staff Software Engineer (ML/AI)* @ River
+📍 Remote — EU or USA | ⭐ 67/100 | 🏆 Grade C
+💡 Payments fintech, EU remote, $200–250K. ML/AI track available alongside Elixir (not a stack match). Seniority and EU timezone are right.
+🔗 https://news.ycombinator.com/item?id=47604474
+
+---
+📊 _13 new offers | 22 searches | 1 Grade A, 2 Grade B, 2 Grade C_
