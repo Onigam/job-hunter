@@ -1,0 +1,29 @@
+🎯 *Job Hunt — 2026-04-23*
+
+*1.* *Founding Engineer (Infrastructure)* @ Momentic
+📍 Remote (US/SF) | ⭐ 77/100 | 🏆 Grade B
+💡 YC W24 AI-native testing platform — TypeScript, Node.js, Next.js, GCP, K8s — founding engineer owning the full stack from AI layer to web app.
+🔗 https://jobs.ashbyhq.com/momentic/576ce73c-af3b-4a61-82be-eca2752b272b
+
+*2.* *Founding Product Engineer* @ Better Stack
+📍 Remote EU / Prague | ⭐ 74/100 | 🏆 Grade B
+💡 Developer observability SaaS — "run a startup within a startup", $150–400K + equity, Europe-friendly remote. Ruby stack is the gap.
+🔗 https://betterstack.com/careers/open-positions
+
+*3.* *Staff Software Engineer (ML/AI)* @ River
+📍 Remote EU / US / South America | ⭐ 70/100 | 🏆 Grade B
+💡 Staff ML/AI role open to Europe, $200–250K + equity, React + Python stack. Elixir as primary language to flag.
+🔗 https://jobs.ashbyhq.com/river
+
+*4.* *Staff Software Engineer* @ Goody
+📍 Remote (Americas preferred) | ⭐ 62/100 | 🏆 Grade C
+💡 TypeScript/React/Node.js, clients include Anthropic + Google, $200–250K — strong tech fit but timezone preference is Americas.
+🔗 https://jobs.ashbyhq.com/goody/51513fb9-5e0f-40a3-8c2b-bf2b56183215
+
+*5.* *Geospatial Engineer (Data & Routing)* @ LiveMap
+📍 Switzerland or Remote CH/EU/UK | ⭐ 61/100 | 🏆 Grade C
+💡 Best location fit — Switzerland/EU remote, funded startup building hyper-personalised mapping. Stack is routing engines + data pipelines, not TypeScript/AI.
+🔗 https://tally.so/r/68vdyB
+
+---
+📊 _5 new offers | 23 total searched today_

@@ -1,0 +1,67 @@
+{
+  "date": "2026-04-23",
+  "total_searched": 23,
+  "new_offers": 5,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Founding Engineer (Infrastructure)",
+      "company": "Momentic",
+      "location": "Remote (US-based, SF area)",
+      "url": "https://jobs.ashbyhq.com/momentic/576ce73c-af3b-4a61-82be-eca2752b272b",
+      "score": 77,
+      "grade": "B",
+      "why": "YC W24 AI-native testing platform — TypeScript, Node.js, Next.js, GCP, K8s, PostgreSQL stack is a near-perfect match. Founding engineer owning the full stack from AI layer to web app, with clients like Quora, Retool, Podium. The infrastructure role is directly in Magino's wheelhouse from his Alaya platform-building days.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Founding Product Engineer",
+      "company": "Better Stack",
+      "location": "Remote (North America & Europe) / Prague",
+      "url": "https://betterstack.com/careers/open-positions",
+      "score": 74,
+      "grade": "B",
+      "why": "Developer observability SaaS (Logtail, Uptime, Incidents) with a 'run a startup within a startup' remit — exactly the founding-engineer impact Magino is after. Europe remote-friendly, $150–400K + equity, strong engineering culture. Ruby stack is a mismatch but Vue.js, PostgreSQL, Redis overlap.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Staff Software Engineer (ML/AI)",
+      "company": "River",
+      "location": "Remote (US / Europe / South America)",
+      "url": "https://jobs.ashbyhq.com/river",
+      "score": 70,
+      "grade": "B",
+      "why": "Staff-level ML/AI engineering role open to Europe, $200–250K + equity, with React and Python/PyTorch in the stack. AI/ML platform ownership matches Magino's recent pivot into AI-augmented engineering. Primary language Elixir is the gap to flag.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Staff Software Engineer",
+      "company": "Goody",
+      "location": "Remote (North/South America preferred)",
+      "url": "https://jobs.ashbyhq.com/goody/51513fb9-5e0f-40a3-8c2b-bf2b56183215",
+      "score": 62,
+      "grade": "C",
+      "why": "TypeScript, React, Node.js stack with clients like Anthropic, Google, Stripe — great technical fit at staff level, $200–250K + equity. Americas timezone preference hurts, and B2B gifting mission is not particularly AI-first.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Geospatial Engineer (Data & Routing)",
+      "company": "LiveMap",
+      "location": "Switzerland or Remote (CH / EU / UK)",
+      "url": "https://tally.so/r/68vdyB",
+      "score": 61,
+      "grade": "C",
+      "why": "Best location fit of the batch — Switzerland or EU remote, funded startup building hyper-personalised mapping (next-gen Google Maps). Technical fit is limited to data pipelines and routing engines rather than TypeScript/Node/AI platform work.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}

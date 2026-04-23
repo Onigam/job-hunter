@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22",
+  "last_updated": "2026-04-23",
   "offers": [
     {
       "id": "9c4946408bf5a84530997699c5984689",
@@ -5205,6 +5205,126 @@
         "novelty": 9
       },
       "date_found": "2026-04-22",
+      "status": "new"
+    },
+    {
+      "id": "65758bb639a35dc9251a616b659dc8cb",
+      "title": "Founding Engineer (Infrastructure)",
+      "company": "Momentic",
+      "location": "Remote (US/SF area)",
+      "url": "https://jobs.ashbyhq.com/momentic/576ce73c-af3b-4a61-82be-eca2752b272b",
+      "source": "ashbyhq",
+      "summary": "Founding Engineer (Infrastructure) at Momentic, YC W24 AI-native testing platform. Own the full stack from AI layer to customer-facing web app. TypeScript, Next.js, Node.js, GCP, Kubernetes, PostgreSQL. Clients include Quora, Retool, Podium, Chegg, Runway. Small team of ~6, fast-growing.",
+      "score": 77,
+      "score_breakdown": {
+        "technical": 9,
+        "seniority": 9,
+        "location": 3,
+        "company": 9,
+        "impact": 9,
+        "mission": 7,
+        "compensation": 7,
+        "growth": 8,
+        "ai_llm": 8,
+        "novelty": 8
+      },
+      "date_found": "2026-04-23",
+      "status": "new"
+    },
+    {
+      "id": "453d8b3075b0b5ea5b5257c109206c07",
+      "title": "Founding Product Engineer",
+      "company": "Better Stack",
+      "location": "Remote (North America & Europe) / Prague",
+      "url": "https://betterstack.com/careers/open-positions",
+      "source": "hn",
+      "summary": "Founding Product Engineer at Better Stack — developer observability SaaS (Logtail, Uptime monitoring, Incidents). 'Run a startup within a startup.' Ruby on Rails, PostgreSQL, Redis, ClickHouse, Vue.js. $150K–$400K base + equity (standard mode). Europe remote-friendly. From HN Who is Hiring April 2026.",
+      "score": 74,
+      "score_breakdown": {
+        "technical": 5,
+        "seniority": 8,
+        "location": 7,
+        "company": 9,
+        "impact": 9,
+        "mission": 7,
+        "compensation": 9,
+        "growth": 7,
+        "ai_llm": 5,
+        "novelty": 8
+      },
+      "date_found": "2026-04-23",
+      "status": "new"
+    },
+    {
+      "id": "5e2ffe393edc23ff3fe1c7122c1576d5",
+      "title": "Staff Software Engineer (ML/AI)",
+      "company": "River",
+      "location": "Remote (US / Europe / South America)",
+      "url": "https://jobs.ashbyhq.com/river",
+      "source": "hn",
+      "summary": "Staff Software Engineer (ML/AI) at River. Remote open to Europe and South America. Elixir, React, React Native, Python, PyTorch. $200K–$250K + equity. Staff-level ML/AI ownership role. From HN Who is Hiring April 2026.",
+      "score": 70,
+      "score_breakdown": {
+        "technical": 5,
+        "seniority": 8,
+        "location": 7,
+        "company": 7,
+        "impact": 7,
+        "mission": 6,
+        "compensation": 8,
+        "growth": 6,
+        "ai_llm": 8,
+        "novelty": 8
+      },
+      "date_found": "2026-04-23",
+      "status": "new"
+    },
+    {
+      "id": "185d75bd1f6eaca20989607a2654bd06",
+      "title": "Staff Software Engineer",
+      "company": "Goody",
+      "location": "Remote (North/South America preferred)",
+      "url": "https://jobs.ashbyhq.com/goody/51513fb9-5e0f-40a3-8c2b-bf2b56183215",
+      "source": "ashbyhq",
+      "summary": "Full-Stack Staff Software Engineer at Goody, a B2B gifting platform with clients including Anthropic, Google, Stripe, Meta, Notion. TypeScript, React, Ruby/Node.js, PostgreSQL, AWS. $200K–$250K + equity. Americas preferred, no explicit Europe timezone. From HN April 2026.",
+      "score": 62,
+      "score_breakdown": {
+        "technical": 8,
+        "seniority": 8,
+        "location": 4,
+        "company": 7,
+        "impact": 5,
+        "mission": 4,
+        "compensation": 8,
+        "growth": 6,
+        "ai_llm": 4,
+        "novelty": 8
+      },
+      "date_found": "2026-04-23",
+      "status": "new"
+    },
+    {
+      "id": "38ea4ed8fab4da481368e92040e10d2b",
+      "title": "Geospatial Engineer (Data & Routing)",
+      "company": "LiveMap",
+      "location": "Switzerland or Remote (CH / EU / UK)",
+      "url": "https://tally.so/r/68vdyB",
+      "source": "hn",
+      "summary": "Geospatial Engineer at LiveMap, a funded startup building hyper-personalised next-gen mapping apps. Data pipeline and Graphhopper routing engine roles. Switzerland or Remote (CH/EU/UK). No visa sponsorship. From HN Who is Hiring April 2026.",
+      "score": 61,
+      "score_breakdown": {
+        "technical": 4,
+        "seniority": 6,
+        "location": 10,
+        "company": 8,
+        "impact": 7,
+        "mission": 5,
+        "compensation": 4,
+        "growth": 7,
+        "ai_llm": 2,
+        "novelty": 8
+      },
+      "date_found": "2026-04-23",
       "status": "new"
     }
   ]
