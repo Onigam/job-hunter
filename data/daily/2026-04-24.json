@@ -1,0 +1,79 @@
+{
+  "date": "2026-04-24",
+  "total_searched": 42,
+  "new_offers": 18,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Founding Engineer",
+      "company": "Hatchet (YC-backed)",
+      "location": "Remote (EU / NYC)",
+      "url": "https://www.ycombinator.com/companies/hatchet-run/jobs",
+      "score": 78,
+      "grade": "B",
+      "why": "Open-source platform for background jobs, durable execution, and queue management for AI workloads. Go + TypeScript + Postgres + React + Kubernetes. Used by fast-growing AI startups for GPU scheduling and log pipelines. Founding engineer role with high ownership.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Chief Engineer",
+      "company": "Harmattan AI",
+      "location": "Lausanne, Switzerland",
+      "url": "https://jobs.ashbyhq.com/harmattan-ai/2b267219-62fc-4aef-97bb-9fc3974955a7",
+      "score": 71,
+      "grade": "B",
+      "why": "Engineering leadership role at a EUR 1.4B autonomous-systems defense startup with major Lausanne hub. Very senior IC+lead hybrid. 80+ open roles, fast-scaling. Domain is autonomous drones — note mission misalignment risk for impact-driven mandate.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Staff Platform Engineer",
+      "company": "WunderGraph",
+      "location": "Remote (EMEA)",
+      "url": "https://jobs.ashbyhq.com/wundergraph/05bf1896-580e-4376-b8f8-a13d4897ca5c",
+      "score": 67,
+      "grade": "C",
+      "why": "Staff-level platform engineering at a developer-tools company building GraphQL federation and API composition. Stack: Next.js + React + TypeScript + Golang + GraphQL. Remote EMEA. Estimated EUR 100K-130K.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Founding Full Stack Engineer (LLM / Applied AI)",
+      "company": "Berry (YC W23)",
+      "location": "Remote (EU — Spain, Germany, France, Poland, Sweden)",
+      "url": "https://www.ycombinator.com/companies/berry/jobs/zyTnhbD-founding-full-stack-engineer-llm-applied-ai-no-prior-llm-experience-required",
+      "score": 67,
+      "grade": "C",
+      "why": "Founding engineer at an 8-person YC W23 startup using AI to automate SaaS customer onboarding. Python + TypeScript, LLM/agentic focus. 6+ years required. Comp $50K-$85K + 0.1-1% equity (salary below CH market).",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Founding Engineer — Full-Stack Execution Systems",
+      "company": "XBorg (SwissBorg)",
+      "location": "Remote (EU timezone)",
+      "url": "https://web3.career/quant-job-offer-founding-engineer-full-stack-execution-systems-swissborg/139726",
+      "score": 67,
+      "grade": "C",
+      "why": "Own execution layer end-to-end for SwissBorg's AI trading companion. Stack: Node.js/TypeScript + Python + React + Next.js + AWS (ECS/RDS/VPC) + Postgres + Redis + Terraform. $98K-$150K + token allocation. Swiss company, EU remote.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 6,
+      "title": "Engineering Lead — Secure Custody Platform",
+      "company": "Taurus SA",
+      "location": "Geneva / Lausanne / Zurich / Sion, Switzerland",
+      "url": "https://join.com/companies/taurusgroup/16027906-engineering-lead-secure-custody-platform-lausanne-geneva-zurich-sion",
+      "score": 64,
+      "grade": "C",
+      "why": "Lead a team building next-gen digital asset custody infrastructure at Taurus, Switzerland's leading regulated FinTech. Golang/Java/Rust + Kubernetes + Terraform. 7+ years + tech-lead experience required. Geneva location available.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}

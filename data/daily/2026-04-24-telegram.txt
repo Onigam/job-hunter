@@ -1,0 +1,34 @@
+🎯 *Job Hunt — 2026-04-24*
+
+*1.* *Founding Engineer* @ Hatchet (YC-backed)
+📍 Remote (EU / NYC) | ⭐ 78/100 | 🏆 Grade B
+💡 Go + TypeScript + Kubernetes platform for AI workloads — cofounder-level ownership, YC-backed, EU-remote possible.
+🔗 https://www.ycombinator.com/companies/hatchet-run/jobs
+
+*2.* *Chief Engineer* @ Harmattan AI
+📍 Lausanne, Switzerland | ⭐ 71/100 | 🏆 Grade B
+💡 Chief Engineer at EUR 1.4B Swiss autonomous-systems startup in Lausanne — C-suite proximity, fast-scaling (80+ open roles). Note: defense domain.
+🔗 https://jobs.ashbyhq.com/harmattan-ai/2b267219-62fc-4aef-97bb-9fc3974955a7
+
+*3.* *Staff Platform Engineer* @ WunderGraph
+📍 Remote (EMEA) | ⭐ 67/100 | 🏆 Grade C
+💡 Staff platform role on GraphQL federation/API composition — React + TypeScript + Next.js stack, EMEA remote, developer-tools culture.
+🔗 https://jobs.ashbyhq.com/wundergraph/05bf1896-580e-4376-b8f8-a13d4897ca5c
+
+*4.* *Founding Full Stack Engineer (LLM / Applied AI)* @ Berry (YC W23)
+📍 Remote (EU — Spain, Germany, France, Poland, Sweden) | ⭐ 67/100 | 🏆 Grade C
+💡 8-person YC startup, LLM-powered SaaS onboarding, founding engineer with 0.1–1% equity. Salary below CH market but rare LLM-first scope.
+🔗 https://www.ycombinator.com/companies/berry/jobs/zyTnhbD-founding-full-stack-engineer-llm-applied-ai-no-prior-llm-experience-required
+
+*5.* *Founding Engineer — Full-Stack Execution Systems* @ XBorg (SwissBorg)
+📍 Remote (EU timezone) | ⭐ 67/100 | 🏆 Grade C
+💡 Swiss company, perfect TS/Node/React/AWS stack match, own the execution layer of an AI trading platform end-to-end. EU remote.
+🔗 https://web3.career/quant-job-offer-founding-engineer-full-stack-execution-systems-swissborg/139726
+
+*6.* *Engineering Lead — Secure Custody Platform* @ Taurus SA
+📍 Geneva / Lausanne / Zurich / Sion, Switzerland | ⭐ 64/100 | 🏆 Grade C
+💡 Engineering Lead at Switzerland's leading regulated digital-asset FinTech with Geneva presence — team lead + architecture ownership.
+🔗 https://join.com/companies/taurusgroup/16027906-engineering-lead-secure-custody-platform-lausanne-geneva-zurich-sion
+
+---
+📊 _18 new offers | 366 total tracked_
