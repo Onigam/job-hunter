@@ -1,0 +1,34 @@
+🎯 *Job Hunt — 2026-04-25*
+
+*1.* *Staff Software Engineer — Core Workflow Engine* @ n8n
+📍 Remote EU | ⭐ 80/100 | 🏆 Grade B
+💡 n8n ($240M raised) powers AI agent pipelines at scale — owning the workflow engine in Node.js/TypeScript is a direct match for a platform-founding background.
+🔗 https://jobs.ashbyhq.com/n8n/31eaaab1-11ed-4c70-aa6a-dbadf68feab1
+
+*2.* *Staff / Principal Software Engineer* @ Parloa
+📍 Remote EU (Berlin / Munich) | ⭐ 80/100 | 🏆 Grade B
+💡 Enterprise conversational-AI (General Catalyst backed), 12-15+ yrs required — TypeScript + Node + Python + Kubernetes, architecture leadership scope.
+🔗 https://job-boards.greenhouse.io/parloa/jobs/4824273101
+
+*3.* *Engineering Manager — Document Abstraction* @ Smallpdf GmbH
+📍 Zurich, Switzerland | ⭐ 62/100 | 🏆 Grade C
+💡 CHF 135-160K in Zurich, product SaaS with likely AI/ML pipeline component — strongest Swiss location + compensation fit of the batch.
+🔗 https://swissdevjobs.ch/jobs/Smallpdf-GmbH-Engineering-Manager-Document-Abstraction
+
+*4.* *Head of Engineering* @ Polarsteps
+📍 Amsterdam, Netherlands | ⭐ 56/100 | 🏆 Grade C
+💡 Full eng-org ownership at a 19M-user travel platform — right scope, but Amsterdam location and consumer-travel domain are a softer fit.
+🔗 https://jobs.ashbyhq.com/polarsteps/0407f8fa-a3c1-448d-9720-96daad49dd83
+
+*5.* *Head of Engineering* @ Pipekit
+📍 Remote | ⭐ 56/100 | 🏆 Grade C
+💡 Developer-tools startup on Argo Workflows / Kubernetes — platform-adjacent, very early stage, Go/Python heavy.
+🔗 https://jobs.ashbyhq.com/pipekit/c984b3f9-a3db-4629-8d23-d4dda5202123
+
+*6.* *Head of Engineering — FinTech Platform* @ Deel
+📍 Remote (Global) | ⭐ 55/100 | 🏆 Grade C
+💡 Payments + wallets + ledger at $12B HR unicorn — strong comp but deep FinTech domain required, management-heavy at enterprise scale.
+🔗 https://jobs.ashbyhq.com/deel/e15012a6-b7b3-4ed0-b76b-14acfdcf5b13
+
+---
+📊 _7 new offers | 372 total tracked_

@@ -1,0 +1,79 @@
+{
+  "date": "2026-04-25",
+  "total_searched": 21,
+  "new_offers": 7,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Staff Software Engineer — Core Workflow Engine",
+      "company": "n8n",
+      "location": "Remote — Europe",
+      "url": "https://jobs.ashbyhq.com/n8n/31eaaab1-11ed-4c70-aa6a-dbadf68feab1",
+      "score": 80,
+      "grade": "B",
+      "why": "n8n is the de-facto platform for AI agent orchestration ($240M raised, 220+ team, ranked 4th in Sifted B2B Rising 100). This second Staff-level opening for the Core Workflow Engine team means they are scaling fast — Node.js/TypeScript ownership at platform scale maps exactly to Magino's founding-engineer and distributed-systems background.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Staff / Principal Software Engineer",
+      "company": "Parloa",
+      "location": "Remote — Europe (Berlin / Munich)",
+      "url": "https://job-boards.greenhouse.io/parloa/jobs/4824273101",
+      "score": 80,
+      "grade": "B",
+      "why": "Enterprise conversational-AI company (General Catalyst backed) seeking a technical leader to shape engineering strategy. The full stack — TypeScript, Node.js, React, Python, FastAPI, Kubernetes, Kafka — matches Magino's profile precisely, and the 12-15+ years requirement is squarely met by 17 years plus cofounder experience.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Engineering Manager — Document Abstraction",
+      "company": "Smallpdf GmbH",
+      "location": "Zurich, Switzerland",
+      "url": "https://swissdevjobs.ch/jobs/Smallpdf-GmbH-Engineering-Manager-Document-Abstraction",
+      "score": 62,
+      "grade": "C",
+      "why": "Zurich-based product SaaS with CHF 135-160K salary — strongest location and compensation fit of the batch. Document abstraction likely involves AI/ML pipeline work. Not founding-level, but Switzerland presence and product culture are strong positives.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Head of Engineering",
+      "company": "Polarsteps",
+      "location": "Amsterdam, Netherlands",
+      "url": "https://jobs.ashbyhq.com/polarsteps/0407f8fa-a3c1-448d-9720-96daad49dd83",
+      "score": 56,
+      "grade": "C",
+      "why": "Full engineering ownership of a 19M-user travel platform — Head of Engineering scope is right, and the company has strong engineering culture. Location is Amsterdam (not Switzerland), and consumer travel is not Magino's ideal sector, limiting the fit.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Head of Engineering",
+      "company": "Pipekit",
+      "location": "Remote",
+      "url": "https://jobs.ashbyhq.com/pipekit/c984b3f9-a3db-4629-8d23-d4dda5202123",
+      "score": 56,
+      "grade": "C",
+      "why": "Small developer-tools startup building on Argo Workflows and Kubernetes — platform-adjacent and remote-first. Stack is Go/Python/Kubernetes heavy, diverging from Magino's Node/TypeScript core, and the company is very early with limited public traction.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 6,
+      "title": "Head of Engineering — FinTech Platform",
+      "company": "Deel",
+      "location": "Remote (Global)",
+      "url": "https://jobs.ashbyhq.com/deel/e15012a6-b7b3-4ed0-b76b-14acfdcf5b13",
+      "score": 55,
+      "grade": "C",
+      "why": "Leads payments orchestration, wallets, and general ledger engineering at a $12B HR unicorn — strong compensation and scope. However, deep FinTech domain expertise (KYC/AML, ledger systems) is required and the role is management-heavy at enterprise scale, misaligning with Magino's startup-builder preference.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}

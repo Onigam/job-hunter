@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-24",
+  "last_updated": "2026-04-25",
   "offers": [
     {
       "id": "9c4946408bf5a84530997699c5984689",
@@ -5546,6 +5546,97 @@
       "grade": "D",
       "id": "9d85daf2840171f9e813f0772bdaafc2",
       "date_found": "2026-04-24",
+      "status": "new"
+    },
+    {
+      "id": "9bb1b64739cfbcdfb56def45eb41d4d1",
+      "title": "Staff Software Engineer — Core Workflow Engine",
+      "company": "n8n",
+      "location": "Remote — Europe",
+      "url": "https://jobs.ashbyhq.com/n8n/31eaaab1-11ed-4c70-aa6a-dbadf68feab1",
+      "source": "ashbyhq",
+      "summary": "Second Staff-level opening for n8n's Core Workflow Engine team. Design for scalability, reliability, and extensibility in Node.js/TypeScript. n8n raised $240M, 220+ team, ranked 4th in Sifted's 2025 B2B SaaS Rising 100. Remote Europe. £145K+ salary, equity, 30 days PTO.",
+      "score": 80,
+      "grade": "B",
+      "date_found": "2026-04-25",
+      "status": "new"
+    },
+    {
+      "id": "bdfff18b932dd8c2ee77117e9414fab5",
+      "title": "Staff / Principal Software Engineer",
+      "company": "Parloa",
+      "location": "Remote — Europe (Berlin / Munich)",
+      "url": "https://job-boards.greenhouse.io/parloa/jobs/4824273101",
+      "source": "greenhouse",
+      "summary": "Shape engineering strategy and architecture at Parloa, an enterprise conversational-AI platform backed by General Catalyst. TypeScript, Node.js, React, Python, FastAPI, Kubernetes, MongoDB, Azure, Kafka. 12-15+ years required. Remote Europe. Salary unspecified.",
+      "score": 80,
+      "grade": "B",
+      "date_found": "2026-04-25",
+      "status": "new"
+    },
+    {
+      "id": "4c7e7964cd4cdcc4982179399ac6dede",
+      "title": "Engineering Manager — Document Abstraction",
+      "company": "Smallpdf GmbH",
+      "location": "Zurich, Switzerland",
+      "url": "https://swissdevjobs.ch/jobs/Smallpdf-GmbH-Engineering-Manager-Document-Abstraction",
+      "source": "swissdevjobs",
+      "summary": "Lead the Document Abstraction engineering team at Smallpdf, a global PDF productivity SaaS with millions of users. Zurich on-site. CHF 135,000-160,000 per year. Stack not fully specified but product-first engineering culture.",
+      "score": 62,
+      "grade": "C",
+      "date_found": "2026-04-25",
+      "status": "new"
+    },
+    {
+      "id": "16babc92b57a7009ef324cc7ca706225",
+      "title": "Head of Engineering",
+      "company": "Polarsteps",
+      "location": "Amsterdam, Netherlands",
+      "url": "https://jobs.ashbyhq.com/polarsteps/0407f8fa-a3c1-448d-9720-96daad49dd83",
+      "source": "ashbyhq",
+      "summary": "Lead all of engineering at Polarsteps, a travel-tracking app with 19M+ users. Full ownership and high impact on a global team. Based in Amsterdam. Salary unspecified. Consumer product, established scale-up.",
+      "score": 56,
+      "grade": "C",
+      "date_found": "2026-04-25",
+      "status": "new"
+    },
+    {
+      "id": "47571ca74cb06bc7d8945484bf12794f",
+      "title": "Head of Engineering",
+      "company": "Pipekit",
+      "location": "Remote",
+      "url": "https://jobs.ashbyhq.com/pipekit/c984b3f9-a3db-4629-8d23-d4dda5202123",
+      "source": "ashbyhq",
+      "summary": "Engineering leadership at Pipekit, a small developer-tools startup building on Argo Workflows and Kubernetes. Go/Python/Kubernetes tech stack. Fully remote. Salary unspecified. Very early-stage company.",
+      "score": 56,
+      "grade": "C",
+      "date_found": "2026-04-25",
+      "status": "new"
+    },
+    {
+      "id": "4111a05abceeda2504fc1a68e492a144",
+      "title": "Head of Engineering — FinTech Platform",
+      "company": "Deel",
+      "location": "Remote (Global)",
+      "url": "https://jobs.ashbyhq.com/deel/e15012a6-b7b3-4ed0-b76b-14acfdcf5b13",
+      "source": "ashbyhq",
+      "summary": "Lead the engineering organization for Deel's FinTech platform: payments orchestration, wallets, general ledger, treasury systems. Requires proven HoE/Director experience in FinTech (KYC/AML, ledger systems). Remote global. Stock grant included. $12B HR unicorn.",
+      "score": 55,
+      "grade": "C",
+      "date_found": "2026-04-25",
+      "status": "new"
+    },
+    {
+      "id": "c54f42a0d307c0a6dd5c98e8963e49e4",
+      "title": "Senior Software Engineer — Node / Vue / TypeScript",
+      "company": "Reedsy",
+      "location": "Remote — Europe",
+      "url": "https://jobs.ashbyhq.com/reedsy/835c9c7b-8b0a-499c-95c6-251c9aea3246",
+      "source": "ashbyhq",
+      "summary": "Build book-editing tools at Reedsy, a 40-person fully-remote startup serving 5M+ authors. Node.js/Vue/TypeScript. Remote Europe. EUR 60-100K — significantly below Magino's market rate and seniority level.",
+      "score": 49,
+      "grade": "D",
+      "date_found": "2026-04-25",
       "status": "new"
     }
   ]
