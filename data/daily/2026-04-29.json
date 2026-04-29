@@ -1,0 +1,79 @@
+{
+  "date": "2026-04-29",
+  "total_searched": 110,
+  "new_offers": 18,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "AI Engineer Tech Lead",
+      "company": "Undisclosed AI Startup (via Pragmatike)",
+      "location": "Remote — EMEA",
+      "url": "https://jobs.ashbyhq.com/pragmatike/2cda19e7-32c7-441f-b5bb-0458511f185a",
+      "score": 83,
+      "grade": "B",
+      "why": "Early-stage startup building an AI-powered relationship intelligence and fundraising platform — graph architecture, AI-driven warm-intro recommendations, already validated and now scaling the AI layer. Posted March 25, EMEA remote, and the founding-level ownership with AI/graph focus maps perfectly to Magino's cofounder background and LLM/multi-agent experience.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Full Stack Engineer",
+      "company": "Linear",
+      "location": "Remote — Worldwide",
+      "url": "https://weworkremotely.com/remote-jobs/linear-full-stack-engineer",
+      "score": 77,
+      "grade": "B",
+      "why": "Linear is the gold standard for engineering-led product culture — elite Series C developer-tools company trusted by the best eng teams globally. The stack (TypeScript, Node.js, React, PostgreSQL, GraphQL) matches Magino's wheelhouse exactly, and worldwide remote means Geneva is fully in scope. Fresh posting, deadline May 22.",
+      "apply_by": "2026-05-22",
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Lead Fullstack Engineer",
+      "company": "Undisclosed Startup (via Pragmatike)",
+      "location": "Remote — Work from Anywhere",
+      "url": "https://jobs.ashbyhq.com/pragmatike/24d56ce7-0c9a-463d-89fb-7535cf8009fa",
+      "score": 73,
+      "grade": "B",
+      "why": "Work-from-anywhere fullstack lead at an early-stage startup sourced through Pragmatike's curated network — maximum location flexibility and founding-team-level ownership. TypeScript/Node.js stack likely given Pragmatike's typical portfolio, with strong equity upside.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Principal AI/ML Engineer",
+      "company": "Undisclosed AI Startup (via Pragmatike)",
+      "location": "Remote — EMEA",
+      "url": "https://jobs.ashbyhq.com/pragmatike/86cab416-3217-463f-b72b-7d3c2f65ecfc",
+      "score": 72,
+      "grade": "B",
+      "why": "Principal-level AI/ML engineering at a Pragmatike-sourced early-stage startup — the seniority and AI-first mandate align with Magino's LLM/multi-agent work at Benevity and his platform-builder track record. EMEA remote with Principal leverage.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Principal Engineer",
+      "company": "Meshcapade",
+      "location": "Remote — Europe",
+      "url": "https://jobs.lever.co/meshcapade/d5bd3564-3e9c-4995-b336-269807158854",
+      "score": 72,
+      "grade": "B",
+      "why": "Spin-off from Max Planck Institute for Intelligent Systems — Principal Engineer driving technical direction for a remote-first AI/3D digital-human company headquartered in Germany. The cloud-native architecture scope, 7+ years seniority bar, and ML-adjacent product give it real interest even if CV/3D is a new domain for Magino.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 6,
+      "title": "Senior AI Infrastructure Engineer",
+      "company": "Sword Health",
+      "location": "Remote — Europe",
+      "url": "https://jobs.lever.co/swordhealth/732a6b32-e008-49c0-8467-0b8989014a21",
+      "score": 70,
+      "grade": "B",
+      "why": "Sword Health (Series C, 700K+ users, $1B+ in avoided healthcare costs) is hiring to own AI infrastructure for production ML workloads — Kubernetes, Docker, AWS, CI/CD pipelines. The impact story is strong, and Europe-based remote includes Geneva. A step toward ML infrastructure ownership rather than pure product.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}

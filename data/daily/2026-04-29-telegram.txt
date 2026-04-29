@@ -1,0 +1,34 @@
+🎯 *Job Hunt — 2026-04-29*
+
+*1.* *AI Engineer Tech Lead* @ Undisclosed AI Startup (Pragmatike)
+📍 Remote EMEA | ⭐ 83/100 | 🏆 Grade B
+💡 AI relationship-intelligence platform — graph architecture + LLM recommendations, founding-level ownership, EMEA remote; cofounder + AI-augmented background fits perfectly.
+🔗 https://jobs.ashbyhq.com/pragmatike/2cda19e7-32c7-441f-b5bb-0458511f185a
+
+*2.* *Full Stack Engineer* @ Linear
+📍 Remote Worldwide | ⭐ 77/100 | 🏆 Grade B
+💡 Elite developer-tools company (Series C) with TypeScript/Node/React/PostgreSQL — exact stack match, engineering-first culture, Geneva-compatible remote. Deadline May 22.
+🔗 https://weworkremotely.com/remote-jobs/linear-full-stack-engineer
+
+*3.* *Lead Fullstack Engineer* @ Undisclosed Startup (Pragmatike)
+📍 Remote — Work from Anywhere | ⭐ 73/100 | 🏆 Grade B
+💡 Maximum flexibility (work from anywhere), early-stage founding-team lead role, TypeScript/Node stack, equity upside — Pragmatike's curated early-stage network.
+🔗 https://jobs.ashbyhq.com/pragmatike/24d56ce7-0c9a-463d-89fb-7535cf8009fa
+
+*4.* *Principal AI/ML Engineer* @ Undisclosed AI Startup (Pragmatike)
+📍 Remote EMEA | ⭐ 72/100 | 🏆 Grade B
+💡 Principal-level AI/ML mandate at a Pragmatike-sourced startup — seniority and AI-first mission match Magino's LLM/multi-agent work and platform-builder track record.
+🔗 https://jobs.ashbyhq.com/pragmatike/86cab416-3217-463f-b72b-7d3c2f65ecfc
+
+*5.* *Principal Engineer* @ Meshcapade
+📍 Remote Europe | ⭐ 72/100 | 🏆 Grade B
+💡 Max Planck spin-off building AI-powered 3D digital humans — Principal Engineer role shaping technical direction for a remote-first European ML company.
+🔗 https://jobs.lever.co/meshcapade/d5bd3564-3e9c-4995-b336-269807158854
+
+*6.* *Senior AI Infrastructure Engineer* @ Sword Health
+📍 Remote Europe | ⭐ 70/100 | 🏆 Grade B
+💡 Series C health-AI company (700K+ users) — own production AI/ML infrastructure (Kubernetes, AWS, CI/CD); Geneva-compatible Europe remote, strong mission alignment.
+🔗 https://jobs.lever.co/swordhealth/732a6b32-e008-49c0-8467-0b8989014a21
+
+---
+📊 _18 new offers | 372 total tracked_
