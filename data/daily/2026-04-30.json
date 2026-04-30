@@ -1,0 +1,55 @@
+{
+  "date": "2026-04-30",
+  "total_searched": 20,
+  "new_offers": 8,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "CodeNext - Staff Software Engineer",
+      "company": "SonarSource",
+      "location": "Geneva, Switzerland",
+      "url": "https://jobs.generalcatalyst.com/companies/sonarsource/jobs/68228664-codenext-staff-software-engineer",
+      "score": 85,
+      "grade": "A",
+      "why": "Geneva-based Staff role at a scale-up ($457M raised) building AI evaluation pipelines — exactly Magino's cofounder + AI-augmented engineering sweet spot, with Python/TypeScript stack and strong product engineering culture.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Founding Engineer (AI-native Freight Forwarder)",
+      "company": "Navio Logistics",
+      "location": "Berlin, Germany (hybrid)",
+      "url": "https://www.arbeitnow.com/jobs/companies/navio-logistics/founding-engineer-ai-native-frieght-forwarder-berlin-134672",
+      "score": 84,
+      "grade": "B",
+      "why": "Founding engineer at an AI-native startup — Magino's Alaya → Benevity 0→1 arc maps perfectly; TypeScript/Python/LLM stack with real AI agent building from day one, though Berlin location requires relocation or negotiation.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Staff Software Engineer (Remote — EU)",
+      "company": "Undisclosed Company (via Jobgether)",
+      "location": "Remote — Europe (EU timezone)",
+      "url": "https://jobs.lever.co/jobgether/bf4c8046-8f74-4b0e-a90f-a7657e269d49",
+      "score": 78,
+      "grade": "B",
+      "why": "Full EU remote Staff Engineer with TypeScript/Node.js/Go and explicit AI infrastructure mandate (vector DBs, embeddings, LLM APIs) — strong technical alignment, company identity TBD via Jobgether matching.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Staff Software Engineer",
+      "company": "Lyric",
+      "location": "Remote — USA",
+      "url": "https://jobgether.com/offer/698d3b580f33c87a10e99f5d-staff-software-engineer",
+      "score": 71,
+      "grade": "B",
+      "why": "AI-first healthcare platform, Staff level with mission-critical distributed systems scope — US timezone is the main friction but compensation likely reflects US rates, worth exploring remote flexibility.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}

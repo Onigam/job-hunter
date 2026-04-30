@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29",
+  "last_updated": "2026-04-30",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -5871,6 +5871,110 @@
       "score": 49,
       "grade": "D",
       "date_found": "2026-04-25",
+      "status": "new"
+    },
+    {
+      "id": "92deed4b3bf3268c7192e8cead73a3f9",
+      "title": "CodeNext - Staff Software Engineer",
+      "company": "SonarSource",
+      "location": "Geneva, Switzerland",
+      "url": "https://jobs.generalcatalyst.com/companies/sonarsource/jobs/68228664-codenext-staff-software-engineer",
+      "source": "generalcatalyst",
+      "summary": "Build and scale AI workflows, dataset processing pipelines, and evaluation frameworks for SonarSource's CodeNext AI product. Stack: Python (primary), TypeScript, Java, Rust. Staff-level role at a Geneva-based scale-up ($457M raised) with deep engineering culture and strong AI mandate.",
+      "score": 85,
+      "grade": "A",
+      "date_found": "2026-04-30",
+      "status": "new"
+    },
+    {
+      "id": "7967cb096163b4fcf811e6639268bcb7",
+      "title": "Founding Engineer (AI-native Freight Forwarder)",
+      "company": "Navio Logistics",
+      "location": "Berlin, Germany (hybrid)",
+      "url": "https://www.arbeitnow.com/jobs/companies/navio-logistics/founding-engineer-ai-native-frieght-forwarder-berlin-134672",
+      "source": "arbeitnow",
+      "summary": "Founding engineer at an AI-native freight-forwarding startup. Build AI agents, LLM-powered workflows, and core backend from scratch. Stack: TypeScript, Python, Go, LLMs, AI agents, Postgres, Redis. High ownership, early-stage, Berlin hybrid.",
+      "score": 84,
+      "grade": "B",
+      "date_found": "2026-04-30",
+      "status": "new"
+    },
+    {
+      "id": "9c4590c7969f5a8c4870c19317dbb169",
+      "title": "Staff Software Engineer (Remote — EU)",
+      "company": "Undisclosed Company (via Jobgether)",
+      "location": "Remote — Europe (EU timezone)",
+      "url": "https://jobs.lever.co/jobgether/bf4c8046-8f74-4b0e-a90f-a7657e269d49",
+      "source": "jobgether",
+      "summary": "Staff-level platform engineer via Jobgether. Stack: TypeScript, Node.js, Go, AWS cloud-native. Technical ownership of mission-critical platform at the intersection of distributed systems and AI infrastructure (vector DBs, embeddings, LLM APIs). Full EU remote.",
+      "score": 78,
+      "grade": "B",
+      "date_found": "2026-04-30",
+      "status": "new"
+    },
+    {
+      "id": "cc0bcf34054d22173eef730b54fe8112",
+      "title": "Staff Software Engineer",
+      "company": "Lyric",
+      "location": "Remote — USA",
+      "url": "https://jobgether.com/offer/698d3b580f33c87a10e99f5d-staff-software-engineer",
+      "source": "jobgether",
+      "summary": "Staff Software Engineer at Lyric (AI-first healthcare tech). Design and build mission-critical platform systems. Stack: Java, Go, Python, TypeScript, Kubernetes, distributed systems, observability. 8+ years required. Full remote.",
+      "score": 71,
+      "grade": "B",
+      "date_found": "2026-04-30",
+      "status": "new"
+    },
+    {
+      "id": "ecadc9276e3fb3bcb6afb90efdb82372",
+      "title": "AI Engineer (LLM)",
+      "company": "Tether Operations",
+      "location": "Remote — Switzerland",
+      "url": "https://startup.jobs/ai-engineer-llm-100-remote-switzerland-job-tether-operations-limited-5955116",
+      "source": "startup.jobs",
+      "summary": "LLM application engineering at Tether (USDT stablecoin issuer). Build end-to-end LLM apps from model integration to API layer and UI. Switzerland remote. Crypto company context with strong AI/LLM mandate.",
+      "score": 67,
+      "grade": "C",
+      "date_found": "2026-04-30",
+      "status": "new"
+    },
+    {
+      "id": "c1b20d0e79d0b00f6b3758c6158e3c2f",
+      "title": "Staff DevOps Engineer — Infrastructure Platform",
+      "company": "Housecall Pro",
+      "location": "Remote — Poland",
+      "url": "https://weworkremotely.com/remote-jobs/housecall-pro-staff-devops-engineer-infrastructure-platform",
+      "source": "weworkremotely",
+      "summary": "Staff DevOps Engineer at Housecall Pro (SaaS for home services, 28K+ businesses). Build cloud infrastructure with Terraform, AWS, Kafka, Linux. Staff seniority. Remote (Poland-focused). 6+ years required.",
+      "score": 57,
+      "grade": "C",
+      "date_found": "2026-04-30",
+      "status": "new"
+    },
+    {
+      "id": "cfe172decbb2ab94f8b84918d092d9b7",
+      "title": "(Sr) Software / Platform Engineer",
+      "company": "Open Systems AG",
+      "location": "Zurich or Bern, Switzerland (Hybrid 80-100%)",
+      "url": "https://www.jobs.ch/en/vacancies/detail/caa1c508-cd71-463a-bf47-9d67dbb5ba4c/",
+      "source": "jobs.ch",
+      "summary": "Sr Software/Platform Engineer at Open Systems (cybersecurity/managed networks). Own CI pipelines, developer tooling. Stack: Golang, Java, Rust, Python/Bash, Docker. Zurich or Bern hybrid 80-100%.",
+      "score": 54,
+      "grade": "D",
+      "date_found": "2026-04-30",
+      "status": "new"
+    },
+    {
+      "id": "c2d4562978813fd9e802e0c952eae7e3",
+      "title": "Senior Platform / DevOps Engineer",
+      "company": "Cloudpepper",
+      "location": "Remote — CET (or Brussels)",
+      "url": "https://weworkremotely.com/remote-jobs/cloudpepper-senior-platform-devops-engineer",
+      "source": "weworkremotely",
+      "summary": "Senior platform/devops at Cloudpepper (managed Odoo hosting, 10K+ instances). Stack: Symfony/PHP, Ansible, Linux, PostgreSQL, Nginx. CET timezone. $150-180K/yr. Posted April 26, 2026.",
+      "score": 39,
+      "grade": "F",
+      "date_found": "2026-04-30",
       "status": "new"
     }
   ]

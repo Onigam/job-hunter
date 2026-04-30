@@ -1,0 +1,24 @@
+🎯 *Job Hunt — 2026-04-30*
+
+*1.* *CodeNext - Staff Software Engineer* @ SonarSource
+📍 Geneva, Switzerland | ⭐ 85/100 | 🏆 Grade A
+💡 Geneva Staff role at a $457M scale-up — AI evaluation pipelines, Python/TypeScript stack, cofounder-to-Staff arc fits perfectly.
+🔗 https://jobs.generalcatalyst.com/companies/sonarsource/jobs/68228664-codenext-staff-software-engineer
+
+*2.* *Founding Engineer (AI-native Freight Forwarder)* @ Navio Logistics
+📍 Berlin, Germany (hybrid) | ⭐ 84/100 | 🏆 Grade B
+💡 First engineer, TypeScript/Python/LLMs/AI agents from day one — Alaya-to-Benevity playbook again. Berlin location is the ask.
+🔗 https://www.arbeitnow.com/jobs/companies/navio-logistics/founding-engineer-ai-native-frieght-forwarder-berlin-134672
+
+*3.* *Staff Software Engineer (Remote — EU)* @ Undisclosed Company (via Jobgether)
+📍 Remote — Europe (EU timezone) | ⭐ 78/100 | 🏆 Grade B
+💡 EU remote Staff with TypeScript/Node.js/Go + AI infra (vector DBs, embeddings, LLM APIs) — strong tech fit, company TBD.
+🔗 https://jobs.lever.co/jobgether/bf4c8046-8f74-4b0e-a90f-a7657e269d49
+
+*4.* *Staff Software Engineer* @ Lyric
+📍 Remote — USA | ⭐ 71/100 | 🏆 Grade B
+💡 AI-first healthcare platform, Staff level, distributed systems scope — US timezone but likely strong comp worth exploring.
+🔗 https://jobgether.com/offer/698d3b580f33c87a10e99f5d-staff-software-engineer
+
+---
+📊 _8 new offers | 398 total tracked_
