@@ -1,0 +1,79 @@
+{
+  "date": "2026-05-01",
+  "total_searched": 25,
+  "new_offers": 10,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "AI Engineering Lead",
+      "company": "Mercura (YC W25)",
+      "location": "Munich, Germany (in-person)",
+      "url": "https://www.ycombinator.com/companies/mercura/jobs/7Bo6ywP-ai-engineering-lead",
+      "score": 80,
+      "grade": "B",
+      "why": "Top 5% YC W25 by revenue, 8x oversubscribed round, €100-300K target comp — Magino's 0→1 cofounder arc and agentic AI experience map directly to this hands-on Engineering Lead building AI quote automation with TypeScript/Python/React.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Founding Engineer",
+      "company": "Brokerforce (backed by Hexa / eFounders)",
+      "location": "Paris, France",
+      "url": "https://www.welcometothejungle.com/en/companies/hexa/jobs/founding-engineer-brokerforce-backed-by-hexa_paris",
+      "score": 79,
+      "grade": "B",
+      "why": "Perfect stack match — TypeScript/Node.js/React/Next.js with LLMs/RAG in production — and Hexa's proven studio model (Aircall, Spendesk) means real product, real traction; Paris is the main friction.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Hands-on CTO (Full-Stack, AI)",
+      "company": "Undisclosed AI Startup (via Pragmatike)",
+      "location": "Remote — EMEA",
+      "url": "https://ca.linkedin.com/jobs/view/hands-on-cto-full-stack-ai-remote-at-pragmatike-4388175369",
+      "score": 78,
+      "grade": "B",
+      "why": "CTO-level at an AI fundraising platform (startups/investors matching) — Geneva-compatible EMEA remote, deadline May 21, and exactly the founding-engineer-turned-architect trajectory Magino is selling.",
+      "apply_by": "2026-05-21",
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Tech Lead, LLM & Generative AI",
+      "company": "EverAI",
+      "location": "Remote — Europe",
+      "url": "https://jobs.ashbyhq.com/everai/c7c482e1-5866-4f69-84b8-e3f4778a5d84",
+      "score": 74,
+      "grade": "B",
+      "why": "Full remote Europe, owns the LLM team (3 engineers) at a 50M-user platform processing 80M tokens/day — extreme AI/LLM depth, though companionship domain is less aligned with impact-driven values.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Founding Full Stack AI Engineer",
+      "company": "Undisclosed AI Data Startup (via Pragmatike)",
+      "location": "Remote — EMEA",
+      "url": "https://jobs.ashbyhq.com/pragmatike/5ab6774c-d907-4535-9b31-fae4f70235cb",
+      "score": 72,
+      "grade": "B",
+      "why": "Founding-level ownership of AI data infrastructure serving 500K+ contributors across 150 countries — EMEA remote and strong AI pipeline scope, though stack skews Python/FastAPI rather than TypeScript.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 6,
+      "title": "Principal Fullstack Engineer (EMEA, Remote)",
+      "company": "Undisclosed Startup (via Pragmatike)",
+      "location": "Remote — EMEA",
+      "url": "https://jobs.ashbyhq.com/pragmatike/90e47ce1-7719-4c3d-b72c-d3d5fb324118",
+      "score": 70,
+      "grade": "B",
+      "why": "Principal-level IC role for an undisclosed Pragmatike client, EMEA remote — seniority and timezone are right, company identity TBD through Pragmatike's AI-first curated network.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}

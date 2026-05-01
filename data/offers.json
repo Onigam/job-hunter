@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-30",
+  "last_updated": "2026-05-01",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -5975,6 +5975,123 @@
       "score": 39,
       "grade": "F",
       "date_found": "2026-04-30",
+      "status": "new"
+    },
+    {
+      "id": "4a2c1e8b9f0d7e3c6b5a4d2e1f9c8b7a",
+      "title": "AI Engineering Lead",
+      "company": "Mercura (YC W25)",
+      "location": "Munich, Germany (in-person)",
+      "url": "https://www.ycombinator.com/companies/mercura/jobs/7Bo6ywP-ai-engineering-lead",
+      "source": "ycombinator",
+      "summary": "Hands-on AI Engineering Lead at Mercura, YC W25 top 5% by revenue — automating quoting in the construction industry with agentic AI. Stack: TypeScript, Python, React, PostgreSQL, ML/NLP. In-person Munich team. Target comp €100-300K + equity. Company closed 8x oversubscribed post-YC round and is targeting €10M ARR by end of 2026.",
+      "score": 80,
+      "grade": "B",
+      "date_found": "2026-05-01",
+      "status": "new"
+    },
+    {
+      "id": "5b3d2f9c0e1a8d4e7c6b5a4d3e2f0c9b",
+      "title": "Founding Engineer",
+      "company": "Brokerforce (backed by Hexa / eFounders)",
+      "location": "Paris, France",
+      "url": "https://www.welcometothejungle.com/en/companies/hexa/jobs/founding-engineer-brokerforce-backed-by-hexa_paris",
+      "source": "welcometothejungle",
+      "summary": "Founding Engineer at Brokerforce, an AI Operating System for insurance brokers backed by Hexa (eFounders) — the studio behind Aircall, Spendesk, and Front. Product live with paying clients in France and Belgium. Stack: TypeScript, Node.js, React/Next.js, AWS serverless, LLMs/RAG, document processing, agent-based systems. Paris-based founding team (Diane ex-VC, Fabian repeat founder).",
+      "score": 79,
+      "grade": "B",
+      "date_found": "2026-05-01",
+      "status": "new"
+    },
+    {
+      "id": "6c4e3f0a1b2c9d5f8e7d6c5b4a3e2d0c",
+      "title": "Hands-on CTO (Full-Stack, AI)",
+      "company": "Undisclosed AI Startup (via Pragmatike)",
+      "location": "Remote — EMEA",
+      "url": "https://ca.linkedin.com/jobs/view/hands-on-cto-full-stack-ai-remote-at-pragmatike-4388175369",
+      "source": "linkedin",
+      "summary": "Hands-on CTO / Founding Engineer at an early-stage startup building an AI-powered fundraising platform connecting startups, incubators, and investors via intelligent matching and workflow tools. Fully remote EMEA. Role covers technical vision, AI-driven matching systems design, full-stack product development, cloud infrastructure, and gradual team mentoring. Deadline: May 21, 2026.",
+      "score": 78,
+      "grade": "B",
+      "date_found": "2026-05-01",
+      "status": "new"
+    },
+    {
+      "id": "7d5f4a1b2c3d0e6f9e8e7d6c5b4a3e1d",
+      "title": "Tech Lead, LLM & Generative AI",
+      "company": "EverAI",
+      "location": "Remote — Europe",
+      "url": "https://jobs.ashbyhq.com/everai/c7c482e1-5866-4f69-84b8-e3f4778a5d84",
+      "source": "ashbyhq",
+      "summary": "Tech Lead for EverAI's LLM team (3 engineers), one of the top 15 fastest-growing AI companies globally with 50M users and 80M tokens/day. Full ownership of LLM architecture, training, and deployment. Stack: Python, PyTorch, vLLM, HuggingFace, fine-tuning pipelines, eval frameworks. 8+ years experience required. Fully remote Europe. Consumer AI companionship platform.",
+      "score": 74,
+      "grade": "B",
+      "date_found": "2026-05-01",
+      "status": "new"
+    },
+    {
+      "id": "8e6a5b2c3d4e1f7a0f9f8e7d6c5b4f2e",
+      "title": "Founding Full Stack AI Engineer",
+      "company": "Undisclosed AI Data Startup (via Pragmatike)",
+      "location": "Remote — EMEA",
+      "url": "https://jobs.ashbyhq.com/pragmatike/5ab6774c-d907-4535-9b31-fae4f70235cb",
+      "source": "ashbyhq",
+      "summary": "Founding Full Stack AI Engineer at an early-stage startup providing real-world training data to top AI labs via a global network of 500K+ contributors across 150+ countries and 100+ languages. Owns end-to-end pipeline: FastAPI backend, React interfaces, AI-powered QA/classification pipelines, multimodal dataset delivery. Stack: Python, FastAPI, React. Fully remote EMEA, ASAP start.",
+      "score": 72,
+      "grade": "B",
+      "date_found": "2026-05-01",
+      "status": "new"
+    },
+    {
+      "id": "9f7b6c3d4e5f2a8b1a0a9f8e7d6c5a3f",
+      "title": "Principal Fullstack Engineer (EMEA, Remote)",
+      "company": "Undisclosed Startup (via Pragmatike)",
+      "location": "Remote — EMEA",
+      "url": "https://jobs.ashbyhq.com/pragmatike/90e47ce1-7719-4c3d-b72c-d3d5fb324118",
+      "source": "ashbyhq",
+      "summary": "Principal-level Fullstack Engineer role placed by Pragmatike for an undisclosed AI-first startup, EMEA remote. Pragmatike's curated network focuses on early-stage startups with strong technical and AI mandates. Role level and timezone are strong fits; company identity revealed through matching process.",
+      "score": 70,
+      "grade": "B",
+      "date_found": "2026-05-01",
+      "status": "new"
+    },
+    {
+      "id": "0a8c7d4e5f6a3b9c2b1b0a9f8e7d6b4a",
+      "title": "Founding Engineer — Backend & Platform",
+      "company": "Limetax",
+      "location": "Berlin, Germany",
+      "url": "https://jobs.ashbyhq.com/limetax/09442e1c-1efc-44bc-bfdd-a78c740ffb7a",
+      "source": "ashbyhq",
+      "summary": "Founding Engineer building LimetaxOS — the operating system for the €20B German tax advisory industry. Acquires established tax firms and transforms them with technology. Core platform work: unifying DATEV/banking/documents/emails into a scalable, extensible backend. €4M+ seed, top-tier investors, founding team with investment banking and applied AI backgrounds. Berlin-based.",
+      "score": 68,
+      "grade": "C",
+      "date_found": "2026-05-01",
+      "status": "new"
+    },
+    {
+      "id": "1b9d8e5f6a7b4c0d3c2c1b0a9f8e7c5b",
+      "title": "Principal Machine Learning Engineer",
+      "company": "Daedalean AG",
+      "location": "Zürich, Switzerland (hybrid)",
+      "url": "https://jobs.lever.co/daedalean/b49d7960-0b26-40c2-ac6e-1bff6f028220",
+      "source": "lever",
+      "summary": "Principal ML Engineer at Daedalean AG (AI autonomy hub of Destinus Group, Zurich, 100+ team) — technically guiding the ML team building the first certified AI avionics. Focus: Visual Traffic Detection system, computer vision, ML certification framework for aviation. Strong seniority and Swiss location, but deep ML/computer vision specialty is a mismatch vs Magino's LLM/platform background.",
+      "score": 67,
+      "grade": "C",
+      "date_found": "2026-05-01",
+      "status": "new"
+    },
+    {
+      "id": "2c0e9f6a7b8c5d1e4d3d2c1b0a9f8d6c",
+      "title": "Staff AI Platform Engineer",
+      "company": "Bluefish AI",
+      "location": "Remote — UK only",
+      "url": "https://job-boards.greenhouse.io/bluefishai/jobs/5189320008",
+      "source": "greenhouse",
+      "summary": "Staff AI Platform Engineer at Bluefish AI, London/UK-remote. Drives AI adoption across the org — identifying high-impact use cases, integrating AI into dev workflows, defining implementation standards, mentoring engineers. Stack: TypeScript, Python, distributed systems, cloud platforms, AI/agentic tech. Reports to VP Engineering. UK-remote only; Switzerland likely not in scope.",
+      "score": 67,
+      "grade": "C",
+      "date_found": "2026-05-01",
       "status": "new"
     }
   ]
