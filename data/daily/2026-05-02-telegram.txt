@@ -1,0 +1,34 @@
+🎯 *Job Hunt — 2026-05-02*
+
+*1.* *Founding Platform Engineer @Waniwani* @ Hexa (eFounders)
+📍 Remote — Europe | ⭐ 87/100 | 🏆 Grade A
+💡 TypeScript end-to-end, MCP/LLM at the core — founding-level infra ownership that mirrors the Alaya build-from-zero arc
+🔗 https://jobs.lever.co/hexa/eabed1e3-6477-47e2-b91c-0706afcf2480
+
+*2.* *Founding AI Engineer @Panora* @ Hexa (eFounders)
+📍 Paris / Remote EU | ⭐ 79/100 | 🏆 Grade B
+💡 RAG + agent-based AI for insurance brokers on the exact Magino stack (TypeScript, Node, AWS, LLMs) — eFounders studio model
+🔗 https://jobs.lever.co/hexa/4236fe7d-13fd-444f-a7c1-542e74adba32
+
+*3.* *Sr AI Engineer* @ n8n
+📍 Remote — Europe | ⭐ 78/100 | 🏆 Grade B
+💡 Building AI-native workflow features at a 220-person open-source platform — TypeScript, Node, embeddings, vector stores, prompt engineering
+🔗 https://jobs.ashbyhq.com/n8n/d195a389-6af5-4b95-82e5-2258953c7297
+
+*4.* *Staff Software Engineer (AI Infrastructure)* @ Undisclosed via Jobgether
+📍 Remote — Europe | ⭐ 71/100 | 🏆 Grade B
+💡 Distributed systems meets AI infra — TypeScript, Node, Go, LLM APIs, vector DBs at Staff level; vet the underlying company before applying
+🔗 https://jobs.lever.co/jobgether/a04f4e6b-37ed-45e7-8e03-b7eb25ad20af
+
+*5.* *Site Reliability Engineer* @ Mistral AI
+📍 Paris (Remote EU — Switzerland not listed) | ⭐ 69/100 | 🏆 Grade C
+💡 Production infrastructure for Europe's top LLM company; mission alignment is excellent, location is the sticking point
+🔗 https://jobs.lever.co/mistral/6e16e4fa-a60b-4270-a815-06b0450fb597
+
+*6.* *Infrastructure Engineer* @ Railway
+📍 Remote — Worldwide | ⭐ 69/100 | 🏆 Grade C
+💡 Own storage or observability at the beloved developer cloud platform; strong engineering culture, fully remote worldwide
+🔗 https://jobs.ashbyhq.com/Railway/b8072f95-043f-404d-a313-f0bdf8dd3c81
+
+---
+📊 _6 new offers | 23 raw results searched_

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-01",
+  "last_updated": "2026-05-02",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -6092,6 +6092,84 @@
       "score": 67,
       "grade": "C",
       "date_found": "2026-05-01",
+      "status": "new"
+    },
+    {
+      "id": "26d99e1ae0db21b01eb1335a9153c661",
+      "title": "Founding Platform Engineer @Waniwani",
+      "company": "Hexa (eFounders)",
+      "location": "Remote — Europe",
+      "url": "https://jobs.lever.co/hexa/eabed1e3-6477-47e2-b91c-0706afcf2480",
+      "source": "lever",
+      "summary": "Founding Platform Engineer at Waniwani (backed by Hexa/eFounders) — building the AI distribution infrastructure for the $10T services economy. TypeScript end-to-end (Next.js, Drizzle ORM, React Query), multi-tenant platform hosting hundreds of MCP codebases, CI/CD automation, AI agents at the core. Remote across Europe. Perfect cofounder-adjacent scope: own the infra, make architectural bets, ship with AI at 95% of the workflow.",
+      "score": 87,
+      "grade": "A",
+      "date_found": "2026-05-02",
+      "status": "new"
+    },
+    {
+      "id": "cd0a0b1e81d09a94608ffa2fd71a6747",
+      "title": "Founding AI Engineer @Panora",
+      "company": "Hexa (eFounders)",
+      "location": "Paris — Hybrid (Remote EU considered)",
+      "url": "https://jobs.lever.co/hexa/4236fe7d-13fd-444f-a7c1-542e74adba32",
+      "source": "lever",
+      "summary": "Founding AI Engineer at Panora (backed by Hexa/eFounders) — building RAG-powered AI agents for insurance brokers. Stack: TypeScript, Node.js, React/Next.js, AWS (serverless, managed services), LLMs, RAG, agent-based systems, document processing, hybrid search, Microsoft 365 integrations. Paris-based with EU remote considered. eFounders studio model mirrors the Alaya cofounder experience with runway and GTM support.",
+      "score": 79,
+      "grade": "B",
+      "date_found": "2026-05-02",
+      "status": "new"
+    },
+    {
+      "id": "f52ebe28f9439a935761c387a7617127",
+      "title": "Sr AI Engineer",
+      "company": "n8n",
+      "location": "Remote — Europe",
+      "url": "https://jobs.ashbyhq.com/n8n/d195a389-6af5-4b95-82e5-2258953c7297",
+      "source": "ashbyhq",
+      "summary": "Senior AI Engineer at n8n — the open workflow orchestration platform built for AI. Drive intelligent features: natural language input, smart suggestions, LLM-based workflow generation. Stack: TypeScript, Node.js, Vue, prompt engineering, embedding models, vector databases, agent architectures. Fully remote Europe, 220+ employees, Series A+. 30 days PTO + equity.",
+      "score": 78,
+      "grade": "B",
+      "date_found": "2026-05-02",
+      "status": "new"
+    },
+    {
+      "id": "849382d0b3d974ebf0fbb93729602643",
+      "title": "Staff Software Engineer — AI Infrastructure",
+      "company": "Undisclosed (via Jobgether)",
+      "location": "Remote — Europe (Germany listing)",
+      "url": "https://jobs.lever.co/jobgether/a04f4e6b-37ed-45e7-8e03-b7eb25ad20af",
+      "source": "lever",
+      "summary": "Staff Software Engineer at an undisclosed company (posted via Jobgether) operating at the intersection of large-scale distributed systems and AI infrastructure. Stack: TypeScript, Node.js, Go, cloud-native architectures (AWS), PostgreSQL at scale, service-oriented architectures, domain-driven design, vector databases, embeddings, LLM APIs. 10+ years experience required. Fully remote from several EU countries; Switzerland acceptance unconfirmed.",
+      "score": 71,
+      "grade": "B",
+      "date_found": "2026-05-02",
+      "status": "new"
+    },
+    {
+      "id": "a5ad62e36d8710e3dc32b940db7bd6eb",
+      "title": "Site Reliability Engineer",
+      "company": "Mistral AI",
+      "location": "Paris (Remote: FR/UK/DE/BE/NL/ES/IT)",
+      "url": "https://jobs.lever.co/mistral/6e16e4fa-a60b-4270-a815-06b0450fb597",
+      "source": "lever",
+      "summary": "Site Reliability Engineer at Mistral AI — Europe's leading LLM company (Series B). Shape reliability, scalability and performance of production AI infrastructure and customer-facing applications. Stack: Kubernetes, Docker, AWS/GCP/Azure, CI/CD, ML workloads. Paris preferred, remote considered in select EU countries (Switzerland NOT listed). Strong mission alignment; location is the primary barrier for Magino.",
+      "score": 69,
+      "grade": "C",
+      "date_found": "2026-05-02",
+      "status": "new"
+    },
+    {
+      "id": "9ee89ad698729aff2504f331da23e605",
+      "title": "Infrastructure Engineer",
+      "company": "Railway",
+      "location": "Remote — Worldwide",
+      "url": "https://jobs.ashbyhq.com/Railway/b8072f95-043f-404d-a313-f0bdf8dd3c81",
+      "source": "ashbyhq",
+      "summary": "Senior Infrastructure Engineer at Railway — the beloved developer cloud platform. Own storage, observability or distributed systems infrastructure; work at the forefront of container orchestration, custom hardware and hypervisors. Fully remote worldwide. Strong engineering culture, product-first company. Less TypeScript/AI overlap vs Magino's stack but excellent platform engineering scope.",
+      "score": 69,
+      "grade": "C",
+      "date_found": "2026-05-02",
       "status": "new"
     }
   ]

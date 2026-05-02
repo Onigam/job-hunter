@@ -1,0 +1,79 @@
+{
+  "date": "2026-05-02",
+  "total_searched": 23,
+  "new_offers": 6,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Founding Platform Engineer @Waniwani",
+      "company": "Hexa (eFounders)",
+      "location": "Remote — Europe",
+      "url": "https://jobs.lever.co/hexa/eabed1e3-6477-47e2-b91c-0706afcf2480",
+      "score": 87,
+      "grade": "A",
+      "why": "Founding-level ownership of the AI distribution platform for the services economy — TypeScript end-to-end, multi-tenant infra, MCP/LLM at the core. Mirrors exactly the Alaya cofounder build-from-zero arc. eFounders backing means runway and go-to-market support without the solo-founder risk.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Founding AI Engineer @Panora",
+      "company": "Hexa (eFounders)",
+      "location": "Paris — Hybrid (Remote EU considered)",
+      "url": "https://jobs.lever.co/hexa/4236fe7d-13fd-444f-a7c1-542e74adba32",
+      "score": 79,
+      "grade": "B",
+      "why": "Founding engineer building RAG-powered agents for insurance brokers on exactly Magino's stack: TypeScript, Node.js, AWS, LLMs, agent architectures. The eFounders studio model replicates the Alaya experience. Paris proximity from Geneva is manageable; role is open to EU remote candidates.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Sr AI Engineer",
+      "company": "n8n",
+      "location": "Remote — Europe",
+      "url": "https://jobs.ashbyhq.com/n8n/d195a389-6af5-4b95-82e5-2258953c7297",
+      "score": 78,
+      "grade": "B",
+      "why": "Senior AI Engineer building AI-native workflow features at a Series A+ open-source platform (220+ employees) — TypeScript, Node.js, prompt engineering, embeddings, vector stores. Direct match with Magino's AI-augmented engineering practice; fully remote EU, 30-day vacation, meaningful equity.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Staff Software Engineer (Remote EU — AI Infrastructure)",
+      "company": "Undisclosed (via Jobgether)",
+      "location": "Remote — Europe (Germany listing)",
+      "url": "https://jobs.lever.co/jobgether/a04f4e6b-37ed-45e7-8e03-b7eb25ad20af",
+      "score": 71,
+      "grade": "B",
+      "why": "Staff-level role at the intersection of distributed systems and AI infrastructure — TypeScript, Node.js, Go, AWS, PostgreSQL at scale, LLM APIs, vector databases. Strong technical scope match; underlying company is undisclosed via Jobgether, worth vetting before full commitment.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Site Reliability Engineer",
+      "company": "Mistral AI",
+      "location": "Paris (Remote: FR/UK/DE/BE/NL/ES/IT)",
+      "url": "https://jobs.lever.co/mistral/6e16e4fa-a60b-4270-a815-06b0450fb597",
+      "score": 69,
+      "grade": "C",
+      "why": "SRE role building production reliability for Europe's leading LLM company — Kubernetes, Docker, AWS, ML infrastructure at scale. Switzerland not listed as a remote country is the key blocker; the mission alignment with Magino's AI focus is exceptional if location can be worked around.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 6,
+      "title": "Infrastructure Engineer",
+      "company": "Railway",
+      "location": "Remote — Worldwide",
+      "url": "https://jobs.ashbyhq.com/Railway/b8072f95-043f-404d-a313-f0bdf8dd3c81",
+      "score": 69,
+      "grade": "C",
+      "why": "Senior infrastructure engineer at Railway — the beloved developer cloud platform — owning storage or observability for a fast-growing Kubernetes-native hosting service. Remote worldwide, strong engineering culture; less TypeScript/AI overlap but solid platform engineering scope.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
