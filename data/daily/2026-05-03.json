@@ -1,0 +1,79 @@
+{
+  "date": "2026-05-03",
+  "total_searched": 30,
+  "new_offers": 7,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Staff AI Software Engineer",
+      "company": "Aircall",
+      "location": "Remote — Europe (Paris HQ)",
+      "url": "https://jobs.lever.co/aircall/dfacdb96-8331-4530-8ba3-99a0445368b5",
+      "score": 74,
+      "grade": "B",
+      "why": "TypeScript and Node.js stack with a strong agentic AI mandate — Aircall is embedding LLMs, RAG, and multi-agent systems into its telephony product, matching precisely the AI-augmented engineering practice Magino developed at Benevity. Staff seniority, fully remote EU.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "VP / Head of Engineering",
+      "company": "ChangeEngine",
+      "location": "London, UK",
+      "url": "https://wellfound.com/jobs/1694078-vp-head-of-engineering",
+      "score": 70,
+      "grade": "B",
+      "why": "First engineering hire with complete ownership of architecture, team, and culture — the cofounder playbook compressed into a VP title. Early-stage SaaS with ML capabilities; London location is the primary friction point for Geneva-based Magino.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Senior AI Engineer – LLMs & Agents",
+      "company": "Cosuno",
+      "location": "Remote — Europe (Berlin)",
+      "url": "https://cosuno.jobs.personio.de/job/2056476?language=en",
+      "score": 70,
+      "grade": "B",
+      "why": "LLM and agent engineering as the core mandate, TypeScript throughout, fully remote EU — Cosuno is small enough that Magino's cofounder instincts would have genuine influence on the AI product direction. Fresh HN May 2026 posting.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Technical Lead – Platform & AI Infrastructure",
+      "company": "HeartStamp Inc",
+      "location": "Remote (US timezone preferred)",
+      "url": "https://weworkremotely.com/remote-jobs/heartstamp-inc-technical-lead-platform-ai-infrastructure-founding-team",
+      "score": 65,
+      "grade": "C",
+      "why": "Founding team role with full platform and AI infrastructure ownership at a generative AI startup — generative content pipelines, LoRA customization, cloud architecture design. Strong pre-launch equity; US timezone preference is a practical but potentially negotiable constraint.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Senior Full Stack Developer (TypeScript)",
+      "company": "Cosuno",
+      "location": "Remote — Europe (Berlin)",
+      "url": "https://jobs.ashbyhq.com/cosuno/424ba681-0989-4961-82ad-10286e4aae71",
+      "score": 63,
+      "grade": "C",
+      "why": "TypeScript/Node/React full-stack at the same construction startup as rank 3 — solid stack match with Cosuno's remote-EU setup; seniority requirement is below Magino's Staff+ target but the company context is compelling.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 6,
+      "title": "Staff Software Engineer, Platform",
+      "company": "Finch",
+      "location": "Remote — USA (likely)",
+      "url": "https://jobs.lever.co/finch/9152b5a0-c4d8-4840-9c08-a3a615a582bf",
+      "score": 63,
+      "grade": "C",
+      "why": "Staff Platform Engineer at a Series B 'Plaid for payroll' startup — Node.js, PostgreSQL, Redis, AWS, CI/CD with Staff-level ownership. $210K+ USD compensation signals probable US-only; worth verifying EU eligibility given strong technical scope.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}

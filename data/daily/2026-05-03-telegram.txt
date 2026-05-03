@@ -1,0 +1,29 @@
+🎯 *Job Hunt — 2026-05-03*
+
+*1.* *Staff AI Software Engineer* @ Aircall
+📍 Remote Europe | ⭐ 74/100 | 🏆 Grade B
+💡 TypeScript/Node.js + LLMs + Agents on Aircall's AI telephony platform — built for engineers who can own agentic systems end-to-end.
+🔗 https://jobs.lever.co/aircall/dfacdb96-8331-4530-8ba3-99a0445368b5
+
+*2.* *VP / Head of Engineering* @ ChangeEngine
+📍 London, UK | ⭐ 70/100 | 🏆 Grade B
+💡 First engineering hire, full ownership of architecture and culture — the VP-track cofounder playbook; London location is the main blocker.
+🔗 https://wellfound.com/jobs/1694078-vp-head-of-engineering
+
+*3.* *Senior AI Engineer – LLMs & Agents* @ Cosuno
+📍 Remote EU | ⭐ 70/100 | 🏆 Grade B
+💡 LLM and agent-native role at a fast-growing construction startup — TypeScript, small team, real technical ownership potential.
+🔗 https://cosuno.jobs.personio.de/job/2056476?language=en
+
+*4.* *Technical Lead – Platform & AI Infrastructure* @ HeartStamp Inc
+📍 Remote (US tz preferred) | ⭐ 65/100 | 🏆 Grade C
+💡 Founding team role architecting a generative AI platform — platform + AI mandate and equity upside; US timezone preference is a practical barrier.
+🔗 https://weworkremotely.com/remote-jobs/heartstamp-inc-technical-lead-platform-ai-infrastructure-founding-team
+
+*5.* *Senior Full Stack Developer (TypeScript)* @ Cosuno
+📍 Remote EU | ⭐ 63/100 | 🏆 Grade C
+💡 Same company as rank 3, full-stack TypeScript/Node.js — strong stack match, seniority slightly below target.
+🔗 https://jobs.ashbyhq.com/cosuno/424ba681-0989-4961-82ad-10286e4aae71
+
+---
+📊 _7 new offers | 420 total tracked_
