@@ -1,0 +1,55 @@
+{
+  "date": "2026-05-04",
+  "total_searched": 22,
+  "new_offers": 5,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Founding Engineer",
+      "company": "Legion Health",
+      "location": "Remote (USA)",
+      "url": "https://jobs.ashbyhq.com/legionhealth/ffdd2b52-eb21-489e-b124-3c0804231424",
+      "score": 80,
+      "grade": "B",
+      "why": "YC S21 AI mental health company with $3.3M ARR — Node.js/TypeScript/AWS/Supabase stack is a direct match, and the role owns production LLM agents (RAG, tool-calling, event-driven ops) for real psychiatric workflows. The founding-engineer scope — scheduling, billing, intake, risk detection — maps exactly to what Magino built at Alaya.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Founding Engineer",
+      "company": "Axe",
+      "location": "Remote (UK/Ireland)",
+      "url": "https://jobs.ashbyhq.com/joinaxe/b4174397-cdb2-4f3d-ba9c-e390842192aa",
+      "score": 78,
+      "grade": "B",
+      "why": "Founding engineer #2 or #3 at an AI phone agents startup building the OS for the physical economy — Python/TypeScript/React/LangGraph/VertexAI stack with very high AI intensity. The founders have prior exits and the role is near-zero to product, which matches Magino's cofounder DNA. Remote restricted to UK/Ireland is a location caveat.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Founding Engineer — AI Agents",
+      "company": "Jampack AI",
+      "location": "New York, USA (remote possible)",
+      "url": "https://jobs.ashbyhq.com/jampack-ai/d2c748c5-4690-4fa4-a5f5-a4d76f15b739",
+      "score": 72,
+      "grade": "B",
+      "why": "Founding engineer to own the full AI agent layer (TypeScript/Node.js, Python, cloud infra) at a $3.2M seed B2B wholesale automation startup. Building autonomous agents for order-to-cash at series-zero stage is the kind of zero-to-one challenge Magino thrives in. US-based team limits timezone fit.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Founding Engineer — Fullstack",
+      "company": "Jampack AI",
+      "location": "New York, USA (remote possible)",
+      "url": "https://jobs.ashbyhq.com/jampack-ai/2465417e-51d3-424a-9dfe-6e0f5185e354",
+      "score": 70,
+      "grade": "B",
+      "why": "Complementary founding fullstack role at Jampack AI — builds the core platform, data pipelines, integrations and operator console behind the AI agents. TypeScript/Node.js, same cofounder-level ownership as Alaya; weaker than the AI Agents role on LLM intensity and platform scope.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}

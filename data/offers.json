@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-03",
+  "last_updated": "2026-05-04",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -6345,6 +6345,131 @@
         "novelty": 7
       },
       "date_found": "2026-05-03",
+      "status": "new"
+    },
+    {
+      "id": "c983980d72760f65ad5dceb435139200",
+      "title": "Founding Engineer",
+      "company": "Legion Health",
+      "location": "Remote (USA)",
+      "url": "https://jobs.ashbyhq.com/legionhealth/ffdd2b52-eb21-489e-b124-3c0804231424",
+      "source": "ashbyhq",
+      "summary": "Founding Engineer at Legion Health (YC S21, $3.3M ARR, $7M raised) — AI-native mental health care. Own the Node.js/TypeScript/Supabase(Postgres)/AWS backend and production LLM agents (RAG, tool-calling, event-driven ops) running real psychiatric workflows: scheduling, documentation, billing, intake, risk detection. Requires Node.js/TypeScript + Postgres experience and LLM/agents/RAG background. Remote-first, US timezone focus.",
+      "score": 80,
+      "grade": "B",
+      "score_breakdown": {
+        "technical": 9,
+        "seniority": 9,
+        "location": 5,
+        "company": 8,
+        "impact": 9,
+        "mission": 8,
+        "compensation": 7,
+        "growth": 8,
+        "ai_llm": 9,
+        "novelty": 8
+      },
+      "date_found": "2026-05-04",
+      "status": "new"
+    },
+    {
+      "id": "ebf976427e60f617ac7282cbe6b58004",
+      "title": "Founding Engineer",
+      "company": "Axe",
+      "location": "Remote (UK/Ireland)",
+      "url": "https://jobs.ashbyhq.com/joinaxe/b4174397-cdb2-4f3d-ba9c-e390842192aa",
+      "source": "ashbyhq",
+      "summary": "Founding Engineer (#2 or #3) at Axe, building the AI OS for the physical economy — AI phone agents enabling businesses to deploy autonomous agents for back-office operations. Stack: Python (FastAPI), TypeScript, React (Next.js), PostgreSQL, OpenAI, LangGraph, Google VertexAI. Founders have prior exits (marketplace 1M+ users, AI lending startup). Remote restricted to Ireland or UK. Daily standups, monthly in-person. Very high AI/LLM intensity at product core.",
+      "score": 78,
+      "grade": "B",
+      "score_breakdown": {
+        "technical": 8,
+        "seniority": 9,
+        "location": 5,
+        "company": 9,
+        "impact": 9,
+        "mission": 6,
+        "compensation": 7,
+        "growth": 8,
+        "ai_llm": 9,
+        "novelty": 8
+      },
+      "date_found": "2026-05-04",
+      "status": "new"
+    },
+    {
+      "id": "bb7661853ffa25389e509ff7295b5ce0",
+      "title": "Founding Engineer — AI Agents",
+      "company": "Jampack AI",
+      "location": "New York, USA (remote possible)",
+      "url": "https://jobs.ashbyhq.com/jampack-ai/d2c748c5-4690-4fa4-a5f5-a4d76f15b739",
+      "source": "ashbyhq",
+      "summary": "Founding Engineer to own the AI agent layer at Jampack AI, a $3.2M seed startup (Maveron) automating the wholesale order-to-cash lifecycle for CPG brands. Build autonomous systems that execute multi-step workflows across ordering, freight, reconciliation, and exception management. Stack: TypeScript/Node.js, Python, cloud infrastructure. Wholesale is 7x the size of e-commerce; Jampack is replacing spreadsheets and email chains with agentic workflows. NYC-based, remote uncertain.",
+      "score": 72,
+      "grade": "B",
+      "score_breakdown": {
+        "technical": 8,
+        "seniority": 9,
+        "location": 4,
+        "company": 8,
+        "impact": 9,
+        "mission": 5,
+        "compensation": 6,
+        "growth": 7,
+        "ai_llm": 8,
+        "novelty": 8
+      },
+      "date_found": "2026-05-04",
+      "status": "new"
+    },
+    {
+      "id": "7ca381bbcc7796ed7da62dfd5e8c4d8e",
+      "title": "Founding Engineer — Fullstack",
+      "company": "Jampack AI",
+      "location": "New York, USA (remote possible)",
+      "url": "https://jobs.ashbyhq.com/jampack-ai/2465417e-51d3-424a-9dfe-6e0f5185e354",
+      "source": "ashbyhq",
+      "summary": "Founding Fullstack Engineer at Jampack AI building the core platform that powers their AI agents and customer experience — data pipelines, integrations, APIs, and the operator console. Same company and seed stage as the AI Agents role but more platform/infrastructure focus vs. AI agent layer. Stack: TypeScript/Node.js, Python. NYC-based, founding team ownership. Complementary to the AI Agents founding engineer role.",
+      "score": 70,
+      "grade": "B",
+      "score_breakdown": {
+        "technical": 8,
+        "seniority": 9,
+        "location": 4,
+        "company": 8,
+        "impact": 8,
+        "mission": 5,
+        "compensation": 6,
+        "growth": 7,
+        "ai_llm": 7,
+        "novelty": 8
+      },
+      "date_found": "2026-05-04",
+      "status": "new"
+    },
+    {
+      "id": "b5a35c1a72d86e6ea73906d1e646a37b",
+      "title": "Staff Full-Stack Engineer (Go, React, TypeScript)",
+      "company": "Rundoo",
+      "location": "Redwood City, CA (hybrid)",
+      "url": "https://jobs.ashbyhq.com/rundoo/cbb899a0-e9a4-4b78-afd8-9399958b3ff8",
+      "source": "ashbyhq",
+      "summary": "Staff Full-Stack Engineer at Rundoo, a vertical SaaS company ($18M raised, Bessemer + CRV) building modern software for building materials suppliers. Staff-level IC: make significant individual contributions, introduce abstractions, mentor teammates, define engineering standards. Stack: Go (backend), React, TypeScript (frontend). Hybrid in Redwood City, CA. Go is a departure from Magino stack; no AI/LLM component; US hybrid format limits remote viability.",
+      "score": 58,
+      "grade": "C",
+      "score_breakdown": {
+        "technical": 5,
+        "seniority": 9,
+        "location": 2,
+        "company": 7,
+        "impact": 7,
+        "mission": 4,
+        "compensation": 7,
+        "growth": 7,
+        "ai_llm": 2,
+        "novelty": 8
+      },
+      "date_found": "2026-05-04",
       "status": "new"
     }
   ]

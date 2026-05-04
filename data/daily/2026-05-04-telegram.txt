@@ -1,0 +1,24 @@
+🎯 *Job Hunt — 2026-05-04*
+
+*1.* *Founding Engineer* @ Legion Health
+📍 Remote (USA) | ⭐ 80/100 | 🏆 Grade B
+💡 YC S21 AI mental health — Node/TS/AWS/LLMs stack, owns psychiatric AI ops (scheduling, billing, risk detection) — cofounder-level scope matching the Alaya build.
+🔗 https://jobs.ashbyhq.com/legionhealth/ffdd2b52-eb21-489e-b124-3c0804231424
+
+*2.* *Founding Engineer* @ Axe
+📍 Remote (UK/Ireland) | ⭐ 78/100 | 🏆 Grade B
+💡 #2 founding engineer building the AI OS for the physical economy — Python/TypeScript/LangGraph, high AI intensity, founders with prior exits.
+🔗 https://jobs.ashbyhq.com/joinaxe/b4174397-cdb2-4f3d-ba9c-e390842192aa
+
+*3.* *Founding Engineer — AI Agents* @ Jampack AI
+📍 New York, USA | ⭐ 72/100 | 🏆 Grade B
+💡 Own the AI agent layer at a $3.2M seed wholesale automation startup — TypeScript/Node.js, zero-to-one agentic order-to-cash workflows.
+🔗 https://jobs.ashbyhq.com/jampack-ai/d2c748c5-4690-4fa4-a5f5-a4d76f15b739
+
+*4.* *Founding Engineer — Fullstack* @ Jampack AI
+📍 New York, USA | ⭐ 70/100 | 🏆 Grade B
+💡 Build the core platform, APIs and operator console behind Jampack's AI agents — TypeScript/Node.js, founding-team ownership.
+🔗 https://jobs.ashbyhq.com/jampack-ai/2465417e-51d3-424a-9dfe-6e0f5185e354
+
+---
+📊 _5 new offers | 425 total tracked_
