@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04",
+  "last_updated": "2026-05-05",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -6470,6 +6470,149 @@
         "novelty": 8
       },
       "date_found": "2026-05-04",
+      "status": "new"
+    },
+    {
+      "id": "5465a912c89ff40f16904de57877106e",
+      "title": "Product Engineer",
+      "company": "SuperPlane",
+      "location": "Remote — GMT+2 to GMT-3",
+      "url": "https://jobs.ashbyhq.com/superplane/1bf7fdb0-6196-4558-b7a1-601be44539cc",
+      "source": "ashbyhq",
+      "summary": "SuperPlane is building the AI-native control plane for platform engineering — enabling engineers to manage releases, internal platforms, and system integrations through an AI-first, open-source product. Stack is Go, TypeScript, React. Small remote team working GMT+2 to GMT-3. Full end-to-end product ownership. Asks for at least one PR to superplanehq/superplane before applying.",
+      "score": 83,
+      "grade": "B",
+      "date_found": "2026-05-05",
+      "status": "new"
+    },
+    {
+      "id": "6e38382ee452c30fa6cc7d106991e1a2",
+      "title": "Director of Engineering",
+      "company": "n8n",
+      "location": "Remote — Europe",
+      "url": "https://jobs.ashbyhq.com/n8n/42c09bd6-1571-493d-b5af-f2de77f4f0ba",
+      "source": "ashbyhq",
+      "summary": "Director of Engineering at n8n, the Series B open-source workflow automation platform used heavily in AI/LLM pipelines. TypeScript/Node.js codebase. Remote Europe. Leadership of the entire engineering function. n8n has grown rapidly as it became embedded infrastructure for AI agent builders.",
+      "score": 82,
+      "grade": "B",
+      "date_found": "2026-05-05",
+      "status": "new"
+    },
+    {
+      "id": "71e483a5d236a0e3fded0a2abf1f508c",
+      "title": "Engineering Manager, Core Platform",
+      "company": "n8n",
+      "location": "Remote — Europe",
+      "url": "https://jobs.ashbyhq.com/n8n/2c2023f0-cb2d-4c4b-9f03-9278f479a866",
+      "source": "ashbyhq",
+      "summary": "Engineering Manager for the Core Platform team at n8n. Own the foundational infrastructure of the AI workflow orchestrator. TypeScript/Node.js stack. Remote Europe. Combines platform ownership with team leadership — direct parallel to Magino's Alaya platform evolution post-acquisition.",
+      "score": 80,
+      "grade": "B",
+      "date_found": "2026-05-05",
+      "status": "new"
+    },
+    {
+      "id": "f9be2cb5ba386c865d7dd0d3e8448427",
+      "title": "Founding Backend/Platform Engineer",
+      "company": "MobileBoost",
+      "location": "Remote — Worldwide",
+      "url": "https://www.ycombinator.com/companies/mobileboost/jobs/v6gPgiZ-founding-backend-platform-engineer-remote",
+      "source": "ycombinator",
+      "summary": "Founding Backend/Platform Engineer at MobileBoost (YC), building GPT Driver — an AI-native mobile testing product. Seed stage, remote-first with flexible hours. Compensation $4k-5k/month + equity. Stack not specified but AI-native infrastructure and TypeScript/Python likely. Strong founding-engineer impact scope.",
+      "score": 66,
+      "grade": "C",
+      "date_found": "2026-05-05",
+      "status": "new"
+    },
+    {
+      "id": "904e4c9d8e4e7561215c62bf4fb02f41",
+      "title": "Teamlead Platform Engineering",
+      "company": "Ventoo AG",
+      "location": "Zürich, Switzerland",
+      "url": "https://swissdevjobs.ch/jobs/Ventoo-AG-Teamlead-Plattform-Engineering-fxm-80-100",
+      "source": "swissdevjobs",
+      "summary": "Team Lead for the Platform Engineering team at Ventoo AG (Zürich). 80-100% workload, salary CHF 120,000–140,000. Platform team leadership in Switzerland with potential part-time option aligning with Givernance side project. Räffelstrasse 24, Zürich.",
+      "score": 62,
+      "grade": "C",
+      "date_found": "2026-05-05",
+      "status": "new"
+    },
+    {
+      "id": "ef467d019deca6c20b178ee6f6b2812e",
+      "title": "Staff Fullstack Product Software Engineer, Dash",
+      "company": "Dropbox",
+      "location": "Remote — USA",
+      "url": "https://weworkremotely.com/remote-jobs/dropbox-staff-fullstack-product-software-engineer-dash",
+      "source": "weworkremotely",
+      "summary": "Staff Fullstack engineer on Dropbox Dash, the AI-powered universal search product. Designs and builds AI-powered features, mentors senior engineers, defines multi-team growth strategy. Salary $223,400–$302,200. US remote only — Geneva timezone not compatible without international hire agreement. Apply by May 31, 2026.",
+      "score": 60,
+      "grade": "C",
+      "date_found": "2026-05-05",
+      "status": "new"
+    },
+    {
+      "id": "62dc8aebcb0f3e5b83dce2b7463c094d",
+      "title": "Tech Lead / Senior Infra Engineer",
+      "company": "EggAI",
+      "location": "Remote — EU, Switzerland, Norway",
+      "url": "https://egg-ai.com/",
+      "source": "hn",
+      "summary": "Small boutique consultancy at the forefront of enterprise AI. Hiring Tech Lead and Senior/Lead Infra engineers for remote work in EU, Switzerland, Norway. Full-time or contract. AI-first engineering team but consulting model (not product company). Found via HN Who's Hiring May 2026.",
+      "score": 60,
+      "grade": "C",
+      "date_found": "2026-05-05",
+      "status": "new"
+    },
+    {
+      "id": "f071de009335c50f800d52e602dadd66",
+      "title": "Senior Software Engineer (Product Platform)",
+      "company": "Veriff",
+      "location": "Remote — Europe",
+      "url": "https://weworkremotely.com/remote-jobs/veriff-senior-software-engineer-product-platform",
+      "source": "weworkremotely",
+      "summary": "Senior Software Engineer on the Product Platform team at Veriff, a Series D identity verification scale-up. Remote Europe (Germany, Spain, France, Poland and others). Platform engineering at significant scale. Apply by May 14, 2026.",
+      "score": 58,
+      "grade": "C",
+      "date_found": "2026-05-05",
+      "status": "new"
+    },
+    {
+      "id": "454a6741e9ae3ce23f9e77de175ed967",
+      "title": "Staff Engineer",
+      "company": "NetBird",
+      "location": "Berlin, Germany",
+      "url": "https://netbird.io/careers",
+      "source": "hn",
+      "summary": "Staff Engineer at NetBird, a Series A open-source zero-trust networking platform. Berlin HQ with possible remote. Go-based backend, distributed networking systems. Found via HN Who's Hiring May 2026. Stack mismatch (Go, not TypeScript/Node) but Staff seniority and open-source culture are strong signals.",
+      "score": 57,
+      "grade": "C",
+      "date_found": "2026-05-05",
+      "status": "new"
+    },
+    {
+      "id": "37c271dbe6601aa0a968a54372854e65",
+      "title": "Senior Platform Engineer",
+      "company": "ONZACK AG",
+      "location": "Landquart, Switzerland",
+      "url": "https://swissdevjobs.ch/jobs/ONZACK-AG-Senior-Platform-Engineer-80-100",
+      "source": "swissdevjobs",
+      "summary": "Senior Platform Engineer 80-100% at ONZACK AG in Landquart (eastern Switzerland). CHF 115,000–130,000. Swiss company, platform focus. Senior seniority (below Staff+) but Swiss location is a plus. Stack details not confirmed.",
+      "score": 56,
+      "grade": "C",
+      "date_found": "2026-05-05",
+      "status": "new"
+    },
+    {
+      "id": "d047ffe1d1a8aa2f3eb5951d91fa8bab",
+      "title": "Head of Engineering — Frontend",
+      "company": "HolidayCheck",
+      "location": "Bottighofen, Switzerland",
+      "url": "https://swissdevjobs.ch/jobs/HolidayCheck-Head-of-Engineering---Frontend-all-genders",
+      "source": "swissdevjobs",
+      "summary": "Head of Engineering for the Frontend organization at HolidayCheck (travel platform), Bottighofen (near Constance, eastern Switzerland). CHF 120,000–135,000. Large established travel company, not startup. Frontend-constrained scope. React likely.",
+      "score": 52,
+      "grade": "D",
+      "date_found": "2026-05-05",
       "status": "new"
     }
   ]
