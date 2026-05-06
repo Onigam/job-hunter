@@ -1,0 +1,55 @@
+{
+  "date": "2026-05-06",
+  "total_searched": 18,
+  "new_offers": 8,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Staff Software Engineer — AI SDK",
+      "company": "Temporal Technologies",
+      "location": "Remote — US/Global",
+      "url": "https://job-boards.greenhouse.io/temporaltechnologies/jobs/4853421007",
+      "score": 80,
+      "grade": "B",
+      "why": "Temporal's AI SDK team is building the Python/TypeScript primitives that will power multi-agent and LLM workflows at scale — this is exactly the intersection of platform engineering and AI-augmented systems that defines your next move. Direct ownership of developer-facing AI infrastructure, fully remote company, strong VC backing. Confirm EU eligibility before applying.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "CTO — Hands-on Founder CTO",
+      "company": "Logenta",
+      "location": "Remote — Europe (Germany preferred)",
+      "url": "https://news.ycombinator.com/item?id=47975571#logenta",
+      "score": 76,
+      "grade": "B",
+      "why": "Founding/CTO role at an agent-first AI startup — design and ship an agentic system end-to-end with typed Python, DuckDB, and PydanticAI. Exactly the kind of zero-to-one technical ownership that mirrors the Alaya cofounder chapter. Apply via email with 'why me?' — personal touch plays to your story. Germany preferred but the founder is open.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Staff AI Engineer — Full Stack",
+      "company": "QA Wolf",
+      "location": "Remote — EU/NA/South America",
+      "url": "https://wellfound.com/jobs/3015274-staff-ai-engineer-full-stack",
+      "score": 76,
+      "grade": "B",
+      "why": "YC-backed AI testing platform that automates E2E coverage using LLMs — Staff AI Engineer role with end-to-end ownership and a Node.js/TypeScript/React stack that matches your core. Product-driven culture with a real AI differentiation angle. Remote EU eligible.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Applied AI Engineer — Europe",
+      "company": "Amigo AI",
+      "location": "Remote — Europe",
+      "url": "https://remoteok.com/remote-jobs/remote-applied-ai-engineer-europe-amigo-1131296",
+      "score": 73,
+      "grade": "B",
+      "why": "Healthcare AI startup backed by General Catalyst deploying clinical AI agents across patient journeys. Fully remote Europe role, strong mission alignment, direct work with LLM-powered clinical workflows. Tech is Python/AI-heavy so TypeScript overlap is limited — but the impact story and AI depth are compelling.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}

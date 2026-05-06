@@ -1,0 +1,24 @@
+🎯 *Job Hunt — 2026-05-06*
+
+*1.* *Staff Software Engineer — AI SDK* @ Temporal Technologies
+📍 Remote US/Global | ⭐ 80/100 | 🏆 Grade B
+💡 Building Python/TypeScript SDK primitives for multi-agent and LLM workflows — platform ownership at the AI infrastructure layer, $224k–$302k, fully remote (confirm EU eligibility)
+🔗 https://job-boards.greenhouse.io/temporaltechnologies/jobs/4853421007
+
+*2.* *CTO — Hands-on Founder CTO* @ Logenta
+📍 Remote Europe (Germany preferred) | ⭐ 76/100 | 🏆 Grade B
+💡 Agentic AI startup from HN May 2026 looking for a founder-CTO to design and ship an agent harness from zero — Python/DuckDB/PydanticAI, apply with "why me?" via email
+🔗 https://news.ycombinator.com/item?id=47975571#logenta
+
+*3.* *Staff AI Engineer — Full Stack* @ QA Wolf
+📍 Remote EU/NA | ⭐ 76/100 | 🏆 Grade B
+💡 YC-backed AI testing platform, Staff role with end-to-end ownership on Node.js/TypeScript/React stack and LLM-powered test automation — remote EU eligible
+🔗 https://wellfound.com/jobs/3015274-staff-ai-engineer-full-stack
+
+*4.* *Applied AI Engineer — Europe* @ Amigo AI
+📍 Remote Europe | ⭐ 73/100 | 🏆 Grade B
+💡 Healthcare AI startup (General Catalyst backed) deploying clinical AI agents across patient journeys — fully remote Europe, strong mission alignment, deep LLM/agent work
+🔗 https://remoteok.com/remote-jobs/remote-applied-ai-engineer-europe-amigo-1131296
+
+---
+📊 _8 new offers | 444 total tracked_
