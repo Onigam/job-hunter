@@ -1,0 +1,79 @@
+{
+  "date": "2026-05-07",
+  "total_searched": 32,
+  "new_offers": 25,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Staff Backend Engineer",
+      "company": "Nango",
+      "location": "Remote — Europe",
+      "url": "https://jobs.ashbyhq.com/nango/33523fa6-a454-4353-8ade-ea8c14376509",
+      "score": 80,
+      "grade": "B",
+      "why": "YC-backed developer tools startup building universal API integrations. Staff-level Node.js/TypeScript role, remote Europe-friendly timezone, strong engineering culture — exact seniority and stack match with platform ownership scope.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Founding AI Engineer",
+      "company": "Weave",
+      "location": "Remote",
+      "url": "https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer",
+      "score": 78,
+      "grade": "B",
+      "why": "YC W25 platform helping engineering teams understand how they work — 150+ paying customers already. Founding engineer with AI mandate maps directly onto Magino's cofounder DNA and AI-augmented engineering expertise.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Generative AI Engineer",
+      "company": "Banque Pictet & Cie SA",
+      "location": "Geneva, Switzerland",
+      "url": "https://www.datacareer.ch/job/12664/generative-ai-engineer/",
+      "score": 76,
+      "grade": "B",
+      "why": "Geneva-based LLM/RAG engineering role at one of Switzerland's most prestigious private banks — rare intersection of perfect location priority with hands-on AI/LLM work. Pictet offers top-market CH compensation.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Founding Engineer",
+      "company": "Adaptional",
+      "location": "Remote",
+      "url": "https://www.ycombinator.com/companies/adaptional/jobs/k7W6ge9-founding-engineer",
+      "score": 74,
+      "grade": "B",
+      "why": "YC-backed startup building a Claude-code-like AI coding experience for insurance teams. Founding engineer means build from zero with strong equity upside — strong AI/LLM mandate aligns with Magino's current focus.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Founding Engineer — AI Products",
+      "company": "Toma",
+      "location": "Remote",
+      "url": "https://www.ycombinator.com/companies/toma/jobs/oONUnCf-founding-engineer-ai-products",
+      "score": 73,
+      "grade": "B",
+      "why": "YC-backed AI startup with a founding engineer opening for AI product development from scratch — aligns squarely with Magino's cofounder background and interest in AI-first product engineering.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 6,
+      "title": "Staff Software Engineer — Dev Experience / FOSS",
+      "company": "The General Partnership",
+      "location": "New York City (Remote-friendly)",
+      "url": "https://wellfound.com/jobs/2634544-staff-software-engineer-dev-experience-foss",
+      "score": 72,
+      "grade": "B",
+      "why": "Staff-level role on developer experience and open-source, using TypeScript, Node.js, REST, and GraphQL — textbook tech alignment. Platform ownership scope with FOSS community dimension adds novelty.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
