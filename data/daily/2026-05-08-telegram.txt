@@ -1,0 +1,34 @@
+🎯 *Job Hunt — 2026-05-08*
+
+*1.* *Founding Engineer* @ Altara
+📍 Remote | ⭐ 75/100 | 🏆 Grade B
+💡 Greylock $7M seed (May 5) — AI for physical sciences, Jeff Dean as angel, first engineering hire post-funding. Cofounder-from-zero DNA is the spec.
+🔗 https://www.getclera.com/jobs/altara/founding-engineer
+
+*2.* *Staff Fullstack Engineer* @ Jam.dev
+📍 Remote (+ SF) | ⭐ 73/100 | 🏆 Grade B
+💡 AI debugging tool backed by Vercel CEO + GitHub CTO. Perfect TypeScript/React/Node.js stack, small senior ex-Cloudflare team, high autonomy.
+🔗 https://jam.dev/careers
+
+*3.* *Principal Engineer* @ Stackpoint Ventures
+📍 Remote (Boston HQ) | ⭐ 70/100 | 🏆 Grade B
+💡 AI-native venture studio — Principal Engineer embedded across portfolio companies for 6-month build cycles. Cofounder instinct is the exact fit for this model.
+🔗 https://wellfound.com/jobs/4102149-principal-engineer-stackpoint-ventures
+
+*4.* *Founding Engineer* @ Solvea
+📍 Remote | ⭐ 69/100 | 🏆 Grade C
+💡 AI agents for eCommerce post-purchase workflows. Founding role, full platform ownership from zero. Niche vertical but strong founding scope and AI-agent angle.
+🔗 https://www.getclera.com/jobs/solvea/founding-engineer
+
+*5.* *Staff Software Engineer, Voices* @ Synthesia
+📍 Remote EU/Switzerland | ⭐ 65/100 | 🏆 Grade C
+💡 Staff Engineer at AI video unicorn — Switzerland-eligible, CHF 130k+ base. Core voice systems ownership inside an AI-first product org. Fresh Apr 22 posting.
+🔗 https://jobs.accel.com/companies/synthesia/jobs/75721561-staff-software-engineer-voices
+
+*6.* *Staff Backend Engineer, Avatars* @ Synthesia
+📍 Remote EU/Switzerland | ⭐ 65/100 | 🏆 Grade C
+💡 Avatar ML pipeline at Synthesia, same remote CH eligibility and CHF 130k+ floor. Strong AI/ML backend exposure at scale. Posted Apr 22, 2026.
+🔗 https://jobs.accel.com/companies/synthesia/jobs/75721556-staff-backend-engineer-avatars
+
+---
+📊 _6 new offers | 474 total tracked_

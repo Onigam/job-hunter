@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07",
+  "last_updated": "2026-05-08",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -7030,6 +7030,84 @@
       "score": 44,
       "grade": "D",
       "date_found": "2026-05-07",
+      "status": "new"
+    },
+    {
+      "id": "c361f490a31fd1bde8940bf272ff53eb",
+      "title": "Founding Engineer",
+      "company": "Altara",
+      "location": "Remote",
+      "url": "https://www.getclera.com/jobs/altara/founding-engineer",
+      "source": "clera",
+      "summary": "Founding engineer at Altara, Greylock-backed AI scientific intelligence platform for physical sciences (semiconductors, batteries, advanced materials). $7M seed raised May 5 2026 with Jeff Dean as angel investor. First engineering hire building agentic AI from scratch.",
+      "score": 75,
+      "grade": "B",
+      "date_found": "2026-05-08",
+      "status": "new"
+    },
+    {
+      "id": "b7f1238b14ea2b061881c372bdaaa992",
+      "title": "Staff Fullstack Engineer",
+      "company": "Jam.dev",
+      "location": "Remote (+ in-person SF)",
+      "url": "https://jam.dev/careers",
+      "source": "hnhiring",
+      "summary": "Staff Fullstack Engineer at Jam.dev, AI-powered debugging flight recorder for web apps. $15M funded by Vercel CEO, GitHub CTO. Stack: TypeScript/React/MobX/Node/GraphQL. Small senior team of ex-Cloudflare engineers. Remote-first with periodic SF in-person.",
+      "score": 73,
+      "grade": "B",
+      "date_found": "2026-05-08",
+      "status": "new"
+    },
+    {
+      "id": "478cd5c2360a71ea88b476db46132fc6",
+      "title": "Principal Engineer",
+      "company": "Stackpoint Ventures",
+      "location": "Remote (Boston HQ, quarterly in-person)",
+      "url": "https://wellfound.com/jobs/4102149-principal-engineer-stackpoint-ventures",
+      "source": "wellfound",
+      "summary": "Principal Engineer at Stackpoint Ventures, an AI-native venture studio that builds one new AI company per quarter in high-barrier verticals (real estate, construction, hospitality, finance). Engineer embeds in portfolio companies for ~6 months as de-facto founding engineer.",
+      "score": 70,
+      "grade": "B",
+      "date_found": "2026-05-08",
+      "status": "new"
+    },
+    {
+      "id": "6550024252f4b34600e1619a5de5f369",
+      "title": "Founding Engineer",
+      "company": "Solvea",
+      "location": "Remote",
+      "url": "https://www.getclera.com/jobs/solvea/founding-engineer",
+      "source": "clera",
+      "summary": "Founding engineer at Solvea, early-stage AI startup building agentic AI for eCommerce post-purchase customer experience workflows. Full ownership of platform from zero. Founding scope with AI-agent architecture focus.",
+      "score": 69,
+      "grade": "C",
+      "date_found": "2026-05-08",
+      "status": "new"
+    },
+    {
+      "id": "80a6b64406366cdf10450b8053f21828",
+      "title": "Staff Software Engineer, Voices",
+      "company": "Synthesia",
+      "location": "Remote — EU / UK / Switzerland",
+      "url": "https://jobs.accel.com/companies/synthesia/jobs/75721561-staff-software-engineer-voices",
+      "source": "accel",
+      "summary": "Staff Software Engineer on the Voices team at Synthesia (AI video generation unicorn). Remote EU/UK/Switzerland eligible. Owns core voice/audio systems powering script preview and voice generation. CHF 130k+ base + stock. Posted Apr 22, 2026.",
+      "score": 65,
+      "grade": "C",
+      "date_found": "2026-05-08",
+      "status": "new"
+    },
+    {
+      "id": "12524f333b41032a631c835687f714ab",
+      "title": "Staff Backend Engineer, Avatars",
+      "company": "Synthesia",
+      "location": "Remote — EU / UK / Switzerland",
+      "url": "https://jobs.accel.com/companies/synthesia/jobs/75721556-staff-backend-engineer-avatars",
+      "source": "accel",
+      "summary": "Staff Backend Engineer on the Avatars team at Synthesia. Remote EU/UK/Switzerland eligible. Owns avatar ML pipeline backend systems at scale. CHF 130k+ base + stock options. AI/ML backend at a unicorn with strong product impact. Posted Apr 22, 2026.",
+      "score": 65,
+      "grade": "C",
+      "date_found": "2026-05-08",
       "status": "new"
     }
   ]

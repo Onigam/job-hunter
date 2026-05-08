@@ -1,0 +1,79 @@
+{
+  "date": "2026-05-08",
+  "total_searched": 35,
+  "new_offers": 6,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Founding Engineer",
+      "company": "Altara",
+      "location": "Remote",
+      "url": "https://www.getclera.com/jobs/altara/founding-engineer",
+      "score": 75,
+      "grade": "B",
+      "why": "Greylock-backed AI platform for physical sciences (semiconductors, batteries) — just raised $7M seed on May 5 with Jeff Dean as angel. First engineering hire post-funding. Magino's cofounder-from-zero DNA and AI platform expertise are the exact profile they're building for.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Staff Fullstack Engineer",
+      "company": "Jam.dev",
+      "location": "Remote (+ in-person SF)",
+      "url": "https://jam.dev/careers",
+      "score": 73,
+      "grade": "B",
+      "why": "AI-powered debugging flight recorder for web apps — $15M funded by Vercel CEO and GitHub CTO. Perfect TypeScript/React/Node.js/GraphQL stack match. Small, senior ex-Cloudflare team means high autonomy. US remote but EU timezone not excluded.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Principal Engineer",
+      "company": "Stackpoint Ventures",
+      "location": "Remote (Boston HQ, quarterly in-person)",
+      "url": "https://wellfound.com/jobs/4102149-principal-engineer-stackpoint-ventures",
+      "score": 70,
+      "grade": "B",
+      "why": "AI-native venture studio that embeds a Principal Engineer across new portfolio companies for 6-month build cycles. Magino's cofounder instinct maps directly onto this 'founding engineer across a portfolio' model — one new AI company per quarter.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Founding Engineer",
+      "company": "Solvea",
+      "location": "Remote",
+      "url": "https://www.getclera.com/jobs/solvea/founding-engineer",
+      "score": 69,
+      "grade": "C",
+      "why": "AI agents for eCommerce post-purchase workflows. Early-stage founding role with full ownership. Less aligned on vertical (retail CX) but the founding scope and AI-agent architecture angle tap into Magino's platform instincts.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Staff Software Engineer, Voices",
+      "company": "Synthesia",
+      "location": "Remote — EU / UK / Switzerland",
+      "url": "https://jobs.accel.com/companies/synthesia/jobs/75721561-staff-software-engineer-voices",
+      "score": 65,
+      "grade": "C",
+      "why": "Staff Engineer at AI video generation unicorn, Switzerland-eligible remote, CHF 130k+ base. Core voice/audio systems ownership inside an AI-first product org. Posted Apr 22, 2026 — fresh.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 6,
+      "title": "Staff Backend Engineer, Avatars",
+      "company": "Synthesia",
+      "location": "Remote — EU / UK / Switzerland",
+      "url": "https://jobs.accel.com/companies/synthesia/jobs/75721556-staff-backend-engineer-avatars",
+      "score": 65,
+      "grade": "C",
+      "why": "Staff Backend Engineer on the avatar ML pipeline at Synthesia. Remote EU including Switzerland, CHF 130k+ base. AI/ML backend systems at a unicorn — less founding, but strong product impact and AI exposure. Posted Apr 22, 2026.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
