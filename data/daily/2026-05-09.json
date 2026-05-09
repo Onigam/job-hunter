@@ -1,0 +1,43 @@
+{
+  "date": "2026-05-09",
+  "total_searched": 18,
+  "new_offers": 13,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Founding Engineer (Frontend)",
+      "company": "Letter AI (YC S23)",
+      "location": "Remote (USA)",
+      "url": "https://www.ycombinator.com/companies/letter-ai/jobs/r0lZiVg-founding-engineer-frontend",
+      "score": 76,
+      "grade": "B",
+      "why": "Founding engineer at a live YC-backed generative AI startup — owns the entire React/TypeScript frontend solo, exactly the kind of blank-page ownership Magino built at Alaya. The AI-first mission (sales content 10x faster via LLMs) maps directly to his AI-augmented engineering thesis, and the YC equity structure rewards the cofounder risk appetite.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Principal Engineer",
+      "company": "Safeguard Global",
+      "location": "Remote (Worldwide)",
+      "url": "https://jobgether.com/offer/69d167165bd3b40540a8b79f-principal-engineer",
+      "score": 73,
+      "grade": "B",
+      "why": "Near-perfect technical overlap: TypeScript/Node.js/AWS/EventBridge/distributed systems is precisely Magino's stack from Alaya and Benevity. Principal-level scope, cross-cutting platform ownership, mentoring senior engineers — and the 4-day work week leaves bandwidth for the Givernance startup. The HR-tech domain is adjacent to Benevity's employee-purpose world.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Senior ML Platform Engineer",
+      "company": "Synthesia",
+      "location": "Remote (CH / EU / UK)",
+      "url": "https://job-boards.greenhouse.io/synthesia/jobs/4685759101",
+      "score": 71,
+      "grade": "B",
+      "why": "Switzerland-remote explicit, AI-first Series-C company used by 90% of Fortune 100 — the MLOps infrastructure angle (deploying generative models at scale) aligns with Magino's LLM integration and AWS platform work. Different from the three Synthesia roles already tracked (Voices, Avatars, Enterprise backend), so it's a fresh application surface at a company already on the radar.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}

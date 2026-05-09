@@ -1,0 +1,34 @@
+🎯 *Job Hunt — 2026-05-09*
+
+*1.* *Founding Engineer (Frontend)* @ Letter AI (YC S23)
+📍 Remote (USA) | ⭐ 76/100 | 🏆 Grade B
+💡 Founding engineer owning the entire React/TypeScript frontend solo at a live YC generative-AI startup — same blank-page ownership as Alaya.
+🔗 https://www.ycombinator.com/companies/letter-ai/jobs/r0lZiVg-founding-engineer-frontend
+
+*2.* *Principal Engineer* @ Safeguard Global
+📍 Remote (Worldwide) | ⭐ 73/100 | 🏆 Grade B
+💡 Near-perfect stack match (TypeScript/Node/AWS/EventBridge) at Principal level, 4-day work week, cross-cutting platform ownership — bandwidth for Givernance.
+🔗 https://jobgether.com/offer/69d167165bd3b40540a8b79f-principal-engineer
+
+*3.* *Senior ML Platform Engineer* @ Synthesia
+📍 Remote (CH / EU / UK) | ⭐ 71/100 | 🏆 Grade B
+💡 Explicit Switzerland-remote, Series-C AI video leader — deploys generative models at scale, fresh role distinct from 3 already-tracked Synthesia postings.
+🔗 https://job-boards.greenhouse.io/synthesia/jobs/4685759101
+
+*4.* *Principal Engineer* @ Wave HQ
+📍 Remote | ⭐ 69/100 | 🏆 Grade C
+💡 Principal-level scope with React/TypeScript/Node stack, financial products at scale — seniority and tech fit are strong even if the domain is less exciting.
+🔗 https://jobs.lever.co/waveapps/1db68d2e-a10b-4fe1-aa52-0570af3b6ea2
+
+*5.* *Staff Software Engineer* @ Dashlane
+📍 Remote Europe / Paris / Lisbon | ⭐ 68/100 | 🏆 Grade C
+💡 Remote-Europe explicit, Staff level, TypeScript/React stack at a security product company used by 15M+ people — solid if Geneva-adjacent.
+🔗 https://boards.greenhouse.io/dashlane/jobs/3850149
+
+*6.* *Staff Infrastructure Engineer* @ Bitrise
+📍 Remote EU | ⭐ 64/100 | 🏆 Grade C
+💡 Developer-tools scaleup ($100M funded), Staff infrastructure engineering for one of the world's largest Mac/Linux CI/CD clouds — remote EU role.
+🔗 https://portfoliojobs.partechpartners.com/companies/bitrise/jobs/41748065-staff-infrastructure-engineer-poland
+
+---
+📊 _13 new offers | 487 total tracked_
