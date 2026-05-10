@@ -1,0 +1,31 @@
+{
+  "date": "2026-05-10",
+  "total_searched": 20,
+  "new_offers": 2,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Founding Engineer",
+      "company": "BetterDB",
+      "location": "Remote (Worldwide)",
+      "url": "https://news.ycombinator.com/item?id=47603975",
+      "score": 81,
+      "grade": "B",
+      "why": "First engineering hire alongside an ex-Redis founder at an Open Core Ventures-backed startup squarely in the LLM cache space — TypeScript/NestJS/React/AWS/K8s stack mirrors Alaya exactly, and shipping AI agent caching as a core product (not a feature) is precisely the AI-augmented-infrastructure thesis Magino has been building toward. Blank-page ownership at the architecture level from day one.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Lead Engineer — Platform & Infrastructure",
+      "company": "Stream",
+      "location": "Remote (EU) / Hybrid Amsterdam",
+      "url": "https://jobs.ashbyhq.com/stream/cbabbb5d-0e34-486b-acf7-ce40368bdcf8/application",
+      "score": 67,
+      "grade": "C",
+      "why": "Staff/Principal-level platform role reporting directly to the CTO at a company that serves Strava, Bumble, and eBay — the infrastructure ownership scope (cloud cost, SLOs, Kubernetes, DB architecture) maps to Magino's post-Alaya Benevity platform work. Stack is Go/Python rather than TypeScript, but AWS/GCP/K8s depth is a direct fit. URGENT: deadline May 13.",
+      "apply_by": "2026-05-13",
+      "status": "new"
+    }
+  ]
+}

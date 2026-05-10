@@ -1,0 +1,14 @@
+🎯 *Job Hunt — 2026-05-10*
+
+*1.* *Founding Engineer* @ BetterDB
+📍 Remote (Worldwide) | ⭐ 81/100 | 🏆 Grade B
+💡 First hire at an ex-Redis founder's LLM-cache startup — TypeScript/NestJS/AWS/K8s stack, blank-page ownership, Open Core Ventures backed.
+🔗 https://news.ycombinator.com/item?id=47603975
+
+*2.* *Lead Engineer — Platform & Infrastructure* @ Stream
+📍 Remote EU / Amsterdam | ⭐ 67/100 | 🏆 Grade C
+💡 Staff/Principal scope reporting to CTO — cloud cost, SLOs, K8s, DB architecture at scale (Strava, Bumble, eBay). ⚠️ Deadline May 13.
+🔗 https://jobs.ashbyhq.com/stream/cbabbb5d-0e34-486b-acf7-ce40368bdcf8/application
+
+---
+📊 _2 new offers | 489 total tracked_

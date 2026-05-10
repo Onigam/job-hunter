@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-09",
+  "last_updated": "2026-05-10",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -7275,6 +7275,32 @@
       "description_short": "Lead Engineer role via Jobgether, undisclosed company. Remote, hands-on technical leadership.",
       "date_posted": "2026-05-09",
       "score": 58,
+      "grade": "C",
+      "status": "new",
+      "part_time": false
+    },
+    {
+      "title": "Founding Engineer",
+      "company": "BetterDB",
+      "location": "Remote (Worldwide)",
+      "url": "https://news.ycombinator.com/item?id=47603975",
+      "source": "hacker_news",
+      "description_short": "First engineering hire at BetterDB — database observability and AI agent caching platform for Valkey/Redis. Founded by ex-Redis engineer, backed by Open Core Ventures. TypeScript, NestJS, Fastify, React, Valkey, PostgreSQL, Docker, Kubernetes, Terraform, AWS. Apply by email: kristiyan@betterdb.com.",
+      "date_posted": "2026-05-10",
+      "score": 81,
+      "grade": "B",
+      "status": "new",
+      "part_time": false
+    },
+    {
+      "title": "Lead Engineer — Platform & Infrastructure",
+      "company": "Stream",
+      "location": "Remote (EU) / Hybrid Amsterdam",
+      "url": "https://jobs.ashbyhq.com/stream/cbabbb5d-0e34-486b-acf7-ce40368bdcf8/application",
+      "source": "ashby",
+      "description_short": "Staff/Principal-level platform role at Stream (powers chat/video for Strava, Bumble, eBay). Reporting to CTO. Focus: cloud cost optimization, SLOs, Kubernetes, DB architecture (CockroachDB, PostgreSQL). Go, Python, AWS, GCP, K8s. Remote EU, Switzerland appears eligible. URGENT deadline May 13 2026.",
+      "date_posted": "2026-05-10",
+      "score": 67,
       "grade": "C",
       "status": "new",
       "part_time": false
