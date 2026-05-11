@@ -1,0 +1,79 @@
+{
+  "date": "2026-05-11",
+  "total_searched": 20,
+  "new_offers": 9,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Founding Software Engineer, Data Infrastructure",
+      "company": "Airweave",
+      "location": "Amsterdam, Netherlands (Onsite)",
+      "url": "https://www.ycombinator.com/companies/airweave/jobs/Xluuse7-founding-software-engineer-data-infrastructure",
+      "score": 78,
+      "grade": "B",
+      "why": "YC X25-backed open-source context retrieval layer for AI agents — exactly the AI-augmented infrastructure Magino has been building toward at Benevity. Founding hire owns the distributed pipeline layer (Kubernetes, Temporal, vector DBs, PostgreSQL, Terraform) from day one alongside 7-person team, blank-page scope Alaya-style. Amsterdam onsite is the only friction.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Technical Co-Founder – AI for Operations",
+      "company": "AI for Operations",
+      "location": "Zürich, Switzerland",
+      "url": "https://joinup.ch/job/technical-co-founder-cto-27ef1968-354f-415a-9e47-8689667a0536-10065",
+      "score": 76,
+      "grade": "B",
+      "why": "Swiss seed-stage co-founder slot building AI for manufacturing, quality, and supply chain — Zürich-based, full technical ownership from MVP to enterprise deployment. The cofounder-level scope mirrors exactly how Magino built Alaya, and the data-to-decision loop (Python, ML, tabular models, ERP integrations) is a new domain stretch worth the bet.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Staff AI Engineer",
+      "company": "Clarity AI",
+      "location": "Madrid, Spain (Remote CET ±2h)",
+      "url": "https://job-boards.greenhouse.io/clarityai/jobs/4802689101",
+      "score": 69,
+      "grade": "C",
+      "why": "Staff-level GenAI role at a Series C ESG platform, remote inside CET timezone so Geneva-compatible. The mandate — LLM orchestration, RAG, fine-tuning (SFT/LoRA), evals — maps directly to Magino's AI-augmented engineering track, though the Python-only stack is a departure from his TypeScript/Node core.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Software Engineer",
+      "company": "Dust",
+      "location": "Paris, France (Onsite)",
+      "url": "https://jobs.ashbyhq.com/dust/ec0ae613-e480-4d93-b89f-1d6a89db9766",
+      "score": 69,
+      "grade": "C",
+      "why": "Paris onsite at an AI-native knowledge management startup with a TypeScript/Next.js/Node/PostgreSQL/K8s stack that mirrors Alaya's exactly. The title is generic but the ownership scope and caliber of founders (ex-Stripe, ex-OpenAI culture) suggests staff-equivalent impact. Requires willingness to relocate.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Senior Full-Stack Engineer",
+      "company": "Kanmon",
+      "location": "Remote (US-friendly, location TBC)",
+      "url": "https://jobs.ashbyhq.com/Kanmon",
+      "score": 67,
+      "grade": "C",
+      "why": "AI cashflow and business credit copilot just raised new capital — end-to-end ownership with direct line to founders, no PM overhead, TypeScript/Next.js/NestJS/PostgreSQL/GCP stack matching Magino's playbook exactly. Location ambiguity and Senior (not Staff+) title keep this at C; worth a quick email to mags@kanmonhq.com to confirm remote-EU.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 6,
+      "title": "Senior AI Engineer",
+      "company": "Swiss Re",
+      "location": "Zurich, Switzerland (Hybrid 80–100%)",
+      "url": "https://careers.swissre.com/job/Zurich-Senior-AI-Engineer-(Hybrid-mfxd-80-100)-Zuri/1389196833/",
+      "score": 65,
+      "grade": "C",
+      "why": "Best compensation package found today (128k–192k CHF + variable) at a Zurich hybrid role, with a mandate to design agentic AI systems and LLM pipelines from scratch inside reinsurance data. Swiss location and salary are strong fits; Python-only stack and enterprise scale are the tradeoffs against Magino's TypeScript/startup preference.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
