@@ -1,0 +1,79 @@
+{
+  "date": "2026-05-12",
+  "total_searched": 22,
+  "new_offers": 14,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Founding Engineer — Full Stack / Product",
+      "company": "Lobby (LobbyAI)",
+      "location": "Zürich, Switzerland",
+      "url": "https://joinlobby.com/careers",
+      "score": 82,
+      "grade": "B",
+      "why": "Zürich-based AI travel startup ($2.2M seed, March 2026) building LLM agents to automate complex bookings — TypeScript, React, Python, state machines over legacy APIs. Same cofounder-level ownership as the Applied AI role tracked April 22, but this variant owns the full-stack product layer end to end.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Research Engineer / Research Scientist — Pre-training",
+      "company": "Anthropic",
+      "location": "Zürich, Switzerland",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5135168008",
+      "score": 81,
+      "grade": "B",
+      "why": "Anthropic's Zürich Pre-training team is hiring engineers to work directly on next-gen multimodal LLMs — compensation CHF 280-680k is top-of-market for Switzerland. A stretch from Magino's product-engineering background but the AI/LLM overlap and Zürich location make it worth a serious look.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Co-Founder / CTO",
+      "company": "PurposeAI (Purpose:Labs)",
+      "location": "Zürich, Switzerland",
+      "url": "https://www.startupticker.ch/en/jobs/purpose-labs-co-founder-chief-technical-officer-cto",
+      "score": 79,
+      "grade": "B",
+      "why": "Purpose:Labs is building an AI-first purpose platform in Zürich — near-identical DNA to Alaya (Magino's employee-purpose startup acquired by Benevity). Posted May 5, co-founder equity structure, and the mission alignment with Magino's founding story is about as direct as it gets.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Technical Co-Founder (CTO) — MedTech Startup",
+      "company": "Sanova Tech",
+      "location": "Zürich, Switzerland",
+      "url": "https://www.startupticker.ch/en/jobs/technical-co-founder-cto-medtech-startup",
+      "score": 69,
+      "grade": "C",
+      "why": "Co-founder/CTO role at an early Zürich MedTech startup — high seniority fit and build-from-zero impact, though healthcare domain is a shift from Magino's SaaS/platform background. Worth exploring if the mission resonates.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Cofounder / CTO (Pilot Phase)",
+      "company": "Centralys",
+      "location": "Zürich, Switzerland",
+      "url": "https://www.startupticker.ch/en/jobs/cofounder-cto-pilot-phase-centralys",
+      "score": 67,
+      "grade": "C",
+      "why": "Posted today (12.05.2026) on StartupTicker — CTO co-founder opportunity at Centralys in Zürich during pilot phase. Very early stage with limited public info; high upside if the mission aligns once investigated.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 6,
+      "title": "Product Engineer",
+      "company": "Revieve",
+      "location": "Remote — Europe (Helsinki HQ)",
+      "url": "https://revieve.factorialhr.com/apply/product-engineer-299899",
+      "score": 66,
+      "grade": "C",
+      "why": "Fresh from HN Who is Hiring? May 2026 — Revieve uses TypeScript/React with Claude Code and agentic systems, which is squarely in Magino's AI-augmented engineering wheelhouse. Remote EU-friendly from Helsinki HQ.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}

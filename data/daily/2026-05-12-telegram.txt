@@ -1,0 +1,34 @@
+🎯 *Job Hunt — 2026-05-12*
+
+*1.* *Founding Engineer — Full Stack / Product* @ Lobby (LobbyAI)
+📍 Zürich, Switzerland | ⭐ 82/100 | 🏆 Grade B
+💡 AI travel startup ($2.2M seed) building LLM orchestration agents — TypeScript, React, Python, founding equity, on-site Zürich founders.
+🔗 https://joinlobby.com/careers
+
+*2.* *Research Engineer / Research Scientist — Pre-training* @ Anthropic
+📍 Zürich, Switzerland | ⭐ 81/100 | 🏆 Grade B
+💡 Anthropic's Zürich team working on next-gen multimodal LLMs — CHF 280-680k/year, top-of-market for Switzerland.
+🔗 https://job-boards.greenhouse.io/anthropic/jobs/5135168008
+
+*3.* *Co-Founder / CTO* @ PurposeAI (Purpose:Labs)
+📍 Zürich, Switzerland | ⭐ 79/100 | 🏆 Grade B
+💡 AI-first purpose platform — same DNA as Alaya. Co-founder equity, Zürich, posted May 5. Direct match to Magino's founding story.
+🔗 https://www.startupticker.ch/en/jobs/purpose-labs-co-founder-chief-technical-officer-cto
+
+*4.* *Technical Co-Founder (CTO) — MedTech Startup* @ Sanova Tech
+📍 Zürich, Switzerland | ⭐ 69/100 | 🏆 Grade C
+💡 Build-from-zero CTO opportunity at a Zürich MedTech startup — co-founder equity, high seniority fit, adjacent domain.
+🔗 https://www.startupticker.ch/en/jobs/technical-co-founder-cto-medtech-startup
+
+*5.* *Cofounder / CTO (Pilot Phase)* @ Centralys
+📍 Zürich, Switzerland | ⭐ 67/100 | 🏆 Grade C
+💡 Posted today — very early-stage CTO co-founder in Zürich, pilot phase. High risk, high upside if mission aligns.
+🔗 https://www.startupticker.ch/en/jobs/cofounder-cto-pilot-phase-centralys
+
+*6.* *Product Engineer* @ Revieve
+📍 Remote — Europe (Helsinki HQ) | ⭐ 66/100 | 🏆 Grade C
+💡 Fresh from HN May 2026 — TypeScript/React + Claude Code + agentic systems, EU remote. Strong AI-augmented engineering fit.
+🔗 https://revieve.factorialhr.com/apply/product-engineer-299899
+
+---
+📊 _14 new offers | 512 total tracked_
