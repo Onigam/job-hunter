@@ -1,0 +1,34 @@
+🎯 *Job Hunt — 2026-05-13*
+
+*1.* *Senior AI Engineer (TS/Vue/Node.js)* @ n8n
+📍 Remote Europe | ⭐ 77/100 | 🏆 Grade B
+💡 TypeScript/Node.js/Vue.js on the leading open-source AI workflow platform — Series C, $240M raised, EU-remote with equity.
+🔗 https://jobs.ashbyhq.com/n8n/69607328-f9fa-4788-8a6e-8b2d7a102969
+
+*2.* *Founding Staff Software Engineer (Python/FastAPI)* @ Neuroscale AI
+📍 Remote | ⭐ 77/100 | 🏆 Grade B
+💡 Founding Staff building agentic workflows at an AI recruiting OS — same founding-engineer DNA as Alaya, Python + LLM orchestration in production.
+🔗 https://jobs.ashbyhq.com/neuroscale/75c76981-cb3c-4d1b-9138-737561302048
+
+*3.* *Founding Software Engineer (TypeScript)* @ Neuroscale AI
+📍 Remote | ⭐ 76/100 | 🏆 Grade B
+💡 TypeScript founding engineer at an AI-native recruiting platform — Magino's core language, significant equity upside, agentic workflow infrastructure from day one.
+🔗 https://jobs.ashbyhq.com/neuroscale/c5d2c09f-c732-4a84-9c16-16f0186d678c
+
+*4.* *Staff AI Engineer — AI Product* @ ClickUp
+📍 Remote Worldwide | ⭐ 71/100 | 🏆 Grade B
+💡 Staff-level AI product engineering at a pre-IPO platform (millions of users) — solid AI mandate, strong comp potential.
+🔗 https://weworkremotely.com/remote-jobs/clickup-staff-ai-engineer-ai-product
+
+*5.* *VP Engineering Leader* @ Undisclosed (via Jobgether)
+📍 Remote Worldwide | ⭐ 71/100 | 🏆 Grade B
+💡 VP Engineering with AI strategy mandate across an international org — executive-level scope, fully remote, next step from Staff+.
+🔗 https://jobs.lever.co/jobgether/f4ed1920-3ca5-4e55-9579-01b394bad6ea
+
+*6.* *Senior Fullstack Engineer (TypeScript/Node.js/React)* @ crowdhouse
+📍 Zürich, Switzerland | ⭐ 70/100 | 🏆 Grade B
+💡 Perfect stack match at a Swiss proptech in Zürich, CHF 120–140K — premium location and salary, even if AI exposure is low.
+🔗 https://swissdevjobs.ch/fr/jobs/crowdhouse-Senior-Fullstack-Engineer---TypeScript-Nodejs-React-
+
+---
+📊 _9 new offers | ~80 total tracked_

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-12",
+  "last_updated": "2026-05-13",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -7602,6 +7602,123 @@
       "score": 62,
       "grade": "C",
       "date_found": "2026-05-12",
+      "status": "new"
+    },
+    {
+      "id": "69607328f9fa47888a6e8b2d7a102969",
+      "title": "Senior AI Engineer (TS/Vue/Node.js)",
+      "company": "n8n",
+      "location": "Remote — Europe",
+      "url": "https://jobs.ashbyhq.com/n8n/69607328-f9fa-4788-8a6e-8b2d7a102969",
+      "source": "ashbyhq",
+      "summary": "Senior AI Engineer building AI-native features on n8n's workflow automation platform (Series C, $240M raised, 145k+ GitHub stars). Stack: TypeScript, Node.js, Vue.js. Design and ship AI capabilities used by hundreds of thousands. Remote Europe, equity included, 30 days PTO, €1K/year learning budget.",
+      "score": 77,
+      "grade": "B",
+      "date_found": "2026-05-13",
+      "status": "new"
+    },
+    {
+      "id": "75c76981cb3c4d1b9138737561302048",
+      "title": "Founding Staff Software Engineer (Python/FastAPI)",
+      "company": "Neuroscale AI",
+      "location": "Remote (US/EU eligibility unclear)",
+      "url": "https://jobs.ashbyhq.com/neuroscale/75c76981-cb3c-4d1b-9138-737561302048",
+      "source": "ashbyhq",
+      "summary": "Founding Staff Software Engineer at Neuroscale AI, building Arbi — an AI recruiting operating system automating sourcing, sequencing, and screening. Python/FastAPI backend powering agentic workflows and LLM-driven talent intelligence pipelines. Founding-level ownership with significant equity upside.",
+      "score": 77,
+      "grade": "B",
+      "date_found": "2026-05-13",
+      "status": "new"
+    },
+    {
+      "id": "c5d2c09fc7324a84a9c1616f0186d678",
+      "title": "Founding Software Engineer (TypeScript)",
+      "company": "Neuroscale AI",
+      "location": "Remote (US/EU eligibility unclear)",
+      "url": "https://jobs.ashbyhq.com/neuroscale/c5d2c09f-c732-4a84-9c16-16f0186d678c",
+      "source": "ashbyhq",
+      "summary": "Founding Software Engineer (TypeScript) at Neuroscale AI building Arbi, the AI recruiting OS. Accelerate core features on a TypeScript-first stack with agentic workflow infrastructure. Founding-level equity, early-stage AI startup with active growth.",
+      "score": 76,
+      "grade": "B",
+      "date_found": "2026-05-13",
+      "status": "new"
+    },
+    {
+      "id": "d4e8f2a1b5c9d7e3f6a2b8c4d1e7f9a5",
+      "title": "Staff AI Engineer — AI Product",
+      "company": "ClickUp",
+      "location": "Remote — Worldwide",
+      "url": "https://weworkremotely.com/remote-jobs/clickup-staff-ai-engineer-ai-product",
+      "source": "weworkremotely",
+      "summary": "Staff AI Engineer on ClickUp's AI Product team, engineering the AI features used by millions of users on the productivity platform. Staff-level technical leadership, pre-IPO company, strong compensation. Posted March 2026.",
+      "score": 71,
+      "grade": "B",
+      "date_found": "2026-05-13",
+      "status": "new"
+    },
+    {
+      "id": "f4ed19203ca54e55957901b394bad6ea",
+      "title": "VP Engineering Leader",
+      "company": "Undisclosed (via Jobgether)",
+      "location": "Remote — Worldwide",
+      "url": "https://jobs.lever.co/jobgether/f4ed1920-3ca5-4e55-9579-01b394bad6ea",
+      "source": "lever",
+      "summary": "Remote VP Engineering role sourced via Jobgether — lead international engineering organization, deliver AI product strategy, develop engineering managers, and own technical roadmap. Fully remote with flexible scheduling.",
+      "score": 71,
+      "grade": "B",
+      "date_found": "2026-05-13",
+      "status": "new"
+    },
+    {
+      "id": "a1e3b5c7d9f2a4b6c8e1d3f5a7b9c2d4",
+      "title": "Senior Fullstack Engineer (TypeScript/Node.js/React)",
+      "company": "crowdhouse",
+      "location": "Zürich, Switzerland",
+      "url": "https://swissdevjobs.ch/fr/jobs/crowdhouse-Senior-Fullstack-Engineer---TypeScript-Nodejs-React-",
+      "source": "swissdevjobs",
+      "summary": "Senior Fullstack Engineer at crowdhouse, a Swiss real estate investment platform in Zürich. Stack: TypeScript, Node.js, React. CHF 120K–140K/year. Strong stack alignment with Magino's core skills; Zurich location premium for Switzerland-based candidates.",
+      "score": 70,
+      "grade": "B",
+      "date_found": "2026-05-13",
+      "status": "new"
+    },
+    {
+      "id": "c7c482e158664f6984b8e3f4778a5d84",
+      "title": "Tech Lead, LLM & Generative AI",
+      "company": "EverAI",
+      "location": "Remote — Europe",
+      "url": "https://jobs.ashbyhq.com/everai/c7c482e1-5866-4f69-84b8-e3f4778a5d84",
+      "source": "ashbyhq",
+      "summary": "Tech Lead owning a 3-person LLM team at EverAI, one of the top-15 fastest-growing AI companies globally (50M users, 80M tokens/day). Lead architecture, training, and deployment of models powering AI companionship products. Python/PyTorch/vLLM/HuggingFace. Full remote Europe. Note: mission (NSFW AI companionship) is a poor fit for Magino's impact-driven values.",
+      "score": 70,
+      "grade": "B",
+      "date_found": "2026-05-13",
+      "status": "new"
+    },
+    {
+      "id": "b2d4f6a8c1e3b5d7f9a2c4e6b8d1f3a5",
+      "title": "Staff Engineer",
+      "company": "Relay Commerce",
+      "location": "Remote — Worldwide",
+      "url": "https://weworkremotely.com/remote-jobs/relay-commerce-staff-engineer-2",
+      "source": "weworkremotely",
+      "summary": "Staff Engineer at Relay Commerce, an e-commerce enablement platform driving $1B+ GMV for 35K+ merchants. Technical leader designing and completing high-complexity engineering projects. Stack: JavaScript/PostgreSQL/Sidekiq. Co-owns product team success with Engineering Director.",
+      "score": 66,
+      "grade": "C",
+      "date_found": "2026-05-13",
+      "status": "new"
+    },
+    {
+      "id": "fcaff1ac300f44ab8255740b21206165",
+      "title": "VP Engineering (B2B)",
+      "company": "FINN",
+      "location": "Munich, Germany (Remote possible)",
+      "url": "https://jobs.lever.co/finn/fcaff1ac-300f-44ab-8255-740b21206165",
+      "source": "lever",
+      "summary": "VP Engineering for FINN's B2B department — automotive car subscription platform. Responsible for all engineering across B2B customer platforms. Requires significant VP/Director-level engineering leadership. Munich-based scale-up, non-AI-first mission.",
+      "score": 62,
+      "grade": "C",
+      "date_found": "2026-05-13",
       "status": "new"
     }
   ]

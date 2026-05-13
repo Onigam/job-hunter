@@ -1,0 +1,91 @@
+{
+  "date": "2026-05-13",
+  "total_searched": 23,
+  "new_offers": 9,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Senior AI Engineer (TS/Vue/Node.js)",
+      "company": "n8n",
+      "location": "Remote — Europe",
+      "url": "https://jobs.ashbyhq.com/n8n/69607328-f9fa-4788-8a6e-8b2d7a102969",
+      "score": 77,
+      "grade": "B",
+      "why": "TypeScript/Node.js/Vue.js on the leading open-source AI workflow platform (Series C, $240M raised, 145k+ GitHub stars) — exactly the AI-augmented engineering mandate Magino has been building toward, remote EU, equity included.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Founding Staff Software Engineer (Python/FastAPI)",
+      "company": "Neuroscale AI",
+      "location": "Remote (US/EU eligibility unclear)",
+      "url": "https://jobs.ashbyhq.com/neuroscale/75c76981-cb3c-4d1b-9138-737561302048",
+      "score": 77,
+      "grade": "B",
+      "why": "Founding Staff role at an AI recruiting OS (Arbi) building agentic workflows and production AI systems — founding-level ownership mirrors Magino's Alaya cofounder trajectory, Python/FastAPI with LLM orchestration.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Founding Software Engineer (TypeScript)",
+      "company": "Neuroscale AI",
+      "location": "Remote (US/EU eligibility unclear)",
+      "url": "https://jobs.ashbyhq.com/neuroscale/c5d2c09f-c732-4a84-9c16-16f0186d678c",
+      "score": 76,
+      "grade": "B",
+      "why": "TypeScript founding engineer at an AI-native recruiting platform — core language match, agentic workflow infrastructure, founding engineer scope with significant equity potential at an early-stage AI startup.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Staff AI Engineer — AI Product",
+      "company": "ClickUp",
+      "location": "Remote — Worldwide",
+      "url": "https://weworkremotely.com/remote-jobs/clickup-staff-ai-engineer-ai-product",
+      "score": 71,
+      "grade": "B",
+      "why": "Staff-level AI product engineering at a pre-IPO productivity platform with millions of users — solid AI mandate, strong compensation potential, posted March 2026.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "VP Engineering Leader",
+      "company": "Undisclosed (via Jobgether)",
+      "location": "Remote — Worldwide",
+      "url": "https://jobs.lever.co/jobgether/f4ed1920-3ca5-4e55-9579-01b394bad6ea",
+      "score": 71,
+      "grade": "B",
+      "why": "VP Engineering track with AI strategy mandate across an international engineering org — executive-level scope, full remote, aligns with Magino's readiness to step up from Staff to leadership.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 6,
+      "title": "Senior Fullstack Engineer (TypeScript/Node.js/React)",
+      "company": "crowdhouse",
+      "location": "Zürich, Switzerland",
+      "url": "https://swissdevjobs.ch/fr/jobs/crowdhouse-Senior-Fullstack-Engineer---TypeScript-Nodejs-React-",
+      "score": 70,
+      "grade": "B",
+      "why": "Perfect TypeScript/Node.js/React stack match at a Swiss proptech platform in Zürich, CHF 120–140K — premium Swiss location and salary at the cost of AI exposure and seniority ceiling.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 7,
+      "title": "Tech Lead, LLM & Generative AI",
+      "company": "EverAI",
+      "location": "Remote — Europe",
+      "url": "https://jobs.ashbyhq.com/everai/c7c482e1-5866-4f69-84b8-e3f4778a5d84",
+      "score": 70,
+      "grade": "B",
+      "why": "Lead a 3-person LLM team at one of the top-15 fastest-growing AI companies (50M users, 80M tokens/day) — unmatched AI depth and full remote EU, but the NSFW AI companionship mission is a poor match for Magino's impact-driven values.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
