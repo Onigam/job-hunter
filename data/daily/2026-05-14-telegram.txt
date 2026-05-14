@@ -1,0 +1,34 @@
+🎯 *Job Hunt — 2026-05-14*
+
+*1.* *Head of AI Engineering* @ Yuno
+📍 Remote — Worldwide | ⭐ 87/100 | 🏆 Grade A
+💡 Define Yuno's AI strategy from scratch — agentic systems, LLM workflows, build the AI function at a fast-growing payments orchestration startup.
+🔗 https://jobs.lever.co/yuno/faf5a4b5-1574-4689-98db-69f4f8d4e97d
+
+*2.* *Staff Software Engineer, Product Engineering (EU)* @ Ashby
+📍 Remote — Europe | ⭐ 83/100 | 🏆 Grade B
+💡 YC-backed, >100% YoY growth, TypeScript/React/Node.js/GraphQL stack, $190-275k, Notion/Linear/Shopify as customers. End-to-end product ownership at Staff level.
+🔗 https://jobs.ashbyhq.com/ashby/c3c7125d-7883-4dff-a2bf-f5a55de4a364
+
+*3.* *Staff Platform Engineer (EU)* @ Ashby
+📍 Remote — Europe | ⭐ 81/100 | 🏆 Grade B
+💡 Platform-angle at same Ashby — own the infrastructure of a rocketship scale-up with years of runway and $190-275k comp range.
+🔗 https://jobs.ashbyhq.com/ashby/fa001346-ea81-41b2-bfbe-2271d3faac1a
+
+*4.* *Senior Platform Engineer — AI Agent Infrastructure* @ Yuno
+📍 Remote — Worldwide | ⭐ 80/100 | 🏆 Grade B
+💡 Own and evolve the AWS/Kubernetes platform that runs Yuno's live AI payment agents — LangFuse, GPU workloads, monitoring in production.
+🔗 https://jobs.lever.co/yuno/33309adb-efb0-414c-9e9a-da13435a0242
+
+*5.* *Lead Applied AI Engineer (Europe)* @ Undisclosed via Jobgether
+📍 Remote — Europe | ⭐ 77/100 | 🏆 Grade B
+💡 TypeScript + GenAI primitives (vector DBs, agentic workflows, LLM APIs) — same tooling Magino built at Benevity's AI-augmented engineering team.
+🔗 https://jobs.lever.co/jobgether/b946a68c-dddb-4498-a2df-444f47ac8af6
+
+*6.* *Staff Engineer — AI Products* @ hyperexponential
+📍 Remote — Europe | ⭐ 75/100 | 🏆 Grade B
+💡 Building an AI-enabled pricing IDE alongside Cursor/Windsurf — Staff-level product engineering on developer tooling at a Series B London fintech.
+🔗 https://jobs.ashbyhq.com/hyperexponential/028cc911-870d-46d8-9095-70ec18d5b53e
+
+---
+📊 _11 new offers | 532 total tracked_

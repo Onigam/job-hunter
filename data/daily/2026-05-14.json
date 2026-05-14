@@ -1,0 +1,79 @@
+{
+  "date": "2026-05-14",
+  "total_searched": 22,
+  "new_offers": 11,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Head of AI Engineering",
+      "company": "Yuno",
+      "location": "Remote — Worldwide",
+      "url": "https://jobs.lever.co/yuno/faf5a4b5-1574-4689-98db-69f4f8d4e97d",
+      "score": 87,
+      "grade": "A",
+      "why": "Define and own Yuno's AI strategy end-to-end — building agentic systems, LLM workflows, and the AI engineering function from scratch at a fast-growing payments orchestration startup. Leadership + hands-on AI architecture = exact Magino profile.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Staff Software Engineer, Product Engineering (EU)",
+      "company": "Ashby",
+      "location": "Remote — Europe",
+      "url": "https://jobs.ashbyhq.com/ashby/c3c7125d-7883-4dff-a2bf-f5a55de4a364",
+      "score": 83,
+      "grade": "B",
+      "why": "YC-backed HR tech platform (Notion, Linear, Shopify as customers), >100% YoY growth, 100% async remote EU. Stack is exactly TypeScript/React/Node.js/GraphQL/Postgres, compensation up to $275k. End-to-end product ownership at Staff level.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Staff Platform Engineer (EU)",
+      "company": "Ashby",
+      "location": "Remote — Europe",
+      "url": "https://jobs.ashbyhq.com/ashby/fa001346-ea81-41b2-bfbe-2271d3faac1a",
+      "score": 81,
+      "grade": "B",
+      "why": "Same Ashby context as above but infrastructure/platform focus — closer to Magino's platform engineering background. Own the technical foundation of a YC-backed scale-up growing >100% YoY.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Senior Platform Engineer — AI Agent Infrastructure",
+      "company": "Yuno",
+      "location": "Remote — Worldwide",
+      "url": "https://jobs.lever.co/yuno/33309adb-efb0-414c-9e9a-da13435a0242",
+      "score": 80,
+      "grade": "B",
+      "why": "Own and evolve the cloud infrastructure that provisions, deploys, and manages AI agents at scale on AWS — Kubernetes, LangFuse, GPU workloads in production. Yuno's Payments Concierge (launched April 2026) makes this highly relevant.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Lead Applied AI Engineer (Europe)",
+      "company": "Undisclosed (via Jobgether)",
+      "location": "Remote — Europe",
+      "url": "https://jobs.lever.co/jobgether/b946a68c-dddb-4498-a2df-444f47ac8af6",
+      "score": 77,
+      "grade": "B",
+      "why": "5+ years TypeScript required, explicit GenAI primitives (vector databases, agentic workflows, LLM APIs) at a remote-EU company. Strong technical alignment with Magino's AI-augmented engineering work at Benevity.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 6,
+      "title": "Staff Engineer — AI Products",
+      "company": "hyperexponential",
+      "location": "Remote — Europe",
+      "url": "https://jobs.ashbyhq.com/hyperexponential/028cc911-870d-46d8-9095-70ec18d5b53e",
+      "score": 75,
+      "grade": "B",
+      "why": "Building an AI-enabled pricing IDE alongside the likes of Cursor and Windsurf — a once-in-a-career chance to shape developer tooling at Staff level. London-HQ with EU remote, Series B+ insurance tech that's engineering-first.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
