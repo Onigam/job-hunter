@@ -1,0 +1,34 @@
+🎯 *Job Hunt — 2026-05-15*
+
+*1.* *Staff Software Engineer, AI Platform* @ Harvey
+📍 Remote / SF·NY·London | ⭐ 83/100 | 🏆 Grade B
+💡 AI Platform ownership at the $11B legal AI unicorn — frontier LLM infrastructure work, direct match to Benevity-scale platform experience. Verify EU remote eligibility first.
+🔗 https://jobs.ashbyhq.com/harvey/01da8934-d3e3-4ebb-beb9-681b3c24fb9c
+
+*2.* *Staff Applied AI Engineer* @ Harvey
+📍 Remote / SF·NY·London | ⭐ 82/100 | 🏆 Grade B
+💡 Hands-on AI feature engineering at Harvey, end-to-end ownership from LLM primitives to production — cofounder-to-staff builder profile fits well. Same location check needed.
+🔗 https://jobs.ashbyhq.com/harvey/83b05880-4574-439f-beb4-d692a5ab6955
+
+*3.* *Staff Software Engineer, Platform* @ Harvey
+📍 Remote / SF·NY·London | ⭐ 78/100 | 🏆 Grade B
+💡 Core platform engineering at one of the hottest AI companies ($806M raised) — the London office makes EU timezone feasible. Worth a direct outreach on remote status.
+🔗 https://jobs.ashbyhq.com/harvey/890fed38-c618-43f5-b714-3ba3c3ad4a23
+
+*4.* *Staff Software Engineer — Node.js* @ deskbird
+📍 Remote — Europe (Swiss HQ) | ⭐ 74/100 | 🏆 Grade B
+💡 Swiss SaaS scaleup, fully remote from Europe, exact Node.js/TypeScript stack match — no location friction, strong ownership role at a fast-growing local company.
+🔗 https://wellfound.com/company/deskbird/jobs/2556940-staff-software-engineer-node-js-fully-remote-from-europe
+
+*5.* *Senior ML Infrastructure Engineer* @ Prior Labs
+📍 Berlin, Germany (relocation supported) | ⭐ 69/100 | 🏆 Grade C
+💡 Tabular foundation model startup — ML infra for frontier AI research, good tech depth but Berlin-based and a step below staff seniority target.
+🔗 https://jobs.ashbyhq.com/prior-labs/bd4fe067-0e99-4268-b5ad-d1f8e36c6976
+
+*6.* *Senior Software Engineer, Data & ML* @ Sundogs
+📍 Remote — CET/EST | ⭐ 66/100 | 🏆 Grade C
+💡 15-person AI video advertising startup from ex-Googlers, remote CET-friendly — Python/ML stack rather than platform, but founding-stage energy and AI focus are appealing.
+🔗 https://news.ycombinator.com/item?id=48005795
+
+---
+📊 _6 new offers | 538 total tracked_

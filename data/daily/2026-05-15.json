@@ -1,0 +1,79 @@
+{
+  "date": "2026-05-15",
+  "total_searched": 18,
+  "new_offers": 6,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Staff Software Engineer, AI Platform",
+      "company": "Harvey",
+      "location": "Remote (19 remote roles listed) — SF / NY / London HQ",
+      "url": "https://jobs.ashbyhq.com/harvey/01da8934-d3e3-4ebb-beb9-681b3c24fb9c",
+      "score": 83,
+      "grade": "B",
+      "why": "Harvey ($11B valuation, $806M raised, Series D+) is building the frontier legal AI platform used by top-tier law firms in 60+ countries. The AI Platform Staff role owns the backbone infrastructure for LLM-powered products — direct application of Magino's Benevity platform work and AI-augmented engineering experience. Note: Harvey generally requires in-office presence at SF/NY/London; verify remote eligibility for this specific role before applying.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Staff Applied AI Engineer",
+      "company": "Harvey",
+      "location": "Remote (19 remote roles listed) — SF / NY / London HQ",
+      "url": "https://jobs.ashbyhq.com/harvey/83b05880-4574-439f-beb4-d692a5ab6955",
+      "score": 82,
+      "grade": "B",
+      "why": "Applied AI engineering role at Harvey — building AI-powered features end-to-end rather than pure infrastructure, which maps well to Magino's cofounder-to-staff trajectory and hands-on builder mindset. Strong equity upside at an AI company growing from $8B to $11B in 3 months. Same location caveat applies: confirm remote viability from Geneva before applying.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Staff Software Engineer, Platform",
+      "company": "Harvey",
+      "location": "Remote (19 remote roles listed) — SF / NY / London HQ",
+      "url": "https://jobs.ashbyhq.com/harvey/890fed38-c618-43f5-b714-3ba3c3ad4a23",
+      "score": 78,
+      "grade": "B",
+      "why": "Core platform ownership at one of the fastest-growing AI companies on the planet — exactly the type of 'platform from zero to scale' work Magino did at Alaya. The London office makes EU timezone more realistic than pure US remote. Still worth a direct outreach to clarify remote eligibility before investing time in the application.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Staff Software Engineer — Node.js (Fully Remote from Europe)",
+      "company": "deskbird",
+      "location": "Remote — Europe (Swiss HQ: St. Gallen)",
+      "url": "https://wellfound.com/company/deskbird/jobs/2556940-staff-software-engineer-node-js-fully-remote-from-europe",
+      "score": 74,
+      "grade": "B",
+      "why": "Swiss-headquartered SaaS (one of Europe's fastest-growing), fully remote from Europe, Node.js/TypeScript stack — a clean fit on all location and technical dimensions. The workplace management domain is less AI-forward than Magino's target trajectory, but it's a Staff-level ownership role at a local success story and a strong fallback option.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Senior ML Infrastructure Engineer",
+      "company": "Prior Labs",
+      "location": "Berlin, Germany (relocation support offered)",
+      "url": "https://jobs.ashbyhq.com/prior-labs/bd4fe067-0e99-4268-b5ad-d1f8e36c6976",
+      "score": 69,
+      "grade": "C",
+      "why": "Prior Labs is building tabular foundation models — a niche but technically compelling AI research company. The ML infrastructure role requires owning the systems that train and serve these models, which blends Magino's platform and AI interests well. Berlin-based with relocation support; less ideal than remote-EU but worth a look given the frontier AI context.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 6,
+      "title": "Senior Software Engineer, Data & ML",
+      "company": "Sundogs",
+      "location": "Remote — CET/EST (Europe or US/Canada)",
+      "url": "https://news.ycombinator.com/item?id=48005795",
+      "score": 66,
+      "grade": "C",
+      "why": "Small 15-person AI video advertising startup founded by ex-Googlers, remote-first in CET timezone. Python/ML stack rather than TypeScript/platform, and it's Senior not Staff level — a step below Magino's target seniority. Interesting for founding-stage exposure and AI work, but the role is a technical stretch from the platform/architecture focus.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
