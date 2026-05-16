@@ -1,0 +1,34 @@
+🎯 *Job Hunt — 2026-05-16*
+
+*1.* *VP of Engineering* @ Dash0
+📍 Remote Europe | ⭐ 85/100 | 🏆 Grade A
+💡 AI-centric observability unicorn ($1B, $110M Series B Mar 2026) — VP scope with remote EU, exactly Magino's leadership target.
+🔗 https://jobs.ashbyhq.com/dash0/3cdb2cc5-a181-4735-8997-2f816d9bed2d
+
+*2.* *VP Engineering and Data* @ Fleek
+📍 London hybrid (3-4 d/wk) | ⭐ 73/100 | 🏆 Grade B
+💡 Own eng org + data team at a16z/YC post-Series B AI startup — FleekSort LLM depth, only obstacle is London in-office.
+🔗 https://jobs.ashbyhq.com/fleek/939ff56e-e2b4-4cce-a7fe-7df20ec88829
+
+*3.* *Staff Software Engineer, Engineering AI Team* @ Second Nature
+📍 Remote (Israel HQ, UTC+3) | ⭐ 65/100 | 🏆 Grade C
+💡 Posted 3 days ago — $22M Series B AI sales-coaching, Staff platform role with heavy LLM exposure, Geneva timezone viable.
+🔗 https://jobs.ashbyhq.com/second-nature/ce8bb758-f58a-4800-8a6d-dff88c82ea50
+
+*4.* *Senior Backend Engineer — Developer Platform* @ Apify
+📍 Prague / Remote hybrid | ⭐ 61/100 | 🏆 Grade C
+💡 Top TypeScript/Node.js stack match building an AI-agents + web-automation platform — Senior vs Staff+ and Prague location reduce fit.
+🔗 https://jobs.ashbyhq.com/apify/a6293104-d98f-4317-8ba7-bd7a0e785950
+
+*5.* *Founding Engineer, GTM* @ tldraw
+📍 London hybrid | ⭐ 60/100 | 🏆 Grade C
+💡 Series A TypeScript/React developer-tools SDK — founding engineer framing but GTM/solutions angle is more customer-facing than core platform.
+🔗 https://jobs.ashbyhq.com/tldraw/e05ed525-555b-429a-aeb2-b1b5505a9699
+
+*6.* *Staff Software Engineer (Node.js)* @ Diligent Corporation
+📍 Remote (London/Munich/Budapest hubs) | ⭐ 58/100 | 🏆 Grade C
+💡 Staff Node.js + TypeScript + AWS with mandate to lead AI strategy — enterprise governance SaaS, but genuinely global-remote and strong stack alignment.
+🔗 https://job-boards.greenhouse.io/diligentcorporation/jobs/5674955004
+
+---
+📊 _8 new offers | 546 total tracked_

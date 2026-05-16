@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-15",
+    "last_updated": "2026-05-16",
     "offers": [
         {
             "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -7940,6 +7940,110 @@
             "score": 66,
             "grade": "C",
             "date_found": "2026-05-15",
+            "status": "new"
+        },
+        {
+            "id": "d6a50a0957d12ea7cef71ab5a088b0ee",
+            "title": "VP of Engineering",
+            "company": "Dash0",
+            "location": "Remote — Europe (Netherlands HQ)",
+            "url": "https://jobs.ashbyhq.com/dash0/3cdb2cc5-a181-4735-8997-2f816d9bed2d",
+            "source": "ashbyhq",
+            "summary": "Dash0 is an OpenTelemetry-native AI-centric observability unicorn ($1B valuation, $110M Series B Balderton Capital, March 2026). Building Agent0, their AI-powered operational intelligence layer. VP Engineering role to lead and scale the engineering org. Remote EU, headquartered in Netherlands. Developer-first culture, transparent pricing, AI-embedded product.",
+            "score": 85,
+            "grade": "A",
+            "date_found": "2026-05-16",
+            "status": "new"
+        },
+        {
+            "id": "8c076c278bb084aa2465c281ff2770cf",
+            "title": "VP Engineering and Data",
+            "company": "Fleek",
+            "location": "London, UK (hybrid 3-4 days/week)",
+            "url": "https://jobs.ashbyhq.com/fleek/939ff56e-e2b4-4cce-a7fe-7df20ec88829",
+            "source": "ashbyhq",
+            "summary": "Fleek builds AI infrastructure for the $350B secondhand fashion market. FleekSort AI model grades, prices, and categorises items from photos. Post-Series B, backed by a16z, HV, and YC. VP Engineering owns engineering (~30 engineers) + data team (4 people). Reports to co-founder Sanket Agarwal. London HQ, in-office 3-4 days/week. Strong AI/LLM mission.",
+            "score": 73,
+            "grade": "B",
+            "date_found": "2026-05-16",
+            "status": "new"
+        },
+        {
+            "id": "d72fdb4735a4e147897f44f010d95f3a",
+            "title": "Staff Software Engineer, Engineering AI Team",
+            "company": "Second Nature",
+            "location": "Remote (Israel HQ, Tel Aviv)",
+            "url": "https://jobs.ashbyhq.com/second-nature/ce8bb758-f58a-4800-8a6d-dff88c82ea50",
+            "source": "ashbyhq",
+            "summary": "Second Nature (secondnature.ai) is an AI sales-coaching platform that raised $22M Series B. Staff SSE to help accelerate platform development and real-world AI experimentation. Founded 2018, ~45 employees, Tel Aviv HQ. Role posted May 13, 2026. Heavy LLM exposure, Engineering AI Team, platform-level scope.",
+            "score": 65,
+            "grade": "C",
+            "date_found": "2026-05-16",
+            "status": "new"
+        },
+        {
+            "id": "082d48119b3baf069fd29c60b63c341c",
+            "title": "Senior Backend Engineer — Developer Platform (Node.js/TypeScript)",
+            "company": "Apify",
+            "location": "Prague, Czech Republic (hybrid)",
+            "url": "https://jobs.ashbyhq.com/apify/a6293104-d98f-4317-8ba7-bd7a0e785950",
+            "source": "ashbyhq",
+            "summary": "Apify builds a developer platform for web scraping, AI agents, and automation — mission to help anyone get value from the web. Stack: Node.js, TypeScript, AWS. 5+ years required. Prague/Brno HQ with hybrid work. Company of 75+ with flexible remote options. Strong TypeScript/Node.js stack match but location (Prague) is not ideal for Geneva-based candidate.",
+            "score": 61,
+            "grade": "C",
+            "date_found": "2026-05-16",
+            "status": "new"
+        },
+        {
+            "id": "f4b5fdd6a1a100c6562dceb37c5f2c0b",
+            "title": "Founding Engineer, GTM",
+            "company": "tldraw",
+            "location": "London, UK (hybrid)",
+            "url": "https://jobs.ashbyhq.com/tldraw/e05ed525-555b-429a-aeb2-b1b5505a9699",
+            "source": "ashbyhq",
+            "summary": "tldraw is a Series A developer-tools startup building an infinite canvas SDK (TypeScript/React). Founding Engineer GTM role is a solutions/customer-facing engineering hybrid: demos, POCs, SDK debugging, building integration guides. Salary £80K-£115K + stock options. London hybrid. Good brand and ecosystem visibility, but not pure platform IC engineering.",
+            "score": 60,
+            "grade": "C",
+            "date_found": "2026-05-16",
+            "status": "new"
+        },
+        {
+            "id": "dfdc2196873839e7172d57fa88902105",
+            "title": "Staff Software Engineer (Node.js)",
+            "company": "Diligent Corporation",
+            "location": "Remote (offices in London, Munich, Budapest, Vancouver)",
+            "url": "https://job-boards.greenhouse.io/diligentcorporation/jobs/5674955004",
+            "source": "greenhouse",
+            "summary": "Diligent Corporation builds governance, risk, and compliance SaaS for board management and ESG reporting. Staff SSE role to build secure microservices on AWS with TypeScript/Node.js, lead AI strategy integration, drive architecture decisions and mentor teams. Global remote with offices across Europe and North America. Enterprise company, private-equity backed.",
+            "score": 58,
+            "grade": "C",
+            "date_found": "2026-05-16",
+            "status": "new"
+        },
+        {
+            "id": "dfecc8029e89837dcd0fa6cea781831d",
+            "title": "Staff Software Engineer (NodeJS/DevOps)",
+            "company": "Printful",
+            "location": "Remote — EMEA",
+            "url": "https://printful.wd1.myworkdayjobs.com/Printful/job/Remote-Poland/Staff-Software-Engineer--NodeJS-DevOps-_JR1724",
+            "source": "workday",
+            "summary": "Printful (merged with Printify in Nov 2024) hires Staff SSE for NodeJS/DevOps specialisation. EMEA remote. Stack: NodeJS, TypeScript, NestJS, Kubernetes, GitOps, GCP, Terraform, Helm, PostgreSQL, MongoDB, Prometheus/Grafana. Heavy DevOps lean rather than platform engineering. Scale-up, print-on-demand ecommerce.",
+            "score": 53,
+            "grade": "D",
+            "date_found": "2026-05-16",
+            "status": "new"
+        },
+        {
+            "id": "58ef1667121e362c2be18cb45d38bd06",
+            "title": "Staff Engineer",
+            "company": "OneStudyTeam",
+            "location": "Remote (US-centric)",
+            "url": "https://job-boards.greenhouse.io/onestudyteam/jobs/5634090004",
+            "source": "greenhouse",
+            "summary": "OneStudyTeam (Reify Health) builds StudyTeam, a clinical trials SaaS platform. Staff Engineer role with TypeScript, Node.js, AWS focus. Remote but US-centric — no work visa sponsorship available, making this inaccessible for Geneva-based candidate. Healthcare/clinical trials domain.",
+            "score": 48,
+            "grade": "D",
+            "date_found": "2026-05-16",
             "status": "new"
         }
     ]

@@ -1,0 +1,79 @@
+{
+  "date": "2026-05-16",
+  "total_searched": 22,
+  "new_offers": 8,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "VP of Engineering",
+      "company": "Dash0",
+      "location": "Remote — Europe (Netherlands HQ)",
+      "url": "https://jobs.ashbyhq.com/dash0/3cdb2cc5-a181-4735-8997-2f816d9bed2d",
+      "score": 85,
+      "grade": "A",
+      "why": "Newly-minted unicorn ($1B valuation) that just raised $110M Series B in March 2026; AI-centric observability platform (Agent0) with developer-first engineering culture — VP Engineering scope is exactly Magino's leadership target, remote EU makes Geneva fully viable.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "VP Engineering and Data",
+      "company": "Fleek",
+      "location": "London, UK (hybrid 3-4 days/week)",
+      "url": "https://jobs.ashbyhq.com/fleek/939ff56e-e2b4-4cce-a7fe-7df20ec88829",
+      "score": 73,
+      "grade": "B",
+      "why": "Owns engineering org (~30 engineers) + data team at an a16z/HV/YC post-Series B AI company building infrastructure for the $350B secondhand fashion market; FleekSort AI model shows genuine LLM depth — London in-office 3-4 days/week is the main obstacle.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Staff Software Engineer, Engineering AI Team",
+      "company": "Second Nature",
+      "location": "Remote (Israel HQ, likely EU-compatible)",
+      "url": "https://jobs.ashbyhq.com/second-nature/ce8bb758-f58a-4800-8a6d-dff88c82ea50",
+      "score": 65,
+      "grade": "C",
+      "why": "Posted 3 days ago at a $22M Series B AI sales-coaching startup; Staff-level platform-acceleration role with heavy LLM exposure — Israel timezone (UTC+3) is close enough for Geneva collaboration, worth probing remote policy.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Senior Backend Engineer — Developer Platform (Node.js/TypeScript)",
+      "company": "Apify",
+      "location": "Prague / Remote (hybrid preference)",
+      "url": "https://jobs.ashbyhq.com/apify/a6293104-d98f-4317-8ba7-bd7a0e785950",
+      "score": 61,
+      "grade": "C",
+      "why": "Strong TypeScript/Node.js stack match building an AI-agent and web-automation developer platform; Senior (not Staff+) and Prague-centric reduce fit — but worth a look given the mission and product quality.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Founding Engineer, GTM",
+      "company": "tldraw",
+      "location": "London, UK (hybrid)",
+      "url": "https://jobs.ashbyhq.com/tldraw/e05ed525-555b-429a-aeb2-b1b5505a9699",
+      "score": 60,
+      "grade": "C",
+      "why": "Series A developer-tools startup with a beloved TypeScript/React SDK; founding engineer framing but the GTM/solutions angle means customer-facing work rather than core platform ownership — interesting for brand visibility but not a pure IC engineering fit.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 6,
+      "title": "Staff Software Engineer (Node.js)",
+      "company": "Diligent Corporation",
+      "location": "Remote (offices in London, Munich, Budapest)",
+      "url": "https://job-boards.greenhouse.io/diligentcorporation/jobs/5674955004",
+      "score": 58,
+      "grade": "C",
+      "why": "Staff-level Node.js + TypeScript + AWS with mandate to lead AI strategy across teams; enterprise governance SaaS is less exciting than a startup, but the scope and tech match are solid and the company is genuinely global-remote.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
