@@ -1,0 +1,127 @@
+{
+  "date": "2026-05-17",
+  "total_searched": 25,
+  "new_offers": 15,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Staff Backend Engineer, AI Platform",
+      "company": "Hostaway",
+      "location": "Remote — EMEA",
+      "url": "https://jobgether.com/offer/69fc77f2f77bd3019865fa52-staff-backend-engineer-ai-platform---100-remote---emea",
+      "score": 79,
+      "grade": "B",
+      "why": "Profitable unicorn building a multi-agent AI platform from scratch — LLM orchestration, agent delegator, hallucination detection; exactly the AI-infrastructure ownership Magino has been pioneering at Benevity, with remote EMEA fitting Geneva perfectly.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Founding AI Engineer",
+      "company": "Lucis (YC X25)",
+      "location": "Paris, France (on-site, some remote possible)",
+      "url": "https://www.ycombinator.com/companies/lucis/jobs/nHQ9ap6-ai-engineering",
+      "score": 79,
+      "grade": "B",
+      "why": "YC-backed preventive health startup using Claude API + LangChain to reason over 110+ biomarkers — founding engineer scope with EUR 70-140K; Python/TypeScript/AWS stack matches exactly and the 'build from zero' mandate fits Magino's Alaya co-founder DNA.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Founding Engineer (AI-focused Full Stack)",
+      "company": "Minimal AI (YC S25)",
+      "location": "Amsterdam, Netherlands (on-site)",
+      "url": "https://www.ycombinator.com/companies/minimal-ai/jobs/Yi9o4mk-founding-engineer-backend-ai-focused-full-stack-developer-amsterdam",
+      "score": 77,
+      "grade": "B",
+      "why": "YC S25 AI agent platform at $50K MRR before funding — founding engineer role in a team that uses Cursor + Claude daily; Python/FastAPI/TypeScript/React matches Magino's exact stack and signals the AI-augmented engineering culture he's been building.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Applied AI — Forward Deployed ML Engineer",
+      "company": "Mistral AI",
+      "location": "Paris, France (on-site, EMEA travel)",
+      "url": "https://jobs.lever.co/mistral/77f6fd1b-65cf-45d8-9b68-594c62732f62",
+      "score": 76,
+      "grade": "B",
+      "why": "Europe's frontier LLM lab — forward-deployed role owns enterprise AI deployments end-to-end for governments and critical infrastructure, operating like a startup CTO inside Mistral; Paris on-site (2h from Geneva by TGV) is the main friction point.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Senior Software Engineer, Machine Learning",
+      "company": "AssemblyAI",
+      "location": "Remote — EMEA",
+      "url": "https://job-boards.greenhouse.io/assemblyai/jobs/4664764005",
+      "score": 75,
+      "grade": "B",
+      "why": "$195-225K USD, remote EMEA, powering 2B+ end-user experiences with Speech AI + LLM audio; ML infrastructure/inference pipeline role aligns with Magino's distributed systems background — deadline May 24, apply immediately.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 6,
+      "title": "Senior ML Engineer",
+      "company": "Lakera",
+      "location": "Zurich, Switzerland (on-site)",
+      "url": "https://jobs.ashbyhq.com/lakera.ai/158d9a05-bc1d-49fd-81f1-bf1229e8021f",
+      "score": 75,
+      "grade": "B",
+      "why": "Zurich-based AI security startup building real-time GenAI defenses (Lakera Guard); core model engineering for prompt injection detection taps Magino's AI-augmented engineering expertise and Swiss location preference.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 7,
+      "title": "Founding Full Stack Engineer",
+      "company": "Venta AI (YC S23)",
+      "location": "Amsterdam, Netherlands (on-site)",
+      "url": "https://www.ycombinator.com/companies/venta-ai/jobs/K8m4p6z-founding-full-stack-engineer",
+      "score": 75,
+      "grade": "B",
+      "why": "Amsterdam YC startup backed by Google's AI fund; EUR 70-105K + 1% equity, Python/FastAPI/TypeScript/React stack, founding engineer scope — GDPR-first AI sales automation with 500+ closed deals already validated.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 8,
+      "title": "Principal Engineer",
+      "company": "Cozero",
+      "location": "Remote — Germany, UK, or Portugal only",
+      "url": "https://careers.cozero.io/jobs/7235041-principal-engineer-m-f-d-remote-in-de-uk-pt",
+      "score": 72,
+      "grade": "B",
+      "why": "EUR 192K for the most senior IC at a Berlin climate-tech SaaS — TypeScript/Node.js/NestJS/AWS exact match, principal mandate mirrors Magino's staff-level architecture work; caveat: remote restricted to DE/UK/PT, Switzerland eligibility to confirm.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 9,
+      "title": "Senior AI Engineer",
+      "company": "Lakera",
+      "location": "Zurich, Switzerland (on-site)",
+      "url": "https://jobs.ashbyhq.com/lakera.ai/32a92101-5b75-4714-95a4-8a8297fada6b",
+      "score": 72,
+      "grade": "B",
+      "why": "Applied AI engineering at Lakera (Zurich) alongside the Senior ML role — inference infrastructure and LLM security tooling in a growing AI security company, a second entry point into a high-fit employer.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 10,
+      "title": "LLM and Machine Learning Engineer",
+      "company": "AlpineAI (SwissGPT)",
+      "location": "Zurich or Davos, Switzerland (hybrid)",
+      "url": "https://alpineai.swiss/en/current-positions/llm-and-machine-learning-engineer/",
+      "score": 70,
+      "grade": "B",
+      "why": "Building SwissGPT, Switzerland's sovereign LLM platform for regulated sectors — core fine-tuning engineering in Zurich/Davos, Swiss permit required; unique mission at the intersection of AI and Swiss privacy sovereignty.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}

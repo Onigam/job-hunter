@@ -1,0 +1,34 @@
+🎯 *Job Hunt — 2026-05-17*
+
+*1.* *Staff Backend Engineer, AI Platform* @ Hostaway
+📍 Remote — EMEA | ⭐ 79/100 | 🏆 Grade B
+💡 Profitable unicorn building a multi-agent AI platform from scratch — LLM orchestration, agent delegator, hallucination detection — remote EMEA fits Geneva perfectly.
+🔗 https://jobgether.com/offer/69fc77f2f77bd3019865fa52-staff-backend-engineer-ai-platform---100-remote---emea
+
+*2.* *Founding AI Engineer* @ Lucis (YC X25)
+📍 Paris, France | ⭐ 79/100 | 🏆 Grade B
+💡 YC-backed preventive health startup using Claude API + LangChain on 110+ biomarkers — founding engineer, EUR 70-140K, Python/TypeScript/AWS exact match.
+🔗 https://www.ycombinator.com/companies/lucis/jobs/nHQ9ap6-ai-engineering
+
+*3.* *Founding Engineer (AI Full Stack)* @ Minimal AI (YC S25)
+📍 Amsterdam, Netherlands | ⭐ 77/100 | 🏆 Grade B
+💡 AI agent platform at $50K MRR before YC funding — team uses Cursor + Claude daily; Python/FastAPI/TypeScript/React founding engineer scope.
+🔗 https://www.ycombinator.com/companies/minimal-ai/jobs/Yi9o4mk-founding-engineer-backend-ai-focused-full-stack-developer-amsterdam
+
+*4.* *Applied AI — Forward Deployed ML Engineer* @ Mistral AI
+📍 Paris, France (on-site) | ⭐ 76/100 | 🏆 Grade B
+💡 Europe's frontier LLM lab — own enterprise AI deployments for governments and critical infrastructure end-to-end; Paris (2h from Geneva by TGV) is the caveat.
+🔗 https://jobs.lever.co/mistral/77f6fd1b-65cf-45d8-9b68-594c62732f62
+
+*5.* *Senior Software Engineer, Machine Learning* @ AssemblyAI
+📍 Remote — EMEA | ⭐ 75/100 | 🏆 Grade B
+💡 $195-225K USD, remote EMEA, powering 2B+ end-user experiences with Speech AI + LLMs — ML infrastructure role, deadline May 24, apply now.
+🔗 https://job-boards.greenhouse.io/assemblyai/jobs/4664764005
+
+*6.* *Senior ML Engineer* @ Lakera
+📍 Zurich, Switzerland | ⭐ 75/100 | 🏆 Grade B
+💡 Zurich AI security startup building real-time GenAI defenses (Lakera Guard) — core model engineering for prompt injection detection, Swiss market, close to Geneva.
+🔗 https://jobs.ashbyhq.com/lakera.ai/158d9a05-bc1d-49fd-81f1-bf1229e8021f
+
+---
+📊 _15 new offers | 561 total tracked_
