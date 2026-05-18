@@ -1,0 +1,68 @@
+{
+  "date": "2026-05-18",
+  "total_searched": 16,
+  "new_offers": 5,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Staff Product Engineer",
+      "company": "Prefect",
+      "location": "Remote (US)",
+      "url": "https://weworkremotely.com/remote-jobs/prefect-staff-product-engineer",
+      "score": 77,
+      "grade": "B",
+      "why": "Prefect builds workflow orchestration and AI context infrastructure — Magino's TypeScript/Python/AWS stack is an exact match, and the 'Horizon' product (AI context layer) maps directly to his AI-augmented engineering focus. Staff-level ownership of full product slices from UI to infra.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Full Stack AI Engineer",
+      "company": "Reveleer",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer",
+      "score": 71,
+      "grade": "B",
+      "why": "Small AI team building next-gen agentic clinical models on a large-scale platform — founding-engineer dynamics at a scaleup, with deep LLM/agentic systems work. Posted April 2026, still active.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Staff Platform Engineer",
+      "company": "Radimal",
+      "location": "Remote",
+      "url": "https://wellfound.com/jobs/3656235-staff-platform-engineer-remote",
+      "score": 70,
+      "grade": "B",
+      "why": "Radimal is a veterinary AI diagnostics startup where this role owns the full AWS/Terraform footprint and developer experience — platform-from-zero ownership that mirrors Magino's Alaya cofounder work. Strong technical impact at a startup scale.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Staff Software Engineer",
+      "company": "BaxEnergy",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/baxenergy-staff-software-engineer-1",
+      "score": 62,
+      "grade": "C",
+      "why": "Staff-level architecture ownership for renewable energy monitoring (Farsight product), cloud-native on AWS. Industrial protocols (OPC UA/DA) are outside Magino's core, but strong perks and solid remote culture.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Fractional Staff Engineer",
+      "company": "Nuerraa",
+      "location": "Remote",
+      "url": "https://wellfound.com/jobs/4204952-fractional-staff-engineer",
+      "score": 58,
+      "grade": "C",
+      "why": "Pre-launch startup seeking fractional engineering lead through June 2026 — interesting fit given Magino's parallel Givernance startup launch. Short commitment, full technical leadership scope.",
+      "apply_by": "2026-06-30",
+      "status": "new",
+      "part_time": true
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-17",
+    "last_updated": "2026-05-18",
     "offers": [
         {
             "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -8240,6 +8240,72 @@
             "grade": "C",
             "date_found": "2026-05-17",
             "status": "new"
+        },
+        {
+            "id": "3245f77fc08ca9d516f7103841bf50fb",
+            "title": "Staff Product Engineer",
+            "company": "Prefect",
+            "location": "Remote (US)",
+            "url": "https://weworkremotely.com/remote-jobs/prefect-staff-product-engineer",
+            "source": "weworkremotely",
+            "summary": "Prefect builds workflow orchestration and AI context infrastructure ('Horizon' product). Staff Product Engineer owns full TypeScript/Python product slices end-to-end — from UI to infra — on a remote-first team. Requires TypeScript, Postgres, Redis, AWS. Reports to Director of Engineering.",
+            "score": 77,
+            "grade": "B",
+            "date_found": "2026-05-18",
+            "status": "new"
+        },
+        {
+            "id": "85bedc8aeaedd145919c3f60bda26160",
+            "title": "Full Stack AI Engineer",
+            "company": "Reveleer",
+            "location": "Remote",
+            "url": "https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer",
+            "source": "weworkremotely",
+            "summary": "Reveleer is a value-based care AI platform for healthcare. Small AI team building next-gen agentic clinical prospecting models. Full stack + ML systems role with large-scale impact. Updated April 2026.",
+            "score": 71,
+            "grade": "B",
+            "date_found": "2026-05-18",
+            "status": "new"
+        },
+        {
+            "id": "13367797c76c8d83aba3c19bdae6c78e",
+            "title": "Staff Platform Engineer",
+            "company": "Radimal",
+            "location": "Remote",
+            "url": "https://wellfound.com/jobs/3656235-staff-platform-engineer-remote",
+            "source": "wellfound",
+            "summary": "Radimal is a veterinary AI diagnostics platform. Staff Platform Engineer owns the full AWS/Terraform footprint, CI/CD, developer experience, and shared infrastructure. Platform-from-zero ownership at startup scale.",
+            "score": 70,
+            "grade": "B",
+            "date_found": "2026-05-18",
+            "status": "new"
+        },
+        {
+            "id": "271e3f083bb433d430d4248582aaa170",
+            "title": "Staff Software Engineer",
+            "company": "BaxEnergy",
+            "location": "Remote",
+            "url": "https://weworkremotely.com/remote-jobs/baxenergy-staff-software-engineer-1",
+            "source": "weworkremotely",
+            "summary": "BaxEnergy builds renewable energy monitoring software (Farsight product). Staff Software Engineer architects cloud-native industrial data systems for OPC UA/DA and similar protocols. 30+ vacation days, annual retreats.",
+            "score": 62,
+            "grade": "C",
+            "date_found": "2026-05-18",
+            "status": "new"
+        },
+        {
+            "id": "a002d99ebf67b2ecb0e438d8f08d115f",
+            "title": "Fractional Staff Engineer",
+            "company": "Nuerraa",
+            "location": "Remote",
+            "url": "https://wellfound.com/jobs/4204952-fractional-staff-engineer",
+            "source": "wellfound",
+            "summary": "Pre-launch startup hiring a Fractional Staff Engineer to lead product and engineering for 2-3 months through a June 2026 launch deadline. Full technical leadership scope at very early stage. Part-time/fractional engagement.",
+            "score": 58,
+            "grade": "C",
+            "date_found": "2026-05-18",
+            "status": "new",
+            "part_time": true
         }
     ]
 }

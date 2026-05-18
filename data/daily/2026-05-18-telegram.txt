@@ -1,0 +1,29 @@
+🎯 *Job Hunt — 2026-05-18*
+
+*1.* *Staff Product Engineer* @ Prefect
+📍 Remote (US) | ⭐ 77/100 | 🏆 Grade B
+💡 AI workflow orchestration startup — TypeScript/Python/AWS full-stack ownership of their AI context layer product; exact stack match with founding-engineer scope.
+🔗 https://weworkremotely.com/remote-jobs/prefect-staff-product-engineer
+
+*2.* *Full Stack AI Engineer* @ Reveleer
+📍 Remote | ⭐ 71/100 | 🏆 Grade B
+💡 Small AI team building next-gen agentic clinical models — founding-engineer dynamics at a healthcare scaleup, deep LLM/agentic systems work.
+🔗 https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer
+
+*3.* *Staff Platform Engineer* @ Radimal
+📍 Remote | ⭐ 70/100 | 🏆 Grade B
+💡 Veterinary AI diagnostics startup — owns full AWS/Terraform footprint and DevEx from scratch, mirrors Alaya cofounder platform-building experience.
+🔗 https://wellfound.com/jobs/3656235-staff-platform-engineer-remote
+
+*4.* *Staff Software Engineer* @ BaxEnergy
+📍 Remote | ⭐ 62/100 | 🏆 Grade C
+💡 Renewable energy cloud platform (Farsight) — Staff-level architecture ownership, 30+ PTO days, solid remote culture; industrial protocols are new territory.
+🔗 https://weworkremotely.com/remote-jobs/baxenergy-staff-software-engineer-1
+
+*5.* *Fractional Staff Engineer* @ Nuerraa _(part-time)_
+📍 Remote | ⭐ 58/100 | 🏆 Grade C
+💡 Pre-launch startup needing fractional engineering lead through June 2026 — good fit given Givernance parallel launch, short commitment, full leadership scope.
+🔗 https://wellfound.com/jobs/4204952-fractional-staff-engineer
+
+---
+📊 _5 new offers | 566 total tracked_
