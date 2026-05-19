@@ -1,0 +1,34 @@
+🎯 *Job Hunt — 2026-05-19*
+
+*1.* *Member of Technical Staff, TypeScript Engineer (Principal)* @ Inkeep
+📍 Remote (USA/Global) | ⭐ 81/100 | 🏆 Grade B
+💡 YC + Khosla AI agent platform (Anthropic, Midjourney as customers) — Principal TypeScript role architecting the SDK and API layer, perfect stack match with founding-stage equity.
+🔗 https://jobs.ashbyhq.com/inkeep/7bf64445-f811-4e05-8ad1-06549299597f/application
+
+*2.* *Founding Full Stack Engineer — AI, LLM* @ Berry
+📍 Remote Europe | ⭐ 79/100 | 🏆 Grade B
+💡 Founding engineer at a European AI/LLM startup — build-from-zero dynamic that mirrors the Alaya journey, CET timezone, no prior LLM experience required signals they want a platform builder.
+🔗 https://wellfound.com/jobs/3036412-founding-full-stack-engineer-llm-applied-ai-no-prior-llm-experience-required
+
+*3.* *Founding AI Engineer (Staff)* @ Tracer Cloud Inc
+📍 London / Remote EU | ⭐ 79/100 | 🏆 Grade B
+💡 Staff founding role owning core AI infrastructure architecture — maps directly to cofounder-to-scale DNA and AI-augmented platform thinking.
+🔗 https://jobs.ashbyhq.com/tracer/02ddb9a6-b717-4ef1-98f5-ef526564edc5
+
+*4.* *Staff AI Backend Engineer — AWS / Node.js / TypeScript* @ Serve First
+📍 Hybrid UK (3 days/month) | ⭐ 77/100 | 🏆 Grade B
+💡 Techstars AI startup with near-perfect stack (TypeScript, Node.js, AWS, AI) — hybrid UK is a trade-off from Geneva but manageable.
+🔗 https://jobs.techstars.com/companies/serve-first/jobs/57244694-staff-ai-backend-engineer-aws-node-js-typescript
+
+*5.* *Staff Engineer* @ Relay Commerce
+📍 Remote (Global) | ⭐ 69/100 | 🏆 Grade C
+💡 Staff back-end role at a remote-first ecommerce SaaS — solid seniority match, limited AI/platform differentiation vs. top picks.
+🔗 https://weworkremotely.com/remote-jobs/relay-commerce-staff-engineer
+
+*6.* *Staff Software Engineer — Magic Containers* @ bunny.net
+📍 Remote Europe (CET) | ⭐ 67/100 | 🏆 Grade C
+💡 Edge-native container platform at a profitable CDN scaleup — Staff architecture ownership, CET-friendly, but stack is distributed systems/Linux rather than TypeScript/Node.
+🔗 https://bunnynet.teamtailor.com/jobs/6636274-staff-software-engineer-magic-containers
+
+---
+📊 _12 new offers | 578 total tracked_

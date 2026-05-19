@@ -1,0 +1,79 @@
+{
+  "date": "2026-05-19",
+  "total_searched": 26,
+  "new_offers": 12,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Member of Technical Staff, TypeScript Engineer (Principal)",
+      "company": "Inkeep",
+      "location": "Remote (USA / Global)",
+      "url": "https://jobs.ashbyhq.com/inkeep/7bf64445-f811-4e05-8ad1-06549299597f/application",
+      "score": 81,
+      "grade": "B",
+      "why": "YC + Khosla Ventures AI agent platform (customers include Anthropic and Midjourney) — Principal TypeScript role architecting the SDK and API layer powering thousands of developers. Exact stack match, founding-stage equity upside, though USA-centric.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Founding Full Stack Engineer — AI, LLM",
+      "company": "Berry",
+      "location": "Remote Europe",
+      "url": "https://wellfound.com/jobs/3036412-founding-full-stack-engineer-llm-applied-ai-no-prior-llm-experience-required",
+      "score": 79,
+      "grade": "B",
+      "why": "Founding engineer at a European AI/LLM startup — the build-from-zero founding dynamic that mirrors the Alaya journey, remote Europe timezone, strong equity upside. No prior LLM experience required signals they value generalist platform builders.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Founding AI Engineer (Staff)",
+      "company": "Tracer Cloud Inc",
+      "location": "London / Remote EU",
+      "url": "https://jobs.ashbyhq.com/tracer/02ddb9a6-b717-4ef1-98f5-ef526564edc5",
+      "score": 79,
+      "grade": "B",
+      "why": "Staff-level founding role owning core AI infrastructure architecture — production infrastructure analysis agent, maps directly to cofounder-to-scale DNA and AI-augmented engineering focus. London/Remote EU is manageable from Geneva.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Staff AI Backend Engineer — AWS / Node.js / TypeScript",
+      "company": "Serve First",
+      "location": "Hybrid UK (Milton Keynes, ~3 days/month)",
+      "url": "https://jobs.techstars.com/companies/serve-first/jobs/57244694-staff-ai-backend-engineer-aws-node-js-typescript",
+      "score": 77,
+      "grade": "B",
+      "why": "Near-perfect technical match (TypeScript, Node.js, AWS, AI) at a Techstars-backed AI startup — Staff-level AI backend ownership. Hybrid UK commitment (~3 days/month) is a trade-off for Geneva-based candidate but manageable.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Staff Engineer",
+      "company": "Relay Commerce",
+      "location": "Remote (Global)",
+      "url": "https://weworkremotely.com/remote-jobs/relay-commerce-staff-engineer",
+      "score": 69,
+      "grade": "C",
+      "why": "Staff back-end role at an ecommerce SaaS — solid seniority and remote-first culture but limited AI/platform differentiation and mission alignment compared to top picks.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 6,
+      "title": "Staff Software Engineer — Magic Containers",
+      "company": "bunny.net",
+      "location": "Remote Europe (CET timezone)",
+      "url": "https://bunnynet.teamtailor.com/jobs/6636274-staff-software-engineer-magic-containers",
+      "score": 67,
+      "grade": "C",
+      "why": "Edge-native container platform at a profitable CDN scaleup — staff-level architecture ownership and remote CET, but primary stack is distributed systems/Linux/networking rather than TypeScript/Node.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
