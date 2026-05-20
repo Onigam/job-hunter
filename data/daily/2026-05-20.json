@@ -1,0 +1,139 @@
+{
+  "date": "2026-05-20",
+  "total_searched": 16,
+  "new_offers": 16,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Founding Software Engineer",
+      "company": "Assembly",
+      "location": "Remote",
+      "url": "https://www.ycombinator.com/companies/assembly-2/jobs/6goKR1I-founding-software-engineer-remote",
+      "score": 84,
+      "grade": "B",
+      "why": "Founding role building infrastructure for human-agent collaboration — Go/TypeScript/Python stack maps perfectly to Magino's cofounder background and current AI-augmented engineering focus at Benevity.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Founding Engineer (Backend)",
+      "company": "Sola",
+      "location": "Remote",
+      "url": "https://www.ycombinator.com/companies/sola/jobs/k37U3Wt-founding-engineer-backend",
+      "score": 80,
+      "grade": "B",
+      "why": "YC-backed founding backend role with Magino's exact stack (Python/TypeScript/AWS/containerization) — build-from-zero ownership and strong equity upside.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Founding ML Engineer",
+      "company": "Weave",
+      "location": "Remote",
+      "url": "https://www.ycombinator.com/companies/weave-3/jobs/ZPyeXzM-founding-ml-engineer",
+      "score": 80,
+      "grade": "B",
+      "why": "YC founding ML Engineer role (React+TypeScript+Go+Python) — AI/ML focus aligns with Magino's LLM integration work and Alaya cofounder DNA.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Founding Platform Engineer",
+      "company": "Converge",
+      "location": "Remote",
+      "url": "https://www.ycombinator.com/companies/converge/jobs/eCJY6rt-founding-platform-engineer",
+      "score": 79,
+      "grade": "B",
+      "why": "Build the data platform from scratch at a YC startup — Python/data engineering matches Magino's platform ownership at Benevity, founding-level scope.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Founding Backend Engineer",
+      "company": "Remo",
+      "location": "Remote",
+      "url": "https://www.ycombinator.com/companies/remo/jobs/tWlHc8W-founding-backend-engineer",
+      "score": 77,
+      "grade": "B",
+      "why": "Founding backend at YC company with TypeScript/Go/Java/Python — founding-level ownership mirrors Alaya cofounder experience.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 6,
+      "title": "Staff Software Engineer, Voices",
+      "company": "Synthesia",
+      "location": "Remote EU/CH",
+      "url": "https://www.remoteitjobs.app/job/synthesia-staff-software-engineer-voices",
+      "score": 77,
+      "grade": "B",
+      "why": "Staff Engineer owning Synthesia's voice AI platform (CHF 130k+ base, Switzerland-eligible remote) — AI-first scaleup, backend/platform scope, Europe-friendly.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 7,
+      "title": "Staff Software Engineer, Enterprise Europe",
+      "company": "Synthesia",
+      "location": "Remote EU/CH",
+      "url": "https://talent.seedcamp.com/companies/synthesia/jobs/73682107-staff-software-engineer-enterprise-europe",
+      "score": 76,
+      "grade": "B",
+      "why": "Staff level enterprise platform role at Synthesia (CHF 100k+, remote CH) — backend reliability and scalability work for Europe's largest AI video customers.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 8,
+      "title": "Staff AI Platform Engineer",
+      "company": "Bluefish",
+      "location": "Remote UK/Europe",
+      "url": "https://www.remotech.ai/jobs/staff-ai-platform-engineer",
+      "score": 76,
+      "grade": "B",
+      "why": "Staff-level AI platform engineering role with TypeScript/Python — strong AI focus and platform ownership fit Magino's current trajectory.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 9,
+      "title": "Staff Software Engineer",
+      "company": "NetBird",
+      "location": "Remote Europe (Berlin)",
+      "url": "https://careers.netbird.io/",
+      "score": 71,
+      "grade": "B",
+      "why": "Staff Engineer at open-source networking startup (25k GitHub stars, Series A, HN May 2026) — scaling and systems design challenge, fully remote Europe.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 10,
+      "title": "VP of Engineering (Europe)",
+      "company": "Pex",
+      "location": "Remote Europe",
+      "url": "https://startup.jobs/vp-of-engineering-europe-pex-2504179",
+      "score": 70,
+      "grade": "B",
+      "why": "VP Engineering for Europe at a media-tech company — leadership scope fits Magino's seniority and the Europe remit is Geneva-compatible.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 11,
+      "title": "Systems Engineer (Security)",
+      "company": "Proton",
+      "location": "Geneva, Switzerland",
+      "url": "https://boards.eu.greenhouse.io/proton/jobs/4355935101",
+      "score": 70,
+      "grade": "B",
+      "why": "Proton is Geneva-based privacy-first product company — maximum location fit and strong engineering culture, though security focus is adjacent to Magino's core stack.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
