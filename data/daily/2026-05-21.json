@@ -1,0 +1,79 @@
+{
+  "date": "2026-05-21",
+  "total_searched": 28,
+  "new_offers": 12,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Founding Engineer",
+      "company": "BetterDB",
+      "location": "Remote (Worldwide)",
+      "url": "https://news.ycombinator.com/item?id=48026144",
+      "score": 79,
+      "grade": "B",
+      "why": "Founding engineer role at a Redis/Valkey observability startup \u2014 TypeScript, NestJS, Fastify, React, Kubernetes, Terraform \u2014 perfect full-stack founding ownership at zero-to-one stage, exactly where Magino thrives.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Principal Engineer (Platform Architecture, JetBrains Cloud Platform)",
+      "company": "JetBrains",
+      "location": "Remote Europe (Netherlands / Germany / Czech Republic / Spain)",
+      "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4814966101",
+      "score": 73,
+      "grade": "B",
+      "why": "Shape the technical foundations of an AI-native developer cloud from scratch \u2014 Kubernetes, AWS, distributed systems \u2014 at a company that genuinely bets on the future of software development; strong platform architecture ownership mandate.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Staff Software Engineer",
+      "company": "Solace Health",
+      "location": "Remote (USA)",
+      "url": "https://news.ycombinator.com/item?id=47975870",
+      "score": 72,
+      "grade": "B",
+      "why": "Exact stack match \u2014 TypeScript, NodeJS, NestJS, ReactJS, PostgreSQL, GCP \u2014 at a healthcare startup with 00k-25k + equity; US-remote puts timezone at a slight disadvantage from Geneva but workable.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "VP of Engineering, Product",
+      "company": "Typeform",
+      "location": "Remote Europe",
+      "url": "https://boards.greenhouse.io/typeform/jobs/2976178",
+      "score": 65,
+      "grade": "C",
+      "why": "High-leverage leadership role overseeing 6 product tribes across Remote Europe \u2014 strong fit on location and company type but requires 100+ FTE management experience; worth a look as a strategic senior-level stretch.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Staff Infrastructure Software Engineer, Enterprise AI",
+      "company": "Scale AI",
+      "location": "New York, NY or San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4599700005",
+      "score": 65,
+      "grade": "C",
+      "why": "Strong technical match on Python/TypeScript, Kubernetes, AWS with an AI-first mission (paved road for enterprise agentic workflows) but onsite NYC/SF requirement is a major blocker from Geneva.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 6,
+      "title": "Principal Engineer, Core Platform",
+      "company": "Hostaway",
+      "location": "Remote EMEA",
+      "url": "https://careers.hostaway.com/o/principal-engineer-core-platform-remote-emea",
+      "score": 58,
+      "grade": "C",
+      "why": "Principal-level ownership of a 65M-funded SaaS platform evolution (monolith to microservices) \u2014 strong seniority fit and remote EMEA location, but PHP as primary language is a weak tech fit for a TypeScript/Node background.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}

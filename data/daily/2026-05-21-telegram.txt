@@ -1,0 +1,34 @@
+🎯 *Job Hunt — 2026-05-21*
+
+*1.* *Founding Engineer* @ BetterDB
+📍 Remote (Worldwide) | ⭐ 79/100 | 🏆 Grade B
+💡 TypeScript/NestJS/Kubernetes founding role at a Redis/Valkey observability startup — zero-to-one ownership, Magino's sweet spot.
+🔗 https://news.ycombinator.com/item?id=48026144
+
+*2.* *Principal Engineer (Platform Architecture)* @ JetBrains
+📍 Remote Europe | ⭐ 73/100 | 🏆 Grade B
+💡 Shape the AI-native JetBrains Cloud Platform from scratch — pure platform architecture ownership with Kubernetes and AWS at a developer-tools icon.
+🔗 https://job-boards.eu.greenhouse.io/jetbrains/jobs/4814966101
+
+*3.* *Staff Software Engineer* @ Solace Health
+📍 Remote USA | ⭐ 72/100 | 🏆 Grade B
+💡 Exact stack (TypeScript, NodeJS, NestJS, ReactJS, PostgreSQL, GCP) at a healthcare startup with $200k–$225k + equity; US timezone is the only friction.
+🔗 https://news.ycombinator.com/item?id=47975870
+
+*4.* *VP of Engineering, Product* @ Typeform
+📍 Remote Europe | ⭐ 65/100 | 🏆 Grade C
+💡 6 product tribes, 100+ engineers, Remote Europe — high-leverage leadership stretch that matches the cofounder-to-exec trajectory.
+🔗 https://boards.greenhouse.io/typeform/jobs/2976178
+
+*5.* *Staff Infrastructure Engineer, Enterprise AI* @ Scale AI
+📍 New York / San Francisco (onsite) | ⭐ 65/100 | 🏆 Grade C
+💡 Paved-road architect for enterprise agentic AI workflows — technically compelling but onsite US is a hard constraint from Geneva.
+🔗 https://job-boards.greenhouse.io/scaleai/jobs/4599700005
+
+*6.* *Principal Engineer, Core Platform* @ Hostaway
+📍 Remote EMEA | ⭐ 58/100 | 🏆 Grade C
+💡 Principal ownership of a $365M-funded vacation rental SaaS platform — great seniority fit and EMEA remote, but primary stack is PHP.
+🔗 https://careers.hostaway.com/o/principal-engineer-core-platform-remote-emea
+
+---
+📊 _12 new offers | 606 total tracked_
