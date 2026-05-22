@@ -1,0 +1,103 @@
+{
+  "date": "2026-05-22",
+  "total_searched": 26,
+  "new_offers": 8,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Member of Technical Staff (Backend & Infrastructure)",
+      "company": "Jua.ai",
+      "location": "Zürich, Switzerland (Hybrid 3 days/week)",
+      "url": "https://jua.ai/company/careers",
+      "score": 81,
+      "grade": "B",
+      "why": "Frontier AI lab building a foundation world model for earth systems — petabyte-scale infrastructure in Zurich, Switzerland. Staff-level role with deep AI exposure; Magino's platform engineering and co-founder background maps directly to ownership culture at a small, elite team.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Late Co-Founder & CTO",
+      "company": "Ultravionix",
+      "location": "Geneva, Switzerland",
+      "url": "https://www.startupticker.ch/en/jobs",
+      "score": 73,
+      "grade": "B",
+      "why": "CTO co-founder seat in Geneva — highest-priority location and seniority match. Aviation/optical sensing is niche and not AI-first, but zero-to-one founding opportunity with Geneva equity upside directly mirrors Magino's Alaya experience.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Senior Product Engineer (TypeScript/React)",
+      "company": "Starbridge AI",
+      "location": "London / Remote (International)",
+      "url": "https://jobs.ashbyhq.com/starbridge/83b12151-7581-4ae5-8954-9c1f5287286d",
+      "score": 72,
+      "grade": "B",
+      "why": "Early-stage AI platform turning enterprise data into sales intelligence — TypeScript/React full-stack with deep LLM/document-analysis work. Remote-international eligible; Magino's AI-augmented engineering background and founder mindset are exactly what an early AI startup needs.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Senior Software Engineers (Platform & Autonomy)",
+      "company": "MONUMENTAL",
+      "location": "Amsterdam, Netherlands (Onsite)",
+      "url": "https://www.monumental.co/jobs",
+      "score": 64,
+      "grade": "C",
+      "why": "Autonomous construction robotics — Go/Python/React/Kubernetes stack with compelling mission of software-defined buildings. Amsterdam onsite is a significant barrier for Geneva-based Magino, but mission and engineering culture are strong.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Staff Software Engineer (AllBooked)",
+      "company": "Skedda",
+      "location": "Remote Europe (CET timezone)",
+      "url": "https://job-boards.greenhouse.io/skedda/jobs/5062603007",
+      "score": 57,
+      "grade": "C",
+      "why": "Staff-level IC role with genuine technical leadership scope at a 7000+ customer SaaS platform. Remote Europe CET is a fit; .NET/C# stack is the main mismatch against Magino's TypeScript/Node expertise.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 6,
+      "title": "Senior Backend Engineer",
+      "company": "Woosmap",
+      "location": "Remote Europe (UTC-1 to UTC+2) / Hybrid London, Paris",
+      "url": "https://www.linkedin.com/jobs/view/4410617739",
+      "score": 56,
+      "grade": "C",
+      "why": "Location APIs at enterprise scale — Python/Go/TypeScript/AWS stack with small team, high ownership culture. Remote Europe timezone matches Geneva; seniority cap (Senior vs Staff+) limits the appeal.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 7,
+      "title": "Senior Product Engineer",
+      "company": "Chestnut",
+      "location": "San Francisco, CA or Seattle, WA (Hybrid)",
+      "url": "https://news.ycombinator.com/item?id=47977276",
+      "score": 63,
+      "grade": "C",
+      "why": "Insurance carrier infrastructure — Go/TypeScript/Postgres/Temporal/Kubernetes stack with serious correctness requirements. Strong tech fit, but SF/Seattle hybrid kills location score for Geneva-based Magino.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 8,
+      "title": "Product Software Engineer",
+      "company": "PlantingSpace",
+      "location": "Remote (EU timezone)",
+      "url": "https://news.ycombinator.com/item?id=47975959",
+      "score": 55,
+      "grade": "C",
+      "why": "Modular probabilistic models for finance and scientific research — remote EU, high autonomy, intellectually unusual mission. Stack (Haskell-adjacent, category theory) is far from Magino's TypeScript/Node core.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
