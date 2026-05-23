@@ -1,0 +1,19 @@
+🎯 *Job Hunt — 2026-05-23*
+
+*1.* *Lead/Staff Platform Engineer* @ Zencoder
+📍 Remote Global (EU eligible) | ⭐ 76/100 | 🏆 Grade B
+💡 Builds the AI coding platform integrating Claude Code + Codex for enterprise devtools — IC-first, perfect AI-augmented engineering match for Magino.
+🔗 https://job-boards.greenhouse.io/zencoder/jobs/5117063007
+
+*2.* *Senior Software Engineer, AI Foundations* @ Kraken Tech
+📍 Remote Europe (London / Paris / Berlin) | ⭐ 68/100 | 🏆 Grade C
+💡 Shared AI/ML platform for all engineering teams at the energy intelligence scaleup (Octopus Energy group). Python + LLM frameworks + AWS Bedrock.
+🔗 https://www.welcometothejungle.com/en/companies/kraken/jobs/senior-software-engineer-ai-foundations_london
+
+*3.* *Field CTO* @ SonarSource
+📍 Geneva, Switzerland (global travel) | ⭐ 64/100 | 🏆 Grade C
+💡 Strategic advisory to CTOs/VPs at largest enterprise accounts on SDLC + AI. Geneva HQ + strong brand — advisory/evangelism role, not a builder seat.
+🔗 https://jobs.lever.co/sonarsource/f5cc8115-1935-4b0d-bcf9-810c60f840d4
+
+---
+📊 _3 new offers | 22 searches run | Most known roles already tracked in mature DB_

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22",
+  "last_updated": "2026-05-23",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -9201,6 +9201,87 @@
       "date_added": "2026-05-22",
       "score": 55,
       "grade": "C",
+      "status": "new"
+    },
+    {
+      "id": "zencoder-lead-platform-5117063007",
+      "title": "Lead/Staff Platform Engineer",
+      "company": "Zencoder",
+      "location": "Remote (Global — EU eligible)",
+      "url": "https://job-boards.greenhouse.io/zencoder/jobs/5117063007",
+      "source": "greenhouse",
+      "description_short": "Zencoder is building the universal AI coding platform integrating Claude Code, Codex, and Zen CLI for enterprise developer tooling. The Lead/Staff Platform Engineer raises the bar on how the org ships software for both human engineers and AI coding agents. Multi-language (JS, Rust, Python, JVM) + AWS/GCP. IC-first culture, founded by Andrew Filev (Wrike unicorn). Remote-first, global hiring.",
+      "date_posted": null,
+      "date_added": "2026-05-23",
+      "score": 76,
+      "grade": "B",
+      "score_breakdown": {
+        "technical": 7,
+        "seniority": 9,
+        "location": 7,
+        "company": 8,
+        "impact": 8,
+        "mission": 9,
+        "compensation": 5,
+        "growth": 6,
+        "ai_llm": 10,
+        "novelty": 7
+      },
+      "match_reason": "Builds the engineering platform for AI coding agents (Claude Code, Codex) — precisely Magino's AI-augmented engineering focus. Lead/Staff level IC ownership with platform architecture scope.",
+      "status": "new"
+    },
+    {
+      "id": "kraken-tech-ai-foundations-swe-2026",
+      "title": "Senior Software Engineer, AI Foundations",
+      "company": "Kraken Tech",
+      "location": "Remote Europe (London / Paris / Berlin / Tokyo / NY + Remote)",
+      "url": "https://www.welcometothejungle.com/en/companies/kraken/jobs/senior-software-engineer-ai-foundations_london",
+      "source": "welcometothejungle",
+      "description_short": "Kraken Tech (energy intelligence, Octopus Energy group) is building a shared AI/ML platform enabling all engineering teams to safely and reliably adopt GenAI. The AI Foundations team builds production Python services, LLM-powered features, and internal tooling — using PydanticAI, LiteLLM, LangChain, Django, AWS Bedrock, Datadog. Available in London, Paris, Berlin, Tokyo, New York and Remote. HN May 2026: https://news.ycombinator.com/item?id=47985200",
+      "date_posted": "2026-05-01",
+      "date_added": "2026-05-23",
+      "score": 68,
+      "grade": "C",
+      "score_breakdown": {
+        "technical": 6,
+        "seniority": 5,
+        "location": 7,
+        "company": 7,
+        "impact": 8,
+        "mission": 7,
+        "compensation": 5,
+        "growth": 7,
+        "ai_llm": 9,
+        "novelty": 7
+      },
+      "match_reason": "AI Foundations team — building shared LLM platform for all engineers — maps well to Magino's platform engineering expertise. Remote EU compatible. Energy sector mission is impact-positive.",
+      "status": "new"
+    },
+    {
+      "id": "sonarsource-field-cto-f5cc8115",
+      "title": "Field CTO",
+      "company": "SonarSource",
+      "location": "Geneva, Switzerland (global travel required)",
+      "url": "https://jobs.lever.co/sonarsource/f5cc8115-1935-4b0d-bcf9-810c60f840d4",
+      "source": "lever",
+      "description_short": "SonarSource (7M+ devs, 400K+ orgs, Geneva HQ) is hiring a Field CTO to serve as strategic technical advisor to CTOs and VP-level technology leaders at the largest global enterprise accounts. Mix of market evangelism, deep advisory, and product roadmap influence. Requires prior Divisional CTO / VP Solutions Architect experience, deep SDLC/AI/security expertise, and strong executive communication skills. Frequent customer site travel required.",
+      "date_posted": null,
+      "date_added": "2026-05-23",
+      "score": 64,
+      "grade": "C",
+      "score_breakdown": {
+        "technical": 4,
+        "seniority": 6,
+        "location": 10,
+        "company": 9,
+        "impact": 4,
+        "mission": 6,
+        "compensation": 8,
+        "growth": 6,
+        "ai_llm": 4,
+        "novelty": 7
+      },
+      "match_reason": "Geneva-based at a top developer tools company — strong location and brand fit — but this is a customer-facing advisory/evangelism role, not engineering leadership or product building. Mismatch with Magino's target roles.",
       "status": "new"
     }
   ]

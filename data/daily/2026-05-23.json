@@ -1,0 +1,67 @@
+{
+  "date": "2026-05-23",
+  "total_searched": 22,
+  "new_offers": 3,
+  "searches_run": [
+    "Staff/Principal/Platform Engineer Switzerland Geneva",
+    "Founding Engineer / First Engineer startup Switzerland",
+    "VP Engineering / Head of Engineering Geneva Switzerland",
+    "CTO early-stage startup Switzerland Wellfound",
+    "Staff Engineer remote Europe TypeScript Node.js",
+    "AI Platform Engineer remote Europe Switzerland",
+    "SonarSource Geneva Principal Platform Engineer",
+    "Circuit Staff Software Engineer TypeScript remote",
+    "EggAI Tech Lead AI Engineer remote EU",
+    "GF-ACCORD AI Geneva CTO Wellfound",
+    "Shook Digital Founding Engineer Helsinki remote EU",
+    "Axe Founding Engineer Europe TypeScript Python",
+    "fractional CTO part-time CTO Switzerland Geneva",
+    "Zencoder Lead Staff Platform Engineer remote",
+    "Kraken Tech Senior Software Engineer AI Foundations",
+    "Ashby Staff Software Engineer EMEA remote",
+    "HN hiring May 2026 founding engineer staff engineer Switzerland remote",
+    "Proton AG Geneva Engineering Director new openings",
+    "Sundogs Senior Software Engineer Data ML remote Europe",
+    "SonarSource Field CTO Geneva lever",
+    "Staff Engineer Principal Engineer AI LLM platform remote Europe startup",
+    "VP Engineering Head of Engineering Geneva Switzerland startup May 2026"
+  ],
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Lead/Staff Platform Engineer",
+      "company": "Zencoder",
+      "location": "Remote (Global — EU eligible)",
+      "url": "https://job-boards.greenhouse.io/zencoder/jobs/5117063007",
+      "score": 76,
+      "grade": "B",
+      "why": "Zencoder builds the universal AI coding platform integrating Claude Code, Codex, and Zen CLI into enterprise developer tooling — the Lead/Staff Platform Engineer owns how the org ships software for human engineers and AI agents. Perfect alignment with Magino's AI-augmented engineering expertise and platform leadership background. IC-first culture, founded by Andrew Filev (Wrike unicorn).",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Senior Software Engineer, AI Foundations",
+      "company": "Kraken Tech",
+      "location": "Remote Europe (London / Paris / Berlin + Remote)",
+      "url": "https://www.welcometothejungle.com/en/companies/kraken/jobs/senior-software-engineer-ai-foundations_london",
+      "score": 68,
+      "grade": "C",
+      "why": "Kraken Tech (energy intelligence, Octopus Energy group) is building a shared AI/ML platform to enable GenAI adoption across all engineering teams — Python/Django + LLM frameworks (PydanticAI, LiteLLM) + AWS. The AI Foundations team mandate maps well to Magino's platform engineering work, though the seniority is 'Senior' not Staff+ and Python is secondary in his stack.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Field CTO",
+      "company": "SonarSource",
+      "location": "Geneva, Switzerland (global travel required)",
+      "url": "https://jobs.lever.co/sonarsource/f5cc8115-1935-4b0d-bcf9-810c60f840d4",
+      "score": 64,
+      "grade": "C",
+      "why": "Geneva-based strategic technical advisory role at SonarSource (7M devs, 400K orgs). Engages with CTOs and VPs at largest enterprise accounts on SDLC, AI, and application security strategy. Strong Geneva location and SonarSource brand — however this is a customer-facing evangelism/pre-sales role, not engineering leadership or building, which is a significant mismatch with Magino's target roles.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
