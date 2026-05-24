@@ -1,0 +1,79 @@
+{
+  "date": "2026-05-24",
+  "total_searched": 21,
+  "new_offers": 8,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "AI Engineering Manager",
+      "company": "n8n",
+      "location": "Remote — Europe",
+      "url": "https://jobs.ashbyhq.com/n8n/f814f5ce-b615-413d-bbe0-b5786b3872e9",
+      "score": 74,
+      "grade": "B",
+      "why": "n8n is one of Europe's fastest-growing AI-first developer platforms (TS/Node stack), and this EM role offers genuine influence over the AI engineering direction — a natural next step from Magino's Staff+Cofounder background, with equity upside and full EU remote.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Founding Full Stack Engineer — LLM, Applied AI",
+      "company": "Berry AI",
+      "location": "Remote — Europe",
+      "url": "https://weworkremotely.com/remote-jobs/berry-ai-founding-full-stack-engineer-llm-applied-ai-no-prior-llm-experience-required",
+      "score": 72,
+      "grade": "B",
+      "why": "YC-backed founding engineer role with real LLM product ownership — matches Magino's Alaya cofounder DNA perfectly. Major caveat: $50K-$85K salary is 50-60% below Geneva market rates, making it viable only with strong equity negotiation.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Founding Software Engineer — Agentic AI",
+      "company": "Glacis",
+      "location": "Remote",
+      "url": "https://jobs.ashbyhq.com/glacis-ai/feea2cb6-60db-4afa-8358-ba17d05d1cd5",
+      "score": 68,
+      "grade": "C",
+      "why": "Founding-level agentic AI role with legendary VC backing — Magino's cofounder track record is a perfect credential here. Python-heavy stack and US-centric remote policy are friction points; compensation requires significant negotiation for a Geneva-based candidate.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "VP of Engineering",
+      "company": "Inception Point AI",
+      "location": "Remote (US-based startup, NYC)",
+      "url": "https://jobs.ashbyhq.com/Inception%20Point%20AI/0e170876-061d-42d5-ad70-b7fd0c4eb3a5",
+      "score": 67,
+      "grade": "C",
+      "why": "VP Engineering at a Series A AI startup is a strong seniority match for Magino's trajectory, but the NYC-based company likely expects US timezone coverage — location eligibility for Geneva needs explicit confirmation before applying.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Staff Software Engineer",
+      "company": "Overstory",
+      "location": "Remote — Europe (Switzerland explicitly eligible)",
+      "url": "https://job-boards.eu.greenhouse.io/overstory/jobs/4367081101",
+      "score": 67,
+      "grade": "C",
+      "why": "Switzerland explicitly eligible with location-specific compensation (likely CHF rates) — rare for remote roles. Climate/sustainability mission has genuine impact, though the Python/geospatial stack is a partial fit vs. Magino's Node/TypeScript core.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 6,
+      "title": "Staff Software Engineer",
+      "company": "Malt",
+      "location": "Remote — Europe",
+      "url": "https://remoteok.com/remote-jobs/remote-staff-software-engineer-malt-1129398",
+      "score": 62,
+      "grade": "C",
+      "why": "Staff-level architectural influence at a well-known European product company — the title and scope match Magino's profile well, but Malt's Kotlin/Java primary stack is a meaningful mismatch vs. his TypeScript/Node expertise.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}

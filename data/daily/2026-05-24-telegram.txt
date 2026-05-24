@@ -1,0 +1,34 @@
+🎯 *Job Hunt — 2026-05-24*
+
+*1.* *AI Engineering Manager* @ n8n
+📍 Remote — Europe | ⭐ 74/100 | 🏆 Grade B
+💡 AI-first developer platform (TS/Node), EM role with genuine technical direction ownership over a scaling AI team — natural evolution from Staff+Cofounder background
+🔗 https://jobs.ashbyhq.com/n8n/f814f5ce-b615-413d-bbe0-b5786b3872e9
+
+*2.* *Founding Full Stack Engineer — LLM, Applied AI* @ Berry AI
+📍 Remote — Europe | ⭐ 72/100 | 🏆 Grade B
+💡 YC-backed founding engineer role with LLM product ownership — perfect Alaya cofounder DNA fit, but salary ($50K-$85K) needs strong equity negotiation for Geneva
+🔗 https://weworkremotely.com/remote-jobs/berry-ai-founding-full-stack-engineer-llm-applied-ai-no-prior-llm-experience-required
+
+*3.* *Founding Software Engineer — Agentic AI* @ Glacis
+📍 Remote | ⭐ 68/100 | 🏆 Grade C
+💡 Founding role at supply-chain AI startup backed by Flexport/Databricks/Perplexity VCs — cofounder credentials shine here, Python stack and comp range need negotiation
+🔗 https://jobs.ashbyhq.com/glacis-ai/feea2cb6-60db-4afa-8358-ba17d05d1cd5
+
+*4.* *VP of Engineering* @ Inception Point AI
+📍 Remote — NYC startup | ⭐ 67/100 | 🏆 Grade C
+💡 Series A AI startup, VP role with full tech stack ownership — strong seniority match, but NYC-based company; confirm EU timezone eligibility before applying
+🔗 https://jobs.ashbyhq.com/Inception%20Point%20AI/0e170876-061d-42d5-ad70-b7fd0c4eb3a5
+
+*5.* *Staff Software Engineer* @ Overstory
+📍 Remote — Europe (🇨🇭 Switzerland eligible) | ⭐ 67/100 | 🏆 Grade C
+💡 Switzerland explicitly listed with location-specific compensation — rare for remote roles; climate tech mission, Python/geospatial stack is partial fit
+🔗 https://job-boards.eu.greenhouse.io/overstory/jobs/4367081101
+
+*6.* *Staff Software Engineer* @ Malt
+📍 Remote — Europe | ⭐ 62/100 | 🏆 Grade C
+💡 Staff-level architectural role at Europe's leading freelance marketplace — scope fits perfectly, primary Kotlin/Java stack is the main friction vs. TypeScript/Node
+🔗 https://remoteok.com/remote-jobs/remote-staff-software-engineer-malt-1129398
+
+---
+📊 _8 new offers | 625 total tracked_

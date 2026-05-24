@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23",
+  "last_updated": "2026-05-24",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -9282,6 +9282,110 @@
         "novelty": 7
       },
       "match_reason": "Geneva-based at a top developer tools company — strong location and brand fit — but this is a customer-facing advisory/evangelism role, not engineering leadership or product building. Mismatch with Magino's target roles.",
+      "status": "new"
+    },
+    {
+      "id": "ada222abef020a1fdcd37570118094c1",
+      "title": "AI Engineering Manager",
+      "company": "n8n",
+      "location": "Remote — Europe",
+      "url": "https://jobs.ashbyhq.com/n8n/f814f5ce-b615-413d-bbe0-b5786b3872e9",
+      "source": "ashbyhq",
+      "summary": "n8n (260+ team, Berlin-HQ, AI workflow orchestration platform with 60k+ GitHub stars) seeks an Engineering Manager to lead their AI engineering team as they scale from 8 to 17+ platform engineers. TypeScript/Node.js stack. Remote Europe.",
+      "score": 74,
+      "grade": "B",
+      "date_found": "2026-05-24",
+      "status": "new"
+    },
+    {
+      "id": "9dc7ccb6d18a8597329fa061bd95afbf",
+      "title": "Founding Full Stack Engineer — LLM, Applied AI",
+      "company": "Berry AI",
+      "location": "Remote — Europe",
+      "url": "https://weworkremotely.com/remote-jobs/berry-ai-founding-full-stack-engineer-llm-applied-ai-no-prior-llm-experience-required",
+      "source": "weworkremotely",
+      "summary": "Berry AI (YC-backed) seeks a founding full stack engineer to build their LLM-powered SaaS onboarding product. Remote Europe. Salary $50K-$85K (below CH market).",
+      "score": 72,
+      "grade": "B",
+      "date_found": "2026-05-24",
+      "status": "new"
+    },
+    {
+      "id": "9427b1f54d615a744a7c15a78ee323b5",
+      "title": "Founding Software Engineer — Agentic AI",
+      "company": "Glacis",
+      "location": "Remote",
+      "url": "https://jobs.ashbyhq.com/glacis-ai/feea2cb6-60db-4afa-8358-ba17d05d1cd5",
+      "source": "ashbyhq",
+      "summary": "Glacis (supply-chain AI agents, VC-backed by Flexport/Databricks/Perplexity investors) seeks a founding engineer. Python/Django + JS stack. Salary $40K-$120K range.",
+      "score": 68,
+      "grade": "C",
+      "date_found": "2026-05-24",
+      "status": "new"
+    },
+    {
+      "id": "ba7d822cebf7022810b9a847fc702bbf",
+      "title": "VP of Engineering",
+      "company": "Inception Point AI",
+      "location": "Remote (US-based startup)",
+      "url": "https://jobs.ashbyhq.com/Inception%20Point%20AI/0e170876-061d-42d5-ad70-b7fd0c4eb3a5",
+      "source": "ashbyhq",
+      "summary": "Inception Point AI (Series A, $5M, AI personalities for storytelling, NYC) seeks VP Engineering to own and build next-gen tech stack. Early-stage leadership role.",
+      "score": 67,
+      "grade": "C",
+      "date_found": "2026-05-24",
+      "status": "new"
+    },
+    {
+      "id": "45537dd6104bebbf5049f070138efffc",
+      "title": "Staff Software Engineer",
+      "company": "Overstory",
+      "location": "Remote — Europe (Switzerland eligible)",
+      "url": "https://job-boards.eu.greenhouse.io/overstory/jobs/4367081101",
+      "source": "greenhouse",
+      "summary": "Overstory (climate tech geospatial platform for utilities) seeks a Staff Software Engineer. Switzerland explicitly listed. Python/React stack, location-specific compensation.",
+      "score": 67,
+      "grade": "C",
+      "date_found": "2026-05-24",
+      "status": "new"
+    },
+    {
+      "id": "138acf06467e9944ac25efa8b15479d3",
+      "title": "Staff Software Engineer",
+      "company": "Malt",
+      "location": "Remote — Europe",
+      "url": "https://remoteok.com/remote-jobs/remote-staff-software-engineer-malt-1129398",
+      "source": "remoteok",
+      "summary": "Malt (Europe's leading freelance marketplace, 850K+ users) seeks Staff Software Engineer. Primary stack: Kotlin/Java Spring Boot, TypeScript/Vue, GCP/Kubernetes. 10+ years required.",
+      "score": 62,
+      "grade": "C",
+      "date_found": "2026-05-24",
+      "status": "new"
+    },
+    {
+      "id": "27c1fa843d7b3cc988a55093f1efdc58",
+      "title": "AI Senior Fullstack Engineer",
+      "company": "Contentsquare",
+      "location": "Remote — France/Spain/Italy/Poland/Germany",
+      "url": "https://jobs.lever.co/contentsquare/57f6b93a-af9a-4767-b469-d4d77028fe59",
+      "source": "lever",
+      "summary": "Contentsquare (Series F digital analytics SaaS) seeks AI Senior Fullstack Engineer for LLM-powered features. TypeScript/React/NestJS stack. Remote restricted to France/Spain/Italy/Poland/Germany — Switzerland excluded.",
+      "score": 60,
+      "grade": "C",
+      "date_found": "2026-05-24",
+      "status": "new"
+    },
+    {
+      "id": "7a154cbf6f04fdd05832bb9602563c47",
+      "title": "Engineering Manager",
+      "company": "ZOE",
+      "location": "Remote — UK/EU",
+      "url": "https://jobs.ashbyhq.com/zoe/11815900-07a3-4183-ba1e-bad7d67db5e5",
+      "source": "ashbyhq",
+      "summary": "ZOE (health science app, 40+ engineers, UK/EU distributed) seeks hands-on Engineering Manager. TypeScript/Kotlin/Python. UK or EU permanent right to work required.",
+      "score": 60,
+      "grade": "C",
+      "date_found": "2026-05-24",
       "status": "new"
     }
   ]
