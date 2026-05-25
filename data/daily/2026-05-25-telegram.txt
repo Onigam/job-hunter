@@ -1,0 +1,34 @@
+🎯 *Job Hunt — 2026-05-25*
+
+*1.* *Founding Engineer* @ BetterDB
+📍 Remote — Worldwide | ⭐ 82/100 | 🏆 Grade B
+💡 TypeScript/NestJS/AWS founding role at a dev-tools startup actively moving into LLM cache — straight into Magino's AI-augmented engineering zone.
+🔗 https://www.betterdb.com/
+
+*2.* *Founding Applied AI Engineer* @ Play Labs
+📍 London, UK (onsite required) | ⭐ 66/100 | 🏆 Grade C
+💡 VC-backed AI startup building VLM decision-making agents — founding ownership and frontier AI work, but London relocation required from Geneva.
+🔗 https://www.startupticker.ch/en/jobs/founding-ai-engineer-for-early-stage-london-based-vc-backed-startup
+
+*3.* *Technical Co-Founder / CTO* @ FlexiCar (Finsler Customs)
+📍 Schaffhausen / Zürich, Switzerland | ⭐ 64/100 | 🏆 Grade C
+💡 Build a digital automotive marketplace from zero — CTO/cofounder scope, meaningful equity, Switzerland-based. Automotive vertical is a stretch but the founding role and location fit.
+🔗 https://www.startupticker.ch/en/jobs/technical-co-founder-cto-build-a-scalable-automotive-marketplace
+
+*4.* *Staff Engineer, AI Developer Tooling* @ Sentry
+📍 San Francisco, CA — Hybrid | ⭐ 64/100 | 🏆 Grade C
+💡 Making Sentry's full dev infrastructure AI-agent-ready — the exact AI-augmented engineering mandate Magino has been building. $240-320K. SF hybrid is a hard location constraint worth probing.
+🔗 https://sentry.io/careers/f54fb511-a4cc-4876-9b68-6753f5c8d7cc/
+
+*5.* *Staff Engineer — Platform Engineering* @ HighLevel
+📍 Remote — Worldwide | ⭐ 60/100 | 🏆 Grade C
+💡 Staff platform role at massive Node.js SaaS scale (4B API hits/day). Fresh posting, global remote. GoLang alongside Node.js is a stretch but scope is real.
+🔗 https://remoteok.com/remote-jobs/remote-staff-engineer-platform-engineering-highlevel-1131588
+
+*6.* *Senior Platform Engineer* @ Perspective
+📍 Remote — Europe | ⭐ 55/100 | 🏆 Grade C
+💡 Own the DX platform from scratch at a profitable 10M-ARR bootstrapped SaaS. Heroku→AWS migration, CI/CD automation. Below Staff seniority but solid remote-Europe scope.
+🔗 https://join.perspectivefunnel.com/platform-engineer/
+
+---
+📊 _9 new offers | 634 total tracked_

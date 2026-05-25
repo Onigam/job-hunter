@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24",
+  "last_updated": "2026-05-25",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -9386,6 +9386,123 @@
       "score": 60,
       "grade": "C",
       "date_found": "2026-05-24",
+      "status": "new"
+    },
+    {
+      "id": "3e713897c3f7310938c1d6e5dbf765af",
+      "title": "Founding Engineer",
+      "company": "BetterDB",
+      "location": "Remote — Worldwide",
+      "url": "https://www.betterdb.com/",
+      "source": "hn",
+      "summary": "BetterDB is building the tooling ecosystem for Valkey (Redis fork backed by AWS, Google, Oracle), starting with observability and moving into LLM cache space. Stack: TypeScript, NestJS, React, Valkey, PostgreSQL, Kubernetes, AWS. Founding engineer role — hired first engineer in March, now expanding. Contact: kristiyan@betterdb.com. From HN Who is Hiring May 2026.",
+      "score": 82,
+      "grade": "B",
+      "date_found": "2026-05-25",
+      "status": "new"
+    },
+    {
+      "id": "1b6d41d2fa43223c87e6fcdf9502130a",
+      "title": "Founding Applied AI Engineer",
+      "company": "Play Labs",
+      "location": "London, UK (Onsite required)",
+      "url": "https://www.startupticker.ch/en/jobs/founding-ai-engineer-for-early-stage-london-based-vc-backed-startup",
+      "source": "startupticker",
+      "summary": "VC-backed early-stage AI startup building a proprietary Vision Language Model (VLM) that makes real-world decisions in live game environments — reasoning over images/video, navigating UIs, and performing actions across devices. Founding-level ownership. Requires London presence. Stack: VLM, robotics/autonomy frameworks, UI automation, production ML systems.",
+      "score": 66,
+      "grade": "C",
+      "date_found": "2026-05-25",
+      "status": "new"
+    },
+    {
+      "id": "06597eb6e3de149a7d9a88ca0950787d",
+      "title": "Technical Co-Founder / CTO",
+      "company": "Finsler Customs (rebranding FlexiCar)",
+      "location": "Schaffhausen / Zürich, Switzerland",
+      "url": "https://www.startupticker.ch/en/jobs/technical-co-founder-cto-build-a-scalable-automotive-marketplace",
+      "source": "startupticker",
+      "summary": "Pre-seed Swiss startup building a scalable digital automotive marketplace combining vehicle listings, financing options, and dealer offers. CTO/cofounder role with full technical ownership. Significant equity. Requires experience building SaaS or marketplace products. Available via joinup.ch.",
+      "score": 64,
+      "grade": "C",
+      "date_found": "2026-05-25",
+      "status": "new"
+    },
+    {
+      "id": "a994266d581addf9728e6f201d7a6b81",
+      "title": "Staff Software Engineer, AI Developer Tooling",
+      "company": "Sentry",
+      "location": "San Francisco, CA (Hybrid)",
+      "url": "https://sentry.io/careers/f54fb511-a4cc-4876-9b68-6753f5c8d7cc/",
+      "source": "sentry",
+      "summary": "Making Sentry's entire developer infrastructure AI-agent-ready: auditing systems, exposing APIs for AI coding agents, building context/harness tooling for Claude Code-quality PRs, automating routine engineering work. 10+ years required, background in CI/CD/infra/AI tooling. $240K-$320K base + equity. San Francisco hybrid — hard constraint for EU candidates.",
+      "score": 64,
+      "grade": "C",
+      "date_found": "2026-05-25",
+      "status": "new"
+    },
+    {
+      "id": "bb5841b2fc7e092f85f563d1a4101dd8",
+      "title": "Staff Engineer — Platform Engineering",
+      "company": "HighLevel",
+      "location": "Remote — Worldwide",
+      "url": "https://remoteok.com/remote-jobs/remote-staff-engineer-platform-engineering-highlevel-1131588",
+      "source": "remoteok",
+      "summary": "AI-powered business OS (GoHighLevel) running 4B API hits/day, 2.5B message events, 250+ microservices. Staff-level platform engineering: reusable SDKs/frameworks, cloud-native GCP solutions, high-throughput architecture. Node.js + GoLang stack. Remote-first, 2000+ team across 10+ countries. Posted May 23, 2026.",
+      "score": 60,
+      "grade": "C",
+      "date_found": "2026-05-25",
+      "status": "new"
+    },
+    {
+      "id": "3cb284e22e6e183b264dbe7bf8d59fd3",
+      "title": "Senior Platform Engineer",
+      "company": "Perspective",
+      "location": "Remote — Europe (CET preferred)",
+      "url": "https://join.perspectivefunnel.com/platform-engineer/",
+      "source": "other",
+      "summary": "Profitable bootstrapped SaaS company (10M ARR, 40 people, 5000+ customers) building funnel/marketing tools. Senior Platform Engineer to own the DX platform from scratch: CI/CD pipelines, Heroku→AWS migration, developer experience tooling, security/compliance automation. Remote Europe. Posted February 28, 2026.",
+      "score": 55,
+      "grade": "C",
+      "date_found": "2026-05-25",
+      "status": "new"
+    },
+    {
+      "id": "a5eb93a53180282a24f37a36249f7f5e",
+      "title": "Staff Software Engineer — Platform",
+      "company": "Sentry",
+      "location": "San Francisco, CA (Hybrid)",
+      "url": "https://sentry.io/careers/0850626a-bf08-4c9f-8733-62159b19b0aa/",
+      "source": "sentry",
+      "summary": "Staff platform engineer reporting to VP of Engineering at Sentry. Build foundational infrastructure, own cross-org technical initiatives, architect distributed systems. Kubernetes, Terraform, Kafka, Flink, distributed databases. 12+ years distributed systems, 5+ years cloud (AWS/GCP). $240K-$320K + equity. SF hybrid required.",
+      "score": 54,
+      "grade": "D",
+      "date_found": "2026-05-25",
+      "status": "new"
+    },
+    {
+      "id": "875527f10f5251222d79c28836b14eef",
+      "title": "Agentic System Developer",
+      "company": "robinrent.ai",
+      "location": "Zürich, Switzerland",
+      "url": "https://www.startupticker.ch/en/jobs/agentic-system-developer-in-a-growing-proptech-startup",
+      "source": "startupticker",
+      "summary": "PropTech startup (ETH/UBS UPortunity accelerator, Zürich) building agentic web platform. 3-month contract with extension. TypeScript/JavaScript or Python, Next.js/Node.js, browser automation, LLM integration. Junior/mid level. Part-time / contract arrangement.",
+      "score": 42,
+      "grade": "D",
+      "date_found": "2026-05-25",
+      "status": "new"
+    },
+    {
+      "id": "7f6c1e39765ff2673e54b477072b8485",
+      "title": "CTO / Technical Co-Founder",
+      "company": "Stealth — Precision Photonics",
+      "location": "Unknown",
+      "url": "https://www.startupticker.ch/en/jobs/cto-technical-co-founder-integrated-photonics",
+      "source": "startupticker",
+      "summary": "Fabless hardware startup building integrated nonlinear photonic modules (thin-film lithium niobate). Founding CTO to co-lead technology architecture and productization. Requires deep photonics/nonlinear optics background — major mismatch with Magino's software profile. Equity-heavy founding role.",
+      "score": 41,
+      "grade": "D",
+      "date_found": "2026-05-25",
       "status": "new"
     }
   ]

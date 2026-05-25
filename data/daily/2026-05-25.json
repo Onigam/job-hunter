@@ -1,0 +1,115 @@
+{
+  "date": "2026-05-25",
+  "total_searched": 30,
+  "new_offers": 9,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Founding Engineer",
+      "company": "BetterDB",
+      "location": "Remote — Worldwide",
+      "url": "https://www.betterdb.com/",
+      "score": 82,
+      "grade": "B",
+      "why": "TypeScript/NestJS/AWS stack matches Magino's core almost exactly. Founding-engineer ownership with full technical authority, and the product is actively moving into LLM cache space — squarely in AI-augmented engineering territory. European founder signals EU-compatible remote.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Founding Applied AI Engineer",
+      "company": "Play Labs",
+      "location": "London, UK (Onsite required)",
+      "url": "https://www.startupticker.ch/en/jobs/founding-ai-engineer-for-early-stage-london-based-vc-backed-startup",
+      "score": 66,
+      "grade": "C",
+      "why": "Founding-level ownership at a VC-backed AI startup building Vision Language Model agents for real-world decision-making. Strong AI/agentic frontier work. London relocation required is a hard constraint from Geneva.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Technical Co-Founder / CTO",
+      "company": "Finsler Customs (rebranding FlexiCar)",
+      "location": "Schaffhausen / Zürich, Switzerland",
+      "url": "https://www.startupticker.ch/en/jobs/technical-co-founder-cto-build-a-scalable-automotive-marketplace",
+      "score": 64,
+      "grade": "C",
+      "why": "Switzerland-based CTO/cofounder building a digital automotive marketplace from scratch. Full technical ownership, significant equity at pre-seed stage. Automotive vertical is not Magino's primary domain but the founding scope and location are right.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Staff Software Engineer, AI Developer Tooling",
+      "company": "Sentry",
+      "location": "San Francisco, CA (Hybrid)",
+      "url": "https://sentry.io/careers/f54fb511-a4cc-4876-9b68-6753f5c8d7cc/",
+      "score": 64,
+      "grade": "C",
+      "why": "Making Sentry's entire developer infrastructure AI-agent-ready — exactly the AI-augmented engineering mandate Magino has been building at Benevity. $240K-$320K, Staff level, 10+ years required. SF hybrid is a hard location constraint unless remote arrangement possible.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Staff Engineer — Platform Engineering",
+      "company": "HighLevel",
+      "location": "Remote — Worldwide",
+      "url": "https://remoteok.com/remote-jobs/remote-staff-engineer-platform-engineering-highlevel-1131588",
+      "score": 60,
+      "grade": "C",
+      "why": "Staff-level platform engineering at massive SaaS scale (4B API hits/day, 250+ microservices). Node.js backend aligns, GoLang is a stretch. Fresh posting (2 days ago), global remote-first team across 10+ countries.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 6,
+      "title": "Senior Platform Engineer",
+      "company": "Perspective",
+      "location": "Remote — Europe",
+      "url": "https://join.perspectivefunnel.com/platform-engineer/",
+      "score": 55,
+      "grade": "C",
+      "why": "Build the DX platform from scratch at a profitable bootstrapped SaaS (10M ARR, 40 people). Remote Europe, tight team, meaningful ownership. Heroku→AWS migration and CI/CD automation. Below Staff seniority but real platform scope.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 7,
+      "title": "Staff Software Engineer — Platform",
+      "company": "Sentry",
+      "location": "San Francisco, CA (Hybrid)",
+      "url": "https://sentry.io/careers/0850626a-bf08-4c9f-8733-62159b19b0aa/",
+      "score": 54,
+      "grade": "D",
+      "why": "Staff platform role with Kubernetes/Kafka/Terraform scope. $240-320K. SF hybrid is a blocker for Geneva-based candidate without relocation.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 8,
+      "title": "Agentic System Developer",
+      "company": "robinrent.ai",
+      "location": "Zürich, Switzerland",
+      "url": "https://www.startupticker.ch/en/jobs/agentic-system-developer-in-a-growing-proptech-startup",
+      "score": 42,
+      "grade": "D",
+      "why": "TypeScript/Node.js + LLM integration at an ETH/UBS-accelerated PropTech startup in Zürich. 3-month contract with extension option — not a senior hire, too junior and too short.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 9,
+      "title": "CTO / Technical Co-Founder",
+      "company": "Stealth — Precision Photonics",
+      "location": "Unknown",
+      "url": "https://www.startupticker.ch/en/jobs/cto-technical-co-founder-integrated-photonics",
+      "score": 41,
+      "grade": "D",
+      "why": "Founding CTO role but in integrated photonics hardware — deep mismatch with Magino's software/SaaS background. Interesting equity upside but entirely wrong domain.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
