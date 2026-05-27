@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-25",
+  "last_updated": "2026-05-27",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -9503,6 +9503,58 @@
       "score": 41,
       "grade": "D",
       "date_found": "2026-05-25",
+      "status": "new"
+    },
+    {
+      "id": "b4e7a3f2c8d1e5f6a9b2c4d7e8f0a1b3",
+      "title": "Senior Product Engineer | TS/NodeJS/Vue",
+      "company": "n8n",
+      "location": "Remote — Europe",
+      "url": "https://jobs.ashbyhq.com/n8n/a79aa548-6381-4c08-a4e4-f024435f9db9",
+      "source": "ashbyhq",
+      "summary": "Senior Product Engineer at n8n ($2.5B Series C, 260+ team, 145K GitHub stars). Own product features end-to-end on the AI workflow automation platform — TypeScript, Node.js, Vue.js stack. Europe remote, 30 days PTO, equity, €1K/year learning budget. One of n8n's product-track roles complementing the platform/engine tracks.",
+      "score": 74,
+      "grade": "B",
+      "date_found": "2026-05-27",
+      "status": "new"
+    },
+    {
+      "id": "c9f3d2a1b8e5f4c7d6a3b9e2f1c8d5a4",
+      "title": "Senior Product Engineer",
+      "company": "Lakera",
+      "location": "Zürich, Switzerland",
+      "url": "https://jobs.ashbyhq.com/lakera.ai/393b4ccd-4b63-41ab-8413-890ff2dac822",
+      "source": "ashbyhq",
+      "summary": "Senior Product Engineer at Lakera, the Zürich-based AI security company building Lakera Guard (LLM protection for enterprise). Full-stack role contributing across the inference pipeline, red-teaming algorithms, and data infrastructure. Customers include Anthropic and Midjourney. Offices in Zürich and San Francisco.",
+      "score": 72,
+      "grade": "B",
+      "date_found": "2026-05-27",
+      "status": "new"
+    },
+    {
+      "id": "d5a2f8e3c1b7d4f9a8e6c3b2d7f1a5e8",
+      "title": "AI / Systems Engineer — NeoHuman",
+      "company": "Emergences Labs",
+      "location": "Remote (unspecified)",
+      "url": "https://emergences.ai/careers/ai-engineer",
+      "source": "other",
+      "summary": "Emergences Labs is building NeoHuman, a desktop-first AI evaluation system that captures how people use AI tools during real tasks (macOS/Windows). Stack: TypeScript, Node.js, Electron, PostgreSQL, Supabase, Next.js, React, OpenAI, Anthropic Claude. Mid-to-senior seniority. Email application: jack@emergences.ai. Posted May 27, 2026 (HN hiring thread).",
+      "score": 63,
+      "grade": "C",
+      "date_found": "2026-05-27",
+      "status": "new"
+    },
+    {
+      "id": "e1f4b3c7d2a8e5f6b9c4d1a7f3e2b8c5",
+      "title": "Senior Machine Learning Engineer — Forecasting Platform",
+      "company": "INAIT",
+      "location": "Lausanne, VD, Switzerland (hybrid 2d/week or fully remote EU)",
+      "url": "https://www.datacareer.ch/job/13319/senior-machine-learning-engineer-forecasting-platform/",
+      "source": "datacareer.ch",
+      "summary": "INAIT is an EPFL Blue Brain Project spin-off building an API-first commodities forecasting platform (Future Complete), with a Microsoft Azure co-sell partnership. Senior ML Engineer to own forecasting libraries, design scalable caching/async pipelines, and deploy on Azure ML. Stack: Python, Azure Machine Learning, CI/CD, Claude AI tools. Lausanne hybrid (2d/week) or fully remote within Europe. Posted May 11, 2026.",
+      "score": 60,
+      "grade": "C",
+      "date_found": "2026-05-27",
       "status": "new"
     }
   ]

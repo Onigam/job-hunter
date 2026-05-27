@@ -1,0 +1,24 @@
+🎯 *Job Hunt — 2026-05-27*
+
+*1.* *Senior Product Engineer | TS/NodeJS/Vue* @ n8n
+📍 Remote — Europe | ⭐ 74/100 | 🏆 Grade B
+💡 Another door into n8n's $2.5B platform — same TypeScript/Node.js/Vue stack, this time on the product engineering track.
+🔗 https://jobs.ashbyhq.com/n8n/a79aa548-6381-4c08-a4e4-f024435f9db9
+
+*2.* *Senior Product Engineer* @ Lakera
+📍 Zürich, Switzerland | ⭐ 72/100 | 🏆 Grade B
+💡 AI security startup (LLM protection used by Anthropic/Midjourney customers) hiring full-stack engineers in Zürich — direct commute from Geneva.
+🔗 https://jobs.ashbyhq.com/lakera.ai/393b4ccd-4b63-41ab-8413-890ff2dac822
+
+*3.* *AI / Systems Engineer — NeoHuman* @ Emergences Labs
+📍 Remote | ⭐ 63/100 | 🏆 Grade C
+💡 Posted TODAY — building AI evaluation infrastructure (TypeScript/Node/Electron/Supabase/Anthropic). Founding scope, email application: jack@emergences.ai
+🔗 https://emergences.ai/careers/ai-engineer
+
+*4.* *Senior ML Engineer — Forecasting Platform* @ INAIT
+📍 Lausanne (hybrid 2d) or Remote EU | ⭐ 60/100 | 🏆 Grade C
+💡 EPFL Blue Brain spin-off building commodities forecasting API, Microsoft partnership. Python/Azure ML — stack shift but strong Swiss/EU profile.
+🔗 https://www.datacareer.ch/job/13319/senior-machine-learning-engineer-forecasting-platform/
+
+---
+📊 _4 new offers | 30 searches run | market steady_

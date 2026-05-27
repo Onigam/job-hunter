@@ -1,0 +1,55 @@
+{
+  "date": "2026-05-27",
+  "total_searched": 30,
+  "new_offers": 4,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Senior Product Engineer | TS/NodeJS/Vue",
+      "company": "n8n",
+      "location": "Remote — Europe",
+      "url": "https://jobs.ashbyhq.com/n8n/a79aa548-6381-4c08-a4e4-f024435f9db9",
+      "score": 74,
+      "grade": "B",
+      "why": "Another Staff-adjacent n8n opening, this time on the product engineering track. TypeScript/Node.js/Vue stack is a perfect match, and n8n at $2.5B with 145K GitHub stars is the strongest remote-EU AI workflow platform play. One more door into a company where Magino's platform-builder DNA is a direct fit.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Senior Product Engineer",
+      "company": "Lakera",
+      "location": "Zürich, Switzerland",
+      "url": "https://jobs.ashbyhq.com/lakera.ai/393b4ccd-4b63-41ab-8413-890ff2dac822",
+      "score": 72,
+      "grade": "B",
+      "why": "Lakera is the Zürich-based AI security company protecting LLMs (Lakera Guard, used by Anthropic/Midjourney customers). Full-stack product engineering building the core AI security product. Switzerland location, strong AI mission, engineering-first team — direct commute from Geneva.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "AI / Systems Engineer — NeoHuman",
+      "company": "Emergences Labs",
+      "location": "Remote (unspecified)",
+      "url": "https://emergences.ai/careers/ai-engineer",
+      "score": 63,
+      "grade": "C",
+      "why": "Fresh posting from TODAY (May 27). Building NeoHuman, a desktop-first AI evaluation system that observes how people use AI tools. TypeScript/Node.js/Electron/Supabase/Anthropic stack — almost identical to Magino's toolkit. Very early stage with founding-level scope. Apply via email: jack@emergences.ai.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Senior Machine Learning Engineer — Forecasting Platform",
+      "company": "INAIT",
+      "location": "Lausanne, Switzerland (hybrid 2d/week or fully remote EU)",
+      "url": "https://www.datacareer.ch/job/13319/senior-machine-learning-engineer-forecasting-platform/",
+      "score": 60,
+      "grade": "C",
+      "why": "INAIT is an EPFL Blue Brain Project spin-off building a commodities forecasting API platform with a Microsoft Azure partnership. Lausanne hybrid or full remote EU. Python/Azure ML stack is a departure from TypeScript/Node but the Swiss company, EPFL pedigree, and production ML platform scope have upside.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
