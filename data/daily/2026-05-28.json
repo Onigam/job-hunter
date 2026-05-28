@@ -1,0 +1,67 @@
+{
+  "date": "2026-05-28",
+  "total_searched": 25,
+  "new_offers": 5,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Head of Engineering",
+      "company": "David AI",
+      "location": "San Francisco, CA (on-site)",
+      "url": "https://www.ycombinator.com/companies/david-ai/jobs/u3chVKp-head-of-engineering",
+      "score": 77,
+      "grade": "B",
+      "why": "YC S24, $50M Series B audio-data-for-AI-labs startup — exact Head of Engineering founder profile, TypeScript/Node/AWS stack Magino knows cold. Location is SF on-site, which is the only blocker; worth a direct reach-out to ask about remote.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Staff Fullstack Engineer",
+      "company": "Bluefish AI",
+      "location": "Remote — Germany / Europe",
+      "url": "https://job-boards.greenhouse.io/bluefishai/jobs/5013795008",
+      "score": 73,
+      "grade": "B",
+      "why": "Series B ($43M) AI marketing platform, engineering fully in Europe, TypeScript + React + 8+ years ownership model — staff-level architecture scope in a fast-scaling product team, exactly Magino's Benevity-era stack.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Senior Forward Deployed Engineer",
+      "company": "Langfuse",
+      "location": "Remote — EU (monthly week in Berlin)",
+      "url": "https://jobs.ashbyhq.com/langfuse/0cd84fa2-e4ce-4395-bee5-0489e86e89f5",
+      "score": 70,
+      "grade": "B",
+      "why": "Langfuse is the go-to LLM observability layer (acquired by ClickHouse, Jan 2026) — FDE role is customer-facing but deeply technical; Magino's cofounder instincts for user empathy + platform thinking are a natural fit for this hybrid role.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Sr./Staff Backend Engineer",
+      "company": "Oscilar",
+      "location": "Remote — Europe (Poland, UK emphasis)",
+      "url": "https://jobs.ashbyhq.com/oscilar/9ad8db5e-8232-4b18-a2d1-45edd4b0ee64",
+      "score": 61,
+      "grade": "C",
+      "why": "AI Risk Decisioning platform (fraud + compliance), staff-level distributed systems work at scale — Java/Kafka stack is a partial mismatch but the platform complexity and fintech scale are worth a look if Oscilar confirms Geneva/EMEA eligibility.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Senior Staff Engineer, Platform",
+      "company": "Monzo",
+      "location": "Remote — UK only",
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/7430989",
+      "score": 59,
+      "grade": "C",
+      "why": "Senior Staff IC role on Monzo's platform resilience team (AWS/GCP/Kubernetes/Terraform, £135k-£184k + equity) — seniority fit is high but UK-only remote limits Geneva eligibility; flagged in case Monzo sponsors or expands EMEA remote scope.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}

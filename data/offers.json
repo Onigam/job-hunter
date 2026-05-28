@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-27",
+  "last_updated": "2026-05-28",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -9555,6 +9555,71 @@
       "score": 60,
       "grade": "C",
       "date_found": "2026-05-27",
+      "status": "new"
+    },
+    {
+      "id": "f047fb51da37001e43189136564d130e",
+      "title": "Head of Engineering",
+      "company": "David AI",
+      "location": "San Francisco, CA (on-site)",
+      "url": "https://www.ycombinator.com/companies/david-ai/jobs/u3chVKp-head-of-engineering",
+      "source": "ycombinator",
+      "summary": "YC S24, $50M Series B audio data infrastructure company for AI labs. Founded by ex-Scale AI engineers. Head of Engineering to lead technical team building audio data pipelines for FAANG and major AI labs. Stack: Next.js, TypeScript, Node.js, tRPC, PostgreSQL, AWS, WebRTC. On-site SF. Salary $200K-$280K + equity.",
+      "score": 77,
+      "grade": "B",
+      "date_found": "2026-05-28",
+      "status": "new"
+    },
+    {
+      "id": "93a2684f14209999554226cc885c25e6",
+      "title": "Staff Fullstack Engineer",
+      "company": "Bluefish AI",
+      "location": "Remote — Germany / Europe",
+      "url": "https://job-boards.greenhouse.io/bluefishai/jobs/5013795008",
+      "source": "greenhouse",
+      "summary": "Bluefish is the leading AI marketing platform for Fortune 500, raised $43M Series B (Threshold Ventures + NEA). Engineering distributed in Europe. Staff Fullstack Engineer to lead architecture and evolution of scalable web applications, shaping the technical foundation. Requires 8+ years full-stack, deep TypeScript/React expertise, demonstrated ownership of large-scale architectural decisions. Remote in Germany/Europe.",
+      "score": 73,
+      "grade": "B",
+      "date_found": "2026-05-28",
+      "status": "new"
+    },
+    {
+      "id": "defc4c33e5338d04951b43212fcb621c",
+      "title": "Senior Forward Deployed Engineer",
+      "company": "Langfuse",
+      "location": "Remote — EU (monthly week in Berlin, travel covered)",
+      "url": "https://jobs.ashbyhq.com/langfuse/0cd84fa2-e4ce-4395-bee5-0489e86e89f5",
+      "source": "ashbyhq",
+      "summary": "Langfuse (LLM observability platform, acquired by ClickHouse Jan 2026) hiring Senior Forward Deployed Engineer. Own portfolio of 10-20 strategic customers as primary technical contact, guide architecture and LLM observability workflows, drive product feedback to engineering. Remote EU-first with one week/month in Berlin (travel covered). Deeply technical customer-facing role bridging platform and enterprise.",
+      "score": 70,
+      "grade": "B",
+      "date_found": "2026-05-28",
+      "status": "new"
+    },
+    {
+      "id": "2abe664fde271baa09e3c6688e790db0",
+      "title": "Sr./Staff Backend Engineer",
+      "company": "Oscilar",
+      "location": "Remote — Europe (Poland, UK emphasis)",
+      "url": "https://jobs.ashbyhq.com/oscilar/9ad8db5e-8232-4b18-a2d1-45edd4b0ee64",
+      "source": "ashbyhq",
+      "summary": "Oscilar is an AI Risk Decisioning platform for financial institutions (fraud, AML, credit). Sr./Staff Backend Engineer to design and implement services leveraging Apache Kafka for high-throughput real-time data streams. Stack: Java, Kafka, PostgreSQL, DynamoDB, Redis, ClickHouse, AWS. 8+ years backend required. Remote Europe — confirmed Poland and UK; EMEA scope may extend to Switzerland.",
+      "score": 61,
+      "grade": "C",
+      "date_found": "2026-05-28",
+      "status": "new"
+    },
+    {
+      "id": "2befb5f770f88d10130c3c20643b2892",
+      "title": "Senior Staff Engineer, Platform",
+      "company": "Monzo",
+      "location": "Remote — UK only",
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/7430989",
+      "source": "greenhouse",
+      "summary": "Monzo (UK neobank, unicorn) hiring Senior Staff Engineer for platform resilience team. Senior Staff IC role partnering with Engineering Director to improve platform abstractions and reliability surface. Hands-on with AWS/GCP, Kubernetes, Terraform, Go. Salary £135k-£184k + share options. Remote UK only — Geneva eligibility limited.",
+      "score": 59,
+      "grade": "C",
+      "date_found": "2026-05-28",
       "status": "new"
     }
   ]

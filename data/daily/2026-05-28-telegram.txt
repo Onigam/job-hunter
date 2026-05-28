@@ -1,0 +1,29 @@
+🎯 *Job Hunt — 2026-05-28*
+
+*1.* *Head of Engineering* @ David AI
+📍 San Francisco (on-site) | ⭐ 77/100 | 🏆 Grade B
+💡 YC S24, $50M Series B — TypeScript/Node/AWS stack, exact cofounder-to-HoE profile; SF on-site is the only blocker, worth a direct remote ask
+🔗 https://www.ycombinator.com/companies/david-ai/jobs/u3chVKp-head-of-engineering
+
+*2.* *Staff Fullstack Engineer* @ Bluefish AI
+📍 Remote Europe (Germany) | ⭐ 73/100 | 🏆 Grade B
+💡 $43M Series B AI marketing platform, engineering fully in Europe — TypeScript + React at staff level, Benevity-era stack, solid architectural scope
+🔗 https://job-boards.greenhouse.io/bluefishai/jobs/5013795008
+
+*3.* *Senior Forward Deployed Engineer* @ Langfuse
+📍 Remote EU (monthly Berlin) | ⭐ 70/100 | 🏆 Grade B
+💡 The LLM observability layer (acquired by ClickHouse Jan 2026) — deeply technical FDE bridging platform and enterprise; cofounder instincts fit perfectly
+🔗 https://jobs.ashbyhq.com/langfuse/0cd84fa2-e4ce-4395-bee5-0489e86e89f5
+
+*4.* *Sr./Staff Backend Engineer* @ Oscilar
+📍 Remote Europe (Poland/UK emphasis) | ⭐ 61/100 | 🏆 Grade C
+💡 AI Risk Decisioning for fintech at scale (Java/Kafka) — confirm EMEA eligibility before applying, stack is a partial mismatch but platform depth is real
+🔗 https://jobs.ashbyhq.com/oscilar/9ad8db5e-8232-4b18-a2d1-45edd4b0ee64
+
+*5.* *Senior Staff Engineer, Platform* @ Monzo
+📍 Remote — UK only | ⭐ 59/100 | 🏆 Grade C
+💡 Senior Staff IC on platform resilience (AWS/GCP/K8s/Terraform, £135-184k) — top seniority fit, UK-only remote limits Geneva play but worth monitoring
+🔗 https://job-boards.greenhouse.io/monzo/jobs/7430989
+
+---
+📊 _5 new offers | 643 total tracked_
