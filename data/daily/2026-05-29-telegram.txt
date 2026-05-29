@@ -1,0 +1,34 @@
+🎯 *Job Hunt — 2026-05-29*
+
+*1.* *Founding Engineer (CTO track)* @ Bloom
+📍 Remote | ⭐ 76/100 | 🏆 Grade B
+💡 YC X25 batch, AI/low-code app platform — founding engineer with explicit CTO track, built for a cofounder-turned-architect.
+🔗 https://www.ycombinator.com/companies/bloom-4/jobs/Tb6dGeS-founding-engineer
+
+*2.* *CTO / Lead Engineer / Co-Founder* @ UpGrid AG
+📍 Baar, Switzerland | ⭐ 76/100 | 🏆 Grade B
+💡 Climate FinTech (renewable energy trading), incubated by Tenity + BlueLion — impact-driven mission mirrors the Alaya/Benevity chapter.
+🔗 https://joinup.ch/startup/upgrid-ag-7e09819b-db29-4339-a2e4-697d5fbe1f45-11607
+
+*3.* *First Engineer (Fullstack)* @ AssetOS
+📍 Zürich, Switzerland | ⭐ 74/100 | 🏆 Grade B
+💡 AI-first PropTech automating 90% of manual real estate processes, founded 2024 — zero-to-one mandate in Switzerland.
+🔗 https://joinup.ch/startup/assetos-231e429c-6ece-461e-887c-414afb81648f-11814
+
+*4.* *Staff Software Engineer — Databases* @ Grafana Labs
+📍 Remote Europe (CET/GMT) | ⭐ 72/100 | 🏆 Grade B
+💡 Platform ownership over 100+ production clusters at a top-tier dev-tools company, £103k–124k, CET-aligned.
+🔗 https://job-boards.greenhouse.io/grafanalabs
+
+*5.* *Senior AI Platform Engineer* @ Alpaca
+📍 Remote (global) | ⭐ 71/100 | 🏆 Grade B
+💡 AI enablement infrastructure using agentic systems and the Claude SDK — platform engineering meets LLM tooling.
+🔗 https://job-boards.greenhouse.io/alpaca/jobs/5993920004
+
+*6.* *Platform Lead — AI Engineer* @ Storylane
+📍 Remote (global) | ⭐ 71/100 | 🏆 Grade B
+💡 YC company at $10M ARR, hire to define the engineering foundation for the next 2 years — real traction, real ownership.
+🔗 https://www.ycombinator.com/companies/storylane/jobs/Tbb8kUD-platform-lead-ai-engineer
+
+---
+📊 _13 new offers | 656 total tracked_

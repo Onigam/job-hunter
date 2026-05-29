@@ -1,0 +1,91 @@
+{
+  "date": "2026-05-29",
+  "total_searched": 22,
+  "new_offers": 13,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Founding Engineer (CTO track)",
+      "company": "Bloom",
+      "location": "Remote (distributed)",
+      "url": "https://www.ycombinator.com/companies/bloom-4/jobs/Tb6dGeS-founding-engineer",
+      "score": 76,
+      "grade": "B",
+      "why": "YC X25 batch, app development platform with AI/low-code angle — founding engineer with explicit CTO track maps perfectly to Magino's cofounder background and architectural ownership style.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "CTO / Lead Engineer / Co-Founder",
+      "company": "UpGrid AG",
+      "location": "Baar, Switzerland",
+      "url": "https://joinup.ch/startup/upgrid-ag-7e09819b-db29-4339-a2e4-697d5fbe1f45-11607",
+      "score": 76,
+      "grade": "B",
+      "why": "Climate FinTech building local renewable energy trading — impact-driven mission matches Magino's Alaya purpose-platform background, Switzerland-based with top-tier incubator backing (BlueLion, Tenity, Climate Founders).",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "First Engineer (Fullstack)",
+      "company": "AssetOS",
+      "location": "Zürich, Switzerland",
+      "url": "https://joinup.ch/startup/assetos-231e429c-6ece-461e-887c-414afb81648f-11814",
+      "score": 74,
+      "grade": "B",
+      "why": "PropTech AI platform automating 90% of manual real estate processes, founded 2024 — first-engineer role in Switzerland with a clear zero-to-one mandate and AI-first product vision.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Staff Software Engineer — Databases (Managed Services)",
+      "company": "Grafana Labs",
+      "location": "Remote Europe (CET/GMT)",
+      "url": "https://job-boards.greenhouse.io/grafanalabs",
+      "score": 72,
+      "grade": "B",
+      "why": "Staff-level platform ownership over 100+ production clusters in a developer-tools company renowned for engineering culture — CET-aligned remote and £103k–124k range keeps it Europe-viable.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Senior AI Platform Engineer",
+      "company": "Alpaca",
+      "location": "Remote (global)",
+      "url": "https://job-boards.greenhouse.io/alpaca/jobs/5993920004",
+      "score": 71,
+      "grade": "B",
+      "why": "AI Enablement infrastructure role explicitly using agentic AI systems and Claude SDK — platform engineering meets LLM tooling, strong alignment with Magino's AI-augmented engineering focus.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 6,
+      "title": "Platform Lead — AI Engineer",
+      "company": "Storylane",
+      "location": "Remote (global)",
+      "url": "https://www.ycombinator.com/companies/storylane/jobs/Tbb8kUD-platform-lead-ai-engineer",
+      "score": 71,
+      "grade": "B",
+      "why": "YC company at $10M ARR hiring someone to define the engineering foundation for the next 2 years — platform ownership with real business traction, fully remote, AI product angle.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 7,
+      "title": "Founding Engineer (Full-Stack)",
+      "company": "SanaFin",
+      "location": "Switzerland",
+      "url": "https://joinup.ch/startup/sanafin-050718ad-5061-44d4-8def-767718d10d2e-12074",
+      "score": 70,
+      "grade": "B",
+      "why": "Pre-seed FinTech building automated escrow for digital health with ETH/HSG academic backing — founding engineer in Switzerland, strong scalability mandate, early equity upside.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
