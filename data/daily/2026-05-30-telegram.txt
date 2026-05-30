@@ -1,0 +1,19 @@
+🎯 *Job Hunt — 2026-05-30*
+
+*1.* *Director of Engineering* @ Tucuvi
+📍 Remote CET (Geneva-eligible) | ⭐ 83/100 | 🏆 Grade B
+💡 $20M Series A healthcare AI — owns architecture + team growth, TypeScript/Python/GCP, Claude Code explicitly required as 2026 mandate.
+🔗 https://tucuvipeople.factorialhr.com/job_posting/director-of-engineering-294356
+
+*2.* *VP of Engineering* @ ClosedWon
+📍 Remote Worldwide | ⭐ 70/100 | 🏆 Grade B
+💡 AI sales coaching startup, reports to CEO, leads full eng lifecycle — globally remote, $212k–$273k, React/Rails/AWS stack.
+🔗 https://closedwon.freshteam.com/jobs/x_IRBNvXppxg/vp-engineering-full-time-remote
+
+*3.* *Head of Software Engineering* @ Search Atlas
+📍 Remote Worldwide | ⭐ 62/100 | 🏆 Grade C
+💡 AI-powered SEO SaaS — hands-on Head of Eng owning architecture health and scalability, Python/K8s/Next.js, 3+ years Principal/Tech Lead required.
+🔗 https://search-atlas.breezy.hr/p/c541e09d66fc-head-of-software-engineering
+
+---
+📊 _3 new offers | 659 total tracked_

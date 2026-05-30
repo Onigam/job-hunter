@@ -1,0 +1,64 @@
+{
+  "date": "2026-05-30",
+  "total_searched": 52,
+  "new_offers": 3,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Director of Engineering",
+      "company": "Tucuvi",
+      "location": "Remote — Spain / CET-compatible (Geneva eligible)",
+      "url": "https://tucuvipeople.factorialhr.com/job_posting/director-of-engineering-294356",
+      "score": 83,
+      "grade": "B",
+      "why": "Series A ($20M) healthcare AI startup building AI Care Management platform — Director of Engineering role owns architecture, team growth, and CI/CD standards, with Claude Code adoption explicitly required as a 2026 competitive differentiator. TypeScript/Python/GCP/Kubernetes stack. CET timezone makes Geneva fully compatible.",
+      "apply_by": null,
+      "status": "new",
+      "score_breakdown": {
+        "technical": 26,
+        "seniority": 22,
+        "location": 12,
+        "company": 14,
+        "impact": 9
+      }
+    },
+    {
+      "rank": 2,
+      "title": "VP of Engineering",
+      "company": "ClosedWon",
+      "location": "Remote — Worldwide",
+      "url": "https://closedwon.freshteam.com/jobs/x_IRBNvXppxg/vp-engineering-full-time-remote",
+      "score": 70,
+      "grade": "B",
+      "why": "AI sales coaching startup hiring VP Engineering to lead full engineering lifecycle alongside CEO — fully remote worldwide with no timezone restrictions. React/Rails/AWS stack. Salary $212k–$273k USD.",
+      "apply_by": null,
+      "status": "new",
+      "score_breakdown": {
+        "technical": 18,
+        "seniority": 22,
+        "location": 12,
+        "company": 10,
+        "impact": 8
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Head of Software Engineering",
+      "company": "Search Atlas",
+      "location": "Remote — Worldwide",
+      "url": "https://search-atlas.breezy.hr/p/c541e09d66fc-head-of-software-engineering",
+      "score": 62,
+      "grade": "C",
+      "why": "Hands-on Head of Engineering at AI-powered SEO SaaS — owns architectural health, scalability, and performance with mandate to lead large-scale refactors. Python/PostgreSQL/Docker/K8s/Next.js stack. Requires 3+ years Principal/Tech Lead experience.",
+      "apply_by": null,
+      "status": "new",
+      "score_breakdown": {
+        "technical": 17,
+        "seniority": 20,
+        "location": 10,
+        "company": 8,
+        "impact": 7
+      }
+    }
+  ]
+}

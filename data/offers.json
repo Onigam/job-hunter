@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-29",
+  "last_updated": "2026-05-30",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -9777,6 +9777,48 @@
       "status": "new",
       "source": "Remote Rocketship",
       "why": "Founding CTO for AI/ML data product via accelerator program (12-week MVP sprint) — unusual accelerator context with uncertain compensation, but AI/CTO seniority is right."
+    },
+    {
+      "id": "a1b2c3d4e5f6789012345tucuvi01",
+      "title": "Director of Engineering",
+      "company": "Tucuvi",
+      "location": "Remote — Spain / CET-compatible (Geneva eligible)",
+      "url": "https://tucuvipeople.factorialhr.com/job_posting/director-of-engineering-294356",
+      "source": "factorialhr",
+      "summary": "Tucuvi is a $20M Series A healthcare AI startup building a clinical-grade AI Care Management platform. The Director of Engineering role owns architecture, team building (ICs, tech leads, EMs reporting in), CI/CD standards, QA culture, and regulatory compliance. TypeScript/JavaScript, Python, Voice AI, LiveKit, GCP, Kubernetes stack. Claude Code adoption explicitly required as a 2026 competitive differentiator. CET timezone makes Geneva fully eligible for this remote role.",
+      "score": 83,
+      "grade": "B",
+      "date_found": "2026-05-30",
+      "status": "new",
+      "why": "Series A healthcare AI with Claude Code mandate — Director of Eng role owns architecture and org growth, TypeScript/Python stack, CET-compatible remote that works from Geneva."
+    },
+    {
+      "id": "b2c3d4e5f6789012345closedwon01",
+      "title": "VP of Engineering",
+      "company": "ClosedWon",
+      "location": "Remote — Worldwide",
+      "url": "https://closedwon.freshteam.com/jobs/x_IRBNvXppxg/vp-engineering-full-time-remote",
+      "source": "freshteam",
+      "summary": "ClosedWon is an AI sales coaching startup hiring a VP of Engineering to lead the full engineering lifecycle from strategy to evaluation, working directly alongside the CEO. React.js/Redux frontend, Ruby on Rails backend, AWS infrastructure. Remote globally with no timezone restrictions. Salary $212k–$273k USD. Requires prior VP Engineering or equivalent startup leadership experience.",
+      "score": 70,
+      "grade": "B",
+      "date_found": "2026-05-30",
+      "status": "new",
+      "why": "VP Engineering at AI sales startup reporting to CEO, globally remote, $212k-$273k — React/Rails/AWS stack is a partial fit but seniority and remote policy are strong."
+    },
+    {
+      "id": "c3d4e5f6789012345searchatlas01",
+      "title": "Head of Software Engineering",
+      "company": "Search Atlas",
+      "location": "Remote — Worldwide",
+      "url": "https://search-atlas.breezy.hr/p/c541e09d66fc-head-of-software-engineering",
+      "source": "breezy",
+      "summary": "Search Atlas is an AI-powered SEO software company hiring a Head of Engineering to own architectural health, scalability, and performance. Hands-on leadership role — sets technical direction with VP Engineering, leads large-scale refactors, mentors engineers. Stack: Python, PostgreSQL, Celery, Docker, Kubernetes, ClickHouse, Elasticsearch, Next.js. Requires 3+ years as Principal/Head of Engineering/Tech Lead. Remote worldwide.",
+      "score": 62,
+      "grade": "C",
+      "date_found": "2026-05-30",
+      "status": "new",
+      "why": "Hands-on Head of Eng at AI SEO SaaS, Python/K8s/Next.js stack — good seniority match but domain is niche and stack deviates from TypeScript/Node.js core."
     }
   ]
 }
