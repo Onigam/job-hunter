@@ -1,0 +1,79 @@
+{
+  "date": "2026-05-31",
+  "total_searched": 14,
+  "new_offers": 10,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Staff Engineer, AI Agents (TypeScript)",
+      "company": "Inkeep",
+      "location": "Remote (USA primary — Europe timezone needs verification)",
+      "url": "https://jobs.khoslaventures.com/companies/inkeep/jobs/57199391-staff-engineer-ai-agents-typescript",
+      "score": 81,
+      "grade": "B",
+      "why": "TypeScript-native AI agent platform backed by Khosla Ventures and YC ($13M seed) — Anthropic, Datadog, and PostHog are live customers, and building the SDK/no-code builder for AI agents is exactly the AI-first developer tooling Magino has been moving toward at Benevity. Europe remote needs verification before applying.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Senior/Staff Engineer — Core Workflow Engine",
+      "company": "n8n",
+      "location": "Remote — Europe",
+      "url": "https://jobs.ashbyhq.com/n8n/cb739e3a-0e51-461e-89c1-ef7821f56666",
+      "score": 78,
+      "grade": "B",
+      "why": "Staff-level ownership of the core execution engine at the fastest-growing open-source AI orchestration platform — TypeScript/Node.js at the heart of it, confirmed Remote Europe, and n8n's trajectory as AI workflow infrastructure is a natural fit for Magino's platform-engineering background.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Sr AI Engineer — TS/Vue/NodeJS",
+      "company": "n8n",
+      "location": "Remote — Europe",
+      "url": "https://jobs.ashbyhq.com/n8n/d195a389-6af5-4b95-82e5-2258953c7297",
+      "score": 77,
+      "grade": "B",
+      "why": "Senior AI Engineer building LLM-native features at n8n — TypeScript, Vue, Node.js, fully remote in Europe, and working at the intersection of AI and workflow orchestration maps directly to Magino's multi-agent engineering practice at Benevity.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Staff/Principal Software Engineer",
+      "company": "Parloa",
+      "location": "Remote — Europe (Berlin / Munich / Remote)",
+      "url": "https://job-boards.greenhouse.io/parloa/jobs/4824273101",
+      "score": 76,
+      "grade": "B",
+      "why": "Series D unicorn ($350M raised, $50M+ ARR) building the AI Agent Management Platform for enterprise contact centers — TypeScript, Node.js, Python, Kubernetes stack, and a Staff/Principal mandate to shape org-wide architecture is the kind of broad technical authority Magino's cofounder background positions him for.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Staff Engineer, AI Evals",
+      "company": "Sema4.ai",
+      "location": "Remote — Global (100% remote since day one)",
+      "url": "https://jobs.ashbyhq.com/sema4.ai/592ee407-6e70-4d0f-88bd-3638a4ba7240",
+      "score": 76,
+      "grade": "B",
+      "why": "Series A ($55M raised, 44 employees) enterprise AI agent platform hiring a Staff Engineer to own the evaluation infrastructure that determines whether agents are correct and improving — AI evals is foundational work that any serious AI-first engineering org needs, and the fully remote policy works from Geneva.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 6,
+      "title": "Technical Team Lead — AI Agents",
+      "company": "EggAI",
+      "location": "Remote — EU / Switzerland / Norway",
+      "url": "https://job-boards.eu.greenhouse.io/eggai/jobs/4772514101",
+      "score": 70,
+      "grade": "B",
+      "why": "Enterprise AI startup explicitly listing Switzerland as an eligible remote country, hiring a Technical Team Lead to lead a small senior team building production agentic systems — rare Switzerland-eligible remote with a team-building mandate that plays to Magino's cofounder and engineering leadership background.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}

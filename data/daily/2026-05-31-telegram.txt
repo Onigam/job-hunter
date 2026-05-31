@@ -1,0 +1,34 @@
+🎯 *Job Hunt — 2026-05-31*
+
+*1.* *Staff Engineer, AI Agents (TypeScript)* @ Inkeep
+📍 Remote (verify Europe) | ⭐ 81/100 | 🏆 Grade B
+💡 Khosla/YC-backed ($13M seed) — TypeScript AI agent SDK serving Anthropic, Datadog, PostHog; exactly the AI-first dev tooling you've been building toward.
+🔗 https://jobs.khoslaventures.com/companies/inkeep/jobs/57199391-staff-engineer-ai-agents-typescript
+
+*2.* *Senior/Staff Engineer — Core Workflow Engine* @ n8n
+📍 Remote Europe | ⭐ 78/100 | 🏆 Grade B
+💡 Own the execution engine of the fastest-growing open-source AI orchestration platform — TypeScript/Node.js, confirmed Remote Europe.
+🔗 https://jobs.ashbyhq.com/n8n/cb739e3a-0e51-461e-89c1-ef7821f56666
+
+*3.* *Sr AI Engineer — TS/Vue/NodeJS* @ n8n
+📍 Remote Europe | ⭐ 77/100 | 🏆 Grade B
+💡 Build LLM-native features at n8n — TypeScript/Vue/Node, fully remote Europe, AI-workflow orchestration overlap with your multi-agent work.
+🔗 https://jobs.ashbyhq.com/n8n/d195a389-6af5-4b95-82e5-2258953c7297
+
+*4.* *Staff/Principal Software Engineer* @ Parloa
+📍 Remote Europe | ⭐ 76/100 | 🏆 Grade B
+💡 Series D unicorn ($350M raised, $50M ARR) — TypeScript/Node/Python/K8s, Staff/Principal mandate to shape org-wide architecture on an enterprise AI agent platform.
+🔗 https://job-boards.greenhouse.io/parloa/jobs/4824273101
+
+*5.* *Staff Engineer, AI Evals* @ Sema4.ai
+📍 Remote Global | ⭐ 76/100 | 🏆 Grade B
+💡 Series A enterprise AI agent platform ($55M raised) — own the eval infrastructure that determines agent correctness; 100% remote since day one, Geneva-eligible.
+🔗 https://jobs.ashbyhq.com/sema4.ai/592ee407-6e70-4d0f-88bd-3638a4ba7240
+
+*6.* *Technical Team Lead — AI Agents* @ EggAI
+📍 Remote EU / Switzerland / Norway | ⭐ 70/100 | 🏆 Grade B
+💡 One of the few listings explicitly accepting Switzerland — lead a small senior team building production agentic systems; team-building + AI is your sweet spot.
+🔗 https://job-boards.eu.greenhouse.io/eggai/jobs/4772514101
+
+---
+📊 _10 new offers | 50 total tracked_
