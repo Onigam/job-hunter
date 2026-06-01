@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-31",
+  "last_updated": "2026-06-01",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -9959,6 +9959,58 @@
       "date_found": "2026-05-31",
       "status": "new",
       "why": "Principal Engineer with TypeScript/Node/AWS serverless — good technical match but HR/payroll domain, large mature company (~1,600 employees), no AI angle, and limited compensation upside for a Geneva-market candidate."
+    },
+    {
+      "id": "23e01c5ad6421c0b902b933d092164fe",
+      "title": "Staff Software Engineer, AI Developer Tools",
+      "company": "Gusto",
+      "location": "Remote — USA / Canada",
+      "url": "https://job-boards.greenhouse.io/gusto/jobs/6784688",
+      "source": "greenhouse",
+      "summary": "Staff Engineer on the Developer Productivity – AI Developer Tools team at Gusto. Architect and scale the AI platform that powers how Gusto builds software — integrating LLMs and autonomous agentic agents directly into the development lifecycle. TypeScript, Python, AWS. $190-210k USD. Remote USA/Canada.",
+      "score": 76,
+      "grade": "B",
+      "date_found": "2026-06-01",
+      "status": "new"
+    },
+    {
+      "id": "2946a1f55b958c460b832fa0f5fd5ab6",
+      "title": "Principal Software Engineer (Remote from Switzerland)",
+      "company": "Appfire Technologies",
+      "location": "Remote — Switzerland",
+      "url": "https://appfire.com/careers/open-positions/4637089005",
+      "source": "appfire",
+      "summary": "Principal Software Engineer at Appfire Technologies, explicitly listed as remote from Switzerland. Appfire is an 850-person remote-first company building products on the Atlassian ecosystem across 28 countries. Role requires 10+ years delivering complex software products, full-stack expertise with Python, Java, React, AWS, and strong architectural understanding. Principal level technical leader shaping product and platform direction.",
+      "score": 73,
+      "grade": "B",
+      "date_found": "2026-06-01",
+      "status": "new"
+    },
+    {
+      "id": "1eb641b3cf0445854f57566ea01ee1d1",
+      "title": "Staff Software Engineer, Platform Orchestration",
+      "company": "Gusto",
+      "location": "Remote — USA / Canada",
+      "url": "https://job-boards.greenhouse.io/gusto/jobs/7863130",
+      "source": "greenhouse",
+      "summary": "Staff Engineer on Gusto's Platform Orchestration team, rebuilding how 400+ engineers ship across the company. Backstage-based Developer Portal, Crossplane-based Platform Orchestrator, AI agents driving end-to-end safe rollouts and approval workflows. Sits at the intersection of Infrastructure, Developer Productivity, Security, and Product Engineering. $163-204k USD. Remote USA/Canada.",
+      "score": 72,
+      "grade": "B",
+      "date_found": "2026-06-01",
+      "status": "new"
+    },
+    {
+      "id": "1f5407c235d804d9d3c6cfc16a310924",
+      "title": "AI Software Engineer (TypeScript & LLM)",
+      "company": "Rollstack",
+      "location": "Remote — US East timezone primary",
+      "url": "https://jobs.ashbyhq.com/rollstack/da40d360-66f6-4d4b-b96b-aa5eb2cd8b37/application",
+      "source": "ashbyhq",
+      "summary": "AI Software Engineer at Rollstack (YC + Insight Partners backed), building LLM-powered features for automated slide deck and document generation. Full stack: TypeScript, React, Node.js, Python, LLM/RAG patterns. Customers include SoFi, Zillow, Whirlpool. Small team, big scope. US East timezone. Posted 2026.",
+      "score": 64,
+      "grade": "C",
+      "date_found": "2026-06-01",
+      "status": "new"
     }
   ]
 }

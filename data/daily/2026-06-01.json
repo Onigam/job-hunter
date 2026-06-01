@@ -1,0 +1,55 @@
+{
+  "date": "2026-06-01",
+  "total_searched": 22,
+  "new_offers": 4,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Staff Software Engineer, AI Developer Tools",
+      "company": "Gusto",
+      "location": "Remote — USA / Canada",
+      "url": "https://job-boards.greenhouse.io/gusto/jobs/6784688",
+      "score": 76,
+      "grade": "B",
+      "why": "Architecting the AI platform that embeds LLMs and autonomous agents directly into how Gusto's 400+ engineers ship code — TypeScript, agentic workflows, platform engineering at Staff scope. Strongest technical + impact profile in today's batch; US/Canada timezone is the main constraint for Geneva.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Principal Software Engineer (Remote from Switzerland)",
+      "company": "Appfire Technologies",
+      "location": "Remote — Switzerland",
+      "url": "https://appfire.com/careers/open-positions/4637089005",
+      "score": 73,
+      "grade": "B",
+      "why": "One of the rare postings that explicitly names Switzerland as the remote work location. Principal level, 10+ year profile match, Python/Java/React/AWS on complex Atlassian-ecosystem products across 28 countries. Geographic fit alone makes this worth a close look even if the stack isn't TypeScript-first.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Staff Software Engineer, Platform Orchestration",
+      "company": "Gusto",
+      "location": "Remote — USA / Canada",
+      "url": "https://job-boards.greenhouse.io/gusto/jobs/7863130",
+      "score": 72,
+      "grade": "B",
+      "why": "Rebuilding Gusto's self-service infrastructure platform with AI agents driving end-to-end rollouts — Backstage developer portal, Crossplane orchestration, AI-driven approvals. Pure platform engineering at Staff level, maps directly to Magino's platform-builder background from Alaya and Benevity.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "AI Software Engineer (TypeScript & LLM)",
+      "company": "Rollstack",
+      "location": "Remote — US East timezone primary",
+      "url": "https://jobs.ashbyhq.com/rollstack/da40d360-66f6-4d4b-b96b-aa5eb2cd8b37/application",
+      "score": 64,
+      "grade": "C",
+      "why": "Near-perfect stack match (TypeScript + Node.js + React + Python + LLM/RAG) at a YC + Insight-backed AI startup. Small team means the scope is broader than the title suggests. US East timezone is the friction point from Geneva.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}

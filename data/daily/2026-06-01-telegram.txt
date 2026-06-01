@@ -1,0 +1,24 @@
+🎯 *Job Hunt — 2026-06-01*
+
+*1.* *Staff Software Engineer, AI Developer Tools* @ Gusto
+📍 Remote USA/Canada | ⭐ 76/100 | 🏆 Grade B
+💡 Building the internal AI platform that embeds LLMs and autonomous agents into how Gusto's 400+ engineers ship code — TypeScript, agentic workflows, Staff scope.
+🔗 https://job-boards.greenhouse.io/gusto/jobs/6784688
+
+*2.* *Principal Software Engineer (Remote from Switzerland)* @ Appfire Technologies
+📍 Remote — Switzerland | ⭐ 73/100 | 🏆 Grade B
+💡 Rare posting explicitly listing Switzerland as the remote work location — Principal level, Python/Java/React/AWS across complex Atlassian-ecosystem products in 28 countries.
+🔗 https://appfire.com/careers/open-positions/4637089005
+
+*3.* *Staff Software Engineer, Platform Orchestration* @ Gusto
+📍 Remote USA/Canada | ⭐ 72/100 | 🏆 Grade B
+💡 Rebuilding Gusto's entire self-service infra platform with AI agents driving end-to-end rollouts — Backstage, Crossplane, pure platform engineering at Staff level.
+🔗 https://job-boards.greenhouse.io/gusto/jobs/7863130
+
+*4.* *AI Software Engineer (TypeScript & LLM)* @ Rollstack
+📍 Remote — US East primary | ⭐ 64/100 | 🏆 Grade C
+💡 Near-perfect stack match (TS + Node + React + Python + LLM/RAG) at a YC + Insight-backed AI startup — small team means broad scope beyond the title.
+🔗 https://jobs.ashbyhq.com/rollstack/da40d360-66f6-4d4b-b96b-aa5eb2cd8b37/application
+
+---
+📊 _4 new offers | 673 total tracked_
