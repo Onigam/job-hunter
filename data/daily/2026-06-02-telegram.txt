@@ -1,0 +1,39 @@
+🎯 *Job Hunt — 2026-06-02*
+
+🆕 *1 new offer found today*
+
+*1.* *Staff Software Engineer* @ Ripple 🆕
+📍 Geneva, Switzerland | ⭐ 72/100 | 🏆 Grade B
+💡 Geneva-based Staff role at Ripple's Swiss office — distributed financial infrastructure, 12+ open roles locally.
+🔗 https://ch.linkedin.com/jobs/view/staff-software-engineer-at-ripple-4030248867
+
+---
+🔁 *Top resurfaces* _(still open, not yet applied)_
+
+*2.* *Principal Platform Engineer (Architecture & Enablement)* @ SonarSource
+📍 Geneva, Switzerland | ⭐ 85/100 | 🏆 Grade A
+💡 Building the Golden Path engine + prototyping coding agents in Geneva — strongest local match in the database.
+🔗 https://jobs.lever.co/sonarsource/1f0c6b2f-ff60-4f15-9e2e-948275a15d23
+
+*3.* *Principal Cloud Platform Engineer* @ SonarSource
+📍 Geneva, Switzerland | ⭐ 80/100 | 🏆 Grade B
+💡 Second Geneva Principal at Sonar — AWS Organizations lead, ZTA security, multi-cloud architecture.
+🔗 https://jobs.generalcatalyst.com/companies/sonarsource/jobs/47050783-principal-cloud-platform-engineer
+
+*4.* *Staff Backend Engineer* @ Nango (YC W23)
+📍 Remote — Europe | ⭐ 78/100 | 🏆 Grade B
+💡 Open-source integration platform at $1M ARR with 6 people — Staff ownership of developer APIs and runtime.
+🔗 https://jobs.ashbyhq.com/nango/33523fa6-a454-4353-8ade-ea8c14376509
+
+*5.* *Founding Full Stack AI Engineer* @ AI Data Infrastructure Startup (via Pragmatike)
+📍 Remote — EMEA | ⭐ 76/100 | 🏆 Grade B
+💡 Founding engineer at validated AI data-infra startup training top AI labs — React + FastAPI + AI pipelines.
+🔗 https://jobs.ashbyhq.com/pragmatike/5ab6774c-d907-4535-9b31-fae4f70235cb
+
+*6.* *Sr AI Engineer (Remote Europe)* @ n8n
+📍 Remote — Europe | ⭐ 74/100 | 🏆 Grade B
+💡 TypeScript / Node.js / LLM APIs — building next-gen agentic automation at AI workflow platform.
+🔗 https://jobs.ashbyhq.com/n8n/d195a389-6af5-4b95-82e5-2258953c7297
+
+---
+📊 _1 new offer | 20 searched | 674 total tracked | LinkedIn cookie expired (web fallback)_

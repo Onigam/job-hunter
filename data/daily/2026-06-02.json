@@ -1,0 +1,79 @@
+{
+  "date": "2026-06-02",
+  "total_searched": 20,
+  "new_offers": 1,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Staff Software Engineer",
+      "company": "Ripple",
+      "location": "Geneva, Switzerland",
+      "url": "https://ch.linkedin.com/jobs/view/staff-software-engineer-at-ripple-4030248867",
+      "score": 72,
+      "grade": "B",
+      "why": "Geneva-based Staff role at Ripple's Swiss office — distributed financial infrastructure systems, 12+ open roles in Geneva as of April 2026. Strong location fit + Staff seniority; blockchain domain is adjacent but not Magino's primary lane.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Principal Platform Engineer (Architecture & Enablement)",
+      "company": "SonarSource",
+      "location": "Geneva, Switzerland",
+      "url": "https://jobs.lever.co/sonarsource/1f0c6b2f-ff60-4f15-9e2e-948275a15d23",
+      "score": 85,
+      "grade": "A",
+      "why": "Resurface — Geneva Principal role building the 'Golden Path' engine + prototyping coding agents. Still the single strongest Geneva opening tracked; originally found 2026-04-13.",
+      "apply_by": null,
+      "status": "resurface"
+    },
+    {
+      "rank": 3,
+      "title": "Principal Cloud Platform Engineer",
+      "company": "SonarSource",
+      "location": "Geneva, Switzerland",
+      "url": "https://jobs.generalcatalyst.com/companies/sonarsource/jobs/47050783-principal-cloud-platform-engineer",
+      "score": 80,
+      "grade": "B",
+      "why": "Resurface — Second Geneva Principal opening at Sonar: AWS Organizations lead, ZTA security, multi-cloud. Strong location fit. Originally found 2026-03-09.",
+      "apply_by": null,
+      "status": "resurface"
+    },
+    {
+      "rank": 4,
+      "title": "Staff Backend Engineer",
+      "company": "Nango (YC W23)",
+      "location": "Remote — Europe",
+      "url": "https://jobs.ashbyhq.com/nango/33523fa6-a454-4353-8ade-ea8c14376509",
+      "score": 78,
+      "grade": "B",
+      "why": "Resurface — YC W23 dev-tooling startup at $1M ARR with 6 people. Staff ownership of developer platform APIs and SDKs. Originally found 2026-03-08.",
+      "apply_by": null,
+      "status": "resurface"
+    },
+    {
+      "rank": 5,
+      "title": "Founding Full Stack AI Engineer",
+      "company": "AI Data Infrastructure Startup (via Pragmatike)",
+      "location": "Remote — EMEA",
+      "url": "https://jobs.ashbyhq.com/pragmatike/5ab6774c-d907-4535-9b31-fae4f70235cb",
+      "score": 76,
+      "grade": "B",
+      "why": "Resurface — Founding engineer at AI data-infra platform training top AI labs. React + FastAPI + AI pipelines, build-from-scratch ownership. Originally found 2026-05-01.",
+      "apply_by": null,
+      "status": "resurface"
+    },
+    {
+      "rank": 6,
+      "title": "Sr AI Engineer (Remote Europe)",
+      "company": "n8n",
+      "location": "Remote — Europe",
+      "url": "https://jobs.ashbyhq.com/n8n/d195a389-6af5-4b95-82e5-2258953c7297",
+      "score": 74,
+      "grade": "B",
+      "why": "Resurface — Perfect TypeScript/Node.js/LLM stack at AI workflow startup. Senior not Staff, but building next-gen agentic automation. Originally found 2026-05-31.",
+      "apply_by": null,
+      "status": "resurface"
+    }
+  ]
+}

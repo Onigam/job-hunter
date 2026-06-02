@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-01",
+  "last_updated": "2026-06-02",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -10010,6 +10010,19 @@
       "score": 64,
       "grade": "C",
       "date_found": "2026-06-01",
+      "status": "new"
+    },
+    {
+      "id": "ripplestaffgenevalinkedin4030248867",
+      "title": "Staff Software Engineer",
+      "company": "Ripple",
+      "location": "Geneva, Switzerland",
+      "url": "https://ch.linkedin.com/jobs/view/staff-software-engineer-at-ripple-4030248867",
+      "source": "linkedin",
+      "summary": "Staff Software Engineer at Ripple's Geneva office. Ripple builds blockchain-based financial infrastructure and payment networks; Staff-level engineering role in Geneva, Switzerland. 12+ open roles at Ripple in Geneva as of April 2026.",
+      "score": 72,
+      "grade": "B",
+      "date_found": "2026-06-02",
       "status": "new"
     }
   ]
