@@ -1,0 +1,79 @@
+{
+  "date": "2026-06-03",
+  "total_searched": 15,
+  "new_offers": 15,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Member of Technical Staff, Backend Engineer API",
+      "company": "Runway",
+      "location": "Remote — Europe & North America",
+      "url": "https://jobs.ashbyhq.com/runway-ml/8489a08a-f0cf-4418-968c-c7c803d538bc",
+      "score": 81,
+      "grade": "B",
+      "why": "Frontier AI video platform (Series D, global impact) — TypeScript/Python/AWS at the core, MTS = staff-equivalent owning API infrastructure for millions of users, EU-friendly remote with London office.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Software Engineer, Platform — Geneva",
+      "company": "Speechify",
+      "location": "Geneva, Switzerland (Remote)",
+      "url": "https://job-boards.greenhouse.io/speechify/jobs/5614031004",
+      "score": 76,
+      "grade": "B",
+      "why": "Geneva-labeled role at a 50M-user AI audio company — newly formed Platform team, TypeScript/Node.js stack, building APIs for TTS/payments/subscriptions from near-zero, perfect location match.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Engineering Manager, API",
+      "company": "Runway",
+      "location": "Remote — Global",
+      "url": "https://jobs.ashbyhq.com/runway-ml/b5d136bb-4143-400b-914a-0ae7377ad8ed",
+      "score": 72,
+      "grade": "B",
+      "why": "EM path at a frontier AI company with EU-friendly remote and strong engineering culture — leads the same API team that the MTS role reports into, management track for someone with cofounder leadership DNA.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Founding Engineer (Full-Stack)",
+      "company": "DrSwarm",
+      "location": "Remote — US/LATAM (Pacific overlap)",
+      "url": "https://jobs@drswarm.com",
+      "score": 72,
+      "grade": "B",
+      "why": "TypeScript/Python/Next.js/Django founding engineer role at an AI healthcare automation startup — high ownership, agentic system design, strong mission angle; timezone overlap with Pacific is challenging from Geneva.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Senior Full-Stack Engineer",
+      "company": "Stacksync",
+      "location": "Lausanne, Switzerland / Remote EU",
+      "url": "https://www.ycombinator.com/companies/stacksync/jobs/YDOeybq-senior-full-stack-engineer",
+      "score": 71,
+      "grade": "B",
+      "why": "YC-backed startup with Lausanne HQ and Swiss remote — building enterprise CRM-database real-time sync, small team (~16 people) with high ownership; stack is Python/React/PostgreSQL rather than TypeScript-first.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 6,
+      "title": "Founding Software Engineer",
+      "company": "Hera (YC S25)",
+      "location": "Berlin, DE / Remote",
+      "url": "https://www.ycombinator.com/companies/hera-video/jobs/sHCLYOi-founding-software-engineer",
+      "score": 71,
+      "grade": "B",
+      "why": "YC S25 founding engineer at an AI motion design startup — build-from-zero mandate, strong AI-first angle, €90-130k, Europe-based; Berlin primary office means timezone compatibility but not Geneva-local.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}

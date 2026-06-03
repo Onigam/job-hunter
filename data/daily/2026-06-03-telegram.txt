@@ -1,0 +1,34 @@
+🎯 *Job Hunt — 2026-06-03*
+
+*1.* *Member of Technical Staff, Backend Engineer API* @ Runway
+📍 Remote — Europe & North America | ⭐ 81/100 | 🏆 Grade B
+💡 Frontier AI video platform (Series D) — TypeScript/Python/AWS, MTS = staff-equivalent owning API infra for millions of users, EU-friendly remote.
+🔗 https://jobs.ashbyhq.com/runway-ml/8489a08a-f0cf-4418-968c-c7c803d538bc
+
+*2.* *Software Engineer, Platform* @ Speechify
+📍 Geneva, Switzerland (Remote) | ⭐ 76/100 | 🏆 Grade B
+💡 Geneva-labeled role at a 50M-user AI audio company — newly formed Platform team, TypeScript/Node.js, building APIs for TTS/payments/subscriptions from near-zero.
+🔗 https://job-boards.greenhouse.io/speechify/jobs/5614031004
+
+*3.* *Engineering Manager, API* @ Runway
+📍 Remote — Global | ⭐ 72/100 | 🏆 Grade B
+💡 EM path at a frontier AI company — leads the same API team as the MTS role, management track well-suited to a cofounder with platform leadership DNA.
+🔗 https://jobs.ashbyhq.com/runway-ml/b5d136bb-4143-400b-914a-0ae7377ad8ed
+
+*4.* *Founding Engineer (Full-Stack)* @ DrSwarm
+📍 Remote — US/LATAM (Pacific overlap) | ⭐ 72/100 | 🏆 Grade B
+💡 TypeScript/Python/Next.js founding engineer at an AI healthcare automation startup — high ownership, agentic systems; Pacific timezone overlap is the main friction from Geneva.
+🔗 mailto:jobs@drswarm.com
+
+*5.* *Senior Full-Stack Engineer* @ Stacksync
+📍 Lausanne, Switzerland / Remote EU | ⭐ 71/100 | 🏆 Grade B
+💡 YC-backed startup with Lausanne HQ — CRM-database real-time sync, 16-person team with high ownership, Swiss remote, Python/React/PostgreSQL stack.
+🔗 https://www.ycombinator.com/companies/stacksync/jobs/YDOeybq-senior-full-stack-engineer
+
+*6.* *Founding Software Engineer* @ Hera (YC S25)
+📍 Berlin, DE / Remote | ⭐ 71/100 | 🏆 Grade B
+💡 YC S25 founding engineer at an AI motion design startup — build-from-zero, €90-130k, strong AI-first angle, Europe timezone-compatible.
+🔗 https://www.ycombinator.com/companies/hera-video/jobs/sHCLYOi-founding-software-engineer
+
+---
+📊 _15 new offers | 689 total tracked_
