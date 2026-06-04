@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-03",
+  "last_updated": "2026-06-04",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -10218,6 +10218,71 @@
       "score": 53,
       "grade": "D",
       "date_found": "2026-06-03",
+      "status": "new"
+    },
+    {
+      "id": "f17075673f1ab8df96c14f686ca4924c",
+      "title": "Co-Founder / CTO (Technical)",
+      "company": "Swissflow.ai",
+      "location": "Remote — Switzerland",
+      "url": "https://joinup.ch/job/technical-co-founder-cto-eb964937-8138-4877-9370-0df9654239ba-10117",
+      "source": "startupticker",
+      "summary": "Swissflow.ai automates repetitive administrative work for Swiss SMEs (invoicing, scheduling, customer comms, document handling) using AI agent workflows built on Python, LangChain, and n8n. Technical co-founder role: owns architecture, infrastructure, security, and production reliability. Equity-based compensation — no salary until first client revenue.",
+      "score": 70,
+      "grade": "B",
+      "date_found": "2026-06-04",
+      "status": "new"
+    },
+    {
+      "id": "17550ff44750961362862f7133249d49",
+      "title": "Founding AI / Full-Stack Engineer",
+      "company": "TaskHived",
+      "location": "Remote",
+      "url": "https://joinup.ch/job/full-stack-engineer-ai-systems-early-stage-build-384e26da-8423-4b0b-8ce8-4e5665cb072b-10146",
+      "source": "startupticker",
+      "summary": "TaskHived is building a next-generation platform for AI system evaluation and deployment in real-world environments. Founding full-stack engineer role: React frontend, Supabase (Postgres/auth), API integrations, LLM workflows. Very early stage, unspecified compensation, equity-heavy.",
+      "score": 69,
+      "grade": "C",
+      "date_found": "2026-06-04",
+      "status": "new"
+    },
+    {
+      "id": "66a4a31de739318935bb705ae291a41a",
+      "title": "Founding Fullstack Software Engineer",
+      "company": "Matcha.fm",
+      "location": "Remote — EU / US / CA / UK",
+      "url": "https://matcha.fm/apply",
+      "source": "hn",
+      "summary": "Matcha.fm is a social music recommendations startup (HN Who's Hiring June 2026). Founding fullstack software engineer to own 0-to-1 growth features, ship experiments fast, and build viral loops. Remote EU eligible. Estimated $120-180k + founding-level equity.",
+      "score": 62,
+      "grade": "C",
+      "date_found": "2026-06-04",
+      "status": "new"
+    },
+    {
+      "id": "0f5a645ae271c371695fee83240e3209",
+      "title": "Senior Backend/Infrastructure Engineer",
+      "company": "Zulip",
+      "location": "Remote — Worldwide",
+      "url": "https://zulip.com/jobs/",
+      "source": "hn",
+      "summary": "Zulip is an open-source team collaboration platform. Senior backend/infrastructure engineer role: Python/Django backend, PostgreSQL (tuning, indexing, migrations), AWS, Docker, Prometheus, RabbitMQ, Redis. Remote worldwide. Compensation unspecified. Contact: jobs+infra@zulip.com. From HN Who's Hiring June 2026.",
+      "score": 47,
+      "grade": "D",
+      "date_found": "2026-06-04",
+      "status": "new"
+    },
+    {
+      "id": "1f74d060e8865d67b4af32b189663fee",
+      "title": "Lead Fullstack Developer / Tech Lead",
+      "company": "Pixl Sàrl",
+      "location": "Carouge GE, Switzerland",
+      "url": "https://www.jobup.ch/en/jobs/detail/7860e363-c9ca-4b9e-afdc-f7f3b1216880/",
+      "source": "jobup",
+      "summary": "Pixl Sàrl is a Geneva-area software company. Lead Fullstack Developer / Tech Lead: .NET 9/10, C#, Angular 19+, PostgreSQL, Docker, Kubernetes, Azure DevOps. CDI, 80-100% workload, 1 day remote/week. French fluency required. Geneva location is ideal but .NET/C# stack is a mismatch for Magino.",
+      "score": 44,
+      "grade": "D",
+      "date_found": "2026-06-04",
       "status": "new"
     }
   ]

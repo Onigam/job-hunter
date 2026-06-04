@@ -1,0 +1,43 @@
+{
+  "date": "2026-06-04",
+  "total_searched": 32,
+  "new_offers": 5,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Co-Founder / CTO (Technical)",
+      "company": "Swissflow.ai",
+      "location": "Remote — Switzerland",
+      "url": "https://joinup.ch/job/technical-co-founder-cto-eb964937-8138-4877-9370-0df9654239ba-10117",
+      "score": 70,
+      "grade": "B",
+      "why": "Swiss AI startup automating administrative workflows (invoicing, scheduling, comms) for SMEs — Python/LangChain/n8n stack aligns with Magino's AI-augmented engineering practice and cofounder profile. Switzerland-remote, maximum ownership scope. Caveat: no salary until first client revenue, structured as a pure co-founder equity arrangement.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Founding AI / Full-Stack Engineer",
+      "company": "TaskHived",
+      "location": "Remote",
+      "url": "https://joinup.ch/job/full-stack-engineer-ai-systems-early-stage-build-384e26da-8423-4b0b-8ce8-4e5665cb072b-10146",
+      "score": 69,
+      "grade": "C",
+      "why": "Early-stage AI evaluation and deployment platform hiring a founding engineer — React/Supabase/Postgres stack close to Magino's TypeScript/full-stack profile, and the 'build production-ready AI systems' mandate matches his AI-augmented engineering focus. Very early stage with unspecified compensation; expect equity-heavy terms.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Founding Fullstack Software Engineer",
+      "company": "Matcha.fm",
+      "location": "Remote — EU / US / CA / UK",
+      "url": "https://matcha.fm/apply",
+      "score": 62,
+      "grade": "C",
+      "why": "Social music recommendations startup (HN June 2026) hiring a founding-level full-stack engineer to own 0-to-1 growth features, remote-eligible for Europe. Estimated $120-180k + founding equity. Less AI-first than ideal, but the founding ownership scope and Europe-remote policy are solid fits for Magino's profile.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
