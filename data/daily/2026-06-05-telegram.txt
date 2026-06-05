@@ -1,0 +1,30 @@
+🎯 *Job Hunt — 2026-06-05*
+
+*1.* *VP of Engineering / CTO* @ Well-funded AI Infrastructure Startup _(via Jack & Jill)_
+📍 Remote (US, stealth) | ⭐ 73/100 | 🏆 Grade B
+💡 Stealth clinical-AI infrastructure startup — CTO-scope ownership across AI orchestration layers, $300k-$500k + equity. Caveat: hardware/firmware layers and US-based.
+🔗 https://jobgether.com/offer/69e64699c646310ee394cd76-vp-of-engineering-or-cto-300k--500k-equity-at-well-funded-ai-infrastructure-startup
+
+*2.* *Founding AI Engineer* @ Pharosyn _(EF-backed, pre-seed)_
+📍 London, UK (on-site) | ⭐ 70/100 | 🏆 Grade B
+💡 Build real-time AI monitoring clinical trials and regulatory filings for pharma/biotech clients — founding ownership, £100k-£150k + equity. Caveat: on-site London.
+🔗 https://www.jackandjill.ai/jobs/engineer/founding-ai-engineer-100k-150k-equity-at-pharosyn-03498563-f060-4451-83d4-85c83143a81e
+
+*3.* *Founding Engineer — Platform* @ Clove _(Accel, $14M pre-seed)_
+📍 London, UK | ⭐ 67/100 | 🏆 Grade C
+💡 Ex-Paddle/Trouva founders building AI+human financial advice platform — architect core backend, custody integrations, and Book of Record from zero. Strong pedigree, London location the main friction.
+🔗 https://jobs.ashbyhq.com/clove
+
+*4.* *Founding Engineer, Applied AI Lead* @ Equi _(fintech, $25M raised)_
+📍 Remote (US/NYC) | ⭐ 61/100 | 🏆 Grade C
+💡 Sole founding engineer at alternative-assets fintech serving family offices — full AI product ownership. Hedge-fund context and US timezone are friction for Geneva.
+🔗 https://jobs.ashbyhq.com/equi/0e335b36-ac8b-43bc-8198-ff6745fa3f00
+
+*5.* *Senior Software Engineer* @ BLP Digital AG _(ETH Zurich spinout)_
+📍 Zurich, Switzerland (hybrid) | ⭐ 59/100 | 🏆 Grade C
+💡 ML-powered ERP automation company out of ETH Zurich — TypeScript/Python/Go/K8s stack, Swiss market rates, hybrid Zurich. Seniority is Senior not Staff, but Switzerland location scores.
+🔗 https://jobs.ashbyhq.com/blp-digital/ca3b29db-b84a-4652-a935-78827508b1a2
+
+---
+📊 _7 new offers | 701 total tracked_
+⚠️ _Lighter day — most strong remote EU roles already tracked. Best new lead: Jack & Jill VP/CTO (B, $300-500k) and Pharosyn Founding AI Eng (B, London on-site)._

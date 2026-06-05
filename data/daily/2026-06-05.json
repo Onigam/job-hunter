@@ -1,0 +1,67 @@
+{
+  "date": "2026-06-05",
+  "total_searched": 22,
+  "new_offers": 7,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "VP of Engineering / CTO",
+      "company": "Well-funded AI Infrastructure Startup (via Jack & Jill)",
+      "location": "Remote (US-based, stealth)",
+      "url": "https://jobgether.com/offer/69e64699c646310ee394cd76-vp-of-engineering-or-cto-300k--500k-equity-at-well-funded-ai-infrastructure-startup",
+      "score": 73,
+      "grade": "B",
+      "why": "Stealth AI infrastructure startup integrating real-time AI into clinical environments — CTO/VP scope with full technical ownership across AI orchestration and software layers. $300k-$500k + equity is exceptional compensation. Caveat: likely US-based and involves hardware/firmware layers outside Magino's SaaS background.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Founding AI Engineer",
+      "company": "Pharosyn",
+      "location": "London, UK (on-site)",
+      "url": "https://www.jackandjill.ai/jobs/engineer/founding-ai-engineer-100k-150k-equity-at-pharosyn-03498563-f060-4451-83d4-85c83143a81e",
+      "score": 70,
+      "grade": "B",
+      "why": "Pre-seed EF-backed startup building real-time AI competitive intelligence for pharma/biotech — replacing manual monitoring of clinical trials and regulatory filings with autonomous AI systems. Founding-engineer scope, £100k-£150k + equity. Major caveat: on-site Central London, difficult for Geneva-based Magino.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Founding Engineer — Platform",
+      "company": "Clove",
+      "location": "London, UK",
+      "url": "https://jobs.ashbyhq.com/clove",
+      "score": 67,
+      "grade": "C",
+      "why": "UK fintech startup merging AI with human advisors for democratized financial advice — $14M pre-seed from Accel, founded by ex-Paddle (Christian Owens) and ex-Trouva. Founding engineer owns backend architecture, custody/trading integrations, and internal Book of Record from zero. Pedigree and ownership scope are strong; London location is the limiting factor.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Founding Engineer, Applied AI Lead",
+      "company": "Equi",
+      "location": "Remote (US, likely NYC)",
+      "url": "https://jobs.ashbyhq.com/equi/0e335b36-ac8b-43bc-8198-ff6745fa3f00",
+      "score": 61,
+      "grade": "C",
+      "why": "Fintech platform giving family offices and UHNWIs access to curated alternative assets ($25M raised) — sole Founding Engineer hire to lead applied AI development. Strong founding-engineer ownership; timezone and hedge-fund context are the friction points for Geneva-based Magino.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Senior Software Engineer",
+      "company": "BLP Digital AG",
+      "location": "Zurich, Switzerland (hybrid)",
+      "url": "https://jobs.ashbyhq.com/blp-digital/ca3b29db-b84a-4652-a935-78827508b1a2",
+      "score": 59,
+      "grade": "C",
+      "why": "ETH Zurich spinout automating ERP processes (procurement, logistics, accounting) with world-class ML. Switzerland ✓, TypeScript+Python+Go+K8s stack, 60+ engineers. Seniority is 'Senior' not 'Staff', and the enterprise-ERP context is less exciting than a greenfield startup — but Geneva-to-Zurich commute and Swiss market rates make it worth a look.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
