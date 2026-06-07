@@ -1,0 +1,80 @@
+{
+  "date": "2026-06-07",
+  "total_searched": 27,
+  "new_offers": 16,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Contractor Founding Full-Stack Engineer",
+      "company": "Sira AI (YC-backed)",
+      "location": "Remote Europe",
+      "url": "https://www.getonbrd.com/jobs/programming/contractor-founding-full-stack-efounding-full-stack-engineer-sira-ai-remote",
+      "score": 81,
+      "grade": "B",
+      "why": "YC-backed AI agent performance platform with a perfect stack match (TypeScript, Python, React, FastAPI) — founding engineer role at ~5 people with 1% vested equity mirrors the Alaya cofounder arc, and the AI-agent focus lands squarely in Magino's current engineering focus.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Full-Stack Engineer",
+      "company": "Hatchet",
+      "location": "Remote EU or NYC",
+      "url": "https://hatchet.run",
+      "source": "hn",
+      "score": 78,
+      "grade": "B",
+      "why": "YC W24 durable-execution platform for agentic workloads — 7-person team post-$5.7M seed means real founding-level impact; TypeScript/Go/Postgres/Kubernetes stack overlaps well, and the product is infrastructure for the kind of multi-agent workflows Magino already builds.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Senior AI Engineer",
+      "company": "n8n",
+      "location": "Remote Europe",
+      "url": "https://jobs.ashbyhq.com/n8n/5d501d74-cb30-4c14-8ff9-508f647b34a9",
+      "score": 78,
+      "grade": "B",
+      "why": "n8n's AI team ships LLM-powered workflow automation on a TypeScript/Node.js/Vue stack — direct overlap with Magino's AI-augmented engineering work, fully remote Europe, and one of the most active open-source developer tools projects right now.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Founding Engineer",
+      "company": "Plato (backed by Hexa)",
+      "location": "Paris, France",
+      "url": "https://www.welcometothejungle.com/en/companies/hexa/jobs/founding-engineer-damagex-backed-by-hexa_paris",
+      "score": 75,
+      "grade": "B",
+      "why": "First engineering hire at a January 2026 Hexa studio startup — TypeScript/Node/React/tRPC stack is textbook Magino, and building production AI systems alongside the co-founder/CTO from day one directly echoes the Alaya founding story. Paris is close to Geneva.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Member of Technical Staff — Principal Engineer (TypeScript)",
+      "company": "Undisclosed (via Wellfound)",
+      "location": "Switzerland",
+      "url": "https://wellfound.com/jobs/3540437-member-of-technical-staff-principal-engineer-typescript",
+      "score": 74,
+      "grade": "B",
+      "why": "Principal Engineer title with explicit TypeScript focus in Switzerland — exact seniority and location match, though the company identity is gated behind Wellfound login and worth verifying before applying.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 6,
+      "title": "Founding Engineer",
+      "company": "Memora ApS",
+      "location": "Remote EU (CET overlap)",
+      "url": "https://weworkremotely.com/remote-jobs/memora-aps-founding-engineer",
+      "score": 72,
+      "grade": "B",
+      "why": "5-person startup with founding engineer scope and a stack (NestJS/TypeScript, PostgreSQL, React Native, AWS Bedrock) that maps cleanly to Magino's background — meaningful equity, EU-timezone remote, and real civic-tech ownership from day one.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}

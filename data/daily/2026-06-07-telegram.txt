@@ -1,0 +1,34 @@
+🎯 *Job Hunt — 2026-06-07*
+
+*1.* *Contractor Founding Full-Stack Engineer* @ Sira AI (YC-backed)
+📍 Remote Europe | ⭐ 81/100 | 🏆 Grade B
+💡 YC-backed AI agent platform — founding engineer + 1% equity, TypeScript/Python stack, mirrors the Alaya founding arc
+🔗 https://www.getonbrd.com/jobs/programming/contractor-founding-full-stack-efounding-full-stack-engineer-sira-ai-remote
+
+*2.* *Full-Stack Engineer* @ Hatchet
+📍 Remote EU or NYC | ⭐ 78/100 | 🏆 Grade B
+💡 YC W24, 7-person team, $5.7M seed — durable execution infra for agentic workloads, TypeScript/Kubernetes
+🔗 https://hatchet.run
+
+*3.* *Senior AI Engineer* @ n8n
+📍 Remote Europe | ⭐ 78/100 | 🏆 Grade B
+💡 LLM-powered workflow automation, TypeScript/Node.js, one of the most active developer tools in the open-source space
+🔗 https://jobs.ashbyhq.com/n8n/5d501d74-cb30-4c14-8ff9-508f647b34a9
+
+*4.* *Founding Engineer* @ Plato (backed by Hexa)
+📍 Paris, France | ⭐ 75/100 | 🏆 Grade B
+💡 First engineer hire at a Jan 2026 Hexa startup — TypeScript/Node/React/tRPC, production AI systems, close to Geneva
+🔗 https://www.welcometothejungle.com/en/companies/hexa/jobs/founding-engineer-damagex-backed-by-hexa_paris
+
+*5.* *Member of Technical Staff — Principal Engineer (TypeScript)* @ Undisclosed
+📍 Switzerland | ⭐ 74/100 | 🏆 Grade B
+💡 Principal-level TypeScript role in Switzerland — exact title and location match, company details behind Wellfound login
+🔗 https://wellfound.com/jobs/3540437-member-of-technical-staff-principal-engineer-typescript
+
+*6.* *Founding Engineer* @ Memora ApS
+📍 Remote EU (CET) | ⭐ 72/100 | 🏆 Grade B
+💡 5-person startup, NestJS/TypeScript/AWS Bedrock stack, founding equity, civic-tech product for municipalities
+🔗 https://weworkremotely.com/remote-jobs/memora-aps-founding-engineer
+
+---
+📊 _16 new offers | 730 total tracked_
