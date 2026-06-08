@@ -1,0 +1,24 @@
+🎯 *Job Hunt — 2026-06-08*
+
+*1.* *Principal / Distinguished Engineer* @ Albert
+📍 Remote Worldwide | ⭐ 76/100 | 🏆 Grade B
+💡 Highest IC title, remote from Geneva, up to ~$750k TC at a profitable 20M-user fintech — build net-new products from scratch.
+🔗 https://albert.com/careers
+
+*2.* *Platform Engineer — Multicloud* @ Supabase
+📍 Remote Worldwide | ⭐ 74/100 | 🏆 Grade B
+💡 Design cloud-portable infrastructure from zero at one of the most loved OSS developer-tools companies — clean-slate platform work with strong async culture.
+🔗 https://jobs.ashbyhq.com/supabase/847a7bd7-6b75-444a-aeda-d0b28a11c764
+
+*3.* *Senior Platform Engineer* @ bunch
+📍 Remote — Europe | ⭐ 72/100 | 🏆 Grade B
+💡 TypeScript/Node.js/Nest.js/AWS/Kubernetes stack — Geneva-compatible remote, building fund-admin infrastructure for VC/PE at a 2021 Berlin scaleup.
+🔗 https://jobs.ashbyhq.com/bunch/0f986ee6-6ec0-4652-ab28-bf3ddd7461ab
+
+*4.* *Staff Engineer (Backend)* @ BVNK
+📍 Remote — Europe | ⭐ 70/100 | 🏆 Grade B
+💡 Staff-level product-tribe ownership at a stablecoin payments company being acquired by Mastercard for $1.8B — near-term liquidity event with real options upside.
+🔗 https://boards.eu.greenhouse.io/bvnk/jobs/4065355101
+
+---
+📊 _7 new offers | 737 total tracked_

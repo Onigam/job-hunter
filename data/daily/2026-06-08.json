@@ -1,0 +1,91 @@
+{
+  "date": "2026-06-08",
+  "total_searched": 22,
+  "new_offers": 7,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Principal / Distinguished Engineer",
+      "company": "Albert",
+      "location": "Remote — Worldwide",
+      "url": "https://albert.com/careers",
+      "score": 76,
+      "grade": "B",
+      "why": "Highest engineering IC title (Principal/Distinguished), remote from anywhere, and total comp up to ~$750k. Profitable consumer fintech with 20M+ users — rare combination of financial stability and senior-level impact. Build net-new products from a clean slate.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Platform Engineer — Multicloud",
+      "company": "Supabase",
+      "location": "Remote — Worldwide",
+      "url": "https://jobs.ashbyhq.com/supabase/847a7bd7-6b75-444a-aeda-d0b28a11c764",
+      "score": 74,
+      "grade": "B",
+      "why": "Designing cloud-portable infrastructure from scratch at one of the most loved developer-tools companies in the OSS ecosystem — exactly the zero-to-one platform work Magino thrives in. Hire globally, ESOP, strong async engineering culture.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Senior Platform Engineer",
+      "company": "bunch",
+      "location": "Remote — Europe",
+      "url": "https://jobs.ashbyhq.com/bunch/0f986ee6-6ec0-4652-ab28-bf3ddd7461ab",
+      "score": 72,
+      "grade": "B",
+      "why": "TypeScript/Node.js/Nest.js/AWS/Kubernetes — near-perfect stack match. bunch is building private-markets fund-admin infrastructure (VC/PE) and hiring core platform engineers; Geneva is fully compatible with their remote-Europe model.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Staff Engineer (Backend)",
+      "company": "BVNK",
+      "location": "Remote — Europe",
+      "url": "https://boards.eu.greenhouse.io/bvnk/jobs/4065355101",
+      "score": 70,
+      "grade": "B",
+      "why": "Staff-level ownership of a product tribe at a stablecoin payments scaleup being acquired by Mastercard for $1.8B — a near-term liquidity event with real options upside. Remote Europe, hybrid with London offices.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Staff Engineer",
+      "company": "Givebutter",
+      "location": "Remote — US Hubs Only",
+      "url": "https://jobs.ashbyhq.com/givebutter/0b9eb432-ea4f-4057-a13e-a044a3c3407a",
+      "score": 60,
+      "grade": "C",
+      "why": "Staff level at an impact-driven nonprofit fundraising platform with a solid TypeScript/React stack. Mission alignment is strong but remote eligibility is restricted to US hubs — Geneva applicants may face friction.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 6,
+      "title": "Forward Deployed Engineer — Strategist (Europe)",
+      "company": "ElevenLabs",
+      "location": "Remote — Europe (Switzerland not listed)",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/5d1390e2-a6e8-4f8b-b01f-ad7e286009d2",
+      "score": 58,
+      "grade": "C",
+      "why": "ElevenLabs is the market leader in AI voice and a strong AI signal, but the FDE-Strategist role is customer-facing/sales-adjacent rather than core engineering. Switzerland is not among the listed eligible countries.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 7,
+      "title": "Staff Software Engineer — Fullstack",
+      "company": "ABB Schweiz AG",
+      "location": "Zürich, Switzerland",
+      "url": "https://swissdevjobs.ch/jobs/ABB-Schweiz-AG-Staff-Software-Engineer---Fullstack",
+      "score": 55,
+      "grade": "C",
+      "why": "Swiss location is the main draw — Zurich, Staff level, CHF-denominated salary. But ABB is a large industrial corporation with typical enterprise constraints and limited AI exposure. Worth a look if remote-first roles stall.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}

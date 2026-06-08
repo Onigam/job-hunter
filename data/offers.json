@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-07",
+  "last_updated": "2026-06-08",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -10752,6 +10752,97 @@
       "score": 51,
       "grade": "D",
       "date_found": "2026-06-07",
+      "status": "new"
+    },
+    {
+      "id": "73a004d895145f51136de8245e52aa9f",
+      "title": "Principal / Distinguished Engineer",
+      "company": "Albert",
+      "location": "Remote — Worldwide",
+      "url": "https://albert.com/careers",
+      "source": "hn",
+      "summary": "Albert is a profitable consumer fintech with 20M+ users (budgeting, savings, investing). Hiring Principal and Distinguished Engineers to build net-new products. Compensation up to ~$750k TC. Remote almost anywhere. Profitable for 4+ years, average employee tenure 3.6 years. Posted June 2026 on HN Who's Hiring.",
+      "score": 76,
+      "grade": "B",
+      "date_found": "2026-06-08",
+      "status": "new"
+    },
+    {
+      "id": "3b3cb50eeb1eddf552941f7c39358433",
+      "title": "Platform Engineer — Multicloud",
+      "company": "Supabase",
+      "location": "Remote — Worldwide",
+      "url": "https://jobs.ashbyhq.com/supabase/847a7bd7-6b75-444a-aeda-d0b28a11c764",
+      "source": "ashbyhq",
+      "summary": "Supabase (open-source Firebase alternative, Series B, beloved OSS developer tools) is hiring a Platform Engineer to build cloud-portable infrastructure. Stack: Kubernetes, Pulumi. Role: audit existing infra for cloud-specific dependencies, design cloud-agnostic abstractions, build across multi-cloud and colocated infrastructure. Remote worldwide, ESOP, 100% health coverage. 3-5+ years required.",
+      "score": 74,
+      "grade": "B",
+      "date_found": "2026-06-08",
+      "status": "new"
+    },
+    {
+      "id": "4ebf6f778955135df792b7b856693584",
+      "title": "Senior Platform Engineer",
+      "company": "bunch",
+      "location": "Remote — Europe",
+      "url": "https://jobs.ashbyhq.com/bunch/0f986ee6-6ec0-4652-ab28-bf3ddd7461ab",
+      "source": "ashbyhq",
+      "summary": "bunch (bunch.capital) builds next-gen fund operations infrastructure for VC/PE and alternative assets. Founded 2021, Berlin HQ with offices in Amsterdam, London, Luxembourg. Stack: TypeScript, Node.js, Nest.js, Svelte, AWS, Kubernetes, Docker. Senior Platform Engineer to design, build, and maintain infrastructure and automation. Remote Europe (Portugal/Spain listed), 6+ years required, 28 days vacation.",
+      "score": 72,
+      "grade": "B",
+      "date_found": "2026-06-08",
+      "status": "new"
+    },
+    {
+      "id": "e60abb582c185807595af11b96098be4",
+      "title": "Staff Engineer (Backend)",
+      "company": "BVNK",
+      "location": "Remote — Europe",
+      "url": "https://boards.eu.greenhouse.io/bvnk/jobs/4065355101",
+      "source": "greenhouse",
+      "summary": "BVNK builds stablecoin-powered enterprise payment infrastructure, operating in 130+ countries, with $93M raised across 4 rounds (Series B). Recently announced $1.8B acquisition by Mastercard. Staff Engineer to take technical ownership of a product tribe. Remote Europe with hybrid offices in London. 444 employees. Competitive salary + options — exit event is imminent.",
+      "score": 70,
+      "grade": "B",
+      "date_found": "2026-06-08",
+      "status": "new"
+    },
+    {
+      "id": "777a02b38006dc1872963530b3a28342",
+      "title": "Staff Engineer",
+      "company": "Givebutter",
+      "location": "Remote — US Hubs Only",
+      "url": "https://jobs.ashbyhq.com/givebutter/0b9eb432-ea4f-4057-a13e-a044a3c3407a",
+      "source": "ashbyhq",
+      "summary": "Givebutter is the most-loved nonprofit fundraising and CRM platform. Staff Engineer role (full product ownership) with PHP/Laravel, React, TypeScript stack. Remote but restricted to 10 US hubs — location constraint makes this a weak fit for Geneva-based Magino. Mission-driven, 100% health coverage, 3% 401k.",
+      "score": 60,
+      "grade": "C",
+      "date_found": "2026-06-08",
+      "status": "new"
+    },
+    {
+      "id": "b93a630588f1af8177152dbef8a55ced",
+      "title": "Forward Deployed Engineer — Strategist (Europe)",
+      "company": "ElevenLabs",
+      "location": "Remote — Europe (CH not listed)",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/5d1390e2-a6e8-4f8b-b01f-ad7e286009d2",
+      "source": "ashbyhq",
+      "summary": "ElevenLabs (leading AI voice company) hiring a Forward Deployed Engineer Strategist for Europe. Role involves deploying voice AI for strategic customers — customer-facing, architecture design, API integration (Python). Countries listed: UK, Denmark, Germany, Ireland, Italy, Poland, Portugal, Spain, Sweden — Switzerland NOT included. Strong AI signal but wrong role type and location gap.",
+      "score": 58,
+      "grade": "C",
+      "date_found": "2026-06-08",
+      "status": "new"
+    },
+    {
+      "id": "39857e8645c8ce1e2780963c0a038456",
+      "title": "Staff Software Engineer — Fullstack",
+      "company": "ABB Schweiz AG",
+      "location": "Zürich, Switzerland",
+      "url": "https://swissdevjobs.ch/jobs/ABB-Schweiz-AG-Staff-Software-Engineer---Fullstack",
+      "source": "swissdevjobs",
+      "summary": "ABB Schweiz AG (large industrial automation corporation) hiring a Staff Software Engineer Fullstack in Zurich. Swiss location and CHF salary are the main positives. ABB is a global industrial giant — enterprise culture, limited AI/startup exposure, and heavy legacy systems are the main negatives. Worth considering if startup-focused search stalls.",
+      "score": 55,
+      "grade": "C",
+      "date_found": "2026-06-08",
       "status": "new"
     }
   ]
