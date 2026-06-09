@@ -1,0 +1,91 @@
+{
+  "date": "2026-06-09",
+  "total_searched": 72,
+  "new_offers": 7,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "VP of Engineering (Remote)",
+      "company": "Crystal Intelligence",
+      "location": "Remote — Worldwide",
+      "url": "https://crystalintelligence.teamtailor.com/jobs/7757396-vp-of-engineering-remote",
+      "score": 82,
+      "grade": "B",
+      "why": "Owns the full migration from legacy stack to an AI-native data pipeline — exactly the kind of platform-zero-to-one challenge Magino drove at Alaya and continued post-acquisition at Benevity. The role explicitly calls for building AI-assisted engineering infrastructure (code generation, agent-based tooling, org-wide AI productivity), which mirrors Magino's current focus. Fully remote, VP level, scale-up with real platform complexity.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "VP/Head of Engineering — Identity, Access & User Management",
+      "company": "DAZN",
+      "location": "Amsterdam, Netherlands",
+      "url": "https://careers.dazn.com/jobs/job/8c9d7c34-vphead-of-engineering-identity-access-user-management/",
+      "score": 67,
+      "grade": "C",
+      "why": "VP/Head of Engineering for mission-critical IAM/backend teams at a large streaming platform — right seniority level, meaningful scope, and a distributed systems challenge. Amsterdam is in European timezone range from Geneva. Stack leans backend cloud architecture rather than TypeScript/Node, and DAZN is enterprise-scale rather than startup, so company fit is partial.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Technical Lead — Full Stack Engineering",
+      "company": "Sprinto",
+      "location": "Remote",
+      "url": "https://jobs.lever.co/Sprinto/1ef5d9b3-b542-4727-a260-451faafb3eea",
+      "score": 66,
+      "grade": "C",
+      "why": "TypeScript, Node.js, React stack is a near-perfect match and the role is fully remote. Sprinto is a compliance automation scale-up (Series B, $31.8M, 350+ people, 2500+ customers) which maps to Magino's experience with SaaS platform evolution. The 'Technical Lead' title is slightly below Staff+, and the company is India-headquartered which may imply IST-leaning collaboration hours.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Staff Product Engineer",
+      "company": "LawnStarter",
+      "location": "Remote — Global",
+      "url": "https://weworkremotely.com/remote-jobs/lawnstarter-staff-product-engineer",
+      "score": 63,
+      "grade": "C",
+      "why": "Staff-level, fully remote, and the role is explicitly AI-native: most code is authored by AI agents, and the job is about making those agents ship at staff-level quality — prompts, evals, observability. That framing resonates with Magino's AI-augmented engineering practice. Compensation ($80–100k USD) is below Geneva market rates, and the hiring focus skews toward Latin American timezones.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Senior AI Research Engineer",
+      "company": "Nexthink",
+      "location": "Lausanne, Switzerland (Hybrid)",
+      "url": "https://jobs.smartrecruiters.com/nexthink/744000114566563-ai-research-engineer",
+      "score": 60,
+      "grade": "C",
+      "why": "Lausanne is 50 minutes from Geneva, hybrid model, and the role involves LLMs, agents, and applied AI systems — terrain Magino knows well. Nexthink is a mature B2B SaaS (~2000 people) rather than a startup, and 'Senior' is a step below Staff+. Solid Switzerland option if proximity matters more than startup ownership.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 6,
+      "title": "VP of Engineering",
+      "company": "Hivebrite",
+      "location": "Paris, France (Hybrid — 2 days/week)",
+      "url": "https://startup.jobs/vp-of-engineering-hivebrite-3468112",
+      "score": 60,
+      "grade": "C",
+      "why": "VP of Engineering for a 160-person community platform with offices in Paris, NYC, Sydney — solid leadership scope and a genuine team-building mandate. Paris is only 3 hours from Geneva by train, but the role explicitly requires 2 days/week in office, making it a relocation or commute decision. Stack is general web platform rather than TypeScript/AI-first.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 7,
+      "title": "VP of Engineering — Merchant Growth Tribe",
+      "company": "SumUp",
+      "location": "Berlin, Germany",
+      "url": "https://startup.jobs/vp-engineering-sumup_uk-143397",
+      "score": 61,
+      "grade": "C",
+      "why": "VP Engineering at SumUp (global fintech scale-up, 3000+ employees) overseeing merchant acquisition and integrations engineering — strong leadership scope, fintech domain, and the platform angle aligns loosely with Magino's Alaya/Benevity tenure. Berlin-based with no clear remote option, which is the main friction from Geneva.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}

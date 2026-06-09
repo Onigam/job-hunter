@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-08",
+  "last_updated": "2026-06-09",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -10843,6 +10843,97 @@
       "score": 55,
       "grade": "C",
       "date_found": "2026-06-08",
+      "status": "new"
+    },
+    {
+      "id": "1486efa6b7d23fb652913190d3dd686c",
+      "title": "VP of Engineering (Remote)",
+      "company": "Crystal Intelligence",
+      "location": "Remote — Worldwide",
+      "url": "https://crystalintelligence.teamtailor.com/jobs/7757396-vp-of-engineering-remote",
+      "source": "teamtailor",
+      "summary": "Crystal Intelligence is a blockchain analytics and compliance platform serving exchanges, financial institutions, and regulators across 100+ blockchains. The VP Engineering role owns the full migration from legacy stack to a new AI-native data pipeline — the company's top strategic priority for 2026. Includes building shared infrastructure for AI-assisted engineering: code generation, automated testing, agent-based migration tooling, and org-wide AI productivity systems. Fully remote worldwide, VP level, posted May 2026.",
+      "score": 82,
+      "grade": "B",
+      "date_found": "2026-06-09",
+      "status": "new"
+    },
+    {
+      "id": "cd5a8e31cbb5057b22a88dd3dcad0077",
+      "title": "VP/Head of Engineering — Identity, Access & User Management",
+      "company": "DAZN",
+      "location": "Amsterdam, Netherlands",
+      "url": "https://careers.dazn.com/jobs/job/8c9d7c34-vphead-of-engineering-identity-access-user-management/",
+      "source": "dazn-careers",
+      "summary": "DAZN is a global sports streaming platform hiring a VP/Head of Engineering to lead IAM (Identity, Access and User Management) domain engineering. The role oversees mission-critical backend services including DAZN IAM, user profiles, and device management platforms. Requires 10+ years architecting fault-tolerant high-availability systems and 3+ years managing multiple teams. Amsterdam office, engineering-first culture, large-scale distributed systems challenge.",
+      "score": 67,
+      "grade": "C",
+      "date_found": "2026-06-09",
+      "status": "new"
+    },
+    {
+      "id": "7bc1aae4839e5fa6fc5b9b46f5a83976",
+      "title": "Technical Lead — Full Stack Engineering",
+      "company": "Sprinto",
+      "location": "Remote",
+      "url": "https://jobs.lever.co/Sprinto/1ef5d9b3-b542-4727-a260-451faafb3eea",
+      "source": "lever",
+      "summary": "Sprinto is a compliance automation platform (Series B, $31.8M raised, 350+ employees, 2500+ customers across 75 countries backed by Accel/Elevation/Blume). Technical Lead Full Stack role requiring TypeScript and Node.js/Express.js expertise, React frontend. Fully remote, hands-on technical leadership in a cross-functional environment. India-headquartered with global remote team.",
+      "score": 66,
+      "grade": "C",
+      "date_found": "2026-06-09",
+      "status": "new"
+    },
+    {
+      "id": "59ee1dcfee43c515629b72cbb9655801",
+      "title": "Staff Product Engineer",
+      "company": "LawnStarter",
+      "location": "Remote — Global",
+      "url": "https://weworkremotely.com/remote-jobs/lawnstarter-staff-product-engineer",
+      "source": "weworkremotely",
+      "summary": "LawnStarter (home services marketplace expanding to all home services) is hiring a Staff Product Engineer for an AI-native engineering model: most code is authored by AI agents and the role is about making agents ship at staff-level quality through prompts, evals, tests, and observability. Fully remote globally, though hiring skews toward Latin American timezones. Salary $80k-$100k USD.",
+      "score": 63,
+      "grade": "C",
+      "date_found": "2026-06-09",
+      "status": "new"
+    },
+    {
+      "id": "cf287dda8e74165f4375d28f379b698d",
+      "title": "Senior AI Research Engineer",
+      "company": "Nexthink",
+      "location": "Lausanne, Switzerland (Hybrid)",
+      "url": "https://jobs.smartrecruiters.com/nexthink/744000114566563-ai-research-engineer",
+      "source": "smartrecruiters",
+      "summary": "Nexthink (B2B SaaS, dual HQ Lausanne/Boston, ~2000 employees) is hiring a Senior AI Research Engineer to shape the next generation of AI agents. Role involves leading a small team, owning ambiguous AI problems, making pragmatic decisions, and turning early ideas into working prototypes. LLMs, agents, applied AI systems focus. Hybrid work model in Lausanne (50 min from Geneva). 3–7+ years experience required.",
+      "score": 60,
+      "grade": "C",
+      "date_found": "2026-06-09",
+      "status": "new"
+    },
+    {
+      "id": "a6ce4b1f0ce37417c65b85d77273a7fd",
+      "title": "VP of Engineering",
+      "company": "Hivebrite",
+      "location": "Paris, France (Hybrid — 2 days/week)",
+      "url": "https://startup.jobs/vp-of-engineering-hivebrite-3468112",
+      "source": "startup.jobs",
+      "summary": "Hivebrite is an all-in-one community management platform (160+ employees, 900+ customers in higher education, nonprofit, and corporate sectors, offices in Paris/NYC/Sydney). VP Engineering leads the full engineering team (backend, frontend, QA, SRE), reports to CEO, and owns day-to-day management and long-term growth of the engineering organization. Requires 2 days/week in Paris office. 3+ years VP experience, managing 40+ engineers.",
+      "score": 60,
+      "grade": "C",
+      "date_found": "2026-06-09",
+      "status": "new"
+    },
+    {
+      "id": "490c5272c04ee9a4a6ce8271a486b60a",
+      "title": "VP of Engineering — Merchant Growth Tribe",
+      "company": "SumUp",
+      "location": "Berlin, Germany",
+      "url": "https://startup.jobs/vp-engineering-sumup_uk-143397",
+      "source": "startup.jobs",
+      "summary": "SumUp is a global fintech company (3000+ employees, payments and point-of-sale infrastructure) hiring a VP Engineering to oversee the Merchant Growth Tribe covering merchant acquisition and B2B integrations. Role involves managing 3+ engineering teams (10+ engineers currently, planning to double). Berlin-based, no explicit remote option mentioned. Strong tech scale-up with fintech platform complexity.",
+      "score": 61,
+      "grade": "C",
+      "date_found": "2026-06-09",
       "status": "new"
     }
   ]

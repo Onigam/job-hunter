@@ -1,0 +1,34 @@
+🎯 *Job Hunt — 2026-06-09*
+
+*1.* *VP of Engineering (Remote)* @ Crystal Intelligence
+📍 Remote — Worldwide | ⭐ 82/100 | 🏆 Grade B
+💡 Owns the full migration to AI-native data pipeline — the kind of platform-from-zero mandate Magino ran at Alaya, now at VP level with explicit AI-assisted engineering charter.
+🔗 https://crystalintelligence.teamtailor.com/jobs/7757396-vp-of-engineering-remote
+
+*2.* *VP/Head of Engineering — IAM* @ DAZN
+📍 Amsterdam, Netherlands | ⭐ 67/100 | 🏆 Grade C
+💡 VP/Head scope over mission-critical identity and backend teams at a major streaming platform, EU timezone, strong distributed systems challenge.
+🔗 https://careers.dazn.com/jobs/job/8c9d7c34-vphead-of-engineering-identity-access-user-management/
+
+*3.* *Technical Lead — Full Stack* @ Sprinto
+📍 Remote | ⭐ 66/100 | 🏆 Grade C
+💡 TypeScript/Node.js/React stack, fully remote, Series B compliance SaaS — strong stack match, slightly below Staff+ seniority.
+🔗 https://jobs.lever.co/Sprinto/1ef5d9b3-b542-4727-a260-451faafb3eea
+
+*4.* *Staff Product Engineer* @ LawnStarter
+📍 Remote — Global | ⭐ 63/100 | 🏆 Grade C
+💡 Staff-level, AI-native coding role where agents write the code and the job is making them ship at staff quality — resonates with Magino's AI-augmented engineering practice.
+🔗 https://weworkremotely.com/remote-jobs/lawnstarter-staff-product-engineer
+
+*5.* *Senior AI Research Engineer* @ Nexthink
+📍 Lausanne, Switzerland (Hybrid) | ⭐ 60/100 | 🏆 Grade C
+💡 50 min from Geneva, hybrid, LLMs and agents focus — solid Switzerland proximity option, though Senior rather than Staff+.
+🔗 https://jobs.smartrecruiters.com/nexthink/744000114566563-ai-research-engineer
+
+*6.* *VP of Engineering* @ Hivebrite
+📍 Paris, France (2 days/week) | ⭐ 60/100 | 🏆 Grade C
+💡 VP scope over 160-person community platform, Paris office is 3h from Geneva by train — relocation or commute decision required.
+🔗 https://startup.jobs/vp-of-engineering-hivebrite-3468112
+
+---
+📊 _7 new offers | 744 total tracked_
