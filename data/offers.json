@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09",
+  "last_updated": "2026-06-10",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -10935,6 +10935,97 @@
       "grade": "C",
       "date_found": "2026-06-09",
       "status": "new"
+    },
+    {
+      "id": "8c55e37b43b9d57ad4057f4be9d7f993",
+      "title": "AI Software Engineer",
+      "company": "EggAI",
+      "location": "Remote — EU (+/- 2h CET)",
+      "url": "https://job-boards.eu.greenhouse.io/eggai/jobs/4772834101",
+      "source": "greenhouse",
+      "summary": "EggAI is building scalable, secure, enterprise-grade AI solutions. The AI Software Engineer role involves designing and implementing AI-powered systems using Python, FastAPI, Pydantic, event-driven architectures (Kafka/RabbitMQ), PostgreSQL, and cloud platforms (Azure/AWS/GCP). Focus on agentic systems, multi-agent pipelines, and production-grade LLM orchestration. Remote EU, EU/Norway/UK/Switzerland only, +/-2h CET.",
+      "grade": "B",
+      "score": 72,
+      "status": "new",
+      "date_found": "2026-06-10"
+    },
+    {
+      "id": "10c00fdb53499681b0685a267557d42c",
+      "title": "Platform Engineer Lead — DevOps",
+      "company": "EggAI",
+      "location": "Remote — EU (+/- 2h CET)",
+      "url": "https://job-boards.eu.greenhouse.io/eggai/jobs/4857164101",
+      "source": "greenhouse",
+      "summary": "EggAI is hiring a Platform Engineer Lead (DevOps) to design and operate cloud-native platforms at scale. 15+ years required. Stack: Terraform, Helm, Kustomize, Pulumi, Kubernetes (ArgoCD, FluxCD), Bash/Python/Go, secrets management, supply-chain security (Cosign, SBOM). Focus on production reliability and self-service infrastructure for AI engineering teams. Remote EU (EU/Norway/UK/Switzerland), +/-2h CET.",
+      "grade": "C",
+      "score": 69,
+      "status": "new",
+      "date_found": "2026-06-10"
+    },
+    {
+      "id": "4de0e8271a94e9ab4531cc3f0adce11c",
+      "title": "SRE / Platform Engineer",
+      "company": "EggAI",
+      "location": "Remote — EU (+/- 2h CET)",
+      "url": "https://job-boards.eu.greenhouse.io/eggai/jobs/4875943101",
+      "source": "greenhouse",
+      "summary": "EggAI is hiring an SRE/Platform Engineer to ensure reliability and operational excellence for their enterprise AI platform. Focus on site reliability engineering, cloud infrastructure, and supporting agentic AI workloads in production. Remote EU (EU/Norway/UK/Switzerland), +/-2h CET.",
+      "grade": "C",
+      "score": 67,
+      "status": "new",
+      "date_found": "2026-06-10"
+    },
+    {
+      "id": "06a1a2f5d6efcd3ed69cc18f3952d086",
+      "title": "Senior Backend Engineer — Proton Pass",
+      "company": "Proton",
+      "location": "Geneva, Switzerland",
+      "url": "https://job-boards.eu.greenhouse.io/proton/jobs/4612269101",
+      "source": "greenhouse",
+      "summary": "Proton (50M+ users, Geneva-based) is hiring a Senior Backend Engineer for the Proton Pass product team. Role involves backend development for the password manager and identity product. Geneva on-site, Swiss employer with strong mission (privacy by default). Proton has 600+ employees and is one of the largest tech employers in Geneva.",
+      "grade": "C",
+      "score": 66,
+      "status": "new",
+      "date_found": "2026-06-10"
+    },
+    {
+      "id": "f8ae13b8b090de2de8a3be9716fb4def",
+      "title": "Staff Software Engineer — Platform Engineering (Custody)",
+      "company": "Ripple",
+      "location": "Geneva, Switzerland",
+      "url": "https://ripple.com/careers/all-jobs/job/7930279/",
+      "source": "ripple.com",
+      "summary": "Ripple is hiring a Staff Software Engineer for their Platform Engineering team in Geneva, focusing on secure enclave infrastructure for cryptographic custody workloads. 10+ years required. Stack: Rust, Go, C, C++, Java, AWS Nitro Enclaves, GCP Confidential VMs, Intel SGX, AMD SEV-SNP. The role mentors senior engineers, leads threat modeling, and influences technical direction across teams. Competitive Swiss salary + equity. In-office 10+ days/month in Geneva.",
+      "grade": "C",
+      "score": 65,
+      "status": "new",
+      "date_found": "2026-06-10"
+    },
+    {
+      "id": "26c02aa838e8e91d7ce3b6c17319c5a7",
+      "title": "Senior Backend Engineer — Backend Platform",
+      "company": "Frontify",
+      "location": "Switzerland (Remote or St. Gallen)",
+      "url": "https://jobs.lever.co/frontify/2813b174-c23b-4897-b680-bc95bc0fada1",
+      "source": "lever",
+      "summary": "Frontify (brand management SaaS, St. Gallen HQ) is hiring a Senior Backend Engineer for the Backend Platform team. The team provides core tools, services, and foundations for product teams. Responsibilities include extending/modernizing/scaling backend services with focus on reliability, security, and performance. Stack: PHP8+, TypeScript, GraphQL, REST, MySQL, Docker, AWS. Remote from anywhere in Switzerland or on-site in St. Gallen.",
+      "grade": "C",
+      "score": 63,
+      "status": "new",
+      "date_found": "2026-06-10"
+    },
+    {
+      "id": "d22239958781ed06512e15e710095c72",
+      "title": "Senior Backend Engineer — Media Delivery",
+      "company": "Frontify",
+      "location": "Switzerland (Remote or St. Gallen)",
+      "url": "https://jobs.lever.co/frontify/a448155b-a65c-4714-b956-2ef080213aab",
+      "source": "lever",
+      "summary": "Frontify is hiring a Senior Backend Engineer for the Media Delivery team, building and optimizing a dynamic, scalable, high-performance media platform. Responsibilities include API design/implementation, performance optimization, and high-quality testing strategies. Stack: PHP8+, TypeScript, GraphQL, REST, MySQL, Docker, AWS. Remote from Switzerland or on-site St. Gallen.",
+      "grade": "C",
+      "score": 62,
+      "status": "new",
+      "date_found": "2026-06-10"
     }
   ]
 }

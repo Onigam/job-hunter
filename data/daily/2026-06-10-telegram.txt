@@ -1,0 +1,34 @@
+🎯 *Job Hunt — 2026-06-10*
+
+*1.* *AI Software Engineer* @ EggAI
+📍 Remote EU (+/-2h CET) | ⭐ 72/100 | 🏆 Grade B
+💡 Agentic enterprise AI systems — same LLM orchestration & multi-agent pipelines Magino built at Benevity, EU remote with Switzerland in scope.
+🔗 https://job-boards.eu.greenhouse.io/eggai/jobs/4772834101
+
+*2.* *Platform Engineer Lead — DevOps* @ EggAI
+📍 Remote EU (+/-2h CET) | ⭐ 69/100 | 🏆 Grade C
+💡 15+ years required — they're looking for someone with Magino's exact seniority, owning cloud-native AI infra (Terraform, Kubernetes, ArgoCD) from scratch.
+🔗 https://job-boards.eu.greenhouse.io/eggai/jobs/4857164101
+
+*3.* *SRE / Platform Engineer* @ EggAI
+📍 Remote EU (+/-2h CET) | ⭐ 67/100 | 🏆 Grade C
+💡 Reliability engineering for production AI systems — strong fallback at the same AI-first company, Switzerland-eligible remote.
+🔗 https://job-boards.eu.greenhouse.io/eggai/jobs/4875943101
+
+*4.* *Senior Backend Engineer — Proton Pass* @ Proton
+📍 Geneva, Switzerland | ⭐ 66/100 | 🏆 Grade C
+💡 10-minute commute from central Geneva at one of the rare local product companies at real scale (50M+ users) — Senior rather than Staff+, but Geneva IC roles this specific are scarce.
+🔗 https://job-boards.eu.greenhouse.io/proton/jobs/4612269101
+
+*5.* *Staff Software Engineer — Platform Engineering* @ Ripple
+📍 Geneva, Switzerland | ⭐ 65/100 | 🏆 Grade C
+💡 Staff-level in Geneva with competitive Swiss compensation — perfect seniority and location, though the Rust/Go/enclave stack diverges from Magino's TypeScript/Python profile.
+🔗 https://ripple.com/careers/all-jobs/job/7930279/
+
+*6.* *Senior Backend Engineer — Backend Platform* @ Frontify
+📍 Switzerland (Remote / St. Gallen) | ⭐ 63/100 | 🏆 Grade C
+💡 Internal platform team building the foundations other squads rely on — TypeScript + AWS in the stack, Swiss remote policy covers Geneva.
+🔗 https://jobs.lever.co/frontify/2813b174-c23b-4897-b680-bc95bc0fada1
+
+---
+📊 _7 new offers | 751 total tracked_

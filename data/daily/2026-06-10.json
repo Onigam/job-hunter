@@ -1,0 +1,79 @@
+{
+  "date": "2026-06-10",
+  "total_searched": 26,
+  "new_offers": 7,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "AI Software Engineer",
+      "company": "EggAI",
+      "location": "Remote — EU (+/- 2h CET)",
+      "url": "https://job-boards.eu.greenhouse.io/eggai/jobs/4772834101",
+      "score": 72,
+      "grade": "B",
+      "why": "EggAI builds agentic enterprise AI systems — exactly the production-grade LLM orchestration that Magino has been pioneering at Benevity. The role is hands-on AI/Python engineering on multi-agent pipelines and scalable async systems, which maps directly to the AI-augmented engineering workflows Magino built internally. Remote EU with Switzerland explicitly in scope means zero timezone friction.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Platform Engineer Lead — DevOps",
+      "company": "EggAI",
+      "location": "Remote — EU (+/- 2h CET)",
+      "url": "https://job-boards.eu.greenhouse.io/eggai/jobs/4857164101",
+      "score": 69,
+      "grade": "C",
+      "why": "The 15-year minimum floors the search at exactly the seniority Magino brings: 17 years from embedded systems to SaaS acquisition. The mandate is to own cloud-native infrastructure for an enterprise AI company — Terraform, Kubernetes, ArgoCD at scale — which mirrors the platform ownership Magino held at Benevity post-acquisition. Stack is infra-heavy (less TS/Node) but the architectural DNA transfers.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "SRE / Platform Engineer",
+      "company": "EggAI",
+      "location": "Remote — EU (+/- 2h CET)",
+      "url": "https://job-boards.eu.greenhouse.io/eggai/jobs/4875943101",
+      "score": 67,
+      "grade": "C",
+      "why": "A slightly more junior-scoped variant of the EggAI platform role, but still within a company building production AI infrastructure. Reliability engineering for agentic systems is an emerging discipline that leverages Magino's distributed systems background. Good fallback if the Platform Lead role is overfilled; same Switzerland-eligible remote setup.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Senior Backend Engineer — Proton Pass",
+      "company": "Proton",
+      "location": "Geneva, Switzerland",
+      "url": "https://job-boards.eu.greenhouse.io/proton/jobs/4612269101",
+      "score": 66,
+      "grade": "C",
+      "why": "Proton is a 10-minute commute from central Geneva and one of the rare Geneva-based product companies at meaningful scale (50M+ users). The title is Senior rather than Staff+, which is a step down in seniority, but Proton promotes internally and the team builds privacy infrastructure used by millions. A Geneva in-office IC role is hard to find — worth the conversation.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Staff Software Engineer — Platform Engineering (Custody)",
+      "company": "Ripple",
+      "location": "Geneva, Switzerland",
+      "url": "https://ripple.com/careers/all-jobs/job/7930279/",
+      "score": 65,
+      "grade": "C",
+      "why": "Staff-level in Geneva with competitive Swiss compensation and equity — the seniority and location match perfectly. The stack (Rust, Go, enclave/confidential computing) diverges from Magino's TypeScript/Node/Python profile, but the distributed systems depth and platform engineering ownership are directly relevant. The security-sensitive, high-reliability environment maps to the kind of architectural responsibility Magino held at Alaya and Benevity.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 6,
+      "title": "Senior Backend Engineer — Backend Platform",
+      "company": "Frontify",
+      "location": "Switzerland (Remote or St. Gallen)",
+      "url": "https://jobs.lever.co/frontify/2813b174-c23b-4897-b680-bc95bc0fada1",
+      "score": 63,
+      "grade": "C",
+      "why": "Frontify's Backend Platform team builds the internal foundations other product teams rely on — API design, scalability, reliability — which aligns with Magino's platform ownership mindset. TypeScript is in the stack (alongside PHP8+, GraphQL, AWS), and the Switzerland remote policy covers Geneva. Title is Senior rather than Staff+, and the brand management domain is less exciting than AI-first, but it's a solid Swiss product company.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
