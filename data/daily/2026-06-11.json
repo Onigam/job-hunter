@@ -1,0 +1,43 @@
+{
+  "date": "2026-06-11",
+  "total_searched": 25,
+  "new_offers": 5,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Founding Product Engineer",
+      "company": "fonio.ai",
+      "location": "Remote — Europe (±3h CET)",
+      "url": "https://weworkremotely.com/remote-jobs/fonio-senior-software-engineer",
+      "score": 78,
+      "grade": "B",
+      "why": "Austrian AI startup just raised €14.6M seed (20VC + Synthesia/Revolut founders) — fresh capital, small team, real founding-level ownership. NestJS/TypeScript/React stack matches perfectly; remote ±3h CET means Geneva is fully in range.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Staff AI Engineer",
+      "company": "Fieldguide",
+      "location": "Remote — USA",
+      "url": "https://jobs.ashbyhq.com/fieldguide/e73de820-9a51-4234-b5a4-0dce7b93dd79",
+      "score": 62,
+      "grade": "C",
+      "why": "YC-backed AI audit platform (50+ top 100 accounting firms), building reliable enterprise AI agents. Exceptional technical fit — TypeScript, agentic systems, LLM infra ownership. Location constraint: US remote only, no Europe eligibility confirmed.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Founding Engineer — AI",
+      "company": "Muro AI",
+      "location": "San Francisco, CA (in-person preferred)",
+      "url": "https://www.jackandjill.ai/jobs/founding-engineer-ai-200k-equity-at-muro-ai-sf-based-ai-for-pre-construction-737695a1-df9c-4891-8874-03fd7a53b5b1",
+      "score": 57,
+      "grade": "D",
+      "why": "7-person startup building AI agents for pre-construction ($2T industry). RAG pipelines over 1500-page blueprints, Python/TypeScript/Node.js stack, $200K+ TC + equity. SF-based — poor location fit without relocation.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}

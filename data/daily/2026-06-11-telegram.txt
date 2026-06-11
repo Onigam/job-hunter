@@ -1,0 +1,19 @@
+🎯 *Job Hunt — 2026-06-11*
+
+*1.* *Founding Product Engineer* @ fonio.ai
+📍 Remote Europe (±3h CET) | ⭐ 78/100 | 🏆 Grade B
+💡 Austrian AI startup, €14.6M seed just raised — NestJS/TypeScript/React stack, Geneva-eligible, founding-level ownership from day one.
+🔗 https://weworkremotely.com/remote-jobs/fonio-senior-software-engineer
+
+*2.* *Staff AI Engineer* @ Fieldguide
+📍 Remote USA | ⭐ 62/100 | 🏆 Grade C
+💡 YC-backed AI audit platform — TypeScript, agentic systems, LLM infra at scale. Strong tech fit, but US-remote only.
+🔗 https://jobs.ashbyhq.com/fieldguide/e73de820-9a51-4234-b5a4-0dce7b93dd79
+
+*3.* *Founding Engineer — AI* @ Muro AI
+📍 San Francisco (in-person preferred) | ⭐ 57/100 | 🏆 Grade D
+💡 7-person construction AI startup, $200K+ TC — RAG pipelines on 1500-page blueprints, TypeScript/Python. Would require relocation.
+🔗 https://www.jackandjill.ai/jobs/founding-engineer-ai-200k-equity-at-muro-ai-sf-based-ai-for-pre-construction-737695a1-df9c-4891-8874-03fd7a53b5b1
+
+---
+📊 _5 new offers | 756 total tracked_

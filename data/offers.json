@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10",
+  "last_updated": "2026-06-11",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -11026,6 +11026,71 @@
       "score": 62,
       "status": "new",
       "date_found": "2026-06-10"
+    },
+    {
+      "id": "77cc3ff3420f1b5848ad359251d3a57a",
+      "title": "Founding Product Engineer",
+      "company": "fonio.ai",
+      "location": "Remote — Europe (±3h CET)",
+      "url": "https://weworkremotely.com/remote-jobs/fonio-senior-software-engineer",
+      "source": "weworkremotely",
+      "summary": "fonio.ai is an Austrian AI startup (founded 2024, €14.6M seed just raised from 20VC with backers including Synthesia and Revolut founders) building AI telephone assistants for SMEs, evolving into a full omnichannel AI communication platform. Founding Product Engineer role: end-to-end ownership of product features from ideation to deployment. Stack: NestJS, TypeScript, React. Remote ±3h CET (Geneva/Switzerland eligible). Small early team with real founding-level scope.",
+      "score": 78,
+      "grade": "B",
+      "date_found": "2026-06-11",
+      "status": "new"
+    },
+    {
+      "id": "801a10c003960b79263189b9edb01834",
+      "title": "Staff AI Engineer",
+      "company": "Fieldguide",
+      "location": "Remote — USA",
+      "url": "https://jobs.ashbyhq.com/fieldguide/e73de820-9a51-4234-b5a4-0dce7b93dd79",
+      "source": "ashbyhq",
+      "summary": "Fieldguide is a YC-backed AI-native platform automating audit and assurance for cybersecurity, privacy, and financial audits. 50+ of the top 100 accounting/consulting firms trust their platform. Staff AI Engineer role shaping the technical direction of the intelligence layer — agentic systems, agent orchestration, retrieval systems, LLM infrastructure. Stack: TypeScript, Python, distributed systems. Remote USA only (CA/OR primary). Strong technical fit, poor location fit for Geneva-based candidate.",
+      "score": 62,
+      "grade": "C",
+      "date_found": "2026-06-11",
+      "status": "new"
+    },
+    {
+      "id": "254b7c69d263e35da5d51dcf5c45c16b",
+      "title": "Staff AI Engineer",
+      "company": "SecurityScorecard",
+      "location": "Remote — USA",
+      "url": "https://job-boards.greenhouse.io/securityscorecard/jobs/7779112",
+      "source": "greenhouse",
+      "summary": "SecurityScorecard is the global leader in cybersecurity ratings (12M+ companies rated, 64 countries). Staff AI Engineer defining technical architecture for LLM pipelines, agentic workflows, retrieval infrastructure, and evaluation frameworks. Stack: TypeScript/JavaScript, Go, AWS, Docker, Kubernetes, Terraform, ClickHouse, PostgreSQL. $180K-$220K base. Remote USA only — no immigration sponsorship. Strong AI/tech fit, poor location fit.",
+      "score": 50,
+      "grade": "D",
+      "date_found": "2026-06-11",
+      "status": "new"
+    },
+    {
+      "id": "0c1c4dbf515f56fcd5c745a8b552400f",
+      "title": "Founding Engineer — AI",
+      "company": "Muro AI",
+      "location": "San Francisco, CA (in-person preferred)",
+      "url": "https://www.jackandjill.ai/jobs/founding-engineer-ai-200k-equity-at-muro-ai-sf-based-ai-for-pre-construction-737695a1-df9c-4891-8874-03fd7a53b5b1",
+      "source": "jackandjill",
+      "summary": "Muro AI (7-person startup, founded 2023) builds AI agents for preconstruction — autonomous agents that read blueprints, manage multi-million-dollar bids, and automate complex construction workflows. Founding Engineer role building agentic RAG pipelines processing 1500-page plan sets. Stack: Python/FastAPI, Node.js/TypeScript/React/Electron/PostgreSQL/GCP. $200K+ TC + equity. SF-based/in-person preferred — poor location fit for Geneva-based candidate. Domain is construction AI.",
+      "score": 57,
+      "grade": "D",
+      "date_found": "2026-06-11",
+      "status": "new"
+    },
+    {
+      "id": "485a18dca237e94ba230336ffea8c116",
+      "title": "Staff Software Engineer",
+      "company": "HumanIT Solutions",
+      "location": "Remote — Global",
+      "url": "https://jobgether.com/offer/6a21460ff8af0ea2c4047f67-staff-software-engineer-python-django-react-typescript----full-remote",
+      "source": "jobgether",
+      "summary": "HumanIT Solutions (Portuguese tech consulting/recruiting firm) is sourcing a Staff Software Engineer for a health technology client building critical data infrastructure at the intersection of real-world evidence, patient outcomes, and AI-enabled healthcare. Full remote. Stack: Python 3.x, Django, TypeScript, React, Node.js, Kafka, AWS/GCP/Azure. Staff-level architecture, full lifecycle ownership. AI-assisted development required. Posted ~1 week ago. Uncertain whether Switzerland is eligible for this specific placement.",
+      "score": 48,
+      "grade": "D",
+      "date_found": "2026-06-11",
+      "status": "new"
     }
   ]
 }
