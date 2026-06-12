@@ -1,0 +1,43 @@
+{
+  "date": "2026-06-12",
+  "total_searched": 22,
+  "new_offers": 6,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Applied AI, Technical Lead, Forward Deployed AI Engineer",
+      "company": "Mistral AI",
+      "location": "Remote — EMEA",
+      "url": "https://jobs.lever.co/mistral/e2cf255f-49c8-4630-afe0-7f665f51f01f",
+      "score": 87,
+      "grade": "A",
+      "why": "Mistral is one of the world's top frontier AI labs. This Technical Lead role combines enterprise architecture, LLM strategy, and people leadership — a direct parallel to Magino's cofounder + staff engineer track. Remote EMEA means Geneva is fully eligible. Requires 7-8+ years AI/ML experience; Magino's AI-augmented engineering and Benevity platform work are strong evidence.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Principal Engineer, AI Research",
+      "company": "kAIgentic",
+      "location": "Remote (Europe-friendly)",
+      "url": "https://jobs.ashbyhq.com/kaigentic/8a4c6ea7-01c1-458a-95c3-05e9bcd0bfa8",
+      "score": 79,
+      "grade": "B",
+      "why": "kAIgentic builds governed AI agents for large enterprises — exactly the agentic AI direction Magino is pursuing. Principal Engineer AI Research works directly with the CTO on production-grade agentic systems for regulated industries. Day-1 team, high ownership, high AI exposure. Location unclear but appears Europe-remote-friendly.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Founding Software Engineer",
+      "company": "Clubb",
+      "location": "London (in-person, Peckham)",
+      "url": "https://wellfound.com/jobs/4209695-founding-software-engineer",
+      "score": 71,
+      "grade": "B",
+      "why": "Bootstrapped, profitable, AI-first creator monetization platform. First engineering hire alongside two founders — exactly the founding engineer scope Magino targets. TypeScript/React + AI agent features. Main constraint: 4 days/week in-person in London. Good fallback if Geneva/remote options are limited.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}

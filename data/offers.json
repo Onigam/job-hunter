@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-11",
+  "last_updated": "2026-06-12",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -11091,6 +11091,84 @@
       "grade": "D",
       "date_found": "2026-06-11",
       "status": "new"
+    },
+    {
+      "id": "424b8dc5b7934803328bfc3a6a2d0d56",
+      "title": "Applied AI, Technical Lead, Forward Deployed AI Engineer",
+      "company": "Mistral AI",
+      "location": "Remote — EMEA",
+      "url": "https://jobs.lever.co/mistral/e2cf255f-49c8-4630-afe0-7f665f51f01f",
+      "source": "lever",
+      "summary": "Mistral AI (Paris, top-5 global frontier AI lab) is hiring a Technical Lead to drive technical strategy and delivery of complex AI solutions for EMEA enterprise customers. Role leads a team of Applied AI Engineers, acts as primary technical point of contact for strategic clients from pre-sales through implementation, and designs LLM systems including fine-tuning, RAG, and agentic workflows. Requires 7/8+ years AI/ML experience + 2+ years technical leadership. Full remote EMEA (Geneva-eligible).",
+      "grade": "A",
+      "score": 87,
+      "status": "new",
+      "date_found": "2026-06-12"
+    },
+    {
+      "id": "bcc697524c6eb47d5c42ca652cee8fbd",
+      "title": "Principal Engineer, AI Research",
+      "company": "kAIgentic",
+      "location": "Remote (Europe-friendly)",
+      "url": "https://jobs.ashbyhq.com/kaigentic/8a4c6ea7-01c1-458a-95c3-05e9bcd0bfa8",
+      "source": "ashbyhq",
+      "summary": "kAIgentic turns tacit enterprise knowledge into governed AI agents; their platform already powers one of the world's largest financial groups. Principal Engineer AI Research works directly with the CTO on production-grade agentic AI systems for regulated industries. Day-1 team building the connective tissue for enterprise AI transformation.",
+      "grade": "B",
+      "score": 79,
+      "status": "new",
+      "date_found": "2026-06-12"
+    },
+    {
+      "id": "b3638f3c3764ec444a1cde40de76757d",
+      "title": "Founding Software Engineer",
+      "company": "Clubb",
+      "location": "London (in-person, Peckham)",
+      "url": "https://wellfound.com/jobs/4209695-founding-software-engineer",
+      "source": "wellfound",
+      "summary": "Clubb gives creators the building blocks to launch branded membership products (content hosting, payments, growth tools, AI features). First engineering hire working alongside two founders. AI-first platform with agentic/AI-powered features. Bootstrapped, profitable, growing fast. Main constraint: 4 days/week in-person in London — significant location barrier for Geneva-based candidate. Stack: TypeScript/React + AI agents.",
+      "grade": "B",
+      "score": 71,
+      "status": "new",
+      "date_found": "2026-06-12"
+    },
+    {
+      "id": "ed83a24b1f80f313555ec27c2747d2ce",
+      "title": "Staff Data Platform Engineer",
+      "company": "Crystal Intelligence",
+      "location": "Remote — Europe",
+      "url": "https://crystalintelligence.teamtailor.com/jobs/7857873-staff-data-platform-engineer-remote",
+      "source": "teamtailor",
+      "summary": "Crystal Intelligence (blockchain analytics, offices in Warsaw/Bucharest/Lisbon) is hiring a Staff Data Platform Engineer for data pipelines at scale. Stack: Python, FastAPI, PostgreSQL, ClickHouse, Kafka, AWS, Kubernetes, Terraform. Fully remote Europe. 8+ years required. Strong technical platform fit; blockchain domain limits mission alignment.",
+      "grade": "C",
+      "score": 61,
+      "status": "new",
+      "date_found": "2026-06-12"
+    },
+    {
+      "id": "10b5ad287c486664eebbc9c7a116860d",
+      "title": "Senior FullStack Software Engineer (Node.js / Vue.js)",
+      "company": "DiliTrust",
+      "location": "Remote — Full",
+      "url": "https://jobs.lever.co/dilitrust/365d5884-8a28-4ad5-bfe8-db4719c26680",
+      "source": "lever",
+      "summary": "DiliTrust is a fast-growing French LegalTech SaaS (40%+ annual growth, 2,400 customers in 64 countries) building AI-powered governance tools for listed companies. Senior FullStack role (Node.js / Vue.js), fully remote. Below Magino's target seniority but exact stack match. AI-powered product, strong growth.",
+      "grade": "C",
+      "score": 66,
+      "status": "new",
+      "date_found": "2026-06-12"
+    },
+    {
+      "id": "47e321dd59201a71c702853998b46fb2",
+      "title": "Principal Software Engineer, Backend",
+      "company": "Byborg Enterprises",
+      "location": "Remote — Europe",
+      "url": "https://jobs.eu.lever.co/byborgenterprises/0a3dbfff-a478-4bd3-8d4f-be6f184ab5f5",
+      "source": "lever",
+      "summary": "Byborg Enterprises (Luxembourg) leads online streaming and adult entertainment with 16+ brands including LiveJasmin. Principal Backend Software Engineer, remote Europe. High-scale systems. Low mission alignment (adult entertainment), PHP-heavy stack.",
+      "grade": "D",
+      "score": 52,
+      "status": "new",
+      "date_found": "2026-06-12"
     }
   ]
 }

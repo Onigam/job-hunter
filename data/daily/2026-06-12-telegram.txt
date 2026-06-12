@@ -1,0 +1,19 @@
+🎯 *Job Hunt — 2026-06-12*
+
+*1.* *Applied AI, Technical Lead, Forward Deployed AI Engineer* @ Mistral AI
+📍 Remote EMEA | ⭐ 87/100 | 🏆 Grade A
+💡 Frontier AI lab, leads team of Applied AI Engineers — combines Magino's cofounder + staff track with full LLM/enterprise AI strategy.
+🔗 https://jobs.lever.co/mistral/e2cf255f-49c8-4630-afe0-7f665f51f01f
+
+*2.* *Principal Engineer, AI Research* @ kAIgentic
+📍 Remote Europe | ⭐ 79/100 | 🏆 Grade B
+💡 Builds governed AI agents for large enterprises with the CTO — Day-1 team at the intersection of applied AI research and regulated production systems.
+🔗 https://jobs.ashbyhq.com/kaigentic/8a4c6ea7-01c1-458a-95c3-05e9bcd0bfa8
+
+*3.* *Founding Software Engineer* @ Clubb
+📍 London (in-person) | ⭐ 71/100 | 🏆 Grade B
+💡 Bootstrapped profitable creator platform, first engineering hire — pure founding-engineer scope with TypeScript + AI-first features. Note: in-person London, not remote.
+🔗 https://wellfound.com/jobs/4209695-founding-software-engineer
+
+---
+📊 _6 new offers | 762 total tracked_
