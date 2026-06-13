@@ -1,0 +1,121 @@
+{
+  "date": "2026-06-13",
+  "total_searched": 27,
+  "new_offers": 21,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Staff Software Engineer – AI-Native Automation",
+      "company": "Nexthink SA",
+      "location": "Lausanne, Switzerland",
+      "url": "https://www.jobs.ch/en/vacancies/detail/7ae5c473-8238-4230-bbf3-807f28059d67/",
+      "score": 80,
+      "grade": "B",
+      "score_breakdown": {
+        "technical": 22,
+        "seniority": 22,
+        "location": 15,
+        "company": 12,
+        "impact": 9
+      },
+      "why": "Transform Nexthink's Flow automation platform into an AI-native platform with intelligent agents — build from scratch in a post-IPO scaleup with serious AI ambition. Stack includes generative AI integration and enterprise-scale orchestration, directly aligned with Magino's AI-augmented engineering focus. Posted 4 days ago.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Staff Software Engineer (Java) - AI & Developer Experience",
+      "company": "SonarSource SA",
+      "location": "Geneva, Switzerland",
+      "url": "https://www.jobs.ch/en/vacancies/detail/b8ff7928-0437-4302-bd6b-c3eb1196752f/",
+      "score": 80,
+      "grade": "B",
+      "score_breakdown": {
+        "technical": 18,
+        "seniority": 22,
+        "location": 20,
+        "company": 12,
+        "impact": 8
+      },
+      "why": "Geneva-based Staff role at SonarSource — a product company Magino likely knows well — building IDE extensions and backend infra for AI code review agents. Perfect location score (Geneva), strong mission alignment with developer tooling + AI. Java is not primary stack but the AI infrastructure angle is compelling.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Staff Full Stack Engineer (Java, React)",
+      "company": "SonarSource SA",
+      "location": "Geneva, Switzerland",
+      "url": "https://www.jobs.ch/en/vacancies/detail/369780ef-9b02-4457-bc80-df6a5d63a139/",
+      "score": 76,
+      "grade": "B",
+      "score_breakdown": {
+        "technical": 16,
+        "seniority": 22,
+        "location": 20,
+        "company": 12,
+        "impact": 6
+      },
+      "why": "Geneva, Staff level, developer tools company — SonarSource is engineering-first and this role has the architecture ownership angle Magino needs. React is in his stack; Java less so, but the leadership scope and Geneva location make it worth a look.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Principal/Staff Software Engineer",
+      "company": "Nexthink",
+      "location": "Lausanne, Switzerland",
+      "url": "https://jobs.smartrecruiters.com/Nexthink/744000109742575-principal-staff-software-engineer",
+      "score": 76,
+      "grade": "B",
+      "score_breakdown": {
+        "technical": 20,
+        "seniority": 22,
+        "location": 15,
+        "company": 12,
+        "impact": 7
+      },
+      "why": "Lead technical strategy and hands-on architecture for a large-scale AI chat platform at 20M+ users. Principal/Staff title, Switzerland, engineering-first company — the scope and leadership expectations align with Magino's cofounder-to-staff trajectory.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Member of the Technical Staff (Software Engineer)",
+      "company": "Jua",
+      "location": "Zürich, Switzerland",
+      "url": "https://ch.linkedin.com/jobs/view/member-of-the-technical-staff-software-engineer-at-jua-4358471810",
+      "score": 76,
+      "grade": "B",
+      "score_breakdown": {
+        "technical": 20,
+        "seniority": 18,
+        "location": 15,
+        "company": 14,
+        "impact": 9
+      },
+      "why": "Jua is an EPFL-spun AI startup building physical AI models for energy and robotics — early-stage, high-impact, strong AI mission. MTS/Staff level with Python, AWS/GCP, multi-cloud infra. CHF 125k-160k comp. Magino's founding-engineer instinct fits the stage perfectly.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 6,
+      "title": "Senior AI Engineer (TypeScript / Vue / Node.js)",
+      "company": "n8n",
+      "location": "Remote Europe",
+      "url": "https://jobs.ashbyhq.com/n8n/69607328-f9fa-4788-8a6e-8b2d7a102969/application",
+      "score": 74,
+      "grade": "B",
+      "score_breakdown": {
+        "technical": 27,
+        "seniority": 14,
+        "location": 12,
+        "company": 14,
+        "impact": 7
+      },
+      "why": "Stack overlap is almost perfect — TypeScript, Node.js, Vue on an open source workflow automation platform with real AI ambition. Remote EU, open-source startup culture, strong engineering team. Title is Senior not Staff, but the technical fit is the strongest of the batch.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
