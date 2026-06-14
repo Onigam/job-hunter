@@ -1,0 +1,79 @@
+{
+  "date": "2026-06-14",
+  "total_searched": 28,
+  "new_offers": 7,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Engineering Team Lead — Brand Fundamentals",
+      "company": "Frontify",
+      "location": "Remote Switzerland / St. Gallen",
+      "url": "https://jobs.lever.co/frontify/f96d3299-9d01-4625-8c55-31788f8fe139",
+      "score": 69,
+      "grade": "C",
+      "why": "Lead a multidisciplinary team building scalable SaaS for brand management in React/TypeScript — remote-Switzerland with St. Gallen office option. Seniority is Team Lead vs Staff+, but the hands-on tech leadership scope and TypeScript stack alignment make it worth evaluating. Posted February 2026, still active.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Senior Software Architect",
+      "company": "Ecorobotix SA",
+      "location": "Yverdon-les-Bains, Switzerland",
+      "url": "https://www.jobs.ch/en/vacancies/detail/0431c043-e73a-443f-b625-e318334f7d36/",
+      "score": 69,
+      "grade": "C",
+      "why": "Design and own the entire embedded platform architecture at an EPFL-adjacent agri-robotics startup — impact-driven mission, Western Switzerland, posted yesterday. C++/Java stack is far from Magino's TypeScript/Node world but the founding-architect scope and startup DNA are hard to ignore. Flag the stack gap early.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Engineering Team Lead — DAM",
+      "company": "Frontify",
+      "location": "Remote Switzerland / St. Gallen",
+      "url": "https://jobs.lever.co/frontify/da47a3dc-425d-4361-803f-4ec19ef2dd0b",
+      "score": 68,
+      "grade": "C",
+      "why": "Sister role to rank 1 — Digital Asset Management product team instead of Brand Fundamentals. Same TypeScript + React stack, same remote-Switzerland setup. Applying to both simultaneously makes sense if Frontify is in scope.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Tech Lead / Senior Platform Engineer",
+      "company": "EggAI",
+      "location": "Remote — EU (Switzerland, Norway eligible)",
+      "url": "https://news.ycombinator.com/item?id=48444439",
+      "score": 67,
+      "grade": "C",
+      "why": "Boutique enterprise AI consultancy hiring a tech lead and senior platform engineer — remote EU with Switzerland listed. Strong AI exposure and platform engineering angle align well with Magino's AI-augmented stack, but it's consulting rather than a product company.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Senior Software Engineer — AI Platform",
+      "company": "neoflo.ai",
+      "location": "Singapore / Remote",
+      "url": "https://wellfound.com/jobs/4322078-senior-software-engineer-ai-platform",
+      "score": 64,
+      "grade": "C",
+      "why": "Singapore-based AI-first BPO startup ($10M seed, Lightspeed India) posted 4 days ago — AI platform engineering role with genuine product ownership. Location fit is the main drag; worth verifying if EU-remote is accepted before applying.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 6,
+      "title": "Head of Engineering",
+      "company": "Finom",
+      "location": "Remote — Europe",
+      "url": "https://jobs.eu.lever.co/pnlfin/6fc8867b-304f-4eb0-a262-ed34b9ab57bc",
+      "score": 63,
+      "grade": "C",
+      "why": "Lead 2–4 engineering squads (20–30 engineers) at a European fintech with stock options and remote-EU flexibility. Engineering leadership scope fits the profile but fintech/banking domain and large-team management (vs. building from zero) are less aligned with Magino's cofounder instincts.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}

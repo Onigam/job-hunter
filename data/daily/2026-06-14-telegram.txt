@@ -1,0 +1,36 @@
+🎯 *Job Hunt — 2026-06-14*
+
+⚠️ _Today's A/B picks are already tracked — 7 fresh C-grade offers below._
+
+*1.* *Engineering Team Lead — Brand Fundamentals* @ Frontify
+📍 Remote Switzerland | ⭐ 69/100 | 🏆 Grade C
+💡 Lead a React/TypeScript team building SaaS for brand management, fully remote from Switzerland — right stack, right location, one level below Staff.
+🔗 https://jobs.lever.co/frontify/f96d3299-9d01-4625-8c55-31788f8fe139
+
+*2.* *Senior Software Architect* @ Ecorobotix SA
+📍 Yverdon-les-Bains, Switzerland | ⭐ 69/100 | 🏆 Grade C
+💡 Posted yesterday — own the entire embedded platform architecture at an agri-robotics startup. Impact-driven mission but C++/Java stack is far from the TypeScript/Node world; flag the gap early.
+🔗 https://www.jobs.ch/en/vacancies/detail/0431c043-e73a-443f-b625-e318334f7d36/
+
+*3.* *Engineering Team Lead — DAM* @ Frontify
+📍 Remote Switzerland | ⭐ 68/100 | 🏆 Grade C
+💡 Sister role to #1 (Digital Asset Management team instead of Brand Fundamentals) — apply to both if Frontify is in scope.
+🔗 https://jobs.lever.co/frontify/da47a3dc-425d-4361-803f-4ec19ef2dd0b
+
+*4.* *Tech Lead / Senior Platform Engineer* @ EggAI
+📍 Remote — EU (Switzerland eligible) | ⭐ 67/100 | 🏆 Grade C
+💡 Enterprise AI boutique on the June 2026 HN thread — strong AI platform exposure, remote EU, but it's consulting not product.
+🔗 https://news.ycombinator.com/item?id=48444439
+
+*5.* *Senior Software Engineer — AI Platform* @ neoflo.ai
+📍 Singapore / Remote | ⭐ 64/100 | 🏆 Grade C
+💡 AI-first BPO startup with $10M Lightspeed seed, posted 4 days ago — verify EU-remote eligibility before investing time.
+🔗 https://wellfound.com/jobs/4322078-senior-software-engineer-ai-platform
+
+*6.* *Head of Engineering* @ Finom
+📍 Remote — Europe | ⭐ 63/100 | 🏆 Grade C
+💡 Lead 2–4 engineering squads (20–30 engineers) at a European fintech — big management scope, stock options, but fintech domain and large-team setup are less "build from zero."
+🔗 https://jobs.eu.lever.co/pnlfin/6fc8867b-304f-4eb0-a262-ed34b9ab57bc
+
+---
+📊 _7 new offers | 790 total tracked_
