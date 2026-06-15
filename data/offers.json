@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-14",
+  "last_updated": "2026-06-15",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -11511,6 +11511,123 @@
       "score": 69,
       "grade": "C",
       "date_found": "2026-06-14",
+      "status": "new"
+    },
+    {
+      "id": "4733e3aef44754b0e466a9ddbfc0eb94",
+      "title": "Tech Lead, LLM & Generative AI",
+      "company": "Confidential AI startup (via Jobgether)",
+      "location": "Remote — Europe",
+      "url": "https://jobs.lever.co/jobgether/e058e92e-c57f-45f2-bf81-cec5d3117361",
+      "source": "lever",
+      "summary": "Tech lead role at an AI startup operating at scale, posted via Jobgether for a full remote Europe position. Owns LLM infrastructure including inference pipelines, RAG/memory systems, and context management while managing and mentoring a small AI engineering team. Products serve millions of users globally. Hands-on coding expected alongside team leadership.",
+      "score": 77,
+      "grade": "B",
+      "date_found": "2026-06-15",
+      "status": "new"
+    },
+    {
+      "id": "e201834f704426cd91a6b538541ca947",
+      "title": "Platform Engineer",
+      "company": "GovSignals",
+      "location": "Remote — USA",
+      "url": "https://jobs.lever.co/unusual/4b53931e-8d1e-45e5-8ec8-e9007e4b74f7",
+      "source": "lever",
+      "summary": "Platform Engineer at GovSignals (Unusual Ventures portfolio), working directly with the CTO to architect and operate high-performance infrastructure powering GovSignals' AI-assisted government procurement analysis platform. Stack: TypeScript, Kubernetes, Cloudflare Workers, Postgres. Founding-team level impact at an early-stage startup. Posted January 2026.",
+      "score": 72,
+      "grade": "B",
+      "date_found": "2026-06-15",
+      "status": "new"
+    },
+    {
+      "id": "677ecbcdbbecc3cc754257852142626c",
+      "title": "Principal Engineer Fullstack",
+      "company": "US-FinTech (via Rockstar Recruiting)",
+      "location": "Zurich, Switzerland",
+      "url": "https://swissdevjobs.ch/jobs/Rockstar-Recruiting-AG-Principal-Engineer-Fullstack",
+      "source": "swissdevjobs",
+      "summary": "Principal Engineer Fullstack role at a US-based FinTech company operating in Switzerland, recruited exclusively through Rockstar Recruiting AG. Stack: React, Node.js, Java. Compensation: CHF 225,000-250,000. Zurich-based. Senior architectural ownership role in a product company at top Swiss market rates.",
+      "score": 71,
+      "grade": "B",
+      "date_found": "2026-06-15",
+      "status": "new"
+    },
+    {
+      "id": "14fc12c031d1a7f5ddaa30d883ab6ded",
+      "title": "AI Engineer — Agentic Systems",
+      "company": "Undisclosed AI startup (via Rockstar Recruiting)",
+      "location": "Zurich, Switzerland",
+      "url": "https://swissdevjobs.ch/jobs/Rockstar-Recruiting-AG-AI-Engineer--Agentic-Systems",
+      "source": "swissdevjobs",
+      "summary": "AI Engineering role focused on agentic systems at an undisclosed AI startup in Zurich, sourced through Rockstar Recruiting AG. Estimated salary CHF 120,000-140,000. Strong AI/LLM mission alignment, Switzerland location. Seniority level vs. Staff+ target is worth clarifying with the recruiter.",
+      "score": 63,
+      "grade": "C",
+      "date_found": "2026-06-15",
+      "status": "new"
+    },
+    {
+      "id": "a53da4602f65eb698b3268c9f9c4b147",
+      "title": "Staff AI Software Engineer",
+      "company": "Conversica",
+      "location": "Remote — USA",
+      "url": "https://jobs.lever.co/conversica/ef3771ae-5a22-4741-8f06-e09e6047dfd4",
+      "source": "lever",
+      "summary": "Staff AI Software Engineer at Conversica, an AI Revenue Digital Assistant company. Design, build, and scale production-grade LLM-powered AI systems — agents, tool use, retrieval, evals, monitoring. Python-first with strong LLM depth. Remote-first US company; Europe timezone suitability unclear but role is IC Staff level.",
+      "score": 68,
+      "grade": "C",
+      "date_found": "2026-06-15",
+      "status": "new"
+    },
+    {
+      "id": "e48943891f79e018916c8c847fc25d31",
+      "title": "ML Engineer — Agentic AI",
+      "company": "Undisclosed AI startup (via Rockstar Recruiting)",
+      "location": "Zurich, Switzerland",
+      "url": "https://swissdevjobs.ch/jobs/Rockstar-Recruiting-AG-ML-Engineer---Agentic-AI",
+      "source": "swissdevjobs",
+      "summary": "ML Engineer role focused on agentic AI at an undisclosed startup in Zurich, via Rockstar Recruiting. Switzerland location and AI-first mission are strong positives. Python and ML-heavy profile (less TypeScript/Node) creates some stack divergence from Magino's core strengths.",
+      "score": 59,
+      "grade": "C",
+      "date_found": "2026-06-15",
+      "status": "new"
+    },
+    {
+      "id": "17193de55c43de4ba8efbe8dea301944",
+      "title": "Staff, Machine Learning Engineer",
+      "company": "Fullscript",
+      "location": "Remote — Canada",
+      "url": "https://jobs.lever.co/fullscript/21ff4b32-a9c6-4e29-a3a2-1c9d2d65bba4",
+      "source": "lever",
+      "summary": "Staff ML Engineer at Fullscript (Canadian health-tech company) — lead design and deployment of production LLM-powered features for clinical healthcare workflows using LangChain/LangGraph. Requires 6+ years ML experience. Canada remote with hybrid flexibility. Strong AI depth but Canada timezone and healthcare domain reduce fit for Magino.",
+      "score": 62,
+      "grade": "C",
+      "date_found": "2026-06-15",
+      "status": "new"
+    },
+    {
+      "id": "436e0552416bb3b7d1855ecd77869e3e",
+      "title": "Staff Software Engineer",
+      "company": "Prospyr",
+      "location": "Austin, TX — preferred on-site",
+      "url": "https://jobs.ashbyhq.com/prospyr/48833fed-f596-47fd-8439-2ac8914b5a55",
+      "source": "ashbyhq",
+      "summary": "Staff Fullstack Engineer at Prospyr, an early-stage startup building AI-driven practice management software for aesthetic medicine providers (NASA, Tesla, Siemens adjacent). React, TypeScript, GraphQL stack. $150-220K + equity. Austin TX preferred; remote feasibility unclear. Strong tech fit but location mismatch for Geneva.",
+      "score": 65,
+      "grade": "C",
+      "date_found": "2026-06-15",
+      "status": "new"
+    },
+    {
+      "id": "11351201fdd47f99f10c80b84c228cc2",
+      "title": "Full Stack Product Engineer",
+      "company": "Jiga",
+      "location": "Remote — Europe",
+      "url": "https://www.ycombinator.com/companies/jiga/jobs/J4JEuXd-full-stack-engineer-remote-europe",
+      "source": "ycombinator",
+      "summary": "Full Stack Product Engineer at Jiga (YC-backed), a manufacturing platform trusted by NASA, Tesla, and Siemens. React, Node.js, MongoDB. $80-140K + 0.05-0.10% equity. 100% remote Europe. Role is mid-senior (3+ years required) which undershoots Magino's Staff+ profile, but genuine product ownership and YC backing are positives.",
+      "score": 57,
+      "grade": "C",
+      "date_found": "2026-06-15",
       "status": "new"
     }
   ]

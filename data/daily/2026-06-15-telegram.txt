@@ -1,0 +1,34 @@
+🎯 *Job Hunt — 2026-06-15*
+
+*1.* *Tech Lead, LLM & Generative AI* @ Confidential AI startup (via Jobgether)
+📍 Remote — Europe | ⭐ 77/100 | 🏆 Grade B
+💡 Hands-on tech lead owning LLM infrastructure (RAG, inference, context mgmt) + small team — strong AI/platform match
+🔗 https://jobs.lever.co/jobgether/e058e92e-c57f-45f2-bf81-cec5d3117361
+
+*2.* *Platform Engineer* @ GovSignals (via Unusual Ventures)
+📍 Remote — USA | ⭐ 72/100 | 🏆 Grade B
+💡 Build entire platform with CTO — TypeScript, Kubernetes, Cloudflare Workers, early-stage Unusual Ventures portfolio
+🔗 https://jobs.lever.co/unusual/4b53931e-8d1e-45e5-8ec8-e9007e4b74f7
+
+*3.* *Principal Engineer Fullstack* @ US-FinTech (via Rockstar Recruiting)
+📍 Zurich, Switzerland | ⭐ 71/100 | 🏆 Grade B
+💡 Principal role in Switzerland at CHF 225-250K — Node.js + React stack, top local compensation
+🔗 https://swissdevjobs.ch/jobs/Rockstar-Recruiting-AG-Principal-Engineer-Fullstack
+
+*4.* *AI Engineer — Agentic Systems* @ Undisclosed AI startup (via Rockstar)
+📍 Zurich, Switzerland | ⭐ 63/100 | 🏆 Grade C
+💡 Agentic AI engineering in Zurich — mission-aligned with multi-agent work; seniority level worth clarifying
+🔗 https://swissdevjobs.ch/jobs/Rockstar-Recruiting-AG-AI-Engineer--Agentic-Systems
+
+*5.* *Staff AI Software Engineer* @ Conversica
+📍 Remote — USA | ⭐ 68/100 | 🏆 Grade C
+💡 Staff-level production LLM engineering (agents, evals, tool use) — great seniority and AI depth, US timezone is the only friction
+🔗 https://jobs.lever.co/conversica/ef3771ae-5a22-4741-8f06-e09e6047dfd4
+
+*6.* *ML Engineer — Agentic AI* @ Undisclosed AI startup (via Rockstar)
+📍 Zurich, Switzerland | ⭐ 59/100 | 🏆 Grade C
+💡 Agentic ML role in Zurich — AI-first mission and Swiss location are strong positives, Python-heavy stack is partial match
+🔗 https://swissdevjobs.ch/jobs/Rockstar-Recruiting-AG-ML-Engineer---Agentic-AI
+
+---
+📊 _9 new offers | 799 total tracked_

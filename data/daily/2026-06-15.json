@@ -1,0 +1,79 @@
+{
+  "date": "2026-06-15",
+  "total_searched": 20,
+  "new_offers": 9,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Tech Lead, LLM & Generative AI",
+      "company": "Confidential AI startup (via Jobgether)",
+      "location": "Remote — Europe",
+      "url": "https://jobs.lever.co/jobgether/e058e92e-c57f-45f2-bf81-cec5d3117361",
+      "score": 77,
+      "grade": "B",
+      "why": "Hands-on tech lead for a large-scale AI/LLM platform — owns architecture of inference pipelines, RAG systems, and context management while mentoring a small team. Strong AI/platform fit with Magino's LLM integration work and founding-team mentality. Full remote Europe.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Platform Engineer",
+      "company": "GovSignals (via Unusual Ventures)",
+      "location": "Remote — USA",
+      "url": "https://jobs.lever.co/unusual/4b53931e-8d1e-45e5-8ec8-e9007e4b74f7",
+      "score": 72,
+      "grade": "B",
+      "why": "Works directly with the CTO to architect the entire platform underpinning GovSignals' AI systems — TypeScript, Kubernetes, Cloudflare Workers, Postgres. Founding-level impact, early-stage startup backed by Unusual Ventures. US Remote lowers location score.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Principal Engineer Fullstack",
+      "company": "US-FinTech (via Rockstar Recruiting)",
+      "location": "Zurich, Switzerland",
+      "url": "https://swissdevjobs.ch/jobs/Rockstar-Recruiting-AG-Principal-Engineer-Fullstack",
+      "score": 71,
+      "grade": "B",
+      "why": "Principal-level fullstack role at a US FinTech operating in Switzerland — CHF 225-250K, React and Node.js stack. Top-tier Swiss compensation and seniority match; Zurich location is a short train from Geneva. No explicit AI angle reduces mission score.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "AI Engineer — Agentic Systems",
+      "company": "Undisclosed AI startup (via Rockstar Recruiting)",
+      "location": "Zurich, Switzerland",
+      "url": "https://swissdevjobs.ch/jobs/Rockstar-Recruiting-AG-AI-Engineer--Agentic-Systems",
+      "score": 63,
+      "grade": "C",
+      "why": "Agentic AI engineering in Switzerland — strong mission alignment with Magino's multi-agent workflow interest. Zurich location is ideal. Title is ambiguous on seniority vs. Magino's Staff+ target level; worth a quick inquiry to Rockstar.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Staff AI Software Engineer",
+      "company": "Conversica",
+      "location": "Remote — USA",
+      "url": "https://jobs.lever.co/conversica/ef3771ae-5a22-4741-8f06-e09e6047dfd4",
+      "score": 68,
+      "grade": "C",
+      "why": "Staff-level production AI engineering role — Python, LLM agents, tool use and evals in a remote-first US AI company. Seniority and AI depth are excellent fits; location (US timezone) is the main friction point for Geneva.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 6,
+      "title": "ML Engineer — Agentic AI",
+      "company": "Undisclosed AI startup (via Rockstar Recruiting)",
+      "location": "Zurich, Switzerland",
+      "url": "https://swissdevjobs.ch/jobs/Rockstar-Recruiting-AG-ML-Engineer---Agentic-AI",
+      "score": 59,
+      "grade": "C",
+      "why": "Agentic ML engineering role in Zurich — AI-first mission and Switzerland location are positives. Python-heavy ML profile is a slight stack divergence, and title scope is unclear. Worth monitoring if the agentic AI angle is strongly technical.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
