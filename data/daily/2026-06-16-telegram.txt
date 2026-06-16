@@ -1,0 +1,24 @@
+🎯 *Job Hunt — 2026-06-16*
+
+*1.* *Staff Engineer (Agentic AI & Data)* @ Zuma
+📍 Remote — USA (SF preferred) | ⭐ 78/100 | 🏆 Grade B
+💡 a16z/YC-backed Series A agentic AI startup; as first US-based Staff Engineer, Magino's cofounder-to-acquisition arc maps directly to this build-from-zero LLM platform role. High autonomy, equity upside, AI-first culture.
+🔗 https://jobs.lever.co/getzuma/3dd732f9-e4a6-4f38-8ec3-aa80434b261d
+
+*2.* *Staff Engineer (Backend, DevOps, Infrastructure)* @ Zuma
+📍 Remote — USA (SF preferred) | ⭐ 73/100 | 🏆 Grade B
+💡 Same Zuma (a16z), infrastructure/DevOps track — owns the platform layer powering an agentic AI product in a $200B market. Magino's AWS/Kubernetes/CI-CD background is the exact profile needed.
+🔗 https://jobs.lever.co/getzuma/800b8d69-b1e0-4524-a0a7-a5cec8b337b5
+
+*3.* *Senior Platform Engineer, AI Tooling & Infrastructure* @ Conveo (YC S24)
+📍 Remote — Europe | ⭐ 72/100 | 🏆 Grade B
+💡 YC S24, remote Europe, Fortune 500 AI research clients — Magino's platform engineering meets the AI toolchain infrastructure challenge; building the Kubernetes + CI/CD + AI agent workflows that let the team ship fast.
+🔗 https://jobs.ashbyhq.com/conveo/18f8f860-947a-44b9-abda-84bebe92f783
+
+*4.* *Principal ML Ops Engineer* @ Undisclosed AI Startup (via Pragmatike)
+📍 Remote — EMEA | ⭐ 70/100 | 🏆 Grade B
+💡 Principal seniority + EMEA remote at an undisclosed AI inference startup — Magino's AWS/platform/distributed systems foundation translates cleanly to owning ML infrastructure strategy from the ground up.
+🔗 https://jobs.ashbyhq.com/pragmatike/ab7be224-222d-4b16-a941-b91f15578457
+
+---
+📊 _10 new offers | 809 total tracked_

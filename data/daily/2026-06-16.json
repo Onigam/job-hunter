@@ -1,0 +1,55 @@
+{
+  "date": "2026-06-16",
+  "total_searched": 18,
+  "new_offers": 10,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Staff Engineer (Agentic AI & Data)",
+      "company": "Zuma",
+      "location": "Remote \u2014 USA (SF preferred)",
+      "url": "https://jobs.lever.co/getzuma/3dd732f9-e4a6-4f38-8ec3-aa80434b261d",
+      "score": 78,
+      "grade": "B",
+      "why": "a16z/YC-backed Series A agentic AI startup; as first US-based Staff Engineer, Magino's cofounder-to-acquisition arc maps directly to this build-from-zero LLM platform role. High autonomy, equity upside, AI-first culture.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Staff Engineer (Backend, DevOps, Infrastructure)",
+      "company": "Zuma",
+      "location": "Remote \u2014 USA (SF preferred)",
+      "url": "https://jobs.lever.co/getzuma/800b8d69-b1e0-4524-a0a7-a5cec8b337b5",
+      "score": 73,
+      "grade": "B",
+      "why": "Same Zuma (a16z), infrastructure/DevOps track \u2014 owns the platform layer powering an agentic AI product in a $200B market. Magino's AWS/Kubernetes/CI-CD background is the exact profile needed.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Senior Platform Engineer, AI Tooling & Infrastructure",
+      "company": "Conveo (YC S24)",
+      "location": "Remote \u2014 Europe",
+      "url": "https://jobs.ashbyhq.com/conveo/18f8f860-947a-44b9-abda-84bebe92f783",
+      "score": 72,
+      "grade": "B",
+      "why": "YC S24, remote Europe, Fortune 500 AI research clients \u2014 Magino's platform engineering meets the AI toolchain infrastructure challenge; building the Kubernetes + CI/CD + AI agent workflows that let the team ship fast.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Principal ML Ops Engineer",
+      "company": "Undisclosed AI Startup (via Pragmatike)",
+      "location": "Remote \u2014 EMEA",
+      "url": "https://jobs.ashbyhq.com/pragmatike/ab7be224-222d-4b16-a941-b91f15578457",
+      "score": 70,
+      "grade": "B",
+      "why": "Principal seniority + EMEA remote at an undisclosed AI inference startup \u2014 Magino's AWS/platform/distributed systems foundation translates cleanly to owning ML infrastructure strategy from the ground up.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
