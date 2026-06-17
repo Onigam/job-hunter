@@ -1,0 +1,34 @@
+🎯 *Job Hunt — 2026-06-17*
+
+*1.* *Founding AI Engineer — DevOps for the AI Age* @ Rockstar / YC+8VC Startup
+📍 Zurich, Switzerland | ⭐ 88/100 | 🏆 Grade A
+💡 YC + 8VC-backed startup, Python/Node/AWS, build-from-zero mandate — exactly Alaya's founding story, but for AI DevOps.
+🔗 https://apply.workable.com/rockstar-3/j/BCA5FABEFC/
+
+*2.* *Technical Ex-Founder* @ PostHog
+📍 Remote (EU timezone OK) | ⭐ 85/100 | 🏆 Grade A
+💡 PostHog recruits former technical founders to own new products solo — Magino's Alaya → Benevity exit is the exact profile they want. $270K+ USD + equity.
+🔗 https://posthog.com/careers/technical-ex-founder
+
+*3.* *Fullstack / Product AI Founding Engineer* @ Rockstar / Undisclosed AI Startup
+📍 Zurich, Switzerland | ⭐ 85/100 | 🏆 Grade A
+💡 TypeScript, React, Python — core stack, founding-level ownership, CHF 140-150K + equity at a Swiss VC-backed AI startup.
+🔗 https://swissdevjobs.ch/jobs/Rockstar-Recruiting-AG-Fullstack-Product-AI-Founding-Engineer
+
+*4.* *VP of Engineering* @ Neural Concept
+📍 Lausanne, Switzerland | ⭐ 82/100 | 🏆 Grade B
+💡 EPFL spinout, $27M Series B, AI for engineering used by 70%+ of world's top OEMs. Scale the eng org from ~50 engineers — same job Magino did at Alaya, bigger stage. CHF 125-150K + equity.
+🔗 https://jobs.ashbyhq.com/neuralconcept/6143e1e6-4075-4604-96ef-924d61990074
+
+*5.* *Principal Platform Engineer (Architecture & Enablement)* @ SonarSource
+📍 Geneva, Switzerland | ⭐ 76/100 | 🏆 Grade B
+💡 Build the "Golden Path" developer platform for 7M+ users, in Geneva — rare senior IC role with real platform ownership at a GC-backed scaleup.
+🔗 https://jobs.lever.co/sonarsource/1f0c6b2f-ff60-4f15-9e2e-948275a15d23
+
+*6.* *Senior Agentic-AI Engineer* @ PEAX AG
+📍 Luzern, Switzerland | ⭐ 74/100 | 🏆 Grade B
+💡 Swiss AI SaaS building LangChain/LangGraph agentic frameworks for document automation — strong AI-native mission, Python stack, Switzerland-based.
+🔗 https://swissdevjobs.ch/jobs/PEAX-AG-Senior-Agentic-AI-Engineer-mwd
+
+---
+📊 _12 new offers | 821 total tracked_

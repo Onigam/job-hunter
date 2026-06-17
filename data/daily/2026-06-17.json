@@ -1,0 +1,103 @@
+{
+  "date": "2026-06-17",
+  "total_searched": 22,
+  "new_offers": 12,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Founding AI Engineer — DevOps for the AI Age",
+      "company": "Undisclosed AI Startup (via Rockstar Recruiting / YC + 8VC)",
+      "location": "Zurich, Switzerland",
+      "url": "https://apply.workable.com/rockstar-3/j/BCA5FABEFC/",
+      "score": 88,
+      "grade": "A",
+      "why": "Founding engineer at a YC + 8VC-backed startup building DevOps tooling for the AI age. Python/Node.js/AWS stack, build-from-scratch mandate — exactly what Magino did at Alaya. Early equity + CHF 140-150K, Zurich-based.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Technical Ex-Founder",
+      "company": "PostHog",
+      "location": "Remote (GMT+2 to GMT-8)",
+      "url": "https://posthog.com/careers/technical-ex-founder",
+      "score": 85,
+      "grade": "A",
+      "why": "PostHog explicitly recruits ex-founders to own new products end-to-end. Magino's Alaya → Benevity ($1B+) acquisition story is the ideal resume for this role. $270-296K USD + equity, Europe timezone, full autonomy.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Fullstack / Product AI Founding Engineer",
+      "company": "Undisclosed AI Startup (via Rockstar Recruiting)",
+      "location": "Zurich, Switzerland",
+      "url": "https://swissdevjobs.ch/jobs/Rockstar-Recruiting-AG-Fullstack-Product-AI-Founding-Engineer",
+      "score": 85,
+      "grade": "A",
+      "why": "TypeScript, React, Python — Magino's exact core stack. Founding engineer with full product ownership at a VC-backed Swiss AI startup. CHF 140-150K with equity upside, build from zero.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "VP of Engineering",
+      "company": "Neural Concept",
+      "location": "Lausanne, Switzerland",
+      "url": "https://jobs.ashbyhq.com/neuralconcept/6143e1e6-4075-4604-96ef-924d61990074",
+      "score": 82,
+      "grade": "B",
+      "why": "EPFL spinout, $27M Series B, AI-assisted design used by 70%+ of the world's top OEMs. Magino's cofounder background maps directly to scaling Neural Concept's engineering org from seed to growth. CHF 125-150K + equity.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Principal Platform Engineer (Architecture & Enablement)",
+      "company": "SonarSource",
+      "location": "Geneva, Switzerland",
+      "url": "https://jobs.lever.co/sonarsource/1f0c6b2f-ff60-4f15-9e2e-948275a15d23",
+      "score": 76,
+      "grade": "B",
+      "why": "Principal-level platform engineering in Geneva, designing the 'Golden Path' developer experience for 7M+ users. Rare combination of seniority, Geneva location, and real platform ownership at a General Catalyst-backed scaleup.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 6,
+      "title": "Senior Agentic-AI Engineer",
+      "company": "PEAX AG",
+      "location": "Luzern, Switzerland",
+      "url": "https://swissdevjobs.ch/jobs/PEAX-AG-Senior-Agentic-AI-Engineer-mwd",
+      "score": 74,
+      "grade": "B",
+      "why": "Swiss AI SaaS product (document/mailroom automation) building LangChain/LangGraph agentic frameworks from the ground up. Strong AI-native mission, Switzerland-based, Python stack aligned with Magino's LLM integration work.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 7,
+      "title": "Staff Software Engineer (Java) — AI & Developer Experience",
+      "company": "SonarSource",
+      "location": "Geneva, Switzerland",
+      "url": "https://jobs.lever.co/sonarsource/c520b992-26d1-42ef-8b05-5e4e1da3b61a",
+      "score": 73,
+      "grade": "B",
+      "why": "Staff-level in Geneva with AI tooling focus, though Java-heavy stack is partial fit. Strong developer experience mandate and engineering culture at SonarSource.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 8,
+      "title": "Forward Deployed Engineer — AI/ML",
+      "company": "Undisclosed AI Startup (via Rockstar Recruiting)",
+      "location": "Zurich, Switzerland",
+      "url": "https://swissdevjobs.ch/jobs/Rockstar-Recruiting-AG-Forward-Deployed-Engineer---AIML",
+      "score": 72,
+      "grade": "B",
+      "why": "Customer-facing AI/ML engineering at a Swiss startup, Python/Docker/AWS. Less ideal seniority match (FDE role vs staff/principal), but Switzerland location and AI mission are strong. CHF 100-130K. Posted May 15, 2026.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
