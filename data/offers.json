@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17",
+  "last_updated": "2026-06-18",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -11863,6 +11863,45 @@
       "date_found": "2026-06-17",
       "status": "new",
       "id": "a27237994fb21dfabf55c87a7ce48e9b"
+    },
+    {
+      "id": "89058292b49ec2cf395c830bf6798560",
+      "title": "Forward Deployed Engineer",
+      "company": "Adaptyv Bio",
+      "location": "Lausanne, Switzerland (hybrid or remote)",
+      "url": "https://jobs.ashbyhq.com/adaptyv/3377f1b8-10b8-45c3-b03c-1c065b4f8608/",
+      "source": "ashbyhq",
+      "summary": "Adaptyv Bio is a YC-backed ($11.2M seed) AI startup in Lausanne building fully automated labs for protein engineering. AI agents design, synthesize, and test proteins. Forward Deployed Engineer bridges Adaptyv's API with customers — biotech/pharma/AI labs. Role requires TypeScript, Python, real API integration experience, and comfort using coding agents (Claude Code as default). ~34-person team. Strong AI/agentic mission and Switzerland location.",
+      "score": 77,
+      "grade": "B",
+      "date_found": "2026-06-18",
+      "status": "new"
+    },
+    {
+      "id": "ffffc1bfa08b835de4cb87825a412fd8",
+      "title": "AI Engineer — Legal Search",
+      "company": "Omnilex",
+      "location": "Zurich, Switzerland (hybrid, 2 days onsite)",
+      "url": "https://swissdevjobs.ch/jobs/Omnilex-AI-Engineer---Legal-Search",
+      "source": "swissdevjobs",
+      "summary": "Omnilex is an AI legal tech startup from ETH Zurich (~14 people) building LLM-powered legal research for law firms and in-house legal teams. AI Engineer builds retrieval, reasoning, and context engineering for legal search. Stack: TypeScript, Node.js, NestJS, Next.js, Azure. Salary: CHF 100–140k + ESOP. Hybrid Zurich (2 days/week). Requires Swiss work permit or EU/EFTA + working German proficiency. Posted March 2026.",
+      "score": 70,
+      "grade": "B",
+      "date_found": "2026-06-18",
+      "status": "new"
+    },
+    {
+      "id": "026cb7f5a181b48158188e2851b71a1a",
+      "title": "Senior/Staff Fullstack Engineer",
+      "company": "Cortea AI",
+      "location": "Berlin, Germany (in-office)",
+      "url": "https://jobs.ashbyhq.com/cortea/f3a7eeaf-3bbd-4bc9-a69f-61d1d0603a89",
+      "source": "ashbyhq",
+      "summary": "Cortea AI is a Berlin-based B2B SaaS startup using AI to remove audit busywork — transforming compliance through LLM-powered workflows. Senior/Staff Fullstack Engineer leads React/TypeScript features end-to-end, ships APIs and data models. In-office Berlin. Stack: React, TypeScript (and likely Node.js backend). Company is backed by top-tier investors. Major caveat: in-office Berlin is a location mismatch for Geneva-based candidate.",
+      "score": 64,
+      "grade": "C",
+      "date_found": "2026-06-18",
+      "status": "new"
     }
   ]
 }

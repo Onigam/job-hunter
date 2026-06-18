@@ -1,0 +1,19 @@
+🎯 *Job Hunt — 2026-06-18*
+
+*1.* *Forward Deployed Engineer* @ Adaptyv Bio
+📍 Lausanne, Switzerland (hybrid/remote) | ⭐ 77/100 | 🏆 Grade B
+💡 YC-backed AI-automated protein engineering lab — agentic culture, Claude Code as default, founding-team ownership from Lausanne (45 min from Geneva)
+🔗 https://jobs.ashbyhq.com/adaptyv/3377f1b8-10b8-45c3-b03c-1c065b4f8608/
+
+*2.* *AI Engineer — Legal Search* @ Omnilex
+📍 Zurich, Switzerland (hybrid, 2d/wk) | ⭐ 70/100 | 🏆 Grade B
+💡 ETH Zurich-born LLM legal research startup — TypeScript/NestJS/Azure/RAG stack, CHF 100–140k + ESOP (German required, scope negotiable)
+🔗 https://swissdevjobs.ch/jobs/Omnilex-AI-Engineer---Legal-Search
+
+*3.* *Senior/Staff Fullstack Engineer* @ Cortea AI
+📍 Berlin, Germany (in-office) | ⭐ 64/100 | 🏆 Grade C
+💡 AI that removes audit busywork — React/TypeScript, Staff-level seniority; location penalty for Geneva, monitor for remote option
+🔗 https://jobs.ashbyhq.com/cortea/f3a7eeaf-3bbd-4bc9-a69f-61d1d0603a89
+
+---
+📊 _3 new offers | 820 total tracked_

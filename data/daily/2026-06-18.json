@@ -1,0 +1,43 @@
+{
+  "date": "2026-06-18",
+  "total_searched": 22,
+  "new_offers": 3,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Forward Deployed Engineer",
+      "company": "Adaptyv Bio",
+      "location": "Lausanne, Switzerland (hybrid or remote)",
+      "url": "https://jobs.ashbyhq.com/adaptyv/3377f1b8-10b8-45c3-b03c-1c065b4f8608/",
+      "score": 77,
+      "grade": "B",
+      "why": "YC-backed AI-automated biology lab building AI agents that run protein engineering experiments. Lausanne (45 min from Geneva), seed-stage ($11.2M, 34 people). Forward Deployed Engineer bridges Adaptyv's API with biotech customers — deep technical ownership, agentic-first culture (Claude Code as default). Magino's TypeScript + AWS + cofounder-builder mindset is a natural match for a founding-team-level technical role at a science-first AI startup.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "AI Engineer — Legal Search",
+      "company": "Omnilex",
+      "location": "Zurich, Switzerland (hybrid, 2 days onsite)",
+      "url": "https://swissdevjobs.ch/jobs/Omnilex-AI-Engineer---Legal-Search",
+      "score": 70,
+      "grade": "B",
+      "why": "ETH Zurich-born AI legal tech, 14-person team building LLM-powered legal research for law firms. TypeScript / NestJS / Azure / RAG stack aligns well. Switzerland-based with competitive CHF 100–140k salary + ESOP. Caveat: working German proficiency is listed as required, and role seniority sits below Magino's typical Staff/Principal target — worth a conversation to explore scope.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Senior/Staff Fullstack Engineer",
+      "company": "Cortea AI",
+      "location": "Berlin, Germany (in-office)",
+      "url": "https://jobs.ashbyhq.com/cortea/f3a7eeaf-3bbd-4bc9-a69f-61d1d0603a89",
+      "score": 64,
+      "grade": "C",
+      "why": "Berlin AI startup removing audit busywork via LLM-powered workflows. React/TypeScript stack and Senior/Staff seniority fit Magino well. Included to fill the report — in-office Berlin is a location penalty for Geneva-based Magino, but worth monitoring if remote becomes an option.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
