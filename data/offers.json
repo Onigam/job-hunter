@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18",
+  "last_updated": "2026-06-19",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -11901,6 +11901,56 @@
       "score": 64,
       "grade": "C",
       "date_found": "2026-06-18",
+      "status": "new"
+    },
+    {
+      "id": "8ce786a24a9a7972a5c310d7e149c29e",
+      "title": "Staff Platform Engineer, AI Systems",
+      "company": "Strike",
+      "location": "Remote (Global)",
+      "url": "https://job-boards.greenhouse.io/strike/jobs/5779695004",
+      "source": "greenhouse",
+      "summary": "Strike is building its internal AI infrastructure platform — engineers will create IDE agents (Claude/Gemini), design agentic orchestration layers with tiered autonomy (advisory to autonomous), build MCP servers connecting AI tools to production systems, and establish knowledge bases for agentic reasoning. Stack: GCP/GKE, Kubernetes, Helm/ArgoCD, C#/.NET (Core Services), Python (Data/Scripts), TypeScript (Web), Claude, Gemini, n8n workflows. Fully remote. $206K–$232K + equity + benefits. High AI/LLM exposure — uses Claude Code and n8n extensively.",
+      "score": 81,
+      "grade": "B",
+      "score_breakdown": {
+        "technical": 7,
+        "seniority": 9,
+        "location": 5,
+        "company": 7,
+        "impact": 9,
+        "mission": 7,
+        "compensation": 10,
+        "growth": 7,
+        "ai_llm": 10,
+        "novelty": 10
+      },
+      "date_found": "2026-06-19",
+      "status": "new"
+    },
+    {
+      "id": "c7ba98b55147fef86f73d1fb2d641abd",
+      "title": "Backend Engineer",
+      "company": "CG24",
+      "location": "Zürich, Switzerland (Remote CET)",
+      "url": "https://news.ycombinator.com/item?id=48357725",
+      "source": "hn",
+      "summary": "CG24 is Switzerland's leading P2P lending platform (crowdlending) connecting borrowers and investors with automated risk and loan processing. Backend or full-stack engineer role on their core TypeScript/Serverless/DynamoDB/Postgres stack, with React for frontend. Engineering team spread between Zürich, Kiev, and Minsk. CET remote. Contact: sp@cg24.com. Posted in HN Who's Hiring June 2026. No salary listed. EU citizenship not mentioned. Note: seniority level unclear, no AI/LLM focus.",
+      "score": 55,
+      "grade": "C",
+      "score_breakdown": {
+        "technical": 6,
+        "seniority": 4,
+        "location": 10,
+        "company": 4,
+        "impact": 5,
+        "mission": 3,
+        "compensation": 7,
+        "growth": 4,
+        "ai_llm": 2,
+        "novelty": 10
+      },
+      "date_found": "2026-06-19",
       "status": "new"
     }
   ]

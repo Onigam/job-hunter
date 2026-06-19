@@ -1,0 +1,31 @@
+{
+  "date": "2026-06-19",
+  "total_searched": 98,
+  "new_offers": 2,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Staff Platform Engineer, AI Systems",
+      "company": "Strike",
+      "location": "Remote (Global)",
+      "url": "https://job-boards.greenhouse.io/strike/jobs/5779695004",
+      "score": 81,
+      "grade": "B",
+      "why": "Building the internal AI infrastructure layer at Strike — Claude, Gemini, n8n, MCP servers, tiered agent autonomy — directly maps to Magino's AI-augmented engineering focus; Staff Platform level with $206K–$232K + equity.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Backend Engineer",
+      "company": "CG24",
+      "location": "Zürich, Switzerland (Remote CET)",
+      "url": "https://news.ycombinator.com/item?id=48357725",
+      "score": 55,
+      "grade": "C",
+      "why": "Swiss P2P lending platform with TypeScript/Serverless stack, full CET remote from Zürich — strong location fit, but seniority level and AI exposure are limited compared to Magino's target roles.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}

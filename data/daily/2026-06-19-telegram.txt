@@ -1,0 +1,14 @@
+🎯 *Job Hunt — 2026-06-19*
+
+*1.* *Staff Platform Engineer, AI Systems* @ Strike
+📍 Remote (Global) | ⭐ 81/100 | 🏆 Grade B
+💡 Build Strike's internal AI platform — Claude, Gemini, n8n, MCP servers, tiered agent autonomy — perfect overlap with Magino's AI-augmented engineering expertise, at Staff level with $206K–$232K + equity.
+🔗 https://job-boards.greenhouse.io/strike/jobs/5779695004
+
+*2.* *Backend Engineer* @ CG24
+📍 Zürich, Switzerland (Remote CET) | ⭐ 55/100 | 🏆 Grade C
+💡 Switzerland's leading P2P lending platform, TypeScript/Serverless stack, full CET remote — strong location fit for Geneva-based search, though below target seniority and lacks AI focus.
+🔗 https://news.ycombinator.com/item?id=48357725
+
+---
+📊 _2 new offers | 822 total tracked_
