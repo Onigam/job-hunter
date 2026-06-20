@@ -1,0 +1,103 @@
+{
+  "date": "2026-06-20",
+  "total_searched": 22,
+  "new_offers": 8,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Founding Full Stack AI Engineer",
+      "company": "Undisclosed AI Data Infrastructure Startup (via Pragmatike)",
+      "location": "Remote — EMEA (flexible timezone)",
+      "url": "https://jobs.ashbyhq.com/pragmatike/5ab6774c-d907-4535-9b31-fae4f70235cb",
+      "score": 80,
+      "grade": "B",
+      "why": "Founding engineer role at an AI-native data infrastructure startup (500K+ contributors, multimodal training data for top AI labs) — TypeScript/React/Node stack, full ownership of AI-powered QA pipelines and contributor platforms, and exactly the kind of build-from-zero position that maps to Magino's Alaya cofounder arc.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Hands-on CTO (Full-Stack, AI)",
+      "company": "Undisclosed AI Fundraising Startup (via Pragmatike)",
+      "location": "Remote — EU",
+      "url": "https://jobs.ashbyhq.com/pragmatike/36b20c23-a62b-41aa-8c78-e29f6db397ec",
+      "score": 75,
+      "grade": "B",
+      "why": "CTO/Founding Engineer hybrid at an early-stage startup building an AI-driven fundraising platform — deeply technical builder role (design + develop + scale the core product), AI matching systems, early equity upside; the cofounder-to-CTO trajectory is a natural fit for Magino's background.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Staff Incubation Engineer",
+      "company": "Snyk",
+      "location": "Zürich, Switzerland (Hybrid)",
+      "url": "https://builtin.com/job/staff-incubation-engineer-zurich/7489555",
+      "score": 74,
+      "grade": "B",
+      "why": "Staff-level role at Snyk Zürich building AI agents and agentic architectures — Node.js + cloud-native stack, rapid prototyping mandate, and Snyk's developer-first engineering culture. Switzerland-based with strong comp matches Magino's location and seniority targets.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Staff AI Engineer",
+      "company": "Jua.ai",
+      "location": "Zürich, Switzerland (Hybrid — 3 days in office)",
+      "url": "https://www.jua.ai/careers",
+      "score": 73,
+      "grade": "B",
+      "why": "Staff engineer at a Zürich AI startup building foundation weather models for energy trading — strong mission alignment with climate/AI impact, early-stage with good funding momentum, and the applied AI platform work connects to Magino's LLM integration and multi-agent experience.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Founding Engineer",
+      "company": "Memora ApS",
+      "location": "Remote — EU (CET overlap required)",
+      "url": "https://weworkremotely.com/remote-jobs/memora-aps-founding-engineer",
+      "score": 72,
+      "grade": "B",
+      "why": "Founding engineer at a 5-person startup with full ownership of a NestJS/TypeScript/AWS/React Native stack — exactly Magino's toolbox. The role demands 8+ years of production experience and real infrastructure ownership (Terraform, ECS Fargate, Bedrock), with meaningful founding equity.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 6,
+      "title": "Principal Platform Engineer (Architecture & Enablement)",
+      "company": "SonarSource",
+      "location": "Geneva, Switzerland (Hybrid — 3 days in office)",
+      "url": "https://startup.jobs/principal-platform-engineer-architecture-enablement-sonarsource-7729797",
+      "score": 70,
+      "grade": "B",
+      "why": "Principal-level role in Geneva at a strong developer-tools product company — building the internal 'Golden Path' engine (CLI tools, scaffolding, portal integrations). The Java-primary stack is a partial mismatch, but the platform architecture mandate and Geneva location are direct hits on Magino's priorities.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 7,
+      "title": "Tech Lead / Senior Platform Engineer (AI)",
+      "company": "EggAI",
+      "location": "Remote — EU / Switzerland / Norway",
+      "url": "https://news.ycombinator.com/item?id=48444439",
+      "score": 66,
+      "grade": "C",
+      "why": "Boutique consultancy (a mild negative) hiring a tech lead to direct AI-native engineering using Claude Code + Anthropic SDK — TypeScript/Next.js/Postgres stack, strong AI-augmented engineering angle that matches Magino's current practice. Worth a look despite the consulting context.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 8,
+      "title": "Principal Fullstack Engineer (EMEA, Remote)",
+      "company": "Undisclosed Deep-Tech Cloud Startup (via Pragmatike)",
+      "location": "Remote — EMEA",
+      "url": "https://jobs.ashbyhq.com/pragmatike/90e47ce1-7719-4c3d-b72c-d3d5fb324118",
+      "score": 64,
+      "grade": "C",
+      "why": "Staff/Principal fullstack role (React + Node.js) at a European deep-tech startup building decentralized cloud infrastructure — strong tech fit and seniority match, but the company mission is more infra than impact-driven, and AI exposure is limited.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}

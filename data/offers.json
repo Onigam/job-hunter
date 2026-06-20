@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-19",
+  "last_updated": "2026-06-20",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -11951,6 +11951,110 @@
         "novelty": 10
       },
       "date_found": "2026-06-19",
+      "status": "new"
+    },
+    {
+      "id": "d1658082f0bacd41ee8670049740073f",
+      "title": "Founding Full Stack AI Engineer",
+      "company": "Undisclosed AI Data Infrastructure Startup (via Pragmatike)",
+      "location": "Remote — EMEA (flexible timezone)",
+      "url": "https://jobs.ashbyhq.com/pragmatike/5ab6774c-d907-4535-9b31-fae4f70235cb",
+      "source": "ashbyhq",
+      "summary": "Founding full-stack AI engineer at an early-stage startup building distributed AI data infrastructure. Provides real-world training data to top AI labs via a global network of 500,000+ contributors across 150+ countries. Owns the full end-to-end pipeline: collection, automated processing, human-in-the-loop QA, and delivery. Tech stack: full-stack AI, multimodal data pipelines (audio, image, video, structured), scaling contributor and client-facing platforms. Remote EMEA, flexible timezone, ASAP start.",
+      "score": 80,
+      "grade": "B",
+      "date_found": "2026-06-20",
+      "status": "new"
+    },
+    {
+      "id": "6320753e54f6216f55a9f59de372d8b5",
+      "title": "Hands-on CTO (Full-Stack, AI)",
+      "company": "Undisclosed AI Fundraising Startup (via Pragmatike)",
+      "location": "Remote — EU",
+      "url": "https://jobs.ashbyhq.com/pragmatike/36b20c23-a62b-41aa-8c78-e29f6db397ec",
+      "source": "ashbyhq",
+      "summary": "Hands-on CTO and Founding Engineer role at an early-stage startup building an AI-powered fundraising platform connecting startups, incubators, and investors via intelligent matching and workflow tools. Deeply technical builder role — responsible for designing, developing, and scaling the core product including AI-driven recommendation systems, user workflows, and the underlying data platform. Remote EU. ASAP start.",
+      "score": 75,
+      "grade": "B",
+      "date_found": "2026-06-20",
+      "status": "new"
+    },
+    {
+      "id": "9898d335ec0884436f5ec46d6380c7b2",
+      "title": "Staff Incubation Engineer",
+      "company": "Snyk",
+      "location": "Zürich, Switzerland (Hybrid)",
+      "url": "https://builtin.com/job/staff-incubation-engineer-zurich/7489555",
+      "source": "builtin",
+      "summary": "Staff-level incubation engineer at Snyk's Zürich office building AI applications and agentic architectures. Full-stack development of scalable AI systems, rapid prototyping, AI agent design and deployment, performance optimization. Stack: Python, Go, Node.js, AI/ML systems, cloud-native, containerization, CI/CD. Hybrid role (Zürich, Lisbon or other). Cross-functional collaboration with product and design. Developer security tools company, engineering-first culture.",
+      "score": 74,
+      "grade": "B",
+      "date_found": "2026-06-20",
+      "status": "new"
+    },
+    {
+      "id": "8a41731ff372c2de8b2c0274df104c7c",
+      "title": "Staff AI Engineer",
+      "company": "Jua.ai",
+      "location": "Zürich, Switzerland (Hybrid — 3 days in office)",
+      "url": "https://www.jua.ai/careers",
+      "source": "jua.ai",
+      "summary": "Staff AI Engineer at Jua.ai (Zürich), building state-of-the-art foundational earth system models based on machine learning and proprietary IoT data. Jua's first model predicts atmospheric physics globally with state-of-the-art performance; flagship product is a weather API for energy traders. Engineering co-locates 3 days/week in Zürich. Team also has a Cape Town hub. Strong climate/AI mission alignment.",
+      "score": 73,
+      "grade": "B",
+      "date_found": "2026-06-20",
+      "status": "new"
+    },
+    {
+      "id": "63f96be63b938f928400f94b7b1a69c7",
+      "title": "Founding Engineer",
+      "company": "Memora ApS",
+      "location": "Remote — EU (CET overlap required, 4-hour minimum)",
+      "url": "https://weworkremotely.com/remote-jobs/memora-aps-founding-engineer",
+      "source": "weworkremotely",
+      "summary": "Founding Engineer at Memora, a 5-person startup building cemetery and public-records management software. Full ownership of product and infrastructure: NestJS/TypeScript, PostgreSQL+PostGIS, MikroORM, Inngest, React+TanStack Query, MapLibre+PMTiles, React Native+Expo, AWS (ECS Fargate, RDS, S3, Bedrock, WAF), Terraform, Grafana, Sentry, QGIS/GeoPackage. Requires 8+ years of production full-stack TypeScript and Terraform/AWS ownership. Senior IC salary and meaningful founding equity. Remote EU with 4-hour CET overlap.",
+      "score": 72,
+      "grade": "B",
+      "date_found": "2026-06-20",
+      "status": "new"
+    },
+    {
+      "id": "7fa6f1912b9b12c490a54e21c63a8e1c",
+      "title": "Principal Platform Engineer (Architecture & Enablement)",
+      "company": "SonarSource",
+      "location": "Geneva, Switzerland (Hybrid — 3 days in office)",
+      "url": "https://startup.jobs/principal-platform-engineer-architecture-enablement-sonarsource-7729797",
+      "source": "startup.jobs",
+      "summary": "Principal Platform Engineer at SonarSource Geneva building the internal 'Golden Path' strategy — CLI tools, scaffolding, internal portal integrations enabling engineering teams to bootstrap production-ready services quickly. Sits at intersection of Platform Division and Product Software Engineers. Java-primary stack with AWS/CI-CD. Hybrid (3 days office, 2 WFH). 27 PTO days for Geneva location, 60% pension contribution, 13.5–15.5% savings. General Catalyst-backed developer tools scale-up.",
+      "score": 70,
+      "grade": "B",
+      "date_found": "2026-06-20",
+      "status": "new"
+    },
+    {
+      "id": "24f741a32adcbfe28c369655d7e56f8c",
+      "title": "Tech Lead / Senior Platform Engineer (AI)",
+      "company": "EggAI",
+      "location": "Remote — EU / Switzerland / Norway",
+      "url": "https://news.ycombinator.com/item?id=48444439",
+      "source": "hackernews",
+      "summary": "Tech Lead and Senior/Lead Platform Engineer at EggAI, a boutique AI engineering consultancy. Focus is on directing AI (Claude Code / Anthropic SDK) for production engineering — schema literacy, diff-reading, end-to-end ownership over raw coding. Stack: Next.js 14 (App Router, RSC, Server Actions), TypeScript strict, Prisma + Postgres, Tailwind + shadcn/ui, NextAuth, Twilio, Anthropic SDK. Remote EU, Switzerland, Norway. Full-time or contract. From HN Who's Hiring June 2026.",
+      "score": 66,
+      "grade": "C",
+      "date_found": "2026-06-20",
+      "status": "new"
+    },
+    {
+      "id": "e2d5808b40eb008b3d9f6e154e673947",
+      "title": "Principal Fullstack Engineer (EMEA, Remote)",
+      "company": "Undisclosed Deep-Tech Cloud Startup (via Pragmatike)",
+      "location": "Remote — EMEA",
+      "url": "https://jobs.ashbyhq.com/pragmatike/90e47ce1-7719-4c3d-b72c-d3d5fb324118",
+      "source": "ashbyhq",
+      "summary": "Principal Fullstack Engineer (Staff/Principal level) at a European deep-tech company building a decentralized, energy-efficient alternative to traditional cloud providers. Leading migration from monolithic to SPA architecture using React + Node.js. Technical leadership, architectural ownership, and mentorship expected. Remote EMEA. Via Pragmatike curated network.",
+      "score": 64,
+      "grade": "C",
+      "date_found": "2026-06-20",
       "status": "new"
     }
   ]
