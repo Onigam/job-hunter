@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-20",
+  "last_updated": "2026-06-21",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -12055,6 +12055,58 @@
       "score": 64,
       "grade": "C",
       "date_found": "2026-06-20",
+      "status": "new"
+    },
+    {
+      "id": "df589fc0b31a608958e6164fcb2c4fb9",
+      "title": "Founding Head of Engineering",
+      "company": "Carma",
+      "location": "San Francisco, CA (Onsite)",
+      "url": "https://www.workatastartup.com/jobs/88421",
+      "source": "HN Who is Hiring June 2026",
+      "summary": "YC W24 AI-native operating system for enterprise fleet operations. Hands-on founding-level technical leader writing production code and owning architecture, standards, and technical direction. Stack: React, Node.js, NestJS, PostgreSQL. 00K-$450K + 3-5% equity. Fortune 500 customers in production.",
+      "score": 84,
+      "grade": "B",
+      "date_found": "2026-06-21",
+      "status": "new"
+    },
+    {
+      "id": "e4b4c731ff0f2ccbd5e827b250ca9d0b",
+      "title": "Founding Engineer (CTO for the right person)",
+      "company": "Quin",
+      "location": "Remote (US preference: Bay Area / Chicago / NYC)",
+      "url": "https://news.ycombinator.com/item?id=48441385",
+      "source": "HN Who is Hiring June 2026",
+      "summary": "AI-first agentic platform for personal finance. First engineer with a clear CTO path. Fully remote with preference for Bay Area, Chicago, or NYC. Early stage startup with strong equity upside.",
+      "score": 78,
+      "grade": "B",
+      "date_found": "2026-06-21",
+      "status": "new"
+    },
+    {
+      "id": "18c63941d56acf23bd103170ff29887a",
+      "title": "Staff Platform Engineer",
+      "company": "AeroVect",
+      "location": "Munich, Germany",
+      "url": "https://jobs.ashbyhq.com/aerovect/243e81fe-7b53-4a7d-b358-4811ec48208a",
+      "source": "Ashby / Web Search",
+      "summary": "Series A autonomous ground vehicle company for aviation. Most senior IC on the platform team, accountable for reliability and scalability of Ubuntu-based OS images, real-time middleware, and device driver layer. Define technical vision and multi-year roadmap. Top-tier VC backing.",
+      "score": 69,
+      "grade": "C",
+      "date_found": "2026-06-21",
+      "status": "new"
+    },
+    {
+      "id": "f7b78d59cf85398f1cc0d2f76b2eb6c3",
+      "title": "Senior/Staff Platform Engineer — Infrastructure",
+      "company": "P2P.org",
+      "location": "Remote (worldwide)",
+      "url": "https://jobs.ashbyhq.com/p2p.org/cea51ebe-67be-4464-b811-af403c4e2f45",
+      "source": "Ashby / Web Search",
+      "summary": "Largest institutional staking provider. Platform/infra ownership: Kubernetes, monitoring, secrets management, delivery pipelines, internal developer platform for 60+ blockchain teams. Stack: Go/Python, Kubernetes (GKE/EKS/bare-metal), Terraform. 8+ years experience required.",
+      "score": 62,
+      "grade": "C",
+      "date_found": "2026-06-21",
       "status": "new"
     }
   ]

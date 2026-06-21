@@ -1,0 +1,19 @@
+🎯 *Job Hunt — 2026-06-21*
+
+*1.* *Founding Head of Engineering* @ Carma
+📍 San Francisco, CA (Onsite) | ⭐ 84/100 | 🏆 Grade B
+💡 YC W24 AI-native fleet OS — perfect React/Node.js/NestJS stack, 3–5% equity + $300K–$450K; onsite SF is the friction point but the role scope is exactly what Magino built at Alaya.
+🔗 https://www.workatastartup.com/jobs/88421
+
+*2.* *Founding Engineer (CTO path)* @ Quin
+📍 Remote (US-city preference) | ⭐ 78/100 | 🏆 Grade B
+💡 AI-first agentic platform for personal finance — first engineer with a clear CTO trajectory, fully remote, strong equity upside; US-preference is a mild downgrade but the founding ownership profile fits.
+🔗 https://news.ycombinator.com/item?id=48441385
+
+*3.* *Staff Platform Engineer* @ AeroVect
+📍 Munich, Germany | ⭐ 69/100 | 🏆 Grade C
+💡 Series A autonomous aviation startup — most senior IC on the platform team with roadmap ownership; embedded/OS stack and Munich location are downgrades but Magino's Sagemcom background makes the fit credible.
+🔗 https://jobs.ashbyhq.com/aerovect/243e81fe-7b53-4a7d-b358-4811ec48208a
+
+---
+📊 _4 new offers | 834 total tracked_

@@ -1,0 +1,55 @@
+{
+  "date": "2026-06-21",
+  "total_searched": 22,
+  "new_offers": 4,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Founding Head of Engineering",
+      "company": "Carma",
+      "location": "San Francisco, CA (Onsite)",
+      "url": "https://www.workatastartup.com/jobs/88421",
+      "score": 84,
+      "grade": "B",
+      "why": "YC W24 AI-native OS for enterprise fleet ops — perfect stack match (React/Node.js/NestJS/PostgreSQL), founding-level ownership with 3–5% equity at $300K–$450K. The onsite SF requirement is the main friction for Geneva-based Magino, but the role scope and equity upside make it worth a reach-out.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Founding Engineer (CTO for the right person)",
+      "company": "Quin",
+      "location": "Remote (US preference: Bay Area / Chicago / NYC)",
+      "url": "https://news.ycombinator.com/item?id=48441385",
+      "score": 78,
+      "grade": "B",
+      "why": "AI-first agentic platform for personal finance — founding engineer with a clear CTO path, fully remote, strong equity. US-city preference reduces fit, but the AI-first mission and first-engineer ownership are on-profile for Magino's background.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Staff Platform Engineer",
+      "company": "AeroVect",
+      "location": "Munich, Germany",
+      "url": "https://jobs.ashbyhq.com/aerovect/243e81fe-7b53-4a7d-b358-4811ec48208a",
+      "score": 69,
+      "grade": "C",
+      "why": "Series A autonomous-aviation startup, most senior IC on the platform team — strong technical impact and growth trajectory. Stack is embedded/OS-level (less TypeScript) and Munich location is a step away from Geneva, but Magino's Sagemcom embedded background is relevant.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Senior/Staff Platform Engineer — Infrastructure",
+      "company": "P2P.org",
+      "location": "Remote (worldwide)",
+      "url": "https://jobs.ashbyhq.com/p2p.org/cea51ebe-67be-4464-b811-af403c4e2f45",
+      "score": 62,
+      "grade": "C",
+      "why": "Fully remote platform engineering at the largest institutional staking provider — good seniority fit (8+ years, staff-level ownership of Kubernetes/Terraform/CI) but crypto-only mission misaligns with Magino's impact-driven preferences and there's minimal AI/LLM exposure.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
