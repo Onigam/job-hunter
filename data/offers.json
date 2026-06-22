@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-21",
+  "last_updated": "2026-06-22",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -12107,6 +12107,32 @@
       "score": 62,
       "grade": "C",
       "date_found": "2026-06-21",
+      "status": "new"
+    },
+    {
+      "id": "d01131208fb4afa989885b763256ae1f",
+      "title": "Fullstack / Product AI Founding Engineer",
+      "company": "Undisclosed AI Product Startup (via Rockstar Recruiting)",
+      "location": "Zurich, Switzerland",
+      "url": "https://swissdevjobs.ch/startup-jobs",
+      "source": "swissdevjobs",
+      "summary": "Rockstar Recruiting-sourced early-stage AI product startup in Zurich. Founding engineer role as one of the first engineers — TypeScript, React, Python stack. CHF 140,000–150,000. Build the product from zero with founding-team equity exposure.",
+      "score": 78,
+      "grade": "B",
+      "date_found": "2026-06-22",
+      "status": "new"
+    },
+    {
+      "id": "fbff2dda01f3e96d3b6fda566a6d5aa7",
+      "title": "Founding Engineer (m/w/d)",
+      "company": "Scait",
+      "location": "Rotkreuz (Zug), Switzerland — Hybrid",
+      "url": "https://ch.linkedin.com/jobs/view/founding-engineer-m-w-d-100%-at-scait-4399995340",
+      "source": "linkedin",
+      "summary": "Scait builds an AI platform for the Swiss construction tender process — 10-layer AI pipeline, 30+ specialized agents, CHF 1.3B+ in analyzed tender volume, integrated into the Swiss Building Trades Association (SBV) platform. Founding engineer role: Python (FastAPI, Pydantic AI) + TypeScript (Next.js), RAG, GraphRAG, event-driven backends on Azure and GCP. CHF 105,000–125,000. Hybrid in Rotkreuz (Zug). Fluent German + English required. Founding team from HSG and ETH.",
+      "score": 77,
+      "grade": "B",
+      "date_found": "2026-06-22",
       "status": "new"
     }
   ]

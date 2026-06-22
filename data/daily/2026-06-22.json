@@ -1,0 +1,43 @@
+{
+  "date": "2026-06-22",
+  "total_searched": 22,
+  "new_offers": 2,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Fullstack / Product AI Founding Engineer",
+      "company": "Undisclosed AI Product Startup (via Rockstar Recruiting)",
+      "location": "Zurich, Switzerland",
+      "url": "https://swissdevjobs.ch/startup-jobs",
+      "score": 78,
+      "grade": "B",
+      "why": "Founding engineer spot at a Rockstar-sourced AI product startup in Zurich — TypeScript/React/Python stack matching Magino exactly, zero-to-one build, CHF 140–150k.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Founding Engineer (m/w/d)",
+      "company": "Scait",
+      "location": "Rotkreuz (Zug), Switzerland — Hybrid",
+      "url": "https://ch.linkedin.com/jobs/view/founding-engineer-m-w-d-100%-at-scait-4399995340",
+      "score": 77,
+      "grade": "B",
+      "why": "First engineer at an AI construction-tech startup with a 30-agent pipeline and CHF 1.3B+ analyzed — heavy RAG/Pydantic AI exposure and founding-level ownership; note German required.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Engineering Director",
+      "company": "Proton",
+      "location": "Geneva / London / Barcelona / Vilnius / Paris",
+      "url": "https://job-boards.eu.greenhouse.io/proton/jobs/4715670101",
+      "score": 80,
+      "grade": "C",
+      "why": "Re-surfaced: Proton (100M+ users, Geneva-based) Engineering Director still open — PHP/Symfony/Rust/TypeScript stack, Geneva available, stock options. Already tracked since March 2026.",
+      "apply_by": null,
+      "status": "seen"
+    }
+  ]
+}
