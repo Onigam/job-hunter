@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-22",
+  "last_updated": "2026-06-23",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -12133,6 +12133,83 @@
       "score": 77,
       "grade": "B",
       "date_found": "2026-06-22",
+      "status": "new"
+    },
+    {
+      "id": "33c40ad317b44086ada31358e2423026",
+      "title": "Head of Engineering",
+      "company": "JetBridge (AI workspace startup)",
+      "location": "Remote (Europe-compatible)",
+      "url": "https://jobs.lever.co/JetBridge/33c40ad3-17b4-4086-ada3-1358e2423026",
+      "source": "lever",
+      "summary": "Hands-on Head of Engineering at an early-stage, venture-backed startup building an AI-powered workspace for product teams. First full-time senior engineering leader reporting directly to CEO, with real ownership over architecture, code, and delivery. TypeScript throughout. Remote-first team (JetBridge model).",
+      "score": 79,
+      "grade": "B",
+      "score_breakdown": {
+        "technical": 8,
+        "seniority": 9,
+        "location": 7,
+        "company": 9,
+        "impact": 10,
+        "mission": 7,
+        "compensation": 6,
+        "growth": 7,
+        "ai_llm": 8,
+        "novelty": 8
+      },
+      "why": "First full-time engineering leader at an AI workspace startup — TypeScript throughout, CEO-reporting, cofounder archetype. Magino's Alaya build-from-zero experience maps directly to this role.",
+      "date_found": "2026-06-23",
+      "status": "new"
+    },
+    {
+      "id": "b2a6396d25794476974a9405b8d33c30",
+      "title": "VP Engineering",
+      "company": "Insify",
+      "location": "Amsterdam, Netherlands (Europe)",
+      "url": "https://jobs.lever.co/insify/b2a6396d-2579-4476-974a-9405b8d33c30",
+      "source": "lever",
+      "summary": "VP Engineering at Insify (€43M funded, Accel + Munich Re Ventures) building AI-first SME insurance across Netherlands, France, and Germany. Own technical direction, architecture, and AI transformation across the full platform. Lead engineering managers in a regulated, multi-market SaaS environment.",
+      "score": 76,
+      "grade": "B",
+      "score_breakdown": {
+        "technical": 6,
+        "seniority": 9,
+        "location": 5,
+        "company": 9,
+        "impact": 9,
+        "mission": 6,
+        "compensation": 8,
+        "growth": 8,
+        "ai_llm": 8,
+        "novelty": 8
+      },
+      "why": "VP mandate at a well-funded scale-up with AI at the core of the business — Accel-backed, multi-country expansion, high ownership. Strong VP comp for Europe.",
+      "date_found": "2026-06-23",
+      "status": "new"
+    },
+    {
+      "id": "e3f5a7c9b1d4e6f8a2c5d7e9b1f3a5c7",
+      "title": "Principal Engineer Fullstack [US-FinTech in 🇨🇭]",
+      "company": "Undisclosed US FinTech (via Rockstar Recruiting AG)",
+      "location": "Zürich, Switzerland",
+      "url": "https://swissdevjobs.ch/de/jobs/Rockstar-Recruiting-AG-ExclusiveFullstack-Developer--FinTech-in-ZH",
+      "source": "swissdevjobs",
+      "summary": "Principal Fullstack Engineer at a US FinTech company with Zurich presence, placed via Rockstar Recruiting AG. Stack: React, Node.js, Java. Seniority: Principal level. Salary: CHF 225,000–250,000 — top-of-market for Switzerland. On-site Zurich.",
+      "score": 67,
+      "grade": "C",
+      "score_breakdown": {
+        "technical": 7,
+        "seniority": 9,
+        "location": 9,
+        "company": 5,
+        "impact": 7,
+        "mission": 4,
+        "compensation": 10,
+        "growth": 5,
+        "ai_llm": 3,
+        "novelty": 8
+      },
+      "date_found": "2026-06-23",
       "status": "new"
     }
   ]

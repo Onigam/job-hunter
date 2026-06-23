@@ -1,0 +1,43 @@
+{
+  "date": "2026-06-23",
+  "total_searched": 18,
+  "new_offers": 3,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Head of Engineering",
+      "company": "JetBridge (AI workspace startup)",
+      "location": "Remote (Europe-compatible)",
+      "url": "https://jobs.lever.co/JetBridge/33c40ad3-17b4-4086-ada3-1358e2423026",
+      "score": 79,
+      "grade": "B",
+      "why": "First full-time engineering leader at an early-stage AI workspace startup — TypeScript throughout, hands-on IC + leadership, CEO-reporting. Magino's Alaya build-from-zero cofounder profile maps directly to this founding archetype.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "VP Engineering",
+      "company": "Insify",
+      "location": "Amsterdam, Netherlands (Europe)",
+      "url": "https://jobs.lever.co/insify/b2a6396d-2579-4476-974a-9405b8d33c30",
+      "score": 76,
+      "grade": "B",
+      "why": "VP mandate at a €43M Accel-backed scale-up with AI at the core — own technical direction and lead AI transformation across a multi-country insurance platform. Strong VP comp for a scale-up in this category.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Principal Engineer Fullstack [US-FinTech in 🇨🇭]",
+      "company": "Undisclosed US FinTech (via Rockstar Recruiting AG)",
+      "location": "Zürich, Switzerland",
+      "url": "https://swissdevjobs.ch/de/jobs/Rockstar-Recruiting-AG-ExclusiveFullstack-Developer--FinTech-in-ZH",
+      "score": 67,
+      "grade": "C",
+      "why": "CHF 225–250K Principal role at a US FinTech in Zurich — top-of-market Swiss compensation with React/Node.js stack. Limited AI mandate, but the salary ceiling and Switzerland location make it worth a look.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
