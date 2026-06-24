@@ -1,0 +1,85 @@
+{
+  "date": "2026-06-24",
+  "total_searched": 23,
+  "new_offers": 15,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Private AI Runtime & Infrastructure Engineer",
+      "company": "Omnilex",
+      "location": "Zürich, Switzerland (hybrid, 2d on-site)",
+      "url": "https://join.com/companies/omnilexai/15779534-private-ai-runtime-and-infrastructure-engineer-local-data-residency",
+      "score": 81,
+      "grade": "B",
+      "why": "Owns the full private AI runtime (LLM/agent infra on Swiss VMs) — perfect match for Magino's platform-engineering-from-zero background and AI/LLM expertise, with CHF 8k-12k/month + ESOP at an ETH spinoff.",
+      "apply_by": null,
+      "status": "new",
+      "part_time": false
+    },
+    {
+      "rank": 2,
+      "title": "AI Engineer – Legal Search",
+      "company": "Omnilex",
+      "location": "Zürich, Switzerland (hybrid, 2d on-site)",
+      "url": "https://jobs.ashbyhq.com/omnilex/4469d2d1-1669-4d4f-b90a-157fe4ec66a7",
+      "score": 76,
+      "grade": "B",
+      "why": "Core LLM/RAG engineering at an ETH Zurich spinoff with TypeScript/Node.js stack — exactly Magino's AI-augmented engineering sweet spot, though German proficiency is a potential blocker.",
+      "apply_by": null,
+      "status": "new",
+      "part_time": false
+    },
+    {
+      "rank": 3,
+      "title": "Full-Stack Engineer (Founding Team)",
+      "company": "Hatchet",
+      "location": "NYC / SF / Remote (EU-eligible)",
+      "url": "https://news.ycombinator.com/item?id=48362455",
+      "score": 74,
+      "grade": "B",
+      "why": "Founding-team position building AI workflow infrastructure with TypeScript/Kubernetes — aligns with Magino's cofounder DNA and appetite for building platforms from scratch, EU-timezone friendly.",
+      "apply_by": null,
+      "status": "new",
+      "part_time": false
+    },
+    {
+      "rank": 4,
+      "title": "Late Co-Founder & CTO – Aviation Optical Sensing",
+      "company": "Ultravionix",
+      "location": "Geneva, Switzerland",
+      "url": "https://joinup.ch/job/late-co-founder-cto-aviation-systems-and-sensing-technology-67ed595e-2263-49fb-a6d0-25c3ee7be38d-10064",
+      "score": 69,
+      "grade": "C",
+      "why": "Geneva-based CTO/cofounder role at a seed startup — perfect location and founding-engineer fit, but optical sensing is deep hardware territory outside Magino's core software stack.",
+      "apply_by": null,
+      "status": "new",
+      "part_time": false
+    },
+    {
+      "rank": 5,
+      "title": "Cofounder / CTO – Pilot Phase (50%)",
+      "company": "Centralys",
+      "location": "Zürich, Switzerland",
+      "url": "https://joinup.ch/job/cofounder-cto-pilot-phase-308a699d-37cb-440e-b9a3-d75b970f03c6-10077",
+      "score": 67,
+      "grade": "C",
+      "why": "Explicitly compatible with parallel startup work (Givernance), Zürich-based cofounder CTO track — low initial commitment lets Magino validate fit before committing fully.",
+      "apply_by": null,
+      "status": "new",
+      "part_time": true
+    },
+    {
+      "rank": 6,
+      "title": "Staff Engineer, AI Enablement & Platform",
+      "company": "Lime",
+      "location": "Remote – United States or Canada",
+      "url": "https://jobs.ashbyhq.com/lime/3773142e-34df-462e-a598-d6d62487717d",
+      "score": 66,
+      "grade": "C",
+      "why": "Staff-level AI platform ownership role with genuine LLM/GenAI depth — strong technical fit for Magino's AI-augmented engineering focus, though US/Canada timezone restriction is a drawback.",
+      "apply_by": null,
+      "status": "new",
+      "part_time": false
+    }
+  ]
+}

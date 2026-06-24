@@ -1,0 +1,34 @@
+🎯 *Job Hunt — 2026-06-24*
+
+*1.* *Private AI Runtime & Infrastructure Engineer* @ Omnilex
+📍 Zürich, Switzerland (hybrid, 2d on-site) | ⭐ 81/100 | 🏆 Grade B
+💡 Owns the full private AI runtime (LLM/agent infra on Swiss VMs) — perfect match for Magino's platform-engineering-from-zero background and AI/LLM expertise, with CHF 8k-12k/month + ESOP at an ETH spinoff.
+🔗 https://join.com/companies/omnilexai/15779534-private-ai-runtime-and-infrastructure-engineer-local-data-residency
+
+*2.* *AI Engineer – Legal Search* @ Omnilex
+📍 Zürich, Switzerland (hybrid, 2d on-site) | ⭐ 76/100 | 🏆 Grade B
+💡 Core LLM/RAG engineering at an ETH Zurich spinoff with TypeScript/Node.js stack — exactly Magino's AI-augmented engineering sweet spot, though German proficiency is a potential blocker.
+🔗 https://jobs.ashbyhq.com/omnilex/4469d2d1-1669-4d4f-b90a-157fe4ec66a7
+
+*3.* *Full-Stack Engineer (Founding Team)* @ Hatchet
+📍 NYC / SF / Remote (EU-eligible) | ⭐ 74/100 | 🏆 Grade B
+💡 Founding-team position building AI workflow infrastructure with TypeScript/Kubernetes — aligns with Magino's cofounder DNA and appetite for building platforms from scratch, EU-timezone friendly.
+🔗 https://news.ycombinator.com/item?id=48362455
+
+*4.* *Late Co-Founder & CTO – Aviation Optical Sensing* @ Ultravionix
+📍 Geneva, Switzerland | ⭐ 69/100 | 🏆 Grade C
+💡 Geneva-based CTO/cofounder role at a seed startup — perfect location and founding-engineer fit, but optical sensing is deep hardware territory outside Magino's core software stack.
+🔗 https://joinup.ch/job/late-co-founder-cto-aviation-systems-and-sensing-technology-67ed595e-2263-49fb-a6d0-25c3ee7be38d-10064
+
+*5.* *Cofounder / CTO – Pilot Phase (50%)* _(50%)_ @ Centralys
+📍 Zürich, Switzerland | ⭐ 67/100 | 🏆 Grade C
+💡 Explicitly compatible with parallel startup work (Givernance), Zürich-based cofounder CTO track — low initial commitment lets Magino validate fit before committing fully.
+🔗 https://joinup.ch/job/cofounder-cto-pilot-phase-308a699d-37cb-440e-b9a3-d75b970f03c6-10077
+
+*6.* *Staff Engineer, AI Enablement & Platform* @ Lime
+📍 Remote – United States or Canada | ⭐ 66/100 | 🏆 Grade C
+💡 Staff-level AI platform ownership role with genuine LLM/GenAI depth — strong technical fit for Magino's AI-augmented engineering focus, though US/Canada timezone restriction is a drawback.
+🔗 https://jobs.ashbyhq.com/lime/3773142e-34df-462e-a598-d6d62487717d
+
+---
+📊 _15 new offers | 854 total tracked_
