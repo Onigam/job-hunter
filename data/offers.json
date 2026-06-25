@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24",
+  "last_updated": "2026-06-25",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -12405,6 +12405,97 @@
       "score": 49,
       "grade": "D",
       "date_found": "2026-06-24",
+      "status": "new"
+    },
+    {
+      "id": "a27e0bb23f0f105bbcbe7f5e6e8d8294",
+      "title": "Engineering Manager: Agent & Developer Platform",
+      "company": "Ledgy",
+      "location": "Remote Europe (Zurich / London offices)",
+      "url": "https://job-boards.eu.greenhouse.io/ledgy/jobs/4875821101",
+      "source": "greenhouse",
+      "summary": "Ledgy is the European equity management platform (2,500+ companies, Zurich/London-based). This EM role leads 4-6 engineers building CI/CD pipelines, developer tooling, MCP interfaces, and AI agent infrastructure. TypeScript/Node.js/Kubernetes/GCP stack. Requires 2+ years EM, 6+ years SWE, hands-on coding, active AI tool usage. Role involves building security posture for a regulated fintech with AI agents as first-class citizens. Posted May 27, 2026.",
+      "score": 83,
+      "grade": "B",
+      "date_found": "2026-06-25",
+      "status": "new"
+    },
+    {
+      "id": "2c502ad024e7dc4a85843ffd1aee6348",
+      "title": "Staff/Senior Software Engineer",
+      "company": "Ledgy",
+      "location": "Remote Europe (Zurich / London offices)",
+      "url": "https://himalayas.app/companies/ledgy/jobs/staff-senior-software-engineer",
+      "source": "himalayas",
+      "summary": "Staff/Senior Software Engineer at Ledgy, the European equity management platform trusted by 2,500+ companies. Works on Core Equity, Workflows & Automation, or Reporting teams. Stack: TypeScript, React, Tailwind, tRPC, Node.js, MongoDB, GCP, Terraform Cloud, Kubernetes, Docker, GitHub Actions. Requires 7+ years experience, strong TypeScript (full-stack), system design skills. Competitive salary + equity benchmarked to location. APPLICATION DEADLINE: July 8, 2026. Hybrid 1 day/week for Zurich/London candidates.",
+      "score": 80,
+      "grade": "B",
+      "date_found": "2026-06-25",
+      "status": "new"
+    },
+    {
+      "id": "41dcd6caa825debdd1539d76cae6d3bd",
+      "title": "Engineering Manager: Feature Team",
+      "company": "Ledgy",
+      "location": "Remote Europe (Zurich / London offices)",
+      "url": "https://boards.greenhouse.io/ledgy/jobs/4875819101",
+      "source": "greenhouse",
+      "summary": "Engineering Manager for Ledgy's Feature Team building compensation and savings vehicle features (equity plans, pensions, carry). Stack: TypeScript, React, Tailwind, tRPC, Node.js, MongoDB, Temporal, Docker, GCP, Kubernetes. Requires 2+ years EM, 6+ years SWE experience, hands-on coding, active AI tool usage, people development focus. Role models effective AI tool usage across the team. Posted May 27, 2026.",
+      "score": 76,
+      "grade": "B",
+      "date_found": "2026-06-25",
+      "status": "new"
+    },
+    {
+      "id": "152cca61c0a58769d1d958a43fd72f9c",
+      "title": "Senior Software Engineer – Full-Stack with a Focus on Backend",
+      "company": "AlpineAI (SwissGPT)",
+      "location": "Zurich or Davos, Switzerland (Hybrid 80-100%)",
+      "url": "https://alpineai.swiss/en/job/senior-software-engineer-fullstack-with-backend-focus-m-f-d/",
+      "source": "alpineai",
+      "summary": "AlpineAI (SwissGPT) builds secure AI platform for regulated sectors (banking, insurance, healthcare). Senior full-stack engineer with backend focus: Python (preferred), Java, microservices, React/Vite, Docker, CI/CD, LLM integration into customer-specific workflows. Requires strong API design and distributed systems experience, React proficiency, advanced German (native preferred), valid Swiss work permit. Equity via employee stock ownership plan after initial period. Startup environment, ~20 person team.",
+      "score": 70,
+      "grade": "B",
+      "date_found": "2026-06-25",
+      "status": "new"
+    },
+    {
+      "id": "f594ac9e5dff82dd8681bb7e4d7b1f6a",
+      "title": "Technical Lead Backend (TypeScript / Rust)",
+      "company": "Undisclosed DeFi Startup (via ALBEDIS)",
+      "location": "Geneva, Switzerland (Hybrid, 2 days remote)",
+      "url": "https://www.jobup.ch/en/jobs/detail/192a3097-4b08-4bb1-a157-e63289a54903/",
+      "source": "jobup",
+      "summary": "Technical Lead Backend for an innovative DeFi/fintech technology company in Geneva, sourced via ALBEDIS executive recruitment. Design and maintain high-availability backend systems for DeFi applications on AWS. Stack: TypeScript, Rust, AWS, Docker/Kubernetes, Terraform, GitHub Actions, Prometheus/Grafana. French + English bilingual required. Requires deep interest in blockchain/DeFi. Hybrid model: 2 days remote/week, flexible hours. Stimulating startup environment with rapid decision-making.",
+      "score": 83,
+      "grade": "B",
+      "date_found": "2026-06-25",
+      "status": "new"
+    },
+    {
+      "id": "ce98a91e33f6407373cf3e0e14ffa83b",
+      "title": "Backend Software Engineer (Hosting)",
+      "company": "Infomaniak",
+      "location": "Geneva, Switzerland",
+      "url": "https://www.jobup.ch/en/jobs/detail/7b956e60-a1fa-4bbd-aacc-0e3f2ebc59bb/",
+      "source": "jobup",
+      "summary": "Backend Software Engineer at Infomaniak (Swiss ethical cloud provider based in Geneva). Works on next-generation web hosting infrastructure, modernizing to Kubernetes-orchestrated architecture. Cloud, infrastructure, and scalable backend systems focus. Geneva-based permanent position. Infomaniak is a well-established company (~300 employees) — not a startup, but a stable engineering-first Geneva employer.",
+      "score": 58,
+      "grade": "C",
+      "date_found": "2026-06-25",
+      "status": "new"
+    },
+    {
+      "id": "1daafe6454b4f04529c705473f7ec396",
+      "title": "Senior/Staff/Principal Software Engineer",
+      "company": "Fastly",
+      "location": "Remote (US / UK / EU) or Onsite",
+      "url": "https://www.fastly.com/about/jobs/apply",
+      "source": "hn",
+      "summary": "Fastly is hiring Senior, Staff, and Principal engineers for their globally distributed edge cloud platform (HN June 2026 thread). Primary stack is Rust, C/C++, Go, WebAssembly, eBPF, QUIC, HTTP/TLS — focused on edge computing and open standards. Remote EU eligible. Strong systems/distributed architecture role but stack diverges significantly from Magino's TypeScript/Node.js core.",
+      "score": 57,
+      "grade": "C",
+      "date_found": "2026-06-25",
       "status": "new"
     }
   ]

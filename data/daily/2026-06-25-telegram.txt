@@ -1,0 +1,29 @@
+🎯 *Job Hunt — 2026-06-25*
+
+*1.* *Technical Lead Backend (TypeScript/Rust)* @ Undisclosed DeFi Startup (via ALBEDIS)
+📍 Geneva, Switzerland (Hybrid) | ⭐ 83/100 | 🏆 Grade B
+💡 Geneva-based tech lead for a DeFi platform — TypeScript/AWS/Kubernetes, distributed systems, French/English environment, innovation culture.
+🔗 https://www.jobup.ch/en/jobs/detail/192a3097-4b08-4bb1-a157-e63289a54903/
+
+*2.* *Engineering Manager: Agent & Developer Platform* @ Ledgy
+📍 Remote EU (Zurich/London) | ⭐ 83/100 | 🏆 Grade B
+💡 Swiss equity platform building MCP interfaces and AI agent infrastructure — TypeScript/Node.js/Kubernetes, leads 4-6 engineers, perfect AI-augmented engineering fit.
+🔗 https://job-boards.eu.greenhouse.io/ledgy/jobs/4875821101
+
+*3.* *Staff/Senior Software Engineer* @ Ledgy ⚠️ Deadline July 8!
+📍 Remote EU (Zurich/London) | ⭐ 80/100 | 🏆 Grade B
+💡 Exact TypeScript/Node.js/GCP/Kubernetes match — Staff-level IC at a Zurich-born equity scaleup. Apply before July 8.
+🔗 https://himalayas.app/companies/ledgy/jobs/staff-senior-software-engineer
+
+*4.* *Engineering Manager: Feature Team* @ Ledgy
+📍 Remote EU (Zurich/London) | ⭐ 76/100 | 🏆 Grade B
+💡 Swiss fintech EM for compensation/equity-plan features; TypeScript/Node.js/Temporal stack, active AI tool usage emphasis.
+🔗 https://boards.greenhouse.io/ledgy/jobs/4875819101
+
+*5.* *Senior Software Engineer – Full-Stack Backend* @ AlpineAI (SwissGPT)
+📍 Zurich or Davos, Switzerland | ⭐ 70/100 | 🏆 Grade B
+💡 Swiss AI company building secure LLM platform for regulated sectors; LLM integration, microservices, React, equity upside. German required.
+🔗 https://alpineai.swiss/en/job/senior-software-engineer-fullstack-with-backend-focus-m-f-d/
+
+---
+📊 _7 new offers | 812 total tracked_

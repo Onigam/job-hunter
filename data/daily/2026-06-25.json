@@ -1,0 +1,79 @@
+{
+  "date": "2026-06-25",
+  "total_searched": 25,
+  "new_offers": 7,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Technical Lead Backend (TypeScript / Rust)",
+      "company": "Undisclosed DeFi Startup (via ALBEDIS)",
+      "location": "Geneva, Switzerland (Hybrid, 2 days remote)",
+      "url": "https://www.jobup.ch/en/jobs/detail/192a3097-4b08-4bb1-a157-e63289a54903/",
+      "score": 83,
+      "grade": "B",
+      "why": "Geneva-based technical leadership role at a DeFi/fintech innovator — TypeScript + AWS/Kubernetes/Terraform platform engineering, distributed backend systems, startup culture, French/English bilingual environment.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Engineering Manager: Agent & Developer Platform",
+      "company": "Ledgy",
+      "location": "Remote Europe (Zurich / London offices)",
+      "url": "https://job-boards.eu.greenhouse.io/ledgy/jobs/4875821101",
+      "score": 83,
+      "grade": "B",
+      "why": "Swiss-born equity platform building MCP interfaces and AI agent infrastructure — directly aligned with Magino's AI-augmented engineering focus; TypeScript/Node.js/Kubernetes, leading 4-6 engineers, posted May 27 2026.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Staff/Senior Software Engineer",
+      "company": "Ledgy",
+      "location": "Remote Europe (Zurich / London offices)",
+      "url": "https://himalayas.app/companies/ledgy/jobs/staff-senior-software-engineer",
+      "score": 80,
+      "grade": "B",
+      "why": "DEADLINE July 8 — exact TypeScript/Node.js/GCP/Kubernetes/Terraform stack match; Staff-level IC at a Zurich-born equity scaleup with 7+ years requirement and real system design scope.",
+      "apply_by": "2026-07-08",
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Engineering Manager: Feature Team",
+      "company": "Ledgy",
+      "location": "Remote Europe (Zurich / London offices)",
+      "url": "https://boards.greenhouse.io/ledgy/jobs/4875819101",
+      "score": 76,
+      "grade": "B",
+      "why": "Swiss equity platform, TypeScript/Node.js/Temporal stack, EM role for compensation and equity-plan features; active AI tool usage emphasis resonates with Magino's AI-augmented approach, posted May 27 2026.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Senior Software Engineer – Full-Stack with a Focus on Backend",
+      "company": "AlpineAI (SwissGPT)",
+      "location": "Zurich or Davos, Switzerland (Hybrid)",
+      "url": "https://alpineai.swiss/en/job/senior-software-engineer-fullstack-with-backend-focus-m-f-d/",
+      "score": 70,
+      "grade": "B",
+      "why": "Swiss AI company building secure LLM platform for regulated sectors; microservices, LLM integration, React frontend, customer-facing platform engineering with equity upside. Note: advanced German required.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 6,
+      "title": "Senior/Staff/Principal Software Engineer",
+      "company": "Fastly",
+      "location": "Remote (US / UK / EU)",
+      "url": "https://www.fastly.com/about/jobs/apply",
+      "score": 57,
+      "grade": "C",
+      "why": "Global edge cloud platform hiring at all senior levels with EU remote; strong systems/distributed architecture fit but primary tech stack is Rust/Go/C++ rather than Magino's TypeScript/Node.js core.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
