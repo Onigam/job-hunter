@@ -1,0 +1,79 @@
+{
+  "date": "2026-06-26",
+  "total_searched": 26,
+  "new_offers": 11,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Founding AI Engineer",
+      "company": "Ahead Health",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.aheadhealth.com/careers",
+      "score": 87,
+      "grade": "A",
+      "why": "Founding engineer role at a Zurich seed startup ($6M) backed by HuggingFace founders — AI-first product from day one, exactly the founding-team ownership Magino built at Alaya. Strong AI mission in preventive healthcare.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Founding Engineer",
+      "company": "Clera",
+      "location": "Zurich, Switzerland",
+      "url": "https://jobs.ashbyhq.com/Clera",
+      "score": 86,
+      "grade": "A",
+      "why": "TypeScript + agentic AI + Swiss founding role at pre-seed startup — mirrors the zero-to-product ownership Magino had co-founding Alaya, with a fresh AI recruiting platform to build from scratch.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Technical Co-Founder",
+      "company": "DomaFlow",
+      "location": "Zurich, Switzerland",
+      "url": "https://joinup.ch/startup/domaflow-d25029d3-6dd6-4c14-bead-a33194f65b5e-12084",
+      "score": 80,
+      "grade": "B",
+      "why": "Conversational AI + agentic automation for Swiss property management — co-founder equity, full technical ownership, and a Swiss-market AI product that leverages Magino's platform and AI-augmented engineering background.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Co-Founder & CTO",
+      "company": "Omnia",
+      "location": "Switzerland (remote-friendly)",
+      "url": "https://join.com/companies/omniacarech/15364677-chief-technology-officer",
+      "score": 79,
+      "grade": "B",
+      "why": "AI/ML-core CTO co-founder role in Switzerland with significant founding equity — purpose-driven enterprise HR tech resonates with Magino's impact-focused background at Alaya/Benevity.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "VP of Engineering",
+      "company": "SonarSource",
+      "location": "Geneva, Switzerland",
+      "url": "https://www.jobs.ch/en/vacancies/detail/c112ba04-222f-45a5-8e99-3ee4aa60f80d/",
+      "score": 76,
+      "grade": "B",
+      "why": "Geneva-based developer tools leader — VP Engineering in the ideal city, engineering-first culture that values the same platform thinking Magino applied across Benevity's distributed architecture post-acquisition.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 6,
+      "title": "Co-Founder, CTO (Industrial Intelligence Platform)",
+      "company": "Marble",
+      "location": "Zurich, Switzerland",
+      "url": "https://wellfound.com/jobs/4209672-co-founder-cto-industrial-intelligence-platform",
+      "score": 75,
+      "grade": "B",
+      "why": "Climate tech co-founder CTO at a venture studio in Zurich — venture-backed with build-from-zero mandate for an industrial ML platform, matching Magino's Alaya founding track record.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
