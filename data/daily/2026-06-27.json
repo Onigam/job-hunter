@@ -1,0 +1,55 @@
+{
+  "date": "2026-06-27",
+  "total_searched": 24,
+  "new_offers": 8,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Founding AI Engineer",
+      "company": "Kinro (YC P26)",
+      "location": "San Francisco, CA (on-site)",
+      "url": "https://www.ycombinator.com/companies/kinro/jobs/X7aZfFB-founding-ai-engineer",
+      "score": 81,
+      "grade": "B",
+      "why": "YC P26, $15M raised, 3-person founding team (ex-DeepMind Gemini, ex-Zoox infra). Building AI sales agents end-to-end \u2014 agentic coding is the operating model. $120-300K + 2% equity. Requires relocation to SF but strong AI and founding-engineer fit.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Founding Principal Backend Engineer",
+      "company": "naiian",
+      "location": "Madrid, Spain (flexible hybrid)",
+      "url": "https://jobs.ashbyhq.com/naiian/dae21143-7e05-4d56-9126-75859542085e",
+      "score": 74,
+      "grade": "B",
+      "why": "European deep tech startup building a multi-tenant, auditable AI control plane. Founding Principal Engineer: design APIs, RBAC, AI audit logs from scratch. Direct CTO collaboration. Well-funded with critical-environment AI pedigree. Primary Madrid with hybrid flexibility for exceptional talent.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Tech Lead",
+      "company": "Sastrify",
+      "location": "Remote (EMEA, GMT\u00b12)",
+      "url": "https://remotive.com/remote/jobs/software-development/tech-lead-4456637",
+      "score": 72,
+      "grade": "B",
+      "why": "\u20ac57M-backed SaaS management platform. Tech Lead role is 70%+ hands-on TypeScript/Node.js/React coding, reports to CTO, non-managerial. Actively uses Claude Code and Cursor daily \u2014 direct alignment with Magino's agentic engineering practice. Remote EMEA works perfectly from Geneva.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Senior Independent AI Engineer / Architect",
+      "company": "A.Team",
+      "location": "Remote (Americas, Europe, Israel)",
+      "url": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-ai-engineer-architect",
+      "score": 70,
+      "grade": "B",
+      "why": "Talent network placing senior AI engineers on production AI missions ($200M+ earned by members). $120-170/hr for LLM, NLP, ML infra, multi-agent work at a16z/YC-backed companies. Flexible model suits parallel Givernance startup work. Strong AI and compensation alignment.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}

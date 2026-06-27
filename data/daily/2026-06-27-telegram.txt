@@ -1,0 +1,34 @@
+🎯 *Job Hunt — 2026-06-27*
+
+*1.* *Founding AI Engineer* @ Kinro (YC P26)
+📍 San Francisco (on-site) | ⭐ 81/100 | 🏆 Grade B
+💡 3-person YC founding team (ex-DeepMind, ex-Zoox): build AI sales agents end-to-end, agentic coding is the operating model. $120-300K + 2% equity.
+🔗 https://www.ycombinator.com/companies/kinro/jobs/X7aZfFB-founding-ai-engineer
+
+*2.* *Founding Principal Backend Engineer* @ naiian
+📍 Madrid (flexible hybrid) | ⭐ 74/100 | 🏆 Grade B
+💡 European deep tech building a multi-tenant auditable AI control plane — build APIs, RBAC, AI audit logs from scratch with direct CTO access.
+🔗 https://jobs.ashbyhq.com/naiian/dae21143-7e05-4d56-9126-75859542085e
+
+*3.* *Tech Lead* @ Sastrify
+📍 Remote EMEA (GMT±2) | ⭐ 72/100 | 🏆 Grade B
+💡 €57M-backed SaaS management platform: 70%+ hands-on TypeScript/Node.js/React, reports to CTO, uses Claude Code and Cursor daily — remote from Geneva.
+🔗 https://remotive.com/remote/jobs/software-development/tech-lead-4456637
+
+*4.* *Senior Independent AI Engineer / Architect* @ A.Team
+📍 Remote (Europe-friendly) | ⭐ 70/100 | 🏆 Grade B
+💡 $120-170/hr missions at a16z/YC-backed companies. LLMs, multi-agent, ML infra. Flexible model suits parallel Givernance work. $200M+ earned by the network.
+🔗 https://weworkremotely.com/remote-jobs/a-team-senior-independent-ai-engineer-architect
+
+*5.* *Fullstack Developer (NestJS/Angular)* @ Gojiberry AI
+📍 Remote Europe | ⭐ 68/100 | 🏆 Grade C
+💡 YC-backed AI GTM Brain ($1M ARR in 9 months): NestJS/TypeScript/AWS, RAG pipelines from Salesforce/HubSpot data, direct CTO collaboration.
+🔗 https://www.ycombinator.com/companies/gojiberry-ai/jobs/141WBQL-fullstack-developer-angular-nestjs-full-remote-europe
+
+*6.* *Senior Full-Stack Engineer — Agentic-First* @ Wonderdog
+📍 Remote (US-timezone preferred) | ⭐ 58/100 | 🏆 Grade C
+💡 Dog health AI platform built agentic-first: Claude/Cursor write the code, you direct and ship. React/TypeScript, fast-shipping small team. Timezone mismatch is the main con.
+🔗 https://weworkremotely.com/remote-jobs/wonderdog-senior-full-stack-engineer-agentic-first
+
+---
+📊 _8 new offers | 880 total tracked_
