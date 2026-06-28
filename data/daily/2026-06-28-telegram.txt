@@ -1,0 +1,19 @@
+🎯 *Job Hunt — 2026-06-28*
+
+*1.* *AI Engineer (TypeScript)* @ Wave Group
+📍 Remote Europe | ⭐ 82/100 | 🏆 Grade B
+💡 Perfect stack match (TypeScript + Python + LLM/RAG + AWS), Series B, €175k-€200k — agentic systems work that mirrors your AI-augmented engineering background.
+🔗 https://www.remoteitjobs.app/job/wave-group-ai-engineer-typescript
+
+*2.* *Head of Engineering* @ PlaynVoice
+📍 Zurich, Switzerland | ⭐ 78/100 | 🏆 Grade B
+💡 Swiss pre-seed voice AI startup (clinical docs), build the team from scratch with equity — same founding-engineer dynamic as Alaya.
+🔗 https://joinup.ch/job/playnvoice-head-of-engineering
+
+*3.* *Founding Engineer* @ Ventura _(YC-backed)_
+📍 San Francisco (in-person) | ⭐ 76/100 | 🏆 Grade B
+💡 YC-backed founding role, TypeScript + Python + AI agents, 0.5-2% equity — strong match but requires relocation to SF.
+🔗 https://www.ycombinator.com/companies/ventura/jobs/SEb1p8Y-founding-engineer
+
+---
+📊 _6 new offers | 22 raw results searched | 878 total tracked_

@@ -1,0 +1,82 @@
+{
+  "date": "2026-06-28",
+  "total_searched": 22,
+  "new_offers": 6,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "AI Engineer (TypeScript)",
+      "company": "Wave Group",
+      "location": "Remote Europe (Germany proximity preferred)",
+      "url": "https://www.remoteitjobs.app/job/wave-group-ai-engineer-typescript",
+      "score": 82,
+      "grade": "B",
+      "why": "Near-perfect stack match — TypeScript, Python, LLM/RAG, AWS/GCP, React — at Series B salary (€175k-€200k) fully remote in Europe. The role is explicitly about building agentic systems orchestrating multi-step reasoning, a direct fit with Magino's AI-augmented engineering focus and cofounder mindset.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Head of Engineering",
+      "company": "PlaynVoice",
+      "location": "Zurich, Switzerland",
+      "url": "https://joinup.ch/job/playnvoice-head-of-engineering",
+      "score": 78,
+      "grade": "B",
+      "why": "Swiss pre-seed startup building voice AI for clinical documentation — Help CTO build the product and grow the team from scratch. Python/LLM/Azure stack with equity, strong mission fit, and the founding-team ownership dynamic mirrors Magino's Alaya cofounder experience. Fresh on Joinup.ch.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Founding Engineer",
+      "company": "Ventura",
+      "location": "San Francisco, CA (in-person required)",
+      "url": "https://www.ycombinator.com/companies/ventura/jobs/SEb1p8Y-founding-engineer",
+      "score": 76,
+      "grade": "B",
+      "why": "YC-backed founding engineer role with excellent stack match (TypeScript, Python, Next.js, AI agents) and strong equity (0.5-2%) — but requires in-person presence in San Francisco, which is a significant barrier for a Geneva-based candidate unless relocation is considered.",
+      "apply_by": null,
+      "status": "new",
+      "note": "In-person SF required — relocation would be necessary"
+    }
+  ],
+  "also_tracked": [
+    {
+      "rank": 4,
+      "title": "Senior/Staff/Principal Engineer",
+      "company": "Canonical",
+      "location": "Worldwide Remote",
+      "url": "https://canonical.com/careers/5142887",
+      "score": 69,
+      "grade": "C",
+      "why": "Staff/Principal-level worldwide remote, but primary stack (Go, Rust, C/C++) diverges from Magino's TypeScript/Node core. TypeScript/React is listed as one option. Good seniority and remote fit, weaker tech and AI alignment.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Senior Backend/AI Engineer",
+      "company": "Caplena",
+      "location": "Remote EMEA (Zurich-based company)",
+      "url": "https://jobgether.com/offer/69719ad80365b76b0ab8f7cc-senior-backend-ai-engineer-emea-remote",
+      "score": 68,
+      "grade": "C",
+      "why": "Swiss AI startup (feedback analytics, 25 people) with EMEA remote option — Python/Django stack with LLM integration. Seniority is Senior not Staff and tech stack is primarily Python/Django vs Magino's TypeScript/Node strengths.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 6,
+      "title": "Principal Engineer — Streaming & Ad Technology",
+      "company": "Zattoo",
+      "location": "Berlin, Germany (on-site)",
+      "url": "https://builtin.com/job/principal-engineer-streaming-ad-technology/7719098",
+      "score": 57,
+      "grade": "C",
+      "why": "Principal-level but wrong primary stack (C++, Golang) and on-site Berlin requirement. Zattoo is HQ'd in Zurich but this role is Berlin-based. Minimal AI/LLM exposure makes it a weak fit.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
