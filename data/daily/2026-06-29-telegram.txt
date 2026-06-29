@@ -1,0 +1,34 @@
+🎯 *Job Hunt — 2026-06-29*
+
+*1.* *Member of Technical Staff, TypeScript (Principal)* @ Inkeep
+📍 Remote (US-centric) | ⭐ 83/100 | 🏆 Grade B
+💡 Pure TypeScript AI agent platform, Principal level, $180k-$250k — AI-first developer tooling, exactly Magino's lane. ⚠️ Verify EU eligibility.
+🔗 https://jobs.ashbyhq.com/inkeep/7bf64445-f811-4e05-8ad1-06549299597f
+
+*2.* *Staff Backend Engineer* @ Nango
+📍 Remote — Europe | ⭐ 81/100 | 🏆 Grade B
+💡 YC W23 open-source integration platform, TypeScript/Node, $140k-$200k + 0.75% equity, core hours 2-6pm CET — fits Geneva perfectly.
+🔗 https://jobs.ashbyhq.com/Nango/3467f495-c833-4dcc-b119-cf43b7b93f84
+
+*3.* *Backend Engineer (Europe/UK timezone)* @ PostHog
+📍 Remote — Europe/UK | ⭐ 79/100 | 🏆 Grade B
+💡 YC-backed open-source analytics, TypeScript/Python, autonomous small-team structure, explicitly hiring EU timezone. PostHog's "Technical Ex-Founder" role is already tracked — this is the EU-specific BE slot.
+🔗 https://posthog.com/careers/backend-engineer-ingestion
+
+*4.* *Backend Engineer (Americas & Europe)* @ Nango
+📍 Remote — Europe | ⭐ 77/100 | 🏆 Grade B
+💡 Same Nango platform, Senior tier, TypeScript/Node, $120k-$180k + equity, Europe-eligible with CET-compatible hours. Sister role to rank 2.
+🔗 https://jobs.ashbyhq.com/Nango/8f6da27a-07e1-4071-8310-0a4f432e34ea
+
+*5.* *Founding Product Engineer* @ Better Stack
+📍 Remote — Europe / Prague | ⭐ 74/100 | 🏆 Grade B
+💡 Fast-growing observability SaaS, founding engineer scope, $150k-$400k standard or up to $800k "hardcore" + equity. Ruby stack is a mismatch but comp ceiling and founding autonomy are rare.
+🔗 https://betterstack.com/careers/founding-product-engineer
+
+*6.* *Staff Platform Engineer* @ hyperexponential
+📍 Remote EU (Warsaw hybrid 2d/wk) | ⭐ 70/100 | 🏆 Grade B
+💡 Series B AI insurance pricing platform, Staff-level platform ownership, EU-remote with Warsaw office cadence. Posted 4 days ago. Warsaw travel is the tradeoff.
+🔗 https://jobs.ashbyhq.com/hyperexponential/84162ea6-e3df-466b-a14a-a4a2dc4ee32a
+
+---
+📊 _8 new offers | 894 total tracked_

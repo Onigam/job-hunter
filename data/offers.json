@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28",
+  "last_updated": "2026-06-29",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -12822,6 +12822,110 @@
       "score": 57,
       "grade": "C",
       "date_found": "2026-06-28",
+      "status": "new"
+    },
+    {
+      "id": "c0f0495bff2a5f6ead9f1470c96ffaba",
+      "title": "Member of Technical Staff, TypeScript Engineer (Principal)",
+      "company": "Inkeep",
+      "location": "Remote (US-centric, EU eligibility unconfirmed)",
+      "url": "https://jobs.ashbyhq.com/inkeep/7bf64445-f811-4e05-8ad1-06549299597f",
+      "source": "ashbyhq",
+      "summary": "Principal-level TypeScript engineering role at Inkeep, an AI developer tools startup building a no-code + code platform for AI agents. Pure TypeScript stack, $180k-$250k, Principal scope with significant influence on product direction. AI-first, early-stage, high equity upside. EU eligibility unclear.",
+      "score": 83,
+      "grade": "B",
+      "date_found": "2026-06-29",
+      "status": "new"
+    },
+    {
+      "id": "71b65d2f6fa70ffe6c373eea4c832eab",
+      "title": "Staff Backend Engineer",
+      "company": "Nango",
+      "location": "Remote — Europe",
+      "url": "https://jobs.ashbyhq.com/Nango/3467f495-c833-4dcc-b119-cf43b7b93f84",
+      "source": "ashbyhq",
+      "summary": "YC W23 open-source integration platform (unified API and sync for B2B software). Staff Backend Engineer, fully remote Europe, TypeScript and Node.js stack, $140k-$200k + 0.25%-0.75% equity. Core hours 1PM-5PM GMT (2PM-6PM CET) — fits Geneva. 10+ years experience required.",
+      "score": 81,
+      "grade": "B",
+      "date_found": "2026-06-29",
+      "status": "new"
+    },
+    {
+      "id": "ba443b93f67661c465f8b771734d385b",
+      "title": "Backend Engineer (Europe/UK timezone)",
+      "company": "PostHog",
+      "location": "Remote — Europe/UK",
+      "url": "https://posthog.com/careers/backend-engineer-ingestion",
+      "source": "posthog",
+      "summary": "Open-source product analytics platform (YC-backed). Backend Engineer on Ingestion team, Europe/UK timezone. Python and TypeScript stack with ClickHouse and PostgreSQL. Autonomous small-team structure, no meetings Tues/Thurs, 90th percentile SF comp adjusted for location.",
+      "score": 79,
+      "grade": "B",
+      "date_found": "2026-06-29",
+      "status": "new"
+    },
+    {
+      "id": "2dee7f6810e1fb7a4990f449fd0b024e",
+      "title": "Backend Engineer",
+      "company": "Nango",
+      "location": "Remote — Americas & Europe",
+      "url": "https://jobs.ashbyhq.com/Nango/8f6da27a-07e1-4071-8310-0a4f432e34ea",
+      "source": "ashbyhq",
+      "summary": "Senior-level backend engineering role at Nango (YC W23). TypeScript/Node.js, $120k-$180k + 0.15%-0.25% equity. Remote across Americas and Europe with CET-compatible core hours. Same product and team as the Staff level role.",
+      "score": 77,
+      "grade": "B",
+      "date_found": "2026-06-29",
+      "status": "new"
+    },
+    {
+      "id": "7a7ea0a22fdc25ed232e1b9a6f9e7f6d",
+      "title": "Founding Product Engineer",
+      "company": "Better Stack",
+      "location": "Remote — Europe / Prague",
+      "url": "https://betterstack.com/careers/founding-product-engineer",
+      "source": "betterstack",
+      "summary": "Fast-growing observability SaaS (logging, uptime, on-call). Founding Product Engineer with full product ownership. Remote across Europe. $150k-$400k standard or up to $800k hardcore mode + equity. Ruby on Rails stack is a mismatch for Magino but the founding scope and comp ceiling are exceptional.",
+      "score": 74,
+      "grade": "B",
+      "date_found": "2026-06-29",
+      "status": "new"
+    },
+    {
+      "id": "6f57e2e0b797b3869ed3142a2c6c3ff8",
+      "title": "Staff Platform Engineer",
+      "company": "hyperexponential",
+      "location": "Remote — EU (Warsaw hybrid 2 days/week)",
+      "url": "https://jobs.ashbyhq.com/hyperexponential/84162ea6-e3df-466b-a14a-a4a2dc4ee32a",
+      "source": "ashbyhq",
+      "summary": "Series B AI-powered insurance pricing platform. Staff Platform Engineer owning infrastructure for ML-powered real-time pricing. EU-remote with Warsaw office 2 days/week. Posted June 2026. Insurance AI with significant platform scope.",
+      "score": 70,
+      "grade": "B",
+      "date_found": "2026-06-29",
+      "status": "new"
+    },
+    {
+      "id": "3d371b51ef8e9f0e3b87a8765b4da62e",
+      "title": "Staff Frontend Engineer",
+      "company": "SMG Swiss Marketplace Group",
+      "location": "Zurich, Switzerland (Hybrid 80-100%)",
+      "url": "https://www.jobs.ch/en/vacancies/detail/fe88576f-3169-4ecf-b1d3-1453164f1ba5/",
+      "source": "jobs.ch",
+      "summary": "Staff-level frontend engineering at SMG Swiss Marketplace Group (Tutti.ch, Ricardo.ch, Homegate.ch). TypeScript, Vue.js/React, Node.js, AWS serverless and microservices. Zurich hybrid 80-100%. Swiss market rates. Large company, not startup, and frontend-heavy.",
+      "score": 63,
+      "grade": "C",
+      "date_found": "2026-06-29",
+      "status": "new"
+    },
+    {
+      "id": "83f1371ee836fdef82ebfcff1a4fa743",
+      "title": "Senior/Staff/Principal Software Engineer",
+      "company": "Fastly",
+      "location": "Remote — US, UK, EU or Onsite",
+      "url": "https://www.fastly.com/about/careers",
+      "source": "hn",
+      "summary": "Public CDN and edge computing company with Staff/Principal roles open, remote US/UK/EU. TypeScript, Rust, Go, distributed systems stack. From HN June 2026. Large public company with strong engineering culture, though less startup energy.",
+      "score": 63,
+      "grade": "C",
+      "date_found": "2026-06-29",
       "status": "new"
     }
   ]

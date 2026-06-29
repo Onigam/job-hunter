@@ -1,0 +1,79 @@
+{
+  "date": "2026-06-29",
+  "total_searched": 22,
+  "new_offers": 8,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Member of Technical Staff, TypeScript Engineer (Principal)",
+      "company": "Inkeep",
+      "location": "Remote (US-centric, EU eligibility unclear)",
+      "url": "https://jobs.ashbyhq.com/inkeep/7bf64445-f811-4e05-8ad1-06549299597f",
+      "score": 83,
+      "grade": "B",
+      "why": "Principal-level TypeScript role building the AI agent platform from scratch — pure TypeScript stack at 100%, $180k-$250k, exactly the kind of AI-first developer tooling that matches Magino's trajectory. EU eligibility unconfirmed but worth reaching out.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Staff Backend Engineer",
+      "company": "Nango",
+      "location": "Remote — Europe",
+      "url": "https://jobs.ashbyhq.com/Nango/3467f495-c833-4dcc-b119-cf43b7b93f84",
+      "score": 81,
+      "grade": "B",
+      "why": "YC W23 open-source integration platform built with TypeScript and Node.js — Staff level, EU-remote-first, $140k-$200k + up to 0.75% equity, core hours overlap perfectly with Geneva (2-6pm CET). Product company with founding-engineer energy.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Backend Engineer (Europe/UK timezone)",
+      "company": "PostHog",
+      "location": "Remote — Europe/UK",
+      "url": "https://posthog.com/careers/backend-engineer-ingestion",
+      "score": 79,
+      "grade": "B",
+      "why": "YC-backed open-source analytics platform explicitly hiring Europe/UK timezone engineers — TypeScript and Python stack, autonomous small-team structure, 90th percentile SF comp adjusted for location. PostHog's culture mirrors Alaya's builder ethos.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Backend Engineer (Americas & Europe)",
+      "company": "Nango",
+      "location": "Remote — Americas & Europe",
+      "url": "https://jobs.ashbyhq.com/Nango/8f6da27a-07e1-4071-8310-0a4f432e34ea",
+      "score": 77,
+      "grade": "B",
+      "why": "Same Nango YC W23 platform role at Senior level — TypeScript/Node.js, $120k-$180k + equity, Europe-eligible with CET-compatible core hours. Slightly below Staff but same excellent product and team.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Founding Product Engineer",
+      "company": "Better Stack",
+      "location": "Remote — Europe / Prague",
+      "url": "https://betterstack.com/careers/founding-product-engineer",
+      "score": 74,
+      "grade": "B",
+      "why": "Fast-growing observability SaaS with a founding engineer role open to all of Europe — $150k-$400k standard or $300k-$800k 'hardcore mode' + equity. The founding scope and autonomy are perfect, though the Ruby on Rails stack diverges from Magino's TypeScript/Node core.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 6,
+      "title": "Staff Platform Engineer",
+      "company": "hyperexponential",
+      "location": "Remote — EU (Warsaw hybrid 2d/wk)",
+      "url": "https://jobs.ashbyhq.com/hyperexponential/84162ea6-e3df-466b-a14a-a4a2dc4ee32a",
+      "score": 70,
+      "grade": "B",
+      "why": "Staff-level platform engineering at a Series B AI-powered insurance pricing company — EU-remote eligible, posted 4 days ago, insurance AI is a growing space. Warsaw office requirement (2 days/week) is the main friction for Geneva-based Magino.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
