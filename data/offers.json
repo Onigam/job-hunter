@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29",
+  "last_updated": "2026-06-30",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -12926,6 +12926,136 @@
       "score": 63,
       "grade": "C",
       "date_found": "2026-06-29",
+      "status": "new"
+    },
+    {
+      "id": "c894d1e780af7642cf09020570687cc7",
+      "title": "Member of Technical Staff — Backend & Infrastructure",
+      "company": "Jua",
+      "location": "Zürich, Switzerland (Hybrid 3d/week)",
+      "url": "https://www.jua.ai/careers/job?job_id=751f651d-ec76-433b-b141-0f273000e06f",
+      "source": "swissdevjobs-search",
+      "summary": "Foundation model startup building a digital twin of Earth for atmospheric physics and weather prediction. Early senior IC role influencing technical strategy and system design across ML and infrastructure stack. Requires 3 days/week onsite in Zürich. Compensation CHF 125,000–160,000/year. Visa sponsorship not specified.",
+      "score": 85,
+      "grade": "A",
+      "date_found": "2026-06-30",
+      "status": "new"
+    },
+    {
+      "id": "00fa1c4ddb4ff1cafca0d0587700561f",
+      "title": "Founding Engineer",
+      "company": "Cardinal (YC S24)",
+      "location": "San Francisco, CA (On-site)",
+      "url": "https://www.ycombinator.com/companies/trycardinal-ai/jobs/vLd6N4I-founding-engineer",
+      "source": "ycombinator",
+      "summary": "YC S24-backed AI-powered outbound sales platform serving 40+ YC startups. AI agents for hyper-targeted lead discovery, multi-channel campaign orchestration (LinkedIn + email). Multi-tenant architecture. Stack: TypeScript, React, Next.js, Python. Salary $200k–$250k + 1% equity. Strong SF on-site preference. Apply: https://www.trycardinal.ai.",
+      "score": 85,
+      "grade": "A",
+      "date_found": "2026-06-30",
+      "status": "new"
+    },
+    {
+      "id": "5fbfa42b55f3488105f37c287dce1395",
+      "title": "Member of Technical Staff — Software Engineer",
+      "company": "Jua",
+      "location": "Zürich, Switzerland (Hybrid 3d/week)",
+      "url": "https://www.jua.ai/careers/job?job_id=ded8927b-1790-4a98-a518-fb840d2de651",
+      "source": "swissdevjobs-search",
+      "summary": "Same Jua foundation model company — generalist software engineering track for building and shaping the digital twin of Earth. Senior IC influencing technical strategy across the ML and software stack. Must be Zürich-based, hybrid 3 days/week. Compensation CHF 125,000–160,000/year.",
+      "score": 83,
+      "grade": "B",
+      "date_found": "2026-06-30",
+      "status": "new"
+    },
+    {
+      "id": "9292795baaa9528a87f1a7c9a0eb8444",
+      "title": "Founding Full-Stack AI Engineer",
+      "company": "Clera AI",
+      "location": "Berlin, Germany (Hybrid, visa sponsorship available)",
+      "url": "https://join.com/companies/getclera/16170864-founding-full-stack-engineer",
+      "source": "join-com",
+      "summary": "Berlin-based AI startup ($3M pre-seed) reimagining talent acquisition for AI companies — fully agentic headhunting platform targeting the $600B recruiting industry, partnering with AI companies. Stack: TypeScript, React, AI coding tools (Cursor), agentic automation systems. True 0-to-1 founding role, high intensity startup environment. Visa sponsorship available.",
+      "score": 82,
+      "grade": "B",
+      "date_found": "2026-06-30",
+      "status": "new"
+    },
+    {
+      "id": "2013bd14e1090e1092ce911993da4e93",
+      "title": "Senior/Staff Security Engineer, Threat Intelligence",
+      "company": "Anthropic",
+      "location": "Zürich, Switzerland (Hybrid, 25% min office)",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5252342008",
+      "source": "greenhouse",
+      "summary": "Anthropic's Zürich office — frontier AI safety lab. Hands-on threat intelligence engineering: Python automation, YARA/Sigma/SIEM detection pipelines, AWS/GCP, Kubernetes, ML infrastructure security. Tracks advanced adversaries targeting AI labs. Security-specialist role (YARA/SIEM) more than platform engineering. Top-tier Anthropic compensation and mission alignment.",
+      "score": 81,
+      "grade": "B",
+      "date_found": "2026-06-30",
+      "status": "new"
+    },
+    {
+      "id": "230217f0c184e80810f85d83fa58534d",
+      "title": "Head of Software Engineering",
+      "company": "PeriVision",
+      "location": "Switzerland (Bern area)",
+      "url": "https://joinup.ch/startup/perivision-916307d8-d062-4b4f-8dd7-fd9f818f60ff-10691",
+      "source": "joinup",
+      "summary": "MedTech startup reimagining glaucoma care for 80M patients worldwide. Building the software backbone of a medically certified AI-driven visual field testing headset device. Head of Software Engineering role working closely with the CTO/R&D lead, evolving into co-developing the company's technology vision and leading the software team. Swiss startup, strong mission, equity upside.",
+      "score": 80,
+      "grade": "B",
+      "date_found": "2026-06-30",
+      "status": "new"
+    },
+    {
+      "id": "a5daa446567a9ad286af0ffb1ace6052",
+      "title": "Founding Product Engineer",
+      "company": "fonio GmbH",
+      "location": "Remote / Vienna, Austria (EU timezone)",
+      "url": "https://jobs.ashbyhq.com/Fonio/21656d6a-c0df-4dce-8de7-420b9bfd6539",
+      "source": "ashbyhq",
+      "summary": "Austrian startup building a no-code AI voice call assistant — inbound/outbound calls, appointment scheduling, order processing. GDPR-compliant on EU infrastructure. Stack: NestJS, TypeScript, React. End-to-end product ownership from concept to deployment. Founding-team hire, remote EU with CET timezone anchor, LLM-powered product.",
+      "score": 80,
+      "grade": "B",
+      "date_found": "2026-06-30",
+      "status": "new"
+    },
+    {
+      "id": "f00716ac7244e1b84aaac75726f92b0c",
+      "title": "Staff Software Engineer — AI Platform",
+      "company": "CaptivateIQ",
+      "location": "Remote (Europe-compatible)",
+      "url": "https://remotive.com/remote/jobs/software-development/staff-software-engineer-ai-platform-4221620",
+      "source": "remotive",
+      "summary": "Staff-level technical strategy owner for CaptivateIQ's Agentic SDK — internal developer platform enabling product teams to build AI-powered features at enterprise scale. Requires 8+ years of experience with demonstrated staff-level leadership and advanced agent architectures. US SaaS company, Series D. Verify Europe timezone compatibility before applying.",
+      "score": 74,
+      "grade": "B",
+      "date_found": "2026-06-30",
+      "status": "new"
+    },
+    {
+      "id": "29bf9d511c7454a3375396947500c53b",
+      "title": "Head of Engineering",
+      "company": "Mercuria",
+      "location": "Geneva, Switzerland",
+      "url": "https://ch.linkedin.com/jobs/view/head-of-engineering-at-mercuria-4223440019",
+      "source": "linkedin",
+      "summary": "Head of Engineering at Mercuria, one of the world's largest commodity trading firms (Geneva HQ). Leading engineering teams, designing enterprise systems, and championing AI/LLM adoption across the Technology department. Requires Java/Python expertise and cloud platform experience. Geneva-based, top-tier compensation for a senior engineering leadership role.",
+      "score": 71,
+      "grade": "B",
+      "date_found": "2026-06-30",
+      "status": "new"
+    },
+    {
+      "id": "e963bb2e4b5e48b9a119223f3d7a6f1a",
+      "title": "Platform Engineer — Kubernetes / AI / GPU Cloud",
+      "company": "TITANS Freelancers",
+      "location": "100% Remote Europe",
+      "url": "https://join.titans.eu/en/platform-engineer-kubernetes-ai-gpu-cloud-260414ESK",
+      "source": "titans-eu",
+      "summary": "Contract role (July 2026–March 2027) designing and operating Kubernetes platforms for AI/GPU workloads in the telecommunications sector. Bare-metal infrastructure, NVIDIA AI software stack, CI/CD pipelines, container orchestration. Stack: Linux, Kubernetes, Ansible, Terraform, Helm, Jenkins, GitLab, Docker, Prometheus, Grafana, Python. Rate: €7,000–9,000/month. Starts immediately.",
+      "score": 62,
+      "grade": "C",
+      "date_found": "2026-06-30",
       "status": "new"
     }
   ]
