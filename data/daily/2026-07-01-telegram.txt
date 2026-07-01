@@ -1,0 +1,19 @@
+🎯 *Job Hunt — 2026-07-01*
+
+*1.* *Founding Engineer (Fullstack / AI)* @ Onlook
+📍 San Francisco, CA / Remote (US, CA) | ⭐ 80/100 | 🏆 Grade B
+💡 YC-backed open-source visual code editor (19k+ GitHub stars, #1 on HN) hiring its first Founding Engineer on React/TypeScript with strong AI angle — SF/US-remote only though.
+🔗 https://www.ycombinator.com/companies/onlook/jobs/e4gHv1n-founding-engineer-fullstack-ai
+
+*2.* *Founding AI Engineer* @ Semble AI
+📍 US-based (YC F25 startup) | ⭐ 78/100 | 🏆 Grade B
+💡 True 0-to-1 founding role building LLM+RAG pipelines on React/Node/Postgres — US team, remote-Europe fit unconfirmed.
+🔗 https://www.ycombinator.com/companies/semble-ai/jobs/d4YUIn2-founding-ai-engineer
+
+*3.* *Founding DevOps / Platform Engineer* @ DeepSense
+📍 Dubai / Belgrade / Remote | ⭐ 70/100 | 🏆 Grade B
+💡 Early-stage infra build-from-zero role with genuine remote flexibility workable from Geneva.
+🔗 https://wellfound.com/jobs/4171737-founding-devops-platform-engineer
+
+---
+📊 _14 new offers | 918 total tracked_

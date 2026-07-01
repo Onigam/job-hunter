@@ -1,0 +1,43 @@
+{
+  "date": "2026-07-01",
+  "total_searched": 24,
+  "new_offers": 14,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Founding Engineer (Fullstack / AI)",
+      "company": "Onlook",
+      "location": "San Francisco, CA / Remote (US, CA)",
+      "url": "https://www.ycombinator.com/companies/onlook/jobs/e4gHv1n-founding-engineer-fullstack-ai",
+      "score": 80,
+      "grade": "B",
+      "why": "YC-backed open-source visual code editor with 19k+ GitHub stars and #1 on Hacker News, hiring its first Founding Engineer on a React/TypeScript stack. AI-powered code editing lines up closely with Magino's AI-augmented engineering focus and founding-engineer track record from Alaya, though the role is SF/US-remote only.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Founding AI Engineer",
+      "company": "Semble AI",
+      "location": "Not specified (US-based YC F25 startup)",
+      "url": "https://www.ycombinator.com/companies/semble-ai/jobs/d4YUIn2-founding-ai-engineer",
+      "score": 78,
+      "grade": "B",
+      "why": "YC F25 startup building an LLM+RAG pipeline that reads CAD/PDF files for building-code compliance, on a React/Node/Postgres stack, a close technical match. Genuine 0-to-1 founding scope with heavy LLM exposure, but it's a US-based team and remote-Europe fit isn't confirmed.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Founding DevOps / Platform Engineer",
+      "company": "DeepSense",
+      "location": "Dubai / Belgrade / Remote",
+      "url": "https://wellfound.com/jobs/4171737-founding-devops-platform-engineer",
+      "score": 70,
+      "grade": "B",
+      "why": "Founding DevOps/Platform Engineer building core infrastructure from scratch at an early-stage startup, with remote flexibility that's workable from Geneva. Founding-level ownership matches Magino's builder profile well, though the posting is thin on AI angle and compensation.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
