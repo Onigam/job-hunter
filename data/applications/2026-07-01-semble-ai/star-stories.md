@@ -1,0 +1,27 @@
+# STAR Stories, Semble AI Founding AI Engineer
+
+Prepared for a founding engineer conversation at a two-person, early-stage team building AI agents for building-system design automation. Picked for founding ownership, technical judgment under pressure, and driving AI tooling adoption without formal authority, since those map closest to what a founding engineer role actually asks for.
+
+---
+
+## Story 1: Building Alaya from a Blank Page
+
+In 2016 I co-founded Alaya, a purpose and impact platform for employee engagement, and there was nothing to start from. No customers, no product, just a business that was already signing its first enterprise clients while I was still choosing a stack. I went with Node.js, React and PostgreSQL because it let me move fast without locking myself into something I'd regret scaling later, and I had the core features live for a first demo within three months. From there it was constant expansion: multi-tenant architecture, an API layer, impact reporting, and eventually hiring the first three engineers and setting up the code review culture and CI/CD that let the team grow without things falling apart. By the time Benevity acquired us in 2021, we had over 50 enterprise clients across Switzerland and France running on that platform. Looking back, I'd invest in observability much earlier, we added proper APM late and paid for it in debugging time, and I underbuilt for multi-tenancy at the start, retrofitting it later cost more than designing for it up front would have. That's the lesson I'd carry into a two-person team building on messy inputs like PDFs and CAD files: get the unglamorous plumbing right before the pressure to ship features makes it expensive to fix.
+
+---
+
+## Story 2: A Strangler-Fig Migration Instead of a Rewrite
+
+At Alaya, the monolith started showing real scaling cracks right as the team was split on what to do about it. Half wanted a full microservices rewrite, half wanted a modular monolith, and investors wanted new features, not a multi-month detour. I ran a two-week technical spike comparing both approaches with actual prototype load tests rather than opinions, then presented the trade-offs to the CTO and investors with numbers on the table. What I proposed was a strangler-fig migration: pull out the two highest-traffic modules first, leave the rest monolithic, and define clear criteria for when the next module would qualify for extraction. The first module shipped in six weeks and performance improved roughly 40% on our busiest endpoints, and the remaining monolith stayed stable all the way through the acquisition. No big-bang rewrite ever happened. The hard part wasn't the technical call, it was convincing a room that "not rewriting everything" was actually the disciplined choice. Data closed that argument faster than any amount of persuasion would have, and next time I'd build the benchmarks even earlier to cut the debate short before it starts.
+
+---
+
+## Story 3: Driving AI Tooling Adoption Without Being Anyone's Manager
+
+At Benevity I was a Senior Staff IC with no direct reports, but I wanted two teams that didn't report to me to actually change how they worked and bring AI tooling into their daily workflow. A mandate would have been faster on paper and worthless in practice, so I started small: three curious engineers, a few internal demos showing real time saved, and informal lunch-and-learn sessions with no attendance requirement attached. I built reusable prompt templates, committed them to a shared repo, and documented concrete wins, one story was saving about two hours on a single PR review cycle. Within three months, roughly 70% of engineers across both teams were using AI-assisted review and generation as part of their normal workflow, and I'd become the person people asked when they wanted to get more out of the tooling. It was slower than a top-down rollout would have been, but it stuck because people adopted it on their own terms and then argued for it internally themselves, which is something I couldn't have engineered with a decree. That's roughly the adoption pattern I'd expect to run again getting a small team comfortable with agent-based workflows for something as unfamiliar as automated code compliance.
+
+---
+
+## Story 4: Rebuilding Trust After Moving Too Fast Post-Acquisition
+
+When Benevity acquired Alaya in 2021, I joined an engineering org ten times the size of what I was used to, with a different codebase in Java and microservices, different processes, different everything. My instinct in the first weeks was to start proposing fixes for things that looked broken to me, and that instinct was wrong. I backed off, spent the first month actually mapping the existing architecture before opinions, and built relationships with the platform and infra teams before pushing any technical position. From there I became a cross-team architecture liaison for the Europe-facing product surface and contributed to three major cross-team architecture decisions, while also driving the AI tooling adoption that became Story 3. The reflection here is simple and it's one I still check myself on: moving fast to "fix" a system you don't understand yet reads as confidence but plays as arrogance, and slowing down to listen first is what actually earned me the standing to influence decisions later. For a founding role where I'd be the newer half of a two-person team on the vision side, that same discipline, understand before proposing, seems like the right instinct to bring in from day one.
