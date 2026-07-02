@@ -1,0 +1,19 @@
+🎯 *Job Hunt — 2026-07-02*
+
+*1.* *Founding Engineer* @ Plutus
+📍 Kirkland, WA | ⭐ 82/100 | 🏆 Grade B
+💡 Full-stack founding role on a TS/React/Node/GCP/Postgres/Redis stack that overlaps almost entirely with Magino's toolkit — US-based, not remote.
+🔗 https://wellfound.com/jobs/4391448-founding-engineer
+
+*2.* *Founding Engineer* @ Lamatic.ai
+📍 United States, Remote | ⭐ 80/100 | 🏆 Grade B
+💡 AI startup, fully remote founding role on NextJS/TypeScript/Node.js — strong technical and AI-product match.
+🔗 https://wellfound.com/jobs/2885704-founding-engineer
+
+*3.* *Founding Product Engineer (m/w/d)* @ Fonio
+📍 Remote | ⭐ 80/100 | 🏆 Grade B
+💡 Fresh same-day posting, full-stack founding role on Node.js/TypeScript/NestJS/React — applications close July 5.
+🔗 https://weworkremotely.com/remote-jobs/fonio-founding-product-engineer-m-w-d
+
+---
+📊 _14 new offers | 932 total tracked_

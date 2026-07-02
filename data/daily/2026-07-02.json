@@ -1,0 +1,43 @@
+{
+  "date": "2026-07-02",
+  "total_searched": 18,
+  "new_offers": 14,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Founding Engineer",
+      "company": "Plutus",
+      "location": "Kirkland, WA",
+      "url": "https://wellfound.com/jobs/4391448-founding-engineer",
+      "score": 82,
+      "grade": "B",
+      "why": "Full-stack founding engineer role at an investing-democratization startup on a stack (TypeScript, React, Node.js, GCP, PostgreSQL, Redis, Terraform, Docker) that overlaps almost entirely with Magino's toolkit. Build-from-zero scope echoes the Alaya story, though the role is US-based (WA) rather than remote-friendly.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Founding Engineer",
+      "company": "Lamatic.ai",
+      "location": "United States, Remote",
+      "url": "https://wellfound.com/jobs/2885704-founding-engineer",
+      "score": 80,
+      "grade": "B",
+      "why": "AI startup hiring a fully remote founding engineer on NextJS/TypeScript/Node.js/GraphQL, a strong technical match with real AI-product exposure. Remote-US timezone is a workable stretch from Geneva, and founding scope fits Magino's cofounder track record directly.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Founding Product Engineer (m/w/d)",
+      "company": "Fonio",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/fonio-founding-product-engineer-m-w-d",
+      "score": 80,
+      "grade": "B",
+      "why": "Fresh posting (same-day) for a full-stack founding role on Node.js/TypeScript/NestJS/React, closely matching Magino's core stack. Genuine 0-to-1 ownership at an early-stage company, with applications closing July 5 so timing matters.",
+      "apply_by": "2026-07-05",
+      "status": "new"
+    }
+  ]
+}
