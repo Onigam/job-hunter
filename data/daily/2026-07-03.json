@@ -1,0 +1,67 @@
+{
+  "date": "2026-07-03",
+  "total_searched": 15,
+  "new_offers": 9,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Principal / Distinguished Engineer (path to CTO/co-founder)",
+      "company": "Albert",
+      "location": "Remote (almost anywhere)",
+      "url": "https://news.ycombinator.com/item?id=48747976",
+      "score": 79,
+      "grade": "B",
+      "why": "Profitable consumer fintech (20M+ users, 4+ years profitable) hiring principal/distinguished engineers to build net-new 0-to-1 products on Python/Claude/PostgreSQL/React, with the strongest hire on a path to a CTO/co-founder-style role. Directly echoes Magino's Alaya cofounder trajectory on a stack that overlaps closely with his own.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "VP of Engineering",
+      "company": "Soda (Soda Data)",
+      "location": "Remote (Europe)",
+      "url": "https://remoteok.com/remote-jobs/remote-vp-of-engineering-soda-data-1087577",
+      "score": 72,
+      "grade": "B",
+      "why": "Data-quality/observability startup founded by a former Collibra early employee, hiring a hands-on (~50% coding) VP of Engineering reporting to the CPO, fully remote across Europe at around $195k. Matches Magino's target hybrid IC/leadership role and remote-EU preference well.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Staff / Principal Machine Learning Engineer, Serving",
+      "company": "Inworld AI",
+      "location": "Switzerland (Remote)",
+      "url": "https://ch.linkedin.com/jobs/view/staff-principal-machine-learning-engineer-serving-switzerland-at-inworld-ai-4398935258",
+      "score": 68,
+      "grade": "C",
+      "why": "Swiss-based, staff-level AI infrastructure role scaling inference serving for a conversational AI platform. Strong location and AI exposure, but the core stack (C++/CUDA/Rust systems work) is a departure from Magino's TypeScript/Node/React toolkit.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Founding Engineer (3 positions available)",
+      "company": "Omnea",
+      "location": "London, UK",
+      "url": "https://wellfound.com/jobs/2198219-founding-engineer-3-positions-available",
+      "score": 58,
+      "grade": "C",
+      "why": "Early-stage VC-backed startup ($5M raised) hiring three founding engineers to build the core product from zero, a scope that fits Magino's builder profile well. Onsite London rather than Switzerland or remote is the main drawback.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Founding Engineer",
+      "company": "Yara",
+      "location": "London, UK / Remote",
+      "url": "https://wellfound.com/jobs/2965618-founding-engineer",
+      "score": 55,
+      "grade": "C",
+      "why": "Mission-driven healthtech founding team building a peer-support platform for patients, with remote flexibility and significant early equity. Pay sits below market for the first six months pending a planned seed round.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}

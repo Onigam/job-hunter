@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02",
+  "last_updated": "2026-07-03",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -13420,6 +13420,123 @@
       "grade": "C",
       "id": "53bc1cb90479fbe087195521237289aa",
       "date_found": "2026-07-02",
+      "status": "new"
+    },
+    {
+      "title": "Staff / Principal Machine Learning Engineer, Serving",
+      "company": "Inworld AI",
+      "location": "Switzerland (Remote)",
+      "url": "https://ch.linkedin.com/jobs/view/staff-principal-machine-learning-engineer-serving-switzerland-at-inworld-ai-4398935258",
+      "source": "linkedin",
+      "summary": "Optimize and scale multimodal inference serving (vLLM/TRT-LLM, quantization, continuous batching) for a conversational AI platform. Strong AI exposure and Swiss location, but the core stack (C++/CUDA/Rust systems work) is far from Magino's TypeScript/Node/React toolkit.",
+      "score": 68,
+      "grade": "C",
+      "id": "28e49991dd5b2051f8e6f99f1ed21ba0",
+      "date_found": "2026-07-03",
+      "status": "new"
+    },
+    {
+      "title": "Principal / Distinguished Engineer (path to CTO/co-founder)",
+      "company": "Albert",
+      "location": "Remote (almost anywhere)",
+      "url": "https://news.ycombinator.com/item?id=48747976",
+      "source": "hn",
+      "summary": "Profitable consumer fintech (20M+ users, 4+ years profitable) hiring principal/distinguished engineers to build net-new 0-to-1 products on Python/Claude/PostgreSQL/React, with the strongest hire on a path to a CTO/co-founder-style role. Direct echo of Magino's Alaya cofounder trajectory, on a stack that matches closely.",
+      "score": 79,
+      "grade": "B",
+      "id": "cfce2cb85375f4a50b1e596719fd7494",
+      "date_found": "2026-07-03",
+      "status": "new"
+    },
+    {
+      "title": "Founding Engineer (3 positions available)",
+      "company": "Omnea",
+      "location": "London, UK",
+      "url": "https://wellfound.com/jobs/2198219-founding-engineer-3-positions-available",
+      "source": "wellfound",
+      "summary": "Early-stage VC-backed startup ($5M raised) hiring three founding engineers to build the core product from zero. Genuine 0-to-1 ownership, though it's an onsite London role rather than Switzerland or remote.",
+      "score": 58,
+      "grade": "C",
+      "id": "dc9524efe038134dc9e6f7d5274cadd1",
+      "date_found": "2026-07-03",
+      "status": "new"
+    },
+    {
+      "title": "Founding Engineer (Advisor, converting to full-time post-funding)",
+      "company": "Health List",
+      "location": "London, UK / Remote",
+      "url": "https://wellfound.com/jobs/3832675-founding-engineer-advisor-full-time-post-funding",
+      "source": "wellfound",
+      "summary": "Starts as a 1-2 hours/month advisory engagement, converting to a full-time founding engineer role once the company closes funding. Flexible and remote, but highly speculative pre-funding arrangement with minimal near-term comp.",
+      "score": 55,
+      "grade": "C",
+      "id": "927629f73362c0fc884c7b6af9fb25ed",
+      "date_found": "2026-07-03",
+      "status": "new"
+    },
+    {
+      "title": "Founding Engineer (2 positions)",
+      "company": "Super44",
+      "location": "Cologne / Bonn, Germany",
+      "url": "https://wellfound.com/jobs/3823058-founding-engineer",
+      "source": "wellfound",
+      "summary": "Recently pre-seed-funded startup expanding with two founding engineers, based onsite in the Cologne-Bonn region. Founding scope is appealing but the stack is unspecified and the location doesn't fit remote or Swiss preferences.",
+      "score": 51,
+      "grade": "D",
+      "id": "e143f9d132eb61243e27e54802aa8dd0",
+      "date_found": "2026-07-03",
+      "status": "new"
+    },
+    {
+      "title": "Principal Engineer, CRM & MarTech",
+      "company": "Stitch Fix",
+      "location": "Remote (US)",
+      "url": "https://weworkremotely.com/remote-jobs/stitch-fix-principal-engineer-crm-martech",
+      "source": "weworkremotely",
+      "summary": "Principal-level architecture ownership at a mature public retail company's CRM/MarTech systems. Strong seniority match but a stable enterprise environment with no AI exposure and lower growth trajectory than Magino targets.",
+      "score": 52,
+      "grade": "D",
+      "id": "7e78591ef7dd1d91afd34a00a40ef78e",
+      "date_found": "2026-07-03",
+      "status": "new"
+    },
+    {
+      "title": "Senior Platform Engineer",
+      "company": "Hometime",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/hometime-senior-platform-engineer",
+      "source": "weworkremotely",
+      "summary": "Platform engineering role on a Rails API product with a JavaScript front end. Seniority is a step below Magino's target level and the primary backend language (Ruby) doesn't overlap with his stack.",
+      "score": 48,
+      "grade": "D",
+      "id": "327c8a06b350e86b3c1e2d36a604071e",
+      "date_found": "2026-07-03",
+      "status": "new"
+    },
+    {
+      "title": "VP of Engineering",
+      "company": "Soda (Soda Data)",
+      "location": "Remote (Europe)",
+      "url": "https://remoteok.com/remote-jobs/remote-vp-of-engineering-soda-data-1087577",
+      "source": "remoteok",
+      "summary": "Data-quality/observability startup founded by a former Collibra early employee, hiring a hands-on (~50% coding) VP of Engineering reporting to the CPO, fully remote across Europe at around $195k. Matches Magino's hybrid IC/leadership target and remote-EU location preference well.",
+      "score": 72,
+      "grade": "B",
+      "id": "daab31bf86c29a49eff12b7e1ada4077",
+      "date_found": "2026-07-03",
+      "status": "new"
+    },
+    {
+      "title": "Founding Engineer",
+      "company": "Yara",
+      "location": "London, UK / Remote",
+      "url": "https://wellfound.com/jobs/2965618-founding-engineer",
+      "source": "wellfound",
+      "summary": "Healthtech founding team building a peer-support platform for patients, offering remote flexibility and significant early equity. Mission-driven and founder-led, though pay is below market for the first six months pending a planned seed round.",
+      "score": 55,
+      "grade": "C",
+      "id": "dd517300d0d77321cace281c64536a8e",
+      "date_found": "2026-07-03",
       "status": "new"
     }
   ]

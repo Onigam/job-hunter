@@ -1,0 +1,29 @@
+🎯 *Job Hunt — 2026-07-03*
+
+*1.* *Principal / Distinguished Engineer (path to CTO/co-founder)* @ Albert
+📍 Remote (almost anywhere) | ⭐ 79/100 | 🏆 Grade B
+💡 Profitable fintech building 0-to-1 products on Python/Claude/React, with a real path to CTO/co-founder.
+🔗 https://news.ycombinator.com/item?id=48747976
+
+*2.* *VP of Engineering* @ Soda (Soda Data)
+📍 Remote (Europe) | ⭐ 72/100 | 🏆 Grade B
+💡 Hands-on VP Eng role (~50% coding) at a data-quality startup, ~$195k, fully remote across Europe.
+🔗 https://remoteok.com/remote-jobs/remote-vp-of-engineering-soda-data-1087577
+
+*3.* *Staff / Principal Machine Learning Engineer, Serving* @ Inworld AI
+📍 Switzerland (Remote) | ⭐ 68/100 | 🏆 Grade C
+💡 Swiss-based staff AI infra role, though the C++/CUDA stack is a stretch from Magino's usual toolkit.
+🔗 https://ch.linkedin.com/jobs/view/staff-principal-machine-learning-engineer-serving-switzerland-at-inworld-ai-4398935258
+
+*4.* *Founding Engineer (3 positions)* @ Omnea
+📍 London, UK | ⭐ 58/100 | 🏆 Grade C
+💡 VC-backed early-stage startup building core product from zero; onsite London is the main tradeoff.
+🔗 https://wellfound.com/jobs/2198219-founding-engineer-3-positions-available
+
+*5.* *Founding Engineer* @ Yara
+📍 London, UK / Remote | ⭐ 55/100 | 🏆 Grade C
+💡 Mission-driven healthtech founding role, remote-friendly with strong early equity, below-market pay for 6 months.
+🔗 https://wellfound.com/jobs/2965618-founding-engineer
+
+---
+📊 _9 new offers | 941 total tracked_
