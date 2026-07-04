@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03",
+  "last_updated": "2026-07-04",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -13538,6 +13538,32 @@
       "id": "dd517300d0d77321cace281c64536a8e",
       "date_found": "2026-07-03",
       "status": "new"
+    },
+    {
+      "title": "Founding Engineer / Technical Lead",
+      "company": "Racster",
+      "location": "Remote (Europe, MEA, Asia)",
+      "url": "https://news.ycombinator.com/item?id=48753637",
+      "source": "hn",
+      "summary": "SportsTech startup building a racket-sports community and booking platform, already validated with hundreds of active tennis club clients. Sole-engineer founding role with production LLM/agent work (tool calling, evals). Part-time or full-time, EUR20-40/hr plus equity.",
+      "score": 69,
+      "grade": "C",
+      "date_found": "2026-07-04",
+      "status": "new",
+      "id": "c6e613db756342e2d4fb1716417c096a"
+    },
+    {
+      "title": "CTO / Co-Founder - Energy FinTech Platform (CleanTech)",
+      "company": "Upgrid",
+      "location": "Switzerland",
+      "url": "https://www.startupticker.ch/en/jobs/cto-co-founder-to-build-energy-fintech-platform-cleantech-open-for-part-time-graduates",
+      "source": "startupticker",
+      "summary": "Early-stage energy-trading platform aiming to build Switzerland's largest local green-energy community. Co-founder CTO role, explicitly open to graduates, no salary listed - reads as equity-only, pre-product stage.",
+      "score": 59,
+      "grade": "C",
+      "date_found": "2026-07-04",
+      "status": "new",
+      "id": "e307c874a4b1fc3dd0246f379df4b10b"
     }
   ]
 }

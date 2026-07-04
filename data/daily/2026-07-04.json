@@ -1,0 +1,35 @@
+{
+  "date": "2026-07-04",
+  "total_searched": 24,
+  "new_offers": 2,
+  "top_offers": [
+    {
+      "rank": 1,
+      "id": "c6e613db75",
+      "title": "Founding Engineer / Technical Lead",
+      "company": "Racster",
+      "location": "Remote (Europe, MEA, Asia)",
+      "url": "https://news.ycombinator.com/item?id=48753637",
+      "score": 69,
+      "grade": "C",
+      "why": "Sole-engineer founding role at a SportsTech startup that already validated its MVP with hundreds of active tennis club clients, with real production LLM/agent work (tool calling, evals) that matches your AI-augmented engineering focus. The EUR20-40/hr rate is well under Staff-level market pay, so this only makes sense if the equity terms are strong.",
+      "apply_by": null,
+      "status": "new",
+      "part_time": true
+    },
+    {
+      "rank": 2,
+      "id": "e307c874a4",
+      "title": "CTO / Co-Founder - Energy FinTech Platform (CleanTech)",
+      "company": "Upgrid",
+      "location": "Switzerland",
+      "url": "https://www.startupticker.ch/en/jobs/cto-co-founder-to-build-energy-fintech-platform-cleantech-open-for-part-time-graduates",
+      "score": 59,
+      "grade": "C",
+      "why": "Co-founder CTO role building a local energy-trading community from zero, which echoes the Alaya founding experience. The listing explicitly welcomes graduates and lists no salary, which reads as a pre-product, equity-only stage rather than a funded seniority-matched role.",
+      "apply_by": null,
+      "status": "new",
+      "part_time": true
+    }
+  ]
+}
