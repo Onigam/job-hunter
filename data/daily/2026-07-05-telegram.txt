@@ -1,0 +1,34 @@
+🎯 *Job Hunter — 2026-07-05*
+
+*1.* *Founding Engineer* @ Talk Machine
+📍 Remote (or London, Europe, Dubai) | ⭐ 70/100 | 🏆 Grade B
+💡 A founding engineer seat at a newly funded voice-AI startup from a well-known consumer-tech founder, this is the closest match to the build-from-zero cofounder experience at Alaya, with AI squarely at the product's core and remote flexibility that works from Geneva.
+🔗 https://talkmachine.com/jobs/engineer
+
+*2.* *VP Engineering (CTO-Track) – AI-Driven Video AdTech* @ Confidential (recruited via Jobgether)
+📍 Remote, Europe (Switzerland eligible) | ⭐ 69/100 | 🏆 Grade C
+💡 VP Engineering with an explicit CTO track and Switzerland eligibility fits the founding-background and leadership trajectory well, and the AI-adoption mandate plays to recent AI-augmented engineering experience, though the anonymized listing means some diligence is still needed.
+🔗 https://jobgether.com/remote-jobs/switzerland/vp-of-engineering
+
+*3.* *Late Co-Founder & CTO – Aviation Systems and Optical Sensing Technology* @ Ultravionix
+📍 Geneva, Switzerland | ⭐ 66/100 | 🏆 Grade C
+💡 A Geneva-based founding CTO seat echoes the Alaya cofounder story directly, but it's hardware/optical-sensing and certification-heavy rather than the TypeScript/AI stack, and equity-only comp is a real risk at this lab-validation stage.
+🔗 https://www.startupticker.ch/en/jobs/late-co-founder-cto-aviation-systems-and-optical-sensing-technology
+
+*4.* *Senior / Staff Software Engineer, AI* @ Rivio.ai
+📍 San Francisco, hybrid/remote | ⭐ 64/100 | 🏆 Grade C
+💡 Well-funded early-stage AI startup with agentic and knowledge-graph work that lines up with the AI-augmented engineering focus, but it's SF hybrid/remote, a weaker location fit, and IC-level rather than a leadership seat.
+🔗 https://www.rivio.ai/careers/senior-software-engineer-ai
+
+*5.* *GPU Engineer (LLM inference engine)* @ Kog
+📍 Paris, France / Remote within Europe-compatible timezone (1 week/month onsite Paris) | ⭐ 62/100 | 🏆 Grade C
+💡 Fast-moving LLM inference infra startup with real AI depth, but the role centers on low-level CUDA/kernel work rather than the platform and full-stack architecture background, and it's an IC specialist seat, not a leadership one.
+🔗 https://jobs.ashbyhq.com/kog/e3950334-a2a6-43cc-a744-df6c38683166
+
+*6.* *ML Platform Engineer* @ Foxglove
+📍 Onsite San Francisco + Remote considered | ⭐ 58/100 | 🏆 Grade C
+💡 Foxglove is a strong AI/robotics infrastructure product company, but the role is onsite-first in San Francisco with remote only "considered," a weak location fit, and it's platform ownership rather than founding-level scope.
+🔗 https://foxglove.dev/careers
+
+---
+📊 _9 new offers | 952 total tracked_
