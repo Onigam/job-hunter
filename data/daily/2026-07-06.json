@@ -1,0 +1,43 @@
+{
+  "date": "2026-07-06",
+  "total_searched": 22,
+  "new_offers": 3,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Founding Engineer",
+      "company": "Applied Labs",
+      "location": "New York, NY (exact remote policy unconfirmed)",
+      "url": "https://jobs.ashbyhq.com/appliedlabs/add6d376-a634-4c81-9b01-c30328c2bdf0",
+      "score": 69,
+      "grade": "C",
+      "why": "A genuine founding-engineer seat at a seed-stage AI agent startup (ex-Scale AI founders, $5.2M raised) owning core agent orchestration and reliability, close to the build-from-zero Alaya story, but the company is New York/SF based and the posting doesn't confirm remote eligibility from Geneva.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Systems Engineer, HPC",
+      "company": "Mistral AI",
+      "location": "Lausanne, Switzerland (also Paris/London/Amsterdam/Berlin/Madrid)",
+      "url": "https://jobs.lever.co/mistral/c2cf8b02-cb79-4e13-8717-25817813542d",
+      "score": 64,
+      "grade": "C",
+      "why": "Mistral is Europe's leading frontier AI lab and this role includes a Lausanne option, but it's an infrastructure/systems-administration position (Slurm, Ceph, networking) rather than a Staff/Principal or leadership seat, so seniority and role-impact fit are weak even though the mission and AI exposure are strong.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Software Engineer (Mid/Senior), Product",
+      "company": "Spacelift",
+      "location": "Remote, Europe",
+      "url": "https://careers.spacelift.io/jobs/3006934-software-engineer-remote-europe-mid-and-senior",
+      "score": 58,
+      "grade": "C",
+      "why": "Spacelift is an infrastructure-as-code orchestration platform with a fully remote Europe policy, a reasonable platform-engineering overlap, but the role is scoped as mid/senior feature ownership rather than Staff+/founding-level scope.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}

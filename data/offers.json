@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-05",
+  "last_updated": "2026-07-06",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -13680,6 +13680,45 @@
       "score": 40,
       "grade": "D",
       "date_found": "2026-07-05",
+      "status": "new"
+    },
+    {
+      "id": "f39023df2d603d5da8263401716f6336",
+      "title": "Founding Engineer",
+      "company": "Applied Labs",
+      "location": "New York, NY (remote policy unconfirmed)",
+      "url": "https://jobs.ashbyhq.com/appliedlabs/add6d376-a634-4c81-9b01-c30328c2bdf0",
+      "source": "other",
+      "summary": "Seed-stage AI agent startup (founded by ex-Scale AI engineers, $5.2M raised) building reliable AI agents for enterprise support and operations. Founding engineer owns core agent orchestration, tool-use, planning, memory, and evals end to end.",
+      "score": 69,
+      "grade": "C",
+      "date_found": "2026-07-06",
+      "status": "new"
+    },
+    {
+      "id": "85c972e10a47e13cf019f01571c7f4a4",
+      "title": "Systems Engineer, HPC",
+      "company": "Mistral AI",
+      "location": "Lausanne, Switzerland (also Paris/London/Amsterdam/Berlin/Madrid)",
+      "url": "https://jobs.lever.co/mistral/c2cf8b02-cb79-4e13-8717-25817813542d",
+      "source": "other",
+      "summary": "Infrastructure/systems engineering role at Mistral AI supporting HPC clusters and petabyte-scale storage behind their AI platforms. Requires Slurm, Kubernetes, Ceph/Lustre/NFS, and networking expertise; Lausanne is one of several eligible European locations.",
+      "score": 64,
+      "grade": "C",
+      "date_found": "2026-07-06",
+      "status": "new"
+    },
+    {
+      "id": "e895722135208b94de0bab71c99008c0",
+      "title": "Software Engineer (Mid/Senior), Product",
+      "company": "Spacelift",
+      "location": "Remote, Europe",
+      "url": "https://careers.spacelift.io/jobs/3006934-software-engineer-remote-europe-mid-and-senior",
+      "source": "other",
+      "summary": "Infrastructure-as-code orchestration platform (Terraform/OpenTofu/Pulumi/CloudFormation/Ansible) hiring a fully remote Europe engineer to own product features end to end in Go, working in on-call rotation with backend/frontend/design/product peers.",
+      "score": 58,
+      "grade": "C",
+      "date_found": "2026-07-06",
       "status": "new"
     }
   ]

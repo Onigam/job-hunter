@@ -1,0 +1,19 @@
+🎯 *Job Hunter — 2026-07-06*
+
+*1.* *Founding Engineer* @ Applied Labs
+📍 New York, NY (remote unconfirmed) | ⭐ 69/100 | 🏆 Grade C
+💡 Seed-stage AI agent startup (ex-Scale AI founders) owning agent orchestration from zero, close to the Alaya founding story, but likely requires a US presence.
+🔗 https://jobs.ashbyhq.com/appliedlabs/add6d376-a634-4c81-9b01-c30328c2bdf0
+
+*2.* *Systems Engineer, HPC* @ Mistral AI
+📍 Lausanne, Switzerland (or Paris/London/Amsterdam/Berlin/Madrid) | ⭐ 64/100 | 🏆 Grade C
+💡 Europe's top frontier AI lab with a Lausanne option, but it's an infra/ops role, not a Staff or leadership seat.
+🔗 https://jobs.lever.co/mistral/c2cf8b02-cb79-4e13-8717-25817813542d
+
+*3.* *Software Engineer (Mid/Senior), Product* @ Spacelift
+📍 Remote, Europe | ⭐ 58/100 | 🏆 Grade C
+💡 IaC orchestration platform, fully remote in Europe, but scoped as feature-level ownership rather than Staff+/founding scope.
+🔗 https://careers.spacelift.io/jobs/3006934-software-engineer-remote-europe-mid-and-senior
+
+---
+📊 _3 new offers | 955 total tracked_
