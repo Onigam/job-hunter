@@ -1,0 +1,19 @@
+🎯 *Job Hunter — 2026-07-07*
+
+*1.* *Staff Software Engineer, Infrastructure* @ Ripple
+📍 Geneva, Switzerland | ⭐ 73/100 | 🏆 Grade B
+💡 Staff-level platform ownership role based in Geneva, multi-cloud infra for the Custody business.
+🔗 https://ripple.com/careers/all-jobs/job/7930645/?gh_jid=7930645
+
+*2.* *Staff Python Software Engineer* @ neptune.ai
+📍 Remote, Europe | ⭐ 72/100 | 🏆 Grade B
+💡 Staff role on MLOps tooling, Python client and API surface, Europe timezone.
+🔗 https://weworkremotely.com/listings/neptune-ai-staff-python-software-engineer
+
+*3.* *Lead Founding Engineer - AI Startup (Backend/Full-Stack)* @ Undisclosed AI Startup
+📍 Not specified (remote likely) | ⭐ 68/100 | 🏆 Grade C
+💡 Founding-level backend/full-stack role, build-from-zero scope, but company and comp undisclosed.
+🔗 https://wellfound.com/jobs/4430578-lead-founding-engineer-ai-startup-backend-full-stack
+
+---
+📊 _6 new offers | 961 total tracked_

@@ -1,0 +1,43 @@
+{
+  "date": "2026-07-07",
+  "total_searched": 17,
+  "new_offers": 6,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Staff Software Engineer, Infrastructure",
+      "company": "Ripple",
+      "location": "Geneva, Switzerland",
+      "url": "https://ripple.com/careers/all-jobs/job/7930645/?gh_jid=7930645",
+      "score": 73,
+      "grade": "B",
+      "why": "A Staff-level platform engineering seat in Geneva itself, owning multi-cloud infrastructure (Azure, AWS, GCP, IBM Cloud) for Ripple's Custody business, close to Magino's platform-ownership and reliability background from scaling Alaya. Requires 10+ years and mentoring scope, which lines up well with his seniority.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Staff Python Software Engineer",
+      "company": "neptune.ai",
+      "location": "Remote, Europe",
+      "url": "https://weworkremotely.com/listings/neptune-ai-staff-python-software-engineer",
+      "score": 72,
+      "grade": "B",
+      "why": "neptune.ai builds MLOps tooling (metadata logging and querying for model training) and needs a Staff engineer on the Python client and API surface, a solid match for Magino's Python and platform-API background plus his interest in AI/ML developer tooling. Remote-Europe timezone fits Geneva without relocation.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Lead Founding Engineer - AI Startup (Backend/Full-Stack)",
+      "company": "Undisclosed AI Startup (via Wellfound)",
+      "location": "Not specified in listing (remote likely)",
+      "url": "https://wellfound.com/jobs/4430578-lead-founding-engineer-ai-startup-backend-full-stack",
+      "score": 68,
+      "grade": "C",
+      "why": "A genuine founding-engineer seat, backend and full-stack, at an anonymously-listed early AI startup, matching Magino's build-from-zero Alaya profile, but the company identity and comp are undisclosed and remote eligibility from Geneva isn't confirmed. Included to fill the top-3 slot since only two B-grade offers surfaced today.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
