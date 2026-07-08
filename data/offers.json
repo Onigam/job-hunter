@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07",
+  "last_updated": "2026-07-08",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -13797,6 +13797,84 @@
       "score": 59,
       "grade": "C",
       "date_found": "2026-07-07",
+      "status": "new"
+    },
+    {
+      "id": "ba6e2798c260213386c6e55bbd0f7999",
+      "title": "CTO / Lead Engineer / Co-Founder",
+      "company": "UpGrid AG",
+      "location": "Zurich, Switzerland",
+      "url": "https://joinup.ch/job/UpGrid-AG-CTO-Lead-Engineer-Co-Founder-@-Tenity-backed-Startup-nSbMtZGsBKb60S1rQXYI",
+      "source": "joinup",
+      "summary": "Tenity-backed energy fintech building a peer-to-peer green energy trading platform. Hiring a CTO/co-founder to own technology from zero, transforming Switzerland's local energy community.",
+      "score": 80,
+      "grade": "B",
+      "date_found": "2026-07-08",
+      "status": "new"
+    },
+    {
+      "id": "3b8db024d6914b6d17b77179f34ecafa",
+      "title": "Founding Backend Engineer",
+      "company": "Gradle Technologies",
+      "location": "Lucerne, Switzerland",
+      "url": "https://wellfound.com/company/gradle-technologies/jobs",
+      "source": "wellfound",
+      "summary": "Gradle builds the Gradle Build Tool and Gradle Enterprise, used in CI pipelines at LinkedIn, Netflix and others. Founding backend engineer role, 2.0-3.0% equity, onsite or remote in Lucerne.",
+      "score": 74,
+      "grade": "B",
+      "date_found": "2026-07-08",
+      "status": "new"
+    },
+    {
+      "id": "49dace055f41745a12d53020338152a1",
+      "title": "Cloud Platform Engineer",
+      "company": "Apheris",
+      "location": "Remote (Berlin HQ)",
+      "url": "https://apheris.jobs.personio.de/job/2557182",
+      "source": "personio",
+      "summary": "Federated computing platform letting pharma companies collaborate on AI models without sharing proprietary data. Cloud Platform Engineer designs and operates the infra powering engineering workflows and customer deployments. Remote-first, occasional Berlin office days.",
+      "score": 68,
+      "grade": "C",
+      "date_found": "2026-07-08",
+      "status": "new"
+    },
+    {
+      "id": "d3b248b4b3fd2aac5d9d7053a3a501b2",
+      "title": "Chief Technology Officer",
+      "company": "Pyxi",
+      "location": "Switzerland",
+      "url": "https://joinup.ch/startup/pyxi",
+      "source": "joinup",
+      "summary": "Early-stage startup building a mobile/web app for curated in-person events and connections. CTO to define and execute the full technology roadmap.",
+      "score": 68,
+      "grade": "C",
+      "date_found": "2026-07-08",
+      "status": "new"
+    },
+    {
+      "id": "5f7ee9e321f1a881f56760b029af6653",
+      "title": "CTO, Robotics",
+      "company": "ANYbotics",
+      "location": "Zurich, Switzerland",
+      "url": "https://startup.jobs/cto-robotics-anybotics-5013221",
+      "source": "startupjobs",
+      "summary": "Zurich robotics scale-up. CTO to lead a 40-person interdisciplinary engineering team (mechanical, electrical, software) and scale the robots' capabilities.",
+      "score": 64,
+      "grade": "C",
+      "date_found": "2026-07-08",
+      "status": "new"
+    },
+    {
+      "id": "e4f7c476d7fe8db9e2172bc69499bced",
+      "title": "Chief Technology Officer",
+      "company": "Dopamining",
+      "location": "Remote, International",
+      "url": "https://joinup.ch/startup/dopamining-2f6ef138-4ebc-42c5-9ad8-c308a6f8b82b-11526",
+      "source": "joinup",
+      "summary": "Small startup founded by ex-Google/Silicon Valley team applying neuroscience and AI gamification to habit change. CTO to lead the Flutter app dev team (up to 3-4 engineers), remote/international.",
+      "score": 59,
+      "grade": "C",
+      "date_found": "2026-07-08",
       "status": "new"
     }
   ]

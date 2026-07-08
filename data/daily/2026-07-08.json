@@ -1,0 +1,79 @@
+{
+  "date": "2026-07-08",
+  "total_searched": 16,
+  "new_offers": 6,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "CTO / Lead Engineer / Co-Founder",
+      "company": "UpGrid AG",
+      "location": "Zurich, Switzerland",
+      "url": "https://joinup.ch/job/UpGrid-AG-CTO-Lead-Engineer-Co-Founder-@-Tenity-backed-Startup-nSbMtZGsBKb60S1rQXYI",
+      "score": 80,
+      "grade": "B",
+      "why": "A Tenity-backed energy fintech building a peer-to-peer green energy trading platform, looking for a CTO/co-founder to own the technology from the ground up, which is exactly the Alaya blank-page scenario in Magino's background. Zurich-based with founder-level equity, and the mission (accelerating the energy transition) fits his preference for impact-driven companies over pure enterprise work.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Founding Backend Engineer",
+      "company": "Gradle Technologies",
+      "location": "Lucerne, Switzerland",
+      "url": "https://wellfound.com/company/gradle-technologies/jobs",
+      "score": 74,
+      "grade": "B",
+      "why": "Gradle owns the build tooling running CI at companies like LinkedIn and Netflix, and this founding-level backend seat with 2-3% equity is platform engineering in its purest form. Lucerne keeps him in Switzerland, and the developer-tooling domain overlaps with his platform and architecture background even though the core stack is JVM rather than TypeScript.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Cloud Platform Engineer",
+      "company": "Apheris",
+      "location": "Remote (Berlin HQ)",
+      "url": "https://apheris.jobs.personio.de/job/2557182",
+      "score": 68,
+      "grade": "C",
+      "why": "Apheris runs federated computing infrastructure so pharma companies can train AI models without sharing proprietary data, a strong technical match on Kubernetes and cloud platform work plus genuine AI exposure. Remote-first with occasional Berlin office days, so it's workable from Geneva, though the role reads more IC-platform than the Staff+/founding scope Magino is targeting.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Chief Technology Officer",
+      "company": "Pyxi",
+      "location": "Switzerland",
+      "url": "https://joinup.ch/startup/pyxi",
+      "score": 68,
+      "grade": "C",
+      "why": "An early-stage Swiss startup building a mobile and web platform for curated in-person events, hiring a CTO to define the whole technology roadmap. Founder-level scope and Swiss location are a fit, but the mobile-first stack and social/consumer product angle are further from Magino's platform and AI-augmented engineering focus than his top targets.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "CTO, Robotics",
+      "company": "ANYbotics",
+      "location": "Zurich, Switzerland",
+      "url": "https://startup.jobs/cto-robotics-anybotics-5013221",
+      "score": 64,
+      "grade": "C",
+      "why": "ANYbotics is a Zurich robotics scale-up looking for a CTO to lead a 40-person interdisciplinary engineering team, which lines up with Magino's cofounder and technical-leadership experience scaling Alaya. The stack leans hardware and embedded robotics rather than his usual TypeScript/Node/Python platform work, so it's more of a leadership-transfer bet than a direct technical match.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 6,
+      "title": "Chief Technology Officer",
+      "company": "Dopamining",
+      "location": "Remote, International",
+      "url": "https://joinup.ch/startup/dopamining-2f6ef138-4ebc-42c5-9ad8-c308a6f8b82b-11526",
+      "score": 59,
+      "grade": "C",
+      "why": "A small, Google-alumni-founded startup applying neuroscience and AI gamification to habit change, hiring a CTO to lead a Flutter app team of three to four engineers. Founder-level title and fully remote, but it's an early, small-team mobile product further from his platform-scale background, included mainly to round out today's shortlist.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
