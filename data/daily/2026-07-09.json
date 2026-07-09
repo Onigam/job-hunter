@@ -1,0 +1,67 @@
+{
+  "date": "2026-07-09",
+  "total_searched": 41,
+  "new_offers": 31,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Staff / Principal Machine Learning Engineer, Serving",
+      "company": "Inworld AI",
+      "location": "Remote, Switzerland",
+      "url": "https://inworld.ai/careers/bf5054ab-ed19-4890-8f0b-ca8a57210e42",
+      "score": 76,
+      "grade": "B",
+      "why": "Staff/Principal level ML serving role, remote from Switzerland itself, at an AI research lab building production inference for models used by hundreds of millions, direct overlap with your distributed-systems and platform background, and no relocation needed.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "ML Platform Engineer",
+      "company": "Synthesia",
+      "location": "Remote (Europe; hubs incl. Zurich)",
+      "url": "https://jobs.ashbyhq.com/synthesia/c2d3d3a8-f7b8-45f5-ad89-dba6ac14625c",
+      "score": 75,
+      "grade": "B",
+      "why": "Principal-adjacent platform role at a fast-growing generative AI leader with a Zurich hub, building the Kubernetes-based infra researchers use to train and serve models, strong AI exposure and Swiss-remote fit.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Co-Founder & CTO | AI Infrastructure for Legal Insurance",
+      "company": "iudexnc (INC)",
+      "location": "Zurich, Switzerland",
+      "url": "https://ch.linkedin.com/jobs/view/co-founder-cto-ai-infrastructure-for-legal-insurance-at-iudexnc-4438573908",
+      "score": 75,
+      "grade": "B",
+      "why": "Equal co-founder/CTO role building LLM agent infrastructure from scratch in Zurich, the closest match to your own Alaya story (build from zero, own the whole stack), though it's pre-seed equity-only so compensation risk is real.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Head of Software Engineering",
+      "company": "Adaptyv",
+      "location": "Lausanne, Switzerland",
+      "url": "https://ch.linkedin.com/jobs/view/head-of-software-engineering-at-adaptyv-4427991407",
+      "score": 73,
+      "grade": "B",
+      "why": "Player-coach Head of Software Engineering in Lausanne, 30 minutes from Geneva, leading a small team building infrastructure where AI agents run biology experiments, rare mix of hands-on architecture and mission-driven impact.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Founding Engineer | Remote-EU | FinTech Start-up",
+      "company": "FinTech Start-up (via Oliver Bernard)",
+      "location": "Remote, EU",
+      "url": "https://www.linkedin.com/jobs/view/founding-engineer-remote-eu-fintech-start-up-at-oliver-bernard-4412220150",
+      "score": 70,
+      "grade": "B",
+      "why": "Founding engineer opening at an early-stage fintech, fully remote within EU timezones so it works from Geneva, with real ownership of the technical stack from day one.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}

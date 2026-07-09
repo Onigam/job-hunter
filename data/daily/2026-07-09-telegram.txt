@@ -1,0 +1,29 @@
+🎯 *Job Hunter — 2026-07-09*
+
+*1.* *Staff / Principal Machine Learning Engineer, Serving* @ Inworld AI
+📍 Remote, Switzerland | ⭐ 76/100 | 🏆 Grade B
+💡 Staff/Principal level ML serving role, remote from Switzerland itself, at an AI research lab building production inference for models used by hundreds of millions, direct overlap with your distributed-systems and platform background, and no relocation needed.
+🔗 https://inworld.ai/careers/bf5054ab-ed19-4890-8f0b-ca8a57210e42
+
+*2.* *ML Platform Engineer* @ Synthesia
+📍 Remote (Europe; hubs incl. Zurich) | ⭐ 75/100 | 🏆 Grade B
+💡 Principal-adjacent platform role at a fast-growing generative AI leader with a Zurich hub, building the Kubernetes-based infra researchers use to train and serve models, strong AI exposure and Swiss-remote fit.
+🔗 https://jobs.ashbyhq.com/synthesia/c2d3d3a8-f7b8-45f5-ad89-dba6ac14625c
+
+*3.* *Co-Founder & CTO | AI Infrastructure for Legal Insurance* @ iudexnc (INC)
+📍 Zurich, Switzerland | ⭐ 75/100 | 🏆 Grade B
+💡 Equal co-founder/CTO role building LLM agent infrastructure from scratch in Zurich, the closest match to your own Alaya story (build from zero, own the whole stack), though it's pre-seed equity-only so compensation risk is real.
+🔗 https://ch.linkedin.com/jobs/view/co-founder-cto-ai-infrastructure-for-legal-insurance-at-iudexnc-4438573908
+
+*4.* *Head of Software Engineering* @ Adaptyv
+📍 Lausanne, Switzerland | ⭐ 73/100 | 🏆 Grade B
+💡 Player-coach Head of Software Engineering in Lausanne, 30 minutes from Geneva, leading a small team building infrastructure where AI agents run biology experiments, rare mix of hands-on architecture and mission-driven impact.
+🔗 https://ch.linkedin.com/jobs/view/head-of-software-engineering-at-adaptyv-4427991407
+
+*5.* *Founding Engineer | Remote-EU | FinTech Start-up* @ FinTech Start-up (via Oliver Bernard)
+📍 Remote, EU | ⭐ 70/100 | 🏆 Grade B
+💡 Founding engineer opening at an early-stage fintech, fully remote within EU timezones so it works from Geneva, with real ownership of the technical stack from day one.
+🔗 https://www.linkedin.com/jobs/view/founding-engineer-remote-eu-fintech-start-up-at-oliver-bernard-4412220150
+
+---
+📊 _5 new offers | 998 total tracked_
