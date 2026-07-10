@@ -1,0 +1,79 @@
+{
+  "date": "2026-07-10",
+  "total_searched": 25,
+  "new_offers": 21,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Staff Platform Engineer, EU",
+      "company": "Ashby",
+      "location": "Switzerland (remote, EU)",
+      "url": "https://ch.linkedin.com/jobs/view/staff-platform-engineer-eu-at-ashby-4403620521",
+      "score": 74,
+      "grade": "B",
+      "why": "Staff-level platform engineering role at a fast-growing, product-led ATS scaleup, fully remote for EU-based engineers so it works from Geneva without relocation. The developer-infrastructure focus lines up with the platform-ownership background from Alaya and Benevity, and Ashby's engineering-first reputation is a strong signal.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "VP of Engineering",
+      "company": "Neural Concept",
+      "location": "Lausanne, Switzerland",
+      "url": "https://ch.linkedin.com/jobs/view/vp-of-engineering-at-neural-concept-4397038859",
+      "score": 73,
+      "grade": "B",
+      "why": "VP Engineering opening at an AI-driven engineering-simulation startup 40 minutes from Geneva, leading the org through its next growth stage. The AI-first product and startup scale echo the Alaya cofounder story, though the posting has been open since mid-May which may mean the search is further along.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Staff Engineer - AI Security",
+      "company": "On",
+      "location": "Zurich, Switzerland",
+      "url": "https://ch.linkedin.com/jobs/view/staff-engineer-ai-security-at-on-4432658469",
+      "score": 71,
+      "grade": "B",
+      "why": "Staff engineer role inside On's AI security team in Zurich, pairing platform engineering with applied AI at a company known for paying well above Swiss market rate. It's a large, established brand rather than an early-stage startup, but the AI-security angle is a genuine growth area matching the AI-augmented engineering focus from Benevity.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "AI Co-Founder / CTO (100% remote)",
+      "company": "EWOR",
+      "location": "Zurich, Switzerland (remote)",
+      "url": "https://ch.linkedin.com/jobs/view/ai-co-founder-cto-100-%25-remote-m-f-d-at-ewor-4435477570",
+      "score": 71,
+      "grade": "B",
+      "why": "Fully remote AI co-founder/CTO opportunity through EWOR's founder-matching program, pairing a technical cofounder with an early venture-backed AI company, the closest structural match to building Alaya from zero. Compensation is equity-only at this stage, so it's a bigger bet than a salaried role, but the ownership and AI focus fit the target profile well.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Staff Software Engineer, Infrastructure",
+      "company": "Ripple",
+      "location": "Geneva, Switzerland",
+      "url": "https://ch.linkedin.com/jobs/view/staff-software-engineer-infrastructure-at-ripple-4417103637",
+      "score": 70,
+      "grade": "B",
+      "why": "Staff-level infrastructure role at Ripple's Geneva office, the same city as home base, owning platform reliability and backend tooling for a company processing real payment volume. It's a mature company rather than a startup, but crypto/fintech infra pays well and gives platform ownership without relocating.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 6,
+      "title": "Platform Engineer / DevOps Engineer",
+      "company": "Taurus SA",
+      "location": "Geneva / Zurich / Lausanne, Switzerland",
+      "url": "https://ch.linkedin.com/jobs/view/platform-engineer-devops-engineer-geneva-zurich-lausanne-at-taurus-sa-4433792006",
+      "score": 70,
+      "grade": "B",
+      "why": "Platform and DevOps role at Taurus, a Geneva-based digital-asset infrastructure fintech that's scaling fast, with Kubernetes and cloud deployment work close to the core stack. The title reads a notch below Staff, but the Geneva location and startup-adjacent growth trajectory make it worth a look.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
