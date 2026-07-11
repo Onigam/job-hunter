@@ -1,0 +1,55 @@
+{
+  "date": "2026-07-11",
+  "total_searched": 16,
+  "new_offers": 6,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Staff Engineer - React and Node.js - Accounting",
+      "company": "Hostaway",
+      "location": "Remote - EMEA",
+      "url": "https://careers.hostaway.com/o/staff-engineer-react-and-nodejs-accounting-100-remote",
+      "score": 79,
+      "grade": "B",
+      "why": "Direct stack match on React and Node.js at a profitable SaaS scale-up that integrates with Airbnb, Vrbo and Booking, close to the platform work Magino did scaling Alaya from zero to acquisition by Benevity. Staff-level scope and 100% remote EMEA eligibility mean he can do it from Geneva without relocating.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Principal AI Engineer",
+      "company": "CKSource (CKEditor)",
+      "location": "Warsaw, Poland (remote within Poland)",
+      "url": "https://justjoin.it/job-offer/cksource-principal-ai-engineer-warszawa-ai",
+      "score": 67,
+      "grade": "C",
+      "why": "Hands-on AI/LLM engineering on Node.js and TypeScript, building AI features into a widely used editor product, which fits the AI-augmented engineering focus Magino has pursued since the Benevity acquisition. The posting requires C1 Polish fluency though, which is a real practical blocker worth clarifying before applying.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "CTO / Chief AI Officer",
+      "company": "Elevation Capital",
+      "location": "Remote",
+      "url": "https://ats.rippling.com/elevationcapital/jobs/030b7222-de7a-4b07-9979-2732099dd97c",
+      "score": 65,
+      "grade": "C",
+      "why": "A genuine C-suite AI mandate, building the frameworks and hiring the teams that bring AI into a family office's portfolio companies, which suits someone who took Alaya from a blank page to a nine-figure acquisition. It scores lower because the employer is a private-equity family office rather than a product startup, and the working hours are not clearly Europe-friendly.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Head of Software Engineering (80-100%)",
+      "company": "Threema",
+      "location": "Zurich, Switzerland",
+      "url": "https://new.career.threema.com/en/jobs/7130298-head-of-software-engineering-m-f-x-80-100?promotion=1",
+      "score": 58,
+      "grade": "C",
+      "why": "Switzerland-based engineering leadership over six teams at a respected, privacy-first Swiss product company, and the 80-100% workload leaves room for Givernance on the side. The tech stack (secure messaging, largely native/mobile) overlaps less with Magino's TypeScript/Node/AI toolkit than the location and seniority fit would suggest.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
