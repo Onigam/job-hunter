@@ -1,0 +1,30 @@
+🎯 *Job Hunt — 2026-07-12*
+
+*1.* *Founding Engineer* @ Speakeasy
+📍 San Francisco / Remote | ⭐ 69/100 | 🏆 Grade C
+💡 Founding seat at a dev-tooling startup building SDK generation from OpenAPI specs, close to Magino's Alaya founding experience.
+🔗 https://wellfound.com/jobs/2185803-founding-engineer
+
+*2.* *Staff Software Engineer* @ Compound Planning
+📍 Remote | ⭐ 54/100 | 🏆 Grade D
+💡 Staff-level IC role at a growing wealth-management startup, stack overlap unconfirmed.
+🔗 https://weworkremotely.com/remote-jobs/compound-planning-staff-software-engineer
+
+*3.* *Platform Engineer* @ Biteable
+📍 Remote | ⭐ 52/100 | 🏆 Grade D
+💡 Platform ownership over infra, test automation and SRE at a video SaaS company.
+🔗 https://weworkremotely.com/listings/biteable-platform-engineer
+
+*4.* *Senior/Staff Software Engineer - Backend/Python* @ Close
+📍 Remote (USA) | ⭐ 50/100 | 🏆 Grade D
+💡 Strong Python match at a profitable CRM company, but scoped to remote USA only.
+🔗 https://weworkremotely.com/remote-jobs/close-senior-staff-software-engineer-backend-python-usa-100-remote-3
+
+*5.* *Senior DevOps/Platform Engineer* @ CData Software
+📍 Remote | ⭐ 47/100 | 🏆 Grade D
+💡 Relevant platform/DevOps scope but no AI angle and a step below staff-plus seniority.
+🔗 https://weworkremotely.com/remote-jobs/cdata-software-senior-devops-platform-engineer-remote
+
+---
+⚠️ _LinkedIn session cookie expired — searches ran on web sources only today._
+📊 _5 new offers | 1030 total tracked_

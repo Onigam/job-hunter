@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11",
+  "last_updated": "2026-07-12",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -14629,6 +14629,71 @@
       "score": 79,
       "grade": "B",
       "date_found": "2026-07-11",
+      "status": "new"
+    },
+    {
+      "id": "131988543ad1e438dc640781df5a8514",
+      "title": "Founding Engineer",
+      "company": "Speakeasy",
+      "location": "San Francisco / Remote",
+      "url": "https://wellfound.com/jobs/2185803-founding-engineer",
+      "source": "wellfound",
+      "summary": "Founding engineer role at Speakeasy, a developer tooling startup generating SDKs directly from OpenAPI specs. Remote-friendly, US-based company.",
+      "score": 69,
+      "grade": "C",
+      "date_found": "2026-07-12",
+      "status": "new"
+    },
+    {
+      "id": "48049c8b1b0a5829656016852c09e719",
+      "title": "Staff Software Engineer",
+      "company": "Compound Planning",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/compound-planning-staff-software-engineer",
+      "source": "weworkremotely",
+      "summary": "Staff-level remote software engineering role at Compound Planning, a wealth management startup.",
+      "score": 54,
+      "grade": "D",
+      "date_found": "2026-07-12",
+      "status": "new"
+    },
+    {
+      "id": "a191e9f0b5cb9b020cbb24732106d311",
+      "title": "Platform Engineer",
+      "company": "Biteable",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/listings/biteable-platform-engineer",
+      "source": "weworkremotely",
+      "summary": "Platform engineer responsible for infrastructure, test automation, security, privacy, SRE, and application code at video-creation SaaS company Biteable.",
+      "score": 52,
+      "grade": "D",
+      "date_found": "2026-07-12",
+      "status": "new"
+    },
+    {
+      "id": "344e77d85276242c3ee5c32436e514a5",
+      "title": "Senior/Staff Software Engineer - Backend/Python",
+      "company": "Close",
+      "location": "Remote (USA)",
+      "url": "https://weworkremotely.com/remote-jobs/close-senior-staff-software-engineer-backend-python-usa-100-remote-3",
+      "source": "weworkremotely",
+      "summary": "Senior/Staff backend engineer role, Python-focused, at CRM company Close. 100% remote but scoped to USA.",
+      "score": 50,
+      "grade": "D",
+      "date_found": "2026-07-12",
+      "status": "new"
+    },
+    {
+      "id": "fe8dfc858730d11ae10b8c3c0e74d573",
+      "title": "Senior DevOps/Platform Engineer",
+      "company": "CData Software",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/cdata-software-senior-devops-platform-engineer-remote",
+      "source": "weworkremotely",
+      "summary": "Senior Platform/DevOps role with significant impact on CData's cloud product infrastructure, fully remote.",
+      "score": 47,
+      "grade": "D",
+      "date_found": "2026-07-12",
       "status": "new"
     }
   ]

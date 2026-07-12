@@ -1,0 +1,67 @@
+{
+  "date": "2026-07-12",
+  "total_searched": 19,
+  "new_offers": 5,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Founding Engineer",
+      "company": "Speakeasy",
+      "location": "San Francisco / Remote",
+      "url": "https://wellfound.com/jobs/2185803-founding-engineer",
+      "score": 69,
+      "grade": "C",
+      "why": "Speakeasy builds developer tooling that generates SDKs directly from OpenAPI specs, which lines up with the API design and platform-building work Magino did founding Alaya. It's a genuine founding engineer seat, though it's US-based and the timezone overlap with Geneva isn't confirmed.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Staff Software Engineer",
+      "company": "Compound Planning",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/compound-planning-staff-software-engineer",
+      "score": 54,
+      "grade": "D",
+      "why": "A staff-level IC seat at a growing wealth-management startup, remote-friendly, but the listing doesn't confirm how much of the stack overlaps with Magino's TypeScript/Python toolkit. Worth a glance mainly for the staff scope and startup stage.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Platform Engineer",
+      "company": "Biteable",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/listings/biteable-platform-engineer",
+      "score": 52,
+      "grade": "D",
+      "why": "Platform engineer role spanning infrastructure, test automation and SRE at a video-creation SaaS company, which echoes the platform ownership Magino has carried at Benevity. Seniority and comp aren't specified, so the fit is plausible but unproven.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Senior/Staff Software Engineer - Backend/Python",
+      "company": "Close",
+      "location": "Remote (USA)",
+      "url": "https://weworkremotely.com/remote-jobs/close-senior-staff-software-engineer-backend-python-usa-100-remote-3",
+      "score": 50,
+      "grade": "D",
+      "why": "Python backend work at a profitable, product-focused CRM company is a real stack match, but the listing is explicitly scoped to remote USA, which likely rules out a Geneva-based hire.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Senior DevOps/Platform Engineer",
+      "company": "CData Software",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/cdata-software-senior-devops-platform-engineer-remote",
+      "score": 47,
+      "grade": "D",
+      "why": "Platform/DevOps ownership over CData's cloud infrastructure is relevant experience, but there's no clear AI/LLM angle or mission alignment, and the seniority reads as a step below Magino's staff-plus level.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
