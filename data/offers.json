@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12",
+  "last_updated": "2026-07-13",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -14694,6 +14694,110 @@
       "score": 47,
       "grade": "D",
       "date_found": "2026-07-12",
+      "status": "new"
+    },
+    {
+      "id": "1200a9baf5582163474ec72163e6c5e5",
+      "title": "Founding Software Engineer",
+      "company": "Espa Labs",
+      "location": "San Francisco (remote status unconfirmed)",
+      "url": "https://jobs.ashbyhq.com/espa/4bb75392-550e-4637-8560-003650c621d6",
+      "source": "ashbyhq",
+      "summary": "Espa Labs builds an AI executive assistant that acts rather than just suggesting. This founding engineer reports directly to the CTO and owns the core agentic infrastructure: system architecture, data pipelines, and the reasoning/orchestration layer. San Francisco headquartered; remote eligibility not confirmed in the listing.",
+      "score": 74,
+      "grade": "B",
+      "date_found": "2026-07-13",
+      "status": "new"
+    },
+    {
+      "id": "86730dffed51d899f3d4613437888dde",
+      "title": "CTO & Co-Founder (AI Native Proptech)",
+      "company": "Founders Factory (backing Immoly)",
+      "location": "London-based studio, remote flexibility unconfirmed",
+      "url": "https://jobs.ashbyhq.com/founders-factory/8b231a15-1b28-405c-9dff-89224afafc73",
+      "source": "ashbyhq",
+      "summary": "Founders Factory startup studio is recruiting a CTO co-founder for Immoly, an AI operating system for private landlords automating tenant communication, repairs, rent and document workflows. True co-founder equity position at pre-seed stage.",
+      "score": 72,
+      "grade": "B",
+      "date_found": "2026-07-13",
+      "status": "new"
+    },
+    {
+      "id": "ad0b70cb5588d931e7504c1ee767404b",
+      "title": "Founding Engineer (Potential CTO)",
+      "company": "Clera",
+      "location": "New York, San Francisco or Montreal (onsite only)",
+      "url": "https://jobs.ashbyhq.com/Clera/c731cf15-2f55-45c0-88b0-c8d76528d3b8",
+      "source": "ashbyhq",
+      "summary": "Well-funded early-stage healthtech startup building an AI-guided coaching platform using biosignals (HRV, breath, motion, PPG) to help users repair their autonomic nervous system. Founding engineer role with an explicit path to CTO. Confirmed onsite in NYC, SF or Montreal, no remote option.",
+      "score": 72,
+      "grade": "B",
+      "date_found": "2026-07-13",
+      "status": "new"
+    },
+    {
+      "id": "eb97f8a3ca863c0dacc8152710086ec2",
+      "title": "Head of Engineering (Founding, path to CTO)",
+      "company": "Katapult Labs",
+      "location": "Latin America only (remote)",
+      "url": "https://jobs.ashbyhq.com/katapult-Labs/0184b3fd-15a9-429c-8e74-91d44d6cfeb7",
+      "source": "ashbyhq",
+      "summary": "Katapult Labs is a nearshore team-augmentation firm embedding AI-first LatAm engineering pods with US startups. Founding Head of Engineering seat with a path to CTO/technical co-founder, but restricted to candidates working from Latin America and structurally closer to an outsourcing/staffing model than a product company.",
+      "score": 49,
+      "grade": "D",
+      "date_found": "2026-07-13",
+      "status": "new"
+    },
+    {
+      "id": "ca7c5457b77a8ca401ba040137fc268d",
+      "title": "Founding Engineer - Kato",
+      "company": "Pear VC (portfolio company)",
+      "location": "San Francisco (4+ days/week onsite)",
+      "url": "https://jobs.ashbyhq.com/pear/8a67e220-5851-40cb-8f02-c071972adc62",
+      "source": "ashbyhq",
+      "summary": "Kato, backed by Pear VC, automates outbound loan-servicing calls with a compliance-first voice AI agent, already live with credit card, auto and SMB lending customers. First engineering hire spanning real-time voice processing, dashboards and infrastructure. Requires 4+ days/week in the San Francisco office.",
+      "score": 71,
+      "grade": "B",
+      "date_found": "2026-07-13",
+      "status": "new"
+    },
+    {
+      "id": "8ebd646f28bf627b46d99e34bf3db2ca",
+      "title": "AI Platform Engineer",
+      "company": "Superhuman",
+      "location": "Remote — Canada, Brazil, Argentina, Mexico only",
+      "url": "https://remotive.com/remote/jobs/software-development/ai-platform-engineer-3758289",
+      "source": "remotive",
+      "summary": "Superhuman is hiring an AI Platform Engineer to build scalable AI infrastructure (Go, Postgres, Kubernetes, GCP, multiple LLM providers) powering its email product. Strong technical and AI-platform match, but remote eligibility is restricted to the Americas (Canada/Brazil/Argentina/Mexico), excluding a Switzerland-based candidate.",
+      "score": 63,
+      "grade": "C",
+      "date_found": "2026-07-13",
+      "status": "new"
+    },
+    {
+      "id": "d7a9b8374a24bc863024978860f19f81",
+      "title": "Founding Engineer, Trading Infrastructure",
+      "company": "Tixlytics",
+      "location": "New York City, remote flexibility unclear",
+      "url": "https://wellfound.com/jobs/3934807-founding-engineer-trading-infrastructure",
+      "source": "wellfound",
+      "summary": "Tixlytics trades live-event ticket inventory using technology, data and market-making discipline. This Staff/Principal IC-level founding role owns the trading infrastructure and data pipelines powering pricing and execution. Listed as New York with remote flexibility, but European remote status is unconfirmed.",
+      "score": 70,
+      "grade": "B",
+      "date_found": "2026-07-13",
+      "status": "new"
+    },
+    {
+      "id": "e734a4a638d86cb559e8d25f7d7f13c7",
+      "title": "Software Engineer: Infra Focus",
+      "company": "Optiml",
+      "location": "Zurich, Switzerland (hybrid)",
+      "url": "https://join.com/companies/optiml/16248057-software-engineer-infra-focus-100-zurich-hybrid",
+      "source": "join.com",
+      "summary": "Optiml is hiring a Software Engineer with an infrastructure focus to own its GCP backbone (Cloud Run, networking, IAM, CI/CD) and contribute to core backend systems. Based in Zurich, a strong location match, but the 3+ years experience bar and CHF 90-125k range sit well below Magino's staff-plus seniority and Swiss market expectations.",
+      "score": 59,
+      "grade": "C",
+      "date_found": "2026-07-13",
       "status": "new"
     }
   ]

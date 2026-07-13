@@ -1,0 +1,67 @@
+{
+  "date": "2026-07-13",
+  "total_searched": 28,
+  "new_offers": 8,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Founding Software Engineer",
+      "company": "Espa Labs",
+      "location": "San Francisco (onsite/hybrid, unconfirmed)",
+      "url": "https://jobs.ashbyhq.com/espa/4bb75392-550e-4637-8560-003650c621d6",
+      "score": 74,
+      "grade": "B",
+      "why": "Espa is building an AI executive assistant that acts instead of just suggesting, and this seat reports directly to the CTO owning the agentic infrastructure: architecture, data pipelines, and the reasoning/orchestration layer. That's a close echo of what Magino did founding Alaya's platform from a blank page, and the AI-native scope lines up with his current AI-augmented engineering focus, though the listing doesn't confirm remote eligibility from Geneva.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "CTO & Co-Founder (AI Native Proptech)",
+      "company": "Founders Factory (backing Immoly)",
+      "location": "London-based studio, remote flexibility unconfirmed",
+      "url": "https://jobs.ashbyhq.com/founders-factory/8b231a15-1b28-405c-9dff-89224afafc73",
+      "score": 72,
+      "grade": "B",
+      "why": "Immoly is building an AI operating system for private landlords, still early enough that this is a true co-founder seat rather than an employee role. It's the kind of build-from-zero mandate that mirrors Magino's Alaya-to-Benevity arc, and Founders Factory's studio backing lowers some of the pre-seed risk, though co-founder equity means guaranteed comp is likely thin at the start.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Founding Engineer (Potential CTO)",
+      "company": "Clera",
+      "location": "New York, San Francisco or Montreal (onsite only)",
+      "url": "https://jobs.ashbyhq.com/Clera/c731cf15-2f55-45c0-88b0-c8d76528d3b8",
+      "score": 72,
+      "grade": "B",
+      "why": "Clera is a well-funded healthtech startup using AI-guided coaching on biosignals to help people repair their autonomic nervous system, and the role explicitly has a path to CTO. It's a strong seniority and mission match, but it's confirmed onsite in New York, San Francisco or Montreal with no remote option, which is the main blocker for a Geneva-based candidate.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Founding Engineer - Kato",
+      "company": "Pear VC (portfolio company)",
+      "location": "San Francisco (4+ days/week onsite)",
+      "url": "https://jobs.ashbyhq.com/pear/8a67e220-5851-40cb-8f02-c071972adc62",
+      "score": 71,
+      "grade": "B",
+      "why": "Kato is automating outbound loan-servicing calls with a compliance-first voice AI agent, and as first engineering hire the scope runs from real-time voice processing to infrastructure scaling, a builder's remit close to what Magino carried at Alaya. Pear VC's backing and the founding-team equity are attractive, but the near-daily SF office requirement makes relocation from Geneva a real obstacle.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Founding Engineer, Trading Infrastructure",
+      "company": "Tixlytics",
+      "location": "New York City, remote flexibility unclear",
+      "url": "https://wellfound.com/jobs/3934807-founding-engineer-trading-infrastructure",
+      "score": 70,
+      "grade": "B",
+      "why": "Tixlytics trades live-event ticket inventory and is hiring at Staff or Principal IC level from day one to own the pricing and execution infrastructure, which plays to Magino's distributed-systems and platform-ownership background. There's no clear AI/LLM angle to the role itself, and the listing centers on New York, so European remote status would need to be confirmed directly with the founder.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
