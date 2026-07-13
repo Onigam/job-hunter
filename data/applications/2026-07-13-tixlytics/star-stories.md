@@ -1,0 +1,33 @@
+# STAR+R Stories: Tixlytics, Founding Engineer (Trading Infrastructure)
+
+Picked for a founding-engineer role where I'd own pricing, execution, and post-trade systems running against live capital from day one. Emphasis on ambiguity, ownership, hard technical trade-offs, and building things that behave predictably on messy real-world input.
+
+---
+
+## 1. Building Alaya from zero to acquisition
+
+In 2016 I co-founded Alaya, a purpose and impact platform for employee engagement, and I was handed a blank page. No customers, no product, no team, just a business that was already out signing its first enterprise clients while I figured out what to build under them. My job was to architect and ship the whole platform alone at first, then bring on and train a small engineering team while the ground kept shifting under us. I picked a pragmatic stack, Node.js, React, and PostgreSQL, that could get us to a working demo in three months without locking us into anything I'd regret later, and from there I expanded iteratively into multi-tenancy, an API layer, and reporting as real client needs showed up. We hired three engineers and I set up CI/CD and a review culture almost immediately, since I didn't want technical debt from the early days to become permanent habit. The platform ended up running production workloads for 50-plus enterprise clients across Switzerland and France, and Benevity, a Canadian unicorn valued north of a billion dollars, acquired us in 2021, which told me the early calls held up under real scrutiny. If I did it again I'd invest in observability sooner. We didn't get real APM in place until it was already overdue, and multi-tenancy was a retrofit I'd design in from day zero next time rather than bolt on later.
+
+---
+
+## 2. Choosing a strangler-fig migration over a rewrite
+
+At Alaya our monolith started showing scaling cracks right as investors were pushing hard for new features, not for us to disappear into a rewrite for two quarters. The team was split between a full microservices rewrite and something more modest, and I was the one who had to make a call that wouldn't blow up either the roadmap or the system. I ran a two-week spike comparing both approaches with actual load tests instead of opinions, then walked the CTO and investors through the trade-offs with numbers on the table. What I proposed was a strangler-fig migration, pulling out just the two highest-traffic modules first and leaving the rest of the monolith alone, with clear criteria for when we'd extract the next piece. We shipped the first extracted module in six weeks, and the busiest endpoints got about 40% faster. The rest of the monolith stayed stable straight through the acquisition, so we never needed the big-bang rewrite everyone was afraid of, or excited by, depending who you asked. The hard part honestly wasn't the technical work, it was convincing people that not rewriting everything was the gutsy call. Data closed that argument faster than debate did, and I'd front-load the benchmarking even more next time to cut the discussion short.
+
+---
+
+## 3. Post-acquisition integration without losing velocity
+
+Joining Benevity after the acquisition put me on a team ten times the size of Alaya, running a different codebase, Java and microservices instead of what I'd built, with different habits baked into everything. I needed to get Alaya's capabilities integrated into their platform while still shipping new features, without the product velocity we'd built quietly dying in the process. I spent my first month just mapping their existing architecture before I proposed a single change, and I built relationships with the platform and infra teams before I pushed any technical opinions their way. That patience paid off. I ended up contributing to three major cross-team architecture decisions and became the person people pulled in on the Europe-facing product surface. It also meant I could push AI-assisted workflows, things like structured prompt patterns for code review, without anyone feeling like I was imposing a foreign process on them. Looking back, I moved too fast in the first few weeks trying to fix things that weren't actually broken in their world, just different. Slowing down and listening first is what made the rest of it work, and it's a lesson that transfers directly to walking into an existing trading system I didn't design.
+
+---
+
+## 4. Driving adoption without formal authority
+
+As a Senior Staff IC at Benevity I had no direct reports, but I still needed two teams that didn't answer to me to change how they worked day to day. Convincing engineers to add AI tooling to their workflow with zero mandate meant I had to earn it rather than announce it. I started small, three engineers who were already curious, and built internal demos that showed concrete time saved rather than talking in the abstract. I ran informal lunch sessions with no agenda beyond a live demo, put together reusable prompt templates, and committed them somewhere the whole team could find and steal from. Within three months, 70% of engineers across both teams had picked up AI-assisted review and generation as part of their normal flow, and I'd become the person people asked about it without ever being asked to be. It was slower than a top-down rollout would have been, but it stuck because people adopted it on their own terms and then went and told their peers why it worked. I'd rather build that kind of buy-in on a founding team from the start than retrofit it after the fact.
+
+---
+
+## 5. Building systems that hold up on messy real-world input
+
+A recurring thread across both companies has been data that doesn't arrive clean. At Alaya, impact and donation data came in from dozens of client systems with wildly inconsistent formats, and at Benevity I inherited pipelines feeding cross-team reporting where a single malformed record upstream could silently corrupt a downstream aggregate for days before anyone noticed. My approach has been to treat validation and reconciliation as first-class parts of the pipeline rather than an afterthought bolted on when something breaks, building in checkpoints that flag drift early instead of trusting that upstream sources behave. That habit is exactly what pricing logic built on live market data and liquidity signals needs, since a bad tick or a stale feed has to get caught before it turns into a bad trade, not after. What I'd still improve is how fast I instrument new pipelines for observability. I've learned the hard way, twice now, that adding it after launch costs more than building it in from the first commit.
