@@ -1,0 +1,77 @@
+{
+  "date": "2026-07-14",
+  "total_searched": 22,
+  "new_offers": 5,
+  "top_offers": [
+    {
+      "rank": 1,
+      "id": "817c2b8ff1",
+      "title": "Staff Engineer (Applied AI / ML)",
+      "company": "Qvest US",
+      "location": "United States",
+      "url": "https://www.linkedin.com/jobs/view/staff-engineer-applied-ai-ml-at-qvest-us-4334099654",
+      "source": "linkedin",
+      "score": 66,
+      "grade": "C",
+      "why": "Staff-level title with direct applied AI/ML scope, a strong signal given Magino's focus on AI-augmented engineering. Location is a mismatch (US, not confirmed remote) and Qvest leans consulting/media-tech, which softens the fit.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "id": "68fda8eea1",
+      "title": "Founding Full-Stack Software Engineer (Remote)",
+      "company": "Bluepina",
+      "location": "Remote (Switzerland accepted; HQ Vancouver)",
+      "url": "https://wellfound.com/jobs/4410771-founding-full-stack-software-engineer-remote-clone",
+      "source": "wellfound",
+      "score": 64,
+      "grade": "C",
+      "why": "Founding engineer role at an early-stage travel-discovery startup, explicitly open to Switzerland-based remote hires, which matches Magino's cofounder/builder background. Comp ($120-200k + 1-3% equity) is USD-denominated rather than Swiss-market, and there's no AI angle.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "id": "5fadf6dc2e",
+      "title": "Chief Technology Officer & Co-founder",
+      "company": "Finch (FinTech startup)",
+      "location": "Zurich, Switzerland or Remote",
+      "url": "https://wellfound.com/jobs/4065038-chief-technology-officer-co-founder-fintech-startup",
+      "source": "wellfound",
+      "score": 63,
+      "grade": "C",
+      "why": "CTO/co-founder title and build-from-zero scope align closely with Magino's Alaya background, and it's Zurich or remote. The role is equity-only and requires self-funded runway for 6-12 months, which is a real financial risk to flag before applying.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "id": "2772fa8e0a",
+      "title": "Product & Platform Engineer",
+      "company": "cosmofunding",
+      "location": "Switzerland",
+      "url": "https://www.jobup.ch/fr/emplois/detail/b0492b6e-3047-4a16-a83d-a0847dfb9ee5/",
+      "source": "jobup.ch",
+      "score": 62,
+      "grade": "C",
+      "why": "Swiss-based fintech startup combining product and platform ownership, a reasonable fit for a platform-builder profile. Seniority level and tech stack aren't confirmed from the listing, so this needs a closer read before applying.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "id": "f0e2a610a5",
+      "title": "Senior Cloud Engineer / Platform Engineer (GenAI)",
+      "company": "Zurich Insurance",
+      "location": "Switzerland",
+      "url": "https://www.jobup.ch/en/jobs/detail/818c158c-6550-4fd3-957f-4b8b4f1a8f04/",
+      "source": "jobup.ch",
+      "score": 57,
+      "grade": "C",
+      "why": "Swiss-based platform role tied to a GenAI initiative, giving it real AI exposure and solid cloud/Terraform overlap. Zurich Insurance is a large legacy enterprise, which runs against Magino's stated preference for startups and product-first cultures.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
