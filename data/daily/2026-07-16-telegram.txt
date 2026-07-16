@@ -1,0 +1,29 @@
+🎯 *Job Hunt — 2026-07-16*
+
+*1.* *Staff DevOps Engineer* @ Runware
+📍 Remote | ⭐ 81/100 | 🏆 Grade B
+💡 Staff-level infra role at a fast-growing AI inference platform, remote-friendly with strong AI/platform alignment.
+🔗 https://weworkremotely.com/remote-jobs/runware-staff-devops-engineer
+
+*2.* *Backend Engineer* @ Langfuse
+📍 Berlin (Remote-first EU) | ⭐ 79/100 | 🏆 Grade B
+💡 YC-backed open-source LLM observability platform, just acquired by ClickHouse - top AI-engineering mission fit.
+🔗 https://peerlist.io/company/langfuse/careers/backend-engineer/jobh6ajr996lgmnqmcong7een9q7ae
+
+*3.* *Senior/Staff Engineer - AI Native, Full Stack* @ Curebase
+📍 Remote (US) | ⭐ 69/100 | 🏆 Grade C
+💡 AI-native clinical trial platform, strong comp ($180-240k + equity), but US-remote is a lower location priority.
+🔗 https://www.ycombinator.com/companies/curebase/jobs/4v0l34R-senior-staff-engineer-ai-native-full-stack
+
+*4.* *Engineering Lead, Secure Custody Platform* @ Taurus SA
+📍 Geneva / Lausanne / Zurich / Sion | ⭐ 68/100 | 🏆 Grade C
+💡 Geneva-based fintech leadership role, strong location and seniority fit, light on AI exposure.
+🔗 https://www.crypto-careers.com/jobs/525551108-engineering-lead-secure-custody-platform-lausanne-geneva-zurich-sion-at-taurus-sa
+
+*5.* *Platform Engineering Manager* @ Scandit
+📍 Zurich, Switzerland (Remote CH) | ⭐ 68/100 | 🏆 Grade C
+💡 Leads DevOps/SRE platform team at an established Swiss computer-vision scaleup.
+🔗 https://seventures.getro.com/companies/scandit/jobs/35288980-platform-engineering-manager
+
+---
+📊 _8 new offers | 1063 total tracked_

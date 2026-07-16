@@ -1,0 +1,67 @@
+{
+  "date": "2026-07-16",
+  "total_searched": 16,
+  "new_offers": 8,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Staff DevOps Engineer",
+      "company": "Runware",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/runware-staff-devops-engineer",
+      "score": 81,
+      "grade": "B",
+      "why": "Staff DevOps role building infrastructure for an AI inference platform at a fast-growing, remote-friendly AI infra startup - strong technical, seniority, and AI-exposure alignment with Magino's platform/AI-augmented engineering focus.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Backend Engineer",
+      "company": "Langfuse",
+      "location": "Berlin, Germany (Remote-first EU, 1 week/month in Berlin)",
+      "url": "https://peerlist.io/company/langfuse/careers/backend-engineer/jobh6ajr996lgmnqmcong7een9q7ae",
+      "score": 79,
+      "grade": "B",
+      "why": "Backend role at Langfuse, a YC-backed open-source LLM observability platform just acquired by ClickHouse - about as close as it gets to Magino's AI-augmented engineering focus and remote-first EU location, though the IC-backend scope sits below his target seniority.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Senior/Staff Engineer - AI Native, Full Stack",
+      "company": "Curebase",
+      "location": "Remote (US)",
+      "url": "https://www.ycombinator.com/companies/curebase/jobs/4v0l34R-senior-staff-engineer-ai-native-full-stack",
+      "score": 69,
+      "grade": "C",
+      "why": "Senior/Staff full-stack role at a YC-backed AI-native clinical trial platform with strong comp ($180-240k + equity), but US-remote location is a lower priority than Europe for Magino.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Engineering Lead, Secure Custody Platform",
+      "company": "Taurus SA",
+      "location": "Geneva / Lausanne / Zurich / Sion, Switzerland",
+      "url": "https://www.crypto-careers.com/jobs/525551108-engineering-lead-secure-custody-platform-lausanne-geneva-zurich-sion-at-taurus-sa",
+      "score": 68,
+      "grade": "C",
+      "why": "Engineering Lead role owning Taurus's secure custody platform, based in Geneva - strong location and seniority fit for a Swiss fintech scaleup, but crypto custody infra has little AI/LLM exposure.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Platform Engineering Manager",
+      "company": "Scandit",
+      "location": "Zurich, Switzerland (Remote CH)",
+      "url": "https://seventures.getro.com/companies/scandit/jobs/35288980-platform-engineering-manager",
+      "score": 68,
+      "grade": "C",
+      "why": "Platform Engineering Manager leading DevOps/SRE for an established Swiss (Zurich) computer-vision scaleup - good seniority and Switzerland location fit, but limited direct AI/LLM exposure in the role itself.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}

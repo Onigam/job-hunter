@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15",
+  "last_updated": "2026-07-16",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -15014,6 +15014,110 @@
       "score": 56,
       "grade": "C",
       "date_found": "2026-07-15",
+      "status": "new"
+    },
+    {
+      "id": "96509ddba5",
+      "title": "Staff DevOps Engineer",
+      "company": "Runware",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/runware-staff-devops-engineer",
+      "source": "weworkremotely",
+      "summary": "Staff-level DevOps role building and scaling infrastructure for an AI inference platform, fully remote.",
+      "score": 81,
+      "grade": "B",
+      "date_found": "2026-07-16",
+      "status": "new"
+    },
+    {
+      "id": "6eae5abc4c",
+      "title": "Backend Engineer",
+      "company": "Langfuse",
+      "location": "Berlin, Germany (Remote-first EU, 1 week/month in Berlin)",
+      "url": "https://peerlist.io/company/langfuse/careers/backend-engineer/jobh6ajr996lgmnqmcong7een9q7ae",
+      "source": "other",
+      "summary": "Backend engineer at Langfuse (YC W23), an open-source LLM engineering/observability platform used by 19 of the Fortune 50 and 2,000+ customers, acquired by ClickHouse in Jan 2026. Remote-first across Europe.",
+      "score": 79,
+      "grade": "B",
+      "date_found": "2026-07-16",
+      "status": "new"
+    },
+    {
+      "id": "17fd5ead3e",
+      "title": "Senior/Staff Engineer - AI Native, Full Stack",
+      "company": "Curebase",
+      "location": "Remote (US)",
+      "url": "https://www.ycombinator.com/companies/curebase/jobs/4v0l34R-senior-staff-engineer-ai-native-full-stack",
+      "source": "other",
+      "summary": "Senior/Staff full-stack engineer role at YC-backed Curebase, building an AI-powered clinical trial software platform. $180K-$240K + 0.25-0.40% equity.",
+      "score": 69,
+      "grade": "C",
+      "date_found": "2026-07-16",
+      "status": "new"
+    },
+    {
+      "id": "4e07c0a45f",
+      "title": "Engineering Lead, Secure Custody Platform",
+      "company": "Taurus SA",
+      "location": "Geneva / Lausanne / Zurich / Sion, Switzerland",
+      "url": "https://www.crypto-careers.com/jobs/525551108-engineering-lead-secure-custody-platform-lausanne-geneva-zurich-sion-at-taurus-sa",
+      "source": "other",
+      "summary": "Engineering leadership role owning a secure digital-asset custody platform at Taurus, a Swiss fintech providing regulated digital asset infrastructure to banks and institutions. 7+ years experience, leads a team of engineers.",
+      "score": 68,
+      "grade": "C",
+      "date_found": "2026-07-16",
+      "status": "new"
+    },
+    {
+      "id": "59ea5da565",
+      "title": "Founding Engineer (Full-Stack)",
+      "company": "DrSwarm",
+      "location": "Remote (US or LATAM)",
+      "url": "https://news.ycombinator.com/item?id=48358793",
+      "source": "hn",
+      "summary": "True 0-to-1 founding engineer role building AI-driven workflow automation (scheduling, RCM/billing) for healthcare clinics, Next.js + Django stack.",
+      "score": 68,
+      "grade": "C",
+      "date_found": "2026-07-16",
+      "status": "new"
+    },
+    {
+      "id": "224681deee",
+      "title": "Platform Engineering Manager",
+      "company": "Scandit",
+      "location": "Zurich, Switzerland (Remote CH)",
+      "url": "https://seventures.getro.com/companies/scandit/jobs/35288980-platform-engineering-manager",
+      "source": "other",
+      "summary": "Engineering Manager leading the Platform Engineering (DevOps & SRE) team at Scandit, owning cloud infrastructure and CI/CD pipelines relied on by the whole engineering org. 5+ years leading DevOps/SRE teams.",
+      "score": 68,
+      "grade": "C",
+      "date_found": "2026-07-16",
+      "status": "new"
+    },
+    {
+      "id": "2d746eae66",
+      "title": "Founding Engineer",
+      "company": "Share",
+      "location": "London, UK / Nairobi / Remote",
+      "url": "https://wellfound.com/jobs/4171741-founding-engineer",
+      "source": "wellfound",
+      "summary": "Founding engineer owning critical technical domains including payments pipeline, billing engine, and integration layer for an early-stage fintech.",
+      "score": 63,
+      "grade": "C",
+      "date_found": "2026-07-16",
+      "status": "new"
+    },
+    {
+      "id": "7d649cfcc0",
+      "title": "Senior Platform Engineer / Senior DevOps Engineer",
+      "company": "Taurus SA",
+      "location": "Geneva / Zurich / Lausanne, Switzerland",
+      "url": "https://www.crypto-careers.com/jobs/526171328-senior-platform-engineer-senior-devops-engineer-geneva-zurich-lausanne-at-taurus-sa",
+      "source": "other",
+      "summary": "Senior platform/DevOps role in Taurus's Platform & Services team building infrastructure for a regulated digital-asset custody and trading platform. 3-7 years experience.",
+      "score": 62,
+      "grade": "C",
+      "date_found": "2026-07-16",
       "status": "new"
     }
   ]
