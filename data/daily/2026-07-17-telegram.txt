@@ -1,0 +1,19 @@
+🎯 *Job Hunt — 2026-07-17*
+
+*1.* *Staff Product Engineer, EU* @ Ashby
+📍 Remote EU (incl. Switzerland) | ⭐ 74/100 | 🏆 Grade B
+💡 Staff-level product engineering at a fast-growing YC-backed recruiting platform, remote across the EU with strong comp.
+🔗 https://www.ycombinator.com/companies/ashby/jobs/ux2q8eE-staff-product-engineer-eu
+
+*2.* *Staff Engineer: AI and Scientific Computing* @ Swayable
+📍 Remote (NYC/SF-centered) | ⭐ 72/100 | 🏆 Grade B
+💡 Owns the ML/scientific-computing core of a YC-backed ad-impact measurement platform, strong AI/ML exposure.
+🔗 https://www.ycombinator.com/companies/swayable/jobs/iBeVNtF-staff-engineer-ai-and-scientific-computing
+
+*3.* *Head of Platform Engineering (w/m)* @ Ärztekasse Genossenschaft
+📍 Urdorf (Zurich area), Switzerland | ⭐ 56/100 | 🏆 Grade C
+💡 Leads an 8-person platform team through a full Kubernetes-based datacenter renewal, strong Swiss location and seniority fit.
+🔗 https://www.jobs.ch/en/vacancies/detail/63e5d96c-9e70-4c4c-8cd1-d2c4c80f5f3e/
+
+---
+📊 _6 new offers | 1069 total tracked_

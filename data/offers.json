@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16",
+  "last_updated": "2026-07-17",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -15118,6 +15118,84 @@
       "score": 62,
       "grade": "C",
       "date_found": "2026-07-16",
+      "status": "new"
+    },
+    {
+      "id": "12bd6e8ab9",
+      "title": "Head of Platform Engineering (w/m)",
+      "company": "\u00c4rztekasse Genossenschaft",
+      "location": "Urdorf (Zurich area), Switzerland",
+      "url": "https://www.jobs.ch/en/vacancies/detail/63e5d96c-9e70-4c4c-8cd1-d2c4c80f5f3e/",
+      "source": "jobs.ch",
+      "summary": "Lead and develop an 8-person Platform Engineering team, own strategy/architecture/roadmap of the Kubernetes-based CDM Cloud Platform during a full datacenter renewal.",
+      "score": 56,
+      "grade": "C",
+      "date_found": "2026-07-17",
+      "status": "new"
+    },
+    {
+      "id": "8b0b0a040a",
+      "title": "AI Platform System Engineer",
+      "company": "Bank J. Safra Sarasin",
+      "location": "Basel, Switzerland",
+      "url": "https://www.datacareer.ch/job/13666/ai-platform-system-engineer/",
+      "source": "datacareer.ch",
+      "summary": "Design and operate enterprise AI infrastructure (Kubernetes/OpenShift) for GPU inference workloads and HPC clusters at a Swiss private bank.",
+      "score": 53,
+      "grade": "D",
+      "date_found": "2026-07-17",
+      "status": "new"
+    },
+    {
+      "id": "0dc25e600b",
+      "title": "AI Engineer",
+      "company": "Orange Business Switzerland",
+      "location": "Geneva, Switzerland",
+      "url": "https://jobs.digital.orange-business.com/jobs/7264494-ai-engineer",
+      "source": "other",
+      "summary": "Client-facing GenAI/LLM integration role for enterprise clients within Orange Business Switzerland, Geneva.",
+      "score": 53,
+      "grade": "D",
+      "date_found": "2026-07-17",
+      "status": "new"
+    },
+    {
+      "id": "77b434017b",
+      "title": "Staff Product Engineer, EU",
+      "company": "Ashby",
+      "location": "Remote EU (DE/BE/FR/NL/ES/IT/FI/SE/CH/PT/NO/PL)",
+      "url": "https://www.ycombinator.com/companies/ashby/jobs/ux2q8eE-staff-product-engineer-eu",
+      "source": "other",
+      "summary": "Staff-level product engineering role at Ashby, a YC-backed recruiting platform, remote across the EU including Switzerland. EUR141-226k.",
+      "score": 74,
+      "grade": "B",
+      "date_found": "2026-07-17",
+      "status": "new"
+    },
+    {
+      "id": "6f62b23ceb",
+      "title": "Platform Engineer / DevOps Engineer",
+      "company": "Taurus SA",
+      "location": "Geneva / Zurich / Lausanne, Switzerland",
+      "url": "https://www.crypto-careers.com/jobs/551858132-platform-engineer-devops-engineer-geneva-zurich-lausanne-at-taurus-sa",
+      "source": "other",
+      "summary": "Build and operate infrastructure for a regulated digital-asset custody and trading platform. 2-3 years experience required.",
+      "score": 51,
+      "grade": "D",
+      "date_found": "2026-07-17",
+      "status": "new"
+    },
+    {
+      "id": "2af4b2d882",
+      "title": "Staff Engineer: AI and Scientific Computing",
+      "company": "Swayable",
+      "location": "Remote (NYC/SF-centered, flexible)",
+      "url": "https://www.ycombinator.com/companies/swayable/jobs/iBeVNtF-staff-engineer-ai-and-scientific-computing",
+      "source": "other",
+      "summary": "Staff engineer owning the ML/scientific-computing core of Swayable's ad-impact measurement platform. YC-backed.",
+      "score": 72,
+      "grade": "B",
+      "date_found": "2026-07-17",
       "status": "new"
     }
   ]

@@ -1,0 +1,43 @@
+{
+  "date": "2026-07-17",
+  "total_searched": 9,
+  "new_offers": 6,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Staff Product Engineer, EU",
+      "company": "Ashby",
+      "location": "Remote EU (DE/BE/FR/NL/ES/IT/FI/SE/CH/PT/NO/PL)",
+      "url": "https://www.ycombinator.com/companies/ashby/jobs/ux2q8eE-staff-product-engineer-eu",
+      "score": 74,
+      "grade": "B",
+      "why": "Staff-level product engineering role at Ashby, a fast-growing YC-backed recruiting platform, remote across the EU including Switzerland with strong comp (EUR141-226k). Solid technical and seniority fit, though AI exposure is secondary to the product work.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Staff Engineer: AI and Scientific Computing",
+      "company": "Swayable",
+      "location": "Remote (NYC/SF-centered, flexible)",
+      "url": "https://www.ycombinator.com/companies/swayable/jobs/iBeVNtF-staff-engineer-ai-and-scientific-computing",
+      "score": 72,
+      "grade": "B",
+      "why": "Staff Engineer role owning the ML/scientific-computing core of Swayable's ad-impact measurement platform, YC-backed with strong AI/ML exposure and Python/Node stack overlap. US-centered team is the main knock against an otherwise strong technical and seniority match.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Head of Platform Engineering (w/m)",
+      "company": "Ärztekasse Genossenschaft",
+      "location": "Urdorf (Zurich area), Switzerland",
+      "url": "https://www.jobs.ch/en/vacancies/detail/63e5d96c-9e70-4c4c-8cd1-d2c4c80f5f3e/",
+      "score": 56,
+      "grade": "C",
+      "why": "Leadership role owning a Kubernetes-based cloud platform and an 8-person team during a full datacenter renewal, strong Switzerland location and seniority fit. Included to fill the report since only two B-grade offers surfaced today; the eHealth/BPO domain has no AI exposure and limited startup upside.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
