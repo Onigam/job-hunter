@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17",
+  "last_updated": "2026-07-18",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -15196,6 +15196,110 @@
       "score": 72,
       "grade": "B",
       "date_found": "2026-07-17",
+      "status": "new"
+    },
+    {
+      "id": "d9403370f2d237a59a16c54176a94bf0",
+      "title": "Staff Full Stack Engineer (Java, React)",
+      "company": "SonarSource",
+      "location": "Geneva, Switzerland",
+      "url": "https://jobs.generalcatalyst.com/companies/sonarsource/jobs/64816565-staff-full-stack-engineer-java-react",
+      "source": "other",
+      "summary": "Partner with product and design teams to build enterprise features for SonarQube; own end-to-end feature development, architect cloud-based solutions, mentor other engineers, and own the release lifecycle including production issue resolution.",
+      "score": 59,
+      "grade": "C",
+      "date_found": "2026-07-18",
+      "status": "new"
+    },
+    {
+      "id": "8b6f42e6a1e2032e5096f5653a7ef984",
+      "title": "Platform Engineer (all genders)",
+      "company": "Z\u00fchlke Engineering AG",
+      "location": "Schlieren, Switzerland",
+      "url": "https://jobs.nzz.ch/job/platform-engineer-all-genders/491692",
+      "source": "other",
+      "summary": "Develop and operate Developer Portals and self-service environments for clients, customizing tools and managing service operations built on Azure, Kubernetes and Go, while maintaining security and compliance standards.",
+      "score": 47,
+      "grade": "D",
+      "date_found": "2026-07-18",
+      "status": "new"
+    },
+    {
+      "id": "303cc1811dfb8e0ae1d2883a3b9f1431",
+      "title": "Staff Engineer - AI Security",
+      "company": "On",
+      "location": "Zurich, Switzerland",
+      "url": "https://sportstechjobs.com/staff-engineer-ai-security-on/6a3d51004d2ec41d44b57a14",
+      "source": "other",
+      "summary": "Define and implement security strategy for On's AI agents, chatbots and LLM-based applications; embed security into AI delivery covering model/prompt security, pre-deployment checks, and continuous testing against prompt injection and jailbreaks.",
+      "score": 65,
+      "grade": "C",
+      "date_found": "2026-07-18",
+      "status": "new"
+    },
+    {
+      "id": "e633eb9b199813b0996f3ffcc3dff537",
+      "title": "VP Domain Leader",
+      "company": "SonarSource (Sonar)",
+      "location": "Geneva, Switzerland",
+      "url": "https://jobs.lever.co/sonarsource/1f5fb7b2-30b9-402d-9820-ef81993e2924",
+      "source": "Lever (via SonarSource careers)",
+      "summary": "Sonar is the AI code review / code quality leader (7M+ users). This leadership role owns a ~20-person product domain (technical platform, code orchestration, developer experience) and partners closely with the VP of Engineering on strategy and delivery.",
+      "score": 68,
+      "grade": "C",
+      "date_found": "2026-07-18",
+      "status": "new"
+    },
+    {
+      "id": "a44ecbad224d570c8549621fe3324ddd",
+      "title": "VP of Engineering - Data & AI",
+      "company": "SonarSource",
+      "location": "Geneva, Switzerland",
+      "url": "https://jobs.generalcatalyst.com/companies/sonarsource/jobs/55603388-vp-of-engineering-data-ai",
+      "source": "General Catalyst Job Board (mirrors SonarSource careers)",
+      "summary": "SonarSource is hiring a VP to build and lead its entire Data & AI organization: data engineering, data science, ML and analytics. Requires 15+ years engineering experience with 8+ in international leadership, building enterprise data/MLOps infrastructure and embedding AI into the product.",
+      "score": 82,
+      "grade": "B",
+      "date_found": "2026-07-18",
+      "status": "new"
+    },
+    {
+      "id": "ae51fc7055a28860c1546626d486cc36",
+      "title": "Staff DevOps Engineer",
+      "company": "Runware",
+      "location": "United Kingdom (Remote)",
+      "url": "https://jobs.workable.com/view/r68CzbnLWTWmL4CyVXNccs/remote-staff-devops-engineer-in-united-kingdom-at-runware",
+      "source": "other",
+      "summary": "Runware builds the API layer for real-time AI inference across thousands of models, and needs a staff-level DevOps/infra engineer to run the GPU fleets and distributed systems behind it. The role covers bare-metal provisioning, orchestration, observability, and incident response at scale, fully remote-first.",
+      "score": 64,
+      "grade": "C",
+      "date_found": "2026-07-18",
+      "status": "new"
+    },
+    {
+      "id": "1cf1d829a1ea3df1cdceb23920bc2097",
+      "title": "Senior/Staff Ruby on Rails Engineer",
+      "company": "Housecall Pro",
+      "location": "Remote (US and Poland options)",
+      "url": "https://weworkremotely.com/remote-jobs/housecall-pro-senior-staff-ruby-on-rails-engineer-2",
+      "source": "weworkremotely",
+      "summary": "Housecall Pro, a field-service management SaaS platform, is hiring a Senior/Staff engineer as an architectural leader driving long-term technical vision across squads. Listings show Poland-based remote compensation alongside US bands, making it Europe-timezone friendly.",
+      "score": 51,
+      "grade": "D",
+      "date_found": "2026-07-18",
+      "status": "new"
+    },
+    {
+      "id": "5106e629aaf1ecac23eb858c0a5b6272",
+      "title": "Full-stack Engineer / Agentic Coding Tools",
+      "company": "Toptal",
+      "location": "Remote (global network)",
+      "url": "https://weworkremotely.com/remote-jobs/toptal-full-stack-engineer-agentic-coding-tools",
+      "source": "weworkremotely",
+      "summary": "Toptal is hiring full-stack engineers who are highly productive with agentic coding tools like Claude Code, building workflows around hooks, subagents, and skills. The role spans frontend, backend, and developer-workflow automation across production software.",
+      "score": 56,
+      "grade": "C",
+      "date_found": "2026-07-18",
       "status": "new"
     }
   ]

@@ -1,0 +1,34 @@
+🎯 *Job Hunt — 2026-07-18*
+
+*1.* *VP of Engineering - Data & AI* @ SonarSource
+📍 Geneva, Switzerland | ⭐ 82/100 | 🏆 Grade B
+💡 VP-level role building SonarSource's entire Data & AI org from the ground up in Geneva, a near-perfect match for Magino's founding-engineer background and current focus on AI-augmented engineering.
+🔗 https://jobs.generalcatalyst.com/companies/sonarsource/jobs/55603388-vp-of-engineering-data-ai
+
+*2.* *VP Domain Leader* @ SonarSource (Sonar)
+📍 Geneva, Switzerland | ⭐ 68/100 | 🏆 Grade C
+💡 Domain leadership role at SonarSource in Geneva overseeing platform and developer-experience for a 20-person org.
+🔗 https://jobs.lever.co/sonarsource/1f5fb7b2-30b9-402d-9820-ef81993e2924
+
+*3.* *Staff Engineer - AI Security* @ On
+📍 Zurich, Switzerland | ⭐ 65/100 | 🏆 Grade C
+💡 Staff-level role defining AI/LLM security strategy at On in Zurich, strong AI exposure and Staff seniority, but a narrower security specialization than Magino's platform/architecture focus.
+🔗 https://sportstechjobs.com/staff-engineer-ai-security-on/6a3d51004d2ec41d44b57a14
+
+*4.* *Staff DevOps Engineer* @ Runware
+📍 United Kingdom (Remote) | ⭐ 64/100 | 🏆 Grade C
+💡 Staff DevOps role running GPU fleets for an AI inference startup, remote and Europe-friendly with real platform ownership, though the posting is over two months old and Rails/infra-heavy rather than Magino's core stack.
+🔗 https://jobs.workable.com/view/r68CzbnLWTWmL4CyVXNccs/remote-staff-devops-engineer-in-united-kingdom-at-runware
+
+*5.* *Staff Full Stack Engineer (Java, React)* @ SonarSource
+📍 Geneva, Switzerland | ⭐ 59/100 | 🏆 Grade C
+💡 Staff-level full-stack role in Geneva at a strong product company, but Java-based and feature-focused rather than platform ownership, so less aligned with Magino's architecture/founding-engineer profile.
+🔗 https://jobs.generalcatalyst.com/companies/sonarsource/jobs/64816565-staff-full-stack-engineer-java-react
+
+*6.* *Full-stack Engineer / Agentic Coding Tools* @ Toptal
+📍 Remote (global network) | ⭐ 56/100 | 🏆 Grade C
+💡 Remote full-stack role centered on agentic coding tools like Claude Code, a strong thematic match for Magino's AI-augmented engineering focus, but Toptal's marketplace/staffing model and IC scope are a step down from his target seniority.
+🔗 https://weworkremotely.com/remote-jobs/toptal-full-stack-engineer-agentic-coding-tools
+
+---
+📊 _8 new offers | 1077 total tracked_

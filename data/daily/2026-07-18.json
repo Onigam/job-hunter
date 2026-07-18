@@ -1,0 +1,85 @@
+{
+  "date": "2026-07-18",
+  "total_searched": 23,
+  "new_offers": 8,
+  "top_offers": [
+    {
+      "rank": 1,
+      "id": "a44ecbad224d570c8549621fe3324ddd",
+      "title": "VP of Engineering - Data & AI",
+      "company": "SonarSource",
+      "location": "Geneva, Switzerland",
+      "url": "https://jobs.generalcatalyst.com/companies/sonarsource/jobs/55603388-vp-of-engineering-data-ai",
+      "score": 82,
+      "grade": "B",
+      "why": "VP-level role building SonarSource's entire Data & AI org from the ground up in Geneva, a near-perfect match for Magino's founding-engineer background and current focus on AI-augmented engineering. Strong seniority fit, home-city location, and heavy AI/MLOps exposure all line up.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "id": "e633eb9b199813b0996f3ffcc3dff537",
+      "title": "VP Domain Leader",
+      "company": "SonarSource (Sonar)",
+      "location": "Geneva, Switzerland",
+      "url": "https://jobs.lever.co/sonarsource/1f5fb7b2-30b9-402d-9820-ef81993e2924",
+      "score": 68,
+      "grade": "C",
+      "why": "Domain leadership role at SonarSource in Geneva overseeing platform and developer-experience for a 20-person org. Good seniority and location fit, though less hands-on and less AI-specific than the Data & AI VP role.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "id": "303cc1811dfb8e0ae1d2883a3b9f1431",
+      "title": "Staff Engineer - AI Security",
+      "company": "On",
+      "location": "Zurich, Switzerland",
+      "url": "https://sportstechjobs.com/staff-engineer-ai-security-on/6a3d51004d2ec41d44b57a14",
+      "score": 65,
+      "grade": "C",
+      "why": "Staff-level role defining AI/LLM security strategy at On in Zurich, strong AI exposure and Staff seniority, but a narrower security specialization than Magino's platform/architecture focus.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "id": "ae51fc7055a28860c1546626d486cc36",
+      "title": "Staff DevOps Engineer",
+      "company": "Runware",
+      "location": "United Kingdom (Remote)",
+      "url": "https://jobs.workable.com/view/r68CzbnLWTWmL4CyVXNccs/remote-staff-devops-engineer-in-united-kingdom-at-runware",
+      "score": 64,
+      "grade": "C",
+      "why": "Staff DevOps role running GPU fleets for an AI inference startup, remote and Europe-friendly with real platform ownership, though the posting is over two months old and Rails/infra-heavy rather than Magino's core stack.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "id": "d9403370f2d237a59a16c54176a94bf0",
+      "title": "Staff Full Stack Engineer (Java, React)",
+      "company": "SonarSource",
+      "location": "Geneva, Switzerland",
+      "url": "https://jobs.generalcatalyst.com/companies/sonarsource/jobs/64816565-staff-full-stack-engineer-java-react",
+      "score": 59,
+      "grade": "C",
+      "why": "Staff-level full-stack role in Geneva at a strong product company, but Java-based and feature-focused rather than platform ownership, so less aligned with Magino's architecture/founding-engineer profile.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 6,
+      "id": "5106e629aaf1ecac23eb858c0a5b6272",
+      "title": "Full-stack Engineer / Agentic Coding Tools",
+      "company": "Toptal",
+      "location": "Remote (global network)",
+      "url": "https://weworkremotely.com/remote-jobs/toptal-full-stack-engineer-agentic-coding-tools",
+      "score": 56,
+      "grade": "C",
+      "why": "Remote full-stack role centered on agentic coding tools like Claude Code, a strong thematic match for Magino's AI-augmented engineering focus, but Toptal's marketplace/staffing model and IC scope are a step down from his target seniority.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
