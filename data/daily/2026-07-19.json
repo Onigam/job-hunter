@@ -1,0 +1,43 @@
+{
+  "date": "2026-07-19",
+  "total_searched": 26,
+  "new_offers": 8,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Director of Engineering",
+      "company": "n8n",
+      "location": "Remote — Europe",
+      "url": "https://jobs.ashbyhq.com/n8n/443669df-8d0d-4169-929a-2f9cb293c6df",
+      "score": 81,
+      "grade": "B",
+      "why": "n8n's TypeScript/Vue/Node.js stack and AI-workflow focus line up directly with your background, and Director of Engineering sits right in your target seniority band. n8n is one of the most visible AI dev-tools scale-ups in Europe right now, with strong funding and product-led growth.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Founding Engineer",
+      "company": "Constant",
+      "location": "San Francisco / New York / Remote",
+      "url": "https://www.ycombinator.com/companies/constant/jobs/uOhpi7E-founding-engineer",
+      "score": 69,
+      "grade": "C",
+      "why": "Genuine founding-engineer ownership on an AI-for-finance product using TypeScript, Python and LangGraph, with a remote option. The 2-person team stage and SF/NY center of gravity mean real early-stage risk and a US-centric culture.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Founding AI Systems / Backend Engineer — Agentic Commerce",
+      "company": "Stealth seed-stage startup (via William and William Recruiting)",
+      "location": "San Francisco (Hybrid, 2 days/week office)",
+      "url": "https://www.linkedin.com/jobs/view/founding-ai-systems-backend-engineer-%E2%80%94-agentic-commerce-stealth-seed-stage-at-william-and-william-recruiting-4429474052",
+      "score": 62,
+      "grade": "C",
+      "why": "Real founding-level 0-to-1 scope rewriting AI agent infrastructure (Elixir/Python/TypeScript/Rust) at a funded seed-stage startup, but the hybrid San Francisco office requirement is a poor match for a Geneva base.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}

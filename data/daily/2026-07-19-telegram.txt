@@ -1,0 +1,19 @@
+🎯 *Job Hunt — 2026-07-19*
+
+*1.* *Director of Engineering* @ n8n
+📍 Remote — Europe | ⭐ 81/100 | 🏆 Grade B
+💡 n8n's TypeScript/Vue/Node stack and AI-workflow focus are a direct match, and Director of Engineering sits right in Magino's target seniority band at one of Europe's most visible AI dev-tools scale-ups.
+🔗 https://jobs.ashbyhq.com/n8n/443669df-8d0d-4169-929a-2f9cb293c6df
+
+*2.* *Founding Engineer* @ Constant
+📍 San Francisco / New York / Remote | ⭐ 69/100 | 🏆 Grade C
+💡 Real founding-engineer ownership on an AI-for-finance product (TypeScript, Python, LangGraph) with a remote option, though the 2-person team stage and US center of gravity add risk.
+🔗 https://www.ycombinator.com/companies/constant/jobs/uOhpi7E-founding-engineer
+
+*3.* *Founding AI Systems / Backend Engineer — Agentic Commerce* @ Stealth seed-stage startup (via William and William Recruiting)
+📍 San Francisco (Hybrid, 2 days/week office) | ⭐ 62/100 | 🏆 Grade C
+💡 Genuine founding-level 0-to-1 scope rebuilding AI agent infrastructure at a funded seed-stage startup, but the hybrid San Francisco office requirement is a poor match for a Geneva base.
+🔗 https://www.linkedin.com/jobs/view/founding-ai-systems-backend-engineer-%E2%80%94-agentic-commerce-stealth-seed-stage-at-william-and-william-recruiting-4429474052
+
+---
+📊 _8 new offers | 1085 total tracked_

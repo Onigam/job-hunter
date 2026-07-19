@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18",
+  "last_updated": "2026-07-19",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -15300,6 +15300,110 @@
       "score": 56,
       "grade": "C",
       "date_found": "2026-07-18",
+      "status": "new"
+    },
+    {
+      "id": "d63cd0e3e7f5de8e466d466e536f0f14",
+      "title": "Director of Engineering",
+      "company": "n8n",
+      "location": "Remote \u2014 Europe",
+      "url": "https://jobs.ashbyhq.com/n8n/443669df-8d0d-4169-929a-2f9cb293c6df",
+      "source": "ashbyhq",
+      "summary": "Director of Engineering role at n8n, the open-source AI workflow automation platform (TypeScript/Vue/Node.js core, LLM node integrations). Fully remote within Europe. Well-funded, high-growth dev-tools/AI startup.",
+      "score": 81,
+      "grade": "B",
+      "date_found": "2026-07-19",
+      "status": "new"
+    },
+    {
+      "id": "796eb5709b8216fc66a750c3a257ef34",
+      "title": "Founding Engineer",
+      "company": "Constant",
+      "location": "San Francisco / New York / Remote",
+      "url": "https://www.ycombinator.com/companies/constant/jobs/uOhpi7E-founding-engineer",
+      "source": "other",
+      "summary": "Founding Engineer at Constant, an AI-for-finance startup building \"AI Analysts for the Buy-Side\" for investment professionals. TypeScript/Python, LangGraph. YC W23, 2-person team, $150K-$225K + 2-4% equity, remote option, visa sponsorship available.",
+      "score": 69,
+      "grade": "C",
+      "date_found": "2026-07-19",
+      "status": "new"
+    },
+    {
+      "id": "7ba21e0e98e24b56bdc75f3a9baeef48",
+      "title": "Founding AI Systems / Backend Engineer \u2014 Agentic Commerce",
+      "company": "Stealth seed-stage startup (via William and William Recruiting)",
+      "location": "San Francisco (Hybrid, 2 days/week office)",
+      "url": "https://www.linkedin.com/jobs/view/founding-ai-systems-backend-engineer-%E2%80%94-agentic-commerce-stealth-seed-stage-at-william-and-william-recruiting-4429474052",
+      "source": "linkedin",
+      "summary": "AI-native commerce platform (\"Put a Brain Behind Every Pixel\"), ~18 months old, $10M funding, ~10 employees. Rebuilding agent infrastructure from scratch. Stack: Elixir, expanding into Python/TypeScript/Rust, Postgres, Elasticsearch, AWS, Terraform. Hybrid SF office (Mon/Fri in-office).",
+      "score": 62,
+      "grade": "C",
+      "date_found": "2026-07-19",
+      "status": "new"
+    },
+    {
+      "id": "d8f760feb39057ba3fca3ba185d6acf3",
+      "title": "Founding AI Engineer",
+      "company": "Hey Telo",
+      "location": "Munich, Germany (in-person)",
+      "url": "https://www.ycombinator.com/companies/hey-telo/jobs/xcPARQI-founding-ai-engineer",
+      "source": "other",
+      "summary": "Voice AI for German tradespeople (Handwerker) \u2014 automates phone answering, scheduling, customer communication. Python, React/TypeScript/Next.js, LLM/RAG/voice stack (Vapi, Pipecat, LiveKit). Entry-to-mid level (\"new grads ok\"), requires fluent German (C1). In-person Munich, no remote option.",
+      "score": 57,
+      "grade": "C",
+      "date_found": "2026-07-19",
+      "status": "new"
+    },
+    {
+      "id": "c0643f883c9143befbd11554e36e8b25",
+      "title": "AI Platform Engineer",
+      "company": "Duvo Inc",
+      "location": "EU/UK (Remote)",
+      "url": "https://jobs.ashbyhq.com/duvo/a1e5cdbc-6159-4895-8dae-cf71196550fa",
+      "source": "ashbyhq",
+      "summary": "AI Platform Engineer at Duvo, building AI agents that automate enterprise work. EU/UK-based remote. Full job description was not accessible; seniority and tech stack unconfirmed.",
+      "score": 57,
+      "grade": "C",
+      "date_found": "2026-07-19",
+      "status": "new"
+    },
+    {
+      "id": "e30f2f3d15135e7723138809a20a6270",
+      "title": "Applied AI Engineer \u2013 Systems & Reliability",
+      "company": "HiPeople",
+      "location": "Remote / Berlin-based",
+      "url": "https://jobs.ashbyhq.com/hipeople-official/6c330d7b-7c6d-4993-8893-b58b5289d442",
+      "source": "ashbyhq",
+      "summary": "Applied AI Engineer role at HiPeople focused on systems and reliability backing their AI quality/trust infrastructure. Remote with a Berlin-based option. Full job description was not accessible; seniority unconfirmed.",
+      "score": 57,
+      "grade": "C",
+      "date_found": "2026-07-19",
+      "status": "new"
+    },
+    {
+      "id": "b90224d6b12735ceb38e0adaf15173fe",
+      "title": "Agentic Analytics A.I. Engineer (AI & Data Platform)",
+      "company": "DonTouch SA",
+      "location": "Chiasso, Ticino, Switzerland (on-site)",
+      "url": "https://www.datacareer.ch/job/13669/agentic-analytics-a-i-engineer-ai-data-platform/",
+      "source": "other",
+      "summary": "Senior/Lead role building a conversational BI platform (Analytics LLM) over BigQuery/Looker for a large European marketplace operator (60,000+ advertisers, 7M+ MAU). Python, SQL, DBT, LangGraph/LangChain/CrewAI/AutoGen, vector DBs. On-site in Chiasso (Ticino), requires fluent Italian.",
+      "score": 54,
+      "grade": "D",
+      "date_found": "2026-07-19",
+      "status": "new"
+    },
+    {
+      "id": "9dab5f8aebe742f9fe26cee14c1ea9f3",
+      "title": "Equity Only \u2014 Co-founding Software Engineer + CTO",
+      "company": "Lental.",
+      "location": "Oxford, UK (Remote)",
+      "url": "https://wellfound.com/jobs/3035107-equity-only-co-founding-software-engineer-cto",
+      "source": "wellfound",
+      "summary": "Co-founding CTO role at an early-stage UK startup, remote. Equity-only compensation, no salary. Tech stack and product mission not specified in the listing.",
+      "score": 54,
+      "grade": "D",
+      "date_found": "2026-07-19",
       "status": "new"
     }
   ]
