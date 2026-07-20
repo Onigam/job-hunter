@@ -1,0 +1,43 @@
+{
+  "date": "2026-07-20",
+  "total_searched": 13,
+  "new_offers": 4,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Founding Full-Stack Engineer",
+      "company": "Pango (YC S26)",
+      "location": "Stockholm, Sweden (Hybrid, visa sponsorship possible)",
+      "url": "https://se.linkedin.com/jobs/view/founding-full-stack-engineer-at-pango-4332175835",
+      "score": 71,
+      "grade": "B",
+      "why": "First engineering hire at a YC S26 startup building an agentic OS for e-commerce logistics is exactly the build-from-zero founding scope Magino had at Alaya, this time with an LLM-driven workflow layer that plays to his AI-augmented engineering focus. Stockholm hybrid means relocation, which is the main drag on fit given his Geneva preference, but the equity upside and end-to-end ownership are a strong match for a cofounder profile.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Product Engineer (m/w/d)",
+      "company": "Orbit",
+      "location": "Remote (EU)",
+      "url": "https://join.com/companies/orbit/16414503-product-engineer-m-w-d",
+      "score": 70,
+      "grade": "B",
+      "why": "Bootstrapped and already profitable, Orbit runs spec-driven agentic development on a TypeScript/AWS/React stack that lines up almost exactly with Magino's core toolkit and his current AI-augmented engineering practice. Remote-EU keeps it timezone-friendly from Geneva, though the title reads more IC-feature-level than the platform/founding scope he's prioritizing.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Database Platform Engineer",
+      "company": "Proton AG",
+      "location": "Geneva, Switzerland (also Paris)",
+      "url": "https://job-boards.eu.greenhouse.io/proton/jobs/4582111101",
+      "score": 65,
+      "grade": "C",
+      "why": "A Geneva-based seat at Proton, VC-free and profitable, is about as strong a location and company-culture match as it gets, and the mission (privacy infrastructure at scale) echoes the impact-driven bar he's held to since Alaya. Scored down because the scope reads as focused database/infra ownership rather than the Staff+/platform-wide mandate he's targeting, and there's no AI/LLM angle in the posting.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}

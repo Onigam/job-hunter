@@ -1,0 +1,19 @@
+🎯 *Job Hunt — 2026-07-20*
+
+*1.* *Founding Full-Stack Engineer* @ Pango (YC S26)
+📍 Stockholm, Sweden (Hybrid) | ⭐ 71/100 | 🏆 Grade B
+💡 First engineering hire on an agentic e-commerce logistics OS, founding-scope ownership plus an LLM-driven stack.
+🔗 https://se.linkedin.com/jobs/view/founding-full-stack-engineer-at-pango-4332175835
+
+*2.* *Product Engineer (m/w/d)* @ Orbit
+📍 Remote (EU) | ⭐ 70/100 | 🏆 Grade B
+💡 Bootstrapped, profitable, AI-first logistics company running spec-driven agentic dev on TypeScript/AWS/React.
+🔗 https://join.com/companies/orbit/16414503-product-engineer-m-w-d
+
+*3.* *Database Platform Engineer* @ Proton AG
+📍 Geneva, Switzerland | ⭐ 65/100 | 🏆 Grade C
+💡 Geneva-based, VC-free and profitable, privacy-mission infra role — strong location/culture fit, narrower technical scope.
+🔗 https://job-boards.eu.greenhouse.io/proton/jobs/4582111101
+
+---
+📊 _4 new offers | 1089 total tracked_
