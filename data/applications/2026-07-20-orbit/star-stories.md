@@ -1,0 +1,27 @@
+# STAR Stories - Orbit, Product Engineer (m/w/d)
+
+Prepared for behavioral rounds. Picked for fit with Orbit's emphasis on end-to-end feature ownership, agentic development, and documentation that lets colleagues and agents work independently.
+
+---
+
+## 1. Owning a product from conception to production: building Alaya
+
+In 2016 I co-founded Alaya, an employee purpose and impact platform, starting from a completely blank page. There was no product, no customers, and for the first few months it was mostly me deciding what to build and then building it. My task was to architect and ship a real platform while the business was closing its first enterprise deals in parallel, so there wasn't room to spend a year on infrastructure before anything shipped. I picked a pragmatic stack, Node.js, React, PostgreSQL, that could carry real load without needing a rewrite in year two, got the core features to a first demo within three months, and then expanded iteratively into multi-tenancy, an API layer, and impact reporting as the client base grew. Once we had traction I hired the first three engineers and set up the CI/CD pipeline, code review norms, and architecture docs that let them move without me approving every decision. The platform ended up serving 50 or so enterprise clients across Switzerland and France and the company was acquired by Benevity, a Canadian unicorn, in 2021. Looking back, I'd invest in observability much earlier; we bolted on proper APM late and paid for it in debugging time. I'd also design for multi-tenancy from day zero instead of retrofitting it, since that retrofit cost more than the feature itself.
+
+---
+
+## 2. Driving agentic development adoption without formal authority
+
+After Benevity acquired Alaya, I became a Senior Staff IC on a team roughly ten times the size I was used to, with no direct reports and no mandate to change how anyone worked. I wanted two engineering teams to actually adopt AI-assisted development instead of treating it as a novelty, but I couldn't order that from above, so the task was to earn adoption rather than impose it. I started with three curious engineers, built small internal demos that showed concrete time saved on real PRs, and ran informal lunch sessions with no attendance requirement. I wrote up specific results, like a two-hour cut on a review cycle, and committed reusable prompt templates to a shared repo so people could take what worked and skip what didn't. Within about three months, something like 70% of engineers across both teams were using AI-assisted review and generation regularly, and I'd become the informal go-to person for it. It was slower than a top-down rollout would have been, but people who'd opted in on their own terms ended up defending the approach to others, which a mandate never would have produced. That's roughly the muscle I'd bring to building out Orbit's agent infrastructure and skills, since the goal there also seems to be adoption that survives without anyone standing over it.
+
+---
+
+## 3. Making a hard architecture call under delivery pressure
+
+At Alaya, our monolith started cracking under load right as investors were pushing hard for new features, not a rewrite. The team was split between a full microservices migration and staying modular within the monolith, and my task was to make a call that held up technically without stalling the roadmap everyone else cared about. I ran a two-week spike with prototype load tests on both approaches, then presented the trade-offs to the CTO and investors using the numbers rather than my opinion of them. What came out of that was a strangler-fig plan: extract the two highest-traffic modules first, leave the rest alone, and set clear criteria for when to extract anything further. We shipped the first extracted module in six weeks and saw about a 40% latency improvement on our busiest endpoints, and the remaining monolith held steady all the way through the acquisition, no big-bang rewrite needed. The hard part wasn't the technical design, it was convincing people that not rewriting everything was the disciplined choice. Next time I'd run the benchmarks even earlier, since data cut the debate short far faster than argument did.
+
+---
+
+## 4. Documenting for people and systems that don't have me in the room
+
+Right after the Benevity acquisition, I joined a team with a different codebase, Java microservices instead of our Node monolith, and a different culture entirely. My task was to integrate what Alaya had built into their platform while still shipping new work, without the product velocity we'd built quietly dying in the transition. I spent the first month just mapping their existing architecture before I proposed anything, and I built relationships with the platform and infra teams before pushing any technical opinions on them. Once I had context, I documented the integration plan in enough detail that other engineers could execute pieces of it without me in every conversation, which mattered a lot on a team that size. We got the core Alaya features migrated, I contributed to three major cross-team architecture decisions, and I became the informal liaison for the Europe-facing product surface. My honest reflection is that I moved too fast early on trying to fix things that weren't actually broken in the new org; slowing down and listening first is what made the documentation and the migration land well, and it's the same instinct I'd apply to writing specs clear enough for both colleagues and agents to run with.
