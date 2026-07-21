@@ -1,0 +1,24 @@
+🎯 *Job Hunt — 2026-07-21*
+
+*1.* *Staff Platform Engineer (Infrastructure)* @ Postscript
+📍 Remote (US-timezone leaning) | ⭐ 75/100 | 🏆 Grade B
+💡 Building the guardrails that let AI agents safely run production infra at a Greylock/YC-backed startup, close to Magino's platform + AI-augmented engineering focus.
+🔗 https://job-boards.greenhouse.io/postscript/jobs/8637343002
+
+*2.* *Staff Forward Deployed Engineer, Agentic SDLC* @ GitLab
+📍 Remote EMEA (incl. Switzerland) | ⭐ 69/100 | 🏆 Grade C
+💡 Rare EMEA listing that names Switzerland explicitly, driving agentic SDLC adoption with enterprise customers.
+🔗 https://job-boards.greenhouse.io/gitlab/jobs/8522408002
+
+*3.* *Founding Engineer* @ Stealth Startup (undisclosed)
+📍 Remote | ⭐ 62/100 | 🏆 Grade C
+💡 Build-from-zero founding seat at ~$240k, but stack and mission are still undisclosed.
+🔗 https://remoteok.com/remote-jobs/remote-founding-engineer-stealth-startup-1128447
+
+*4.* *Staff Engineer (Integrations)* @ Yuno
+📍 Remote (Europe) | ⭐ 61/100 | 🏆 Grade C
+💡 Full ownership of a 130+ provider payments integration domain, remote across Europe, though comp trails Swiss rates.
+🔗 https://jobs.lever.co/yuno/787fd00b-f659-4295-bc04-eaff4a028ac3
+
+---
+📊 _11 new offers | 1100 total tracked_

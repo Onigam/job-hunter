@@ -1,0 +1,55 @@
+{
+  "date": "2026-07-21",
+  "total_searched": 20,
+  "new_offers": 11,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Staff Platform Engineer (Infrastructure)",
+      "company": "Postscript",
+      "location": "Remote (US-timezone leaning)",
+      "url": "https://job-boards.greenhouse.io/postscript/jobs/8637343002",
+      "score": 75,
+      "grade": "B",
+      "why": "Staff Platform Engineer at a Greylock and YC-backed startup building the architectural guardrails that let AI agents safely run production infrastructure, which sits right at the intersection of Magino's platform-engineering depth and his current AI-augmented engineering focus. It's fully remote and skews US-timezone rather than Geneva-friendly, but the ownership over reliability, incident leadership and system design echoes the build-it-yourself scope he had at Alaya.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Staff Forward Deployed Engineer, Agentic SDLC",
+      "company": "GitLab",
+      "location": "Remote EMEA (incl. Switzerland)",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8522408002",
+      "score": 69,
+      "grade": "C",
+      "why": "A Staff-level role at GitLab that explicitly lists Switzerland among its EMEA remote locations, giving it a rare edge on timezone and possibly local presence. The mandate centers on driving agentic SDLC adoption with enterprise customers, which plays to Magino's AI-augmented engineering angle, though the forward-deployed, customer-facing format is a step away from the pure platform-ownership scope he's prioritizing.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Founding Engineer",
+      "company": "Stealth Startup (undisclosed)",
+      "location": "Remote",
+      "url": "https://remoteok.com/remote-jobs/remote-founding-engineer-stealth-startup-1128447",
+      "score": 62,
+      "grade": "C",
+      "why": "A founding engineer seat at an undisclosed stealth startup paying around $240k is the kind of build-from-zero, high-equity bet that matches Magino's cofounder instincts from Alaya. The listing is thin on stack, mission and team details since the company hasn't come out of stealth yet, so this needs more digging before it's worth prioritizing.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Staff Engineer (Integrations)",
+      "company": "Yuno",
+      "location": "Remote (Europe)",
+      "url": "https://jobs.lever.co/yuno/787fd00b-f659-4295-bc04-eaff4a028ac3",
+      "score": 61,
+      "grade": "C",
+      "why": "Yuno is a payments infrastructure startup handing a Staff Engineer full ownership of its Integrations domain, 130-plus payment providers and 95 webhooks, a concrete platform-scope role remote across Europe. The 90-125k EUR band sits below Swiss market rates and the title is domain-owner rather than founding or company-wide platform lead, which is why it lands mid-table.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
