@@ -1,0 +1,67 @@
+{
+  "date": "2026-07-22",
+  "total_searched": 17,
+  "new_offers": 10,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "CTO and Head of IT (AI)",
+      "company": "GF-ACCORD AI",
+      "location": "Geneva, Switzerland (remote option)",
+      "url": "https://wellfound.com/jobs/3026092-cto-and-head-of-it-ai",
+      "score": 82,
+      "grade": "B",
+      "why": "CTO-level ownership at an early-stage Geneva AI startup in fundraising mode, matching Magino's cofounder background and Geneva base directly, with meaningful equity on offer.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Founding AI Agent Engineer",
+      "company": "Allus AI",
+      "location": "Remote",
+      "url": "https://www.ycombinator.com/companies/allus-ai/jobs/AcYMVC9-founding-ai-agent-engineer",
+      "score": 79,
+      "grade": "B",
+      "why": "Founding-level scope building agentic workflows and AI-native developer infrastructure, squarely in Magino's AI-augmented engineering focus, backed by YC.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Tech Lead, Web Core Product & Chrome Extension",
+      "company": "Speechify",
+      "location": "Geneva, Switzerland (fully distributed team)",
+      "url": "https://weworkremotely.com/remote-jobs/speechify-inc-tech-lead-web-core-product-chrome-extension",
+      "score": 77,
+      "grade": "B",
+      "why": "Tech lead ownership of a core product surface at a fast-growing AI voice/reading startup, explicitly listed for Geneva, a rare local tag from a company that otherwise hires fully distributed.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Founding Engineer – ShookAI Platform",
+      "company": "Shook Digital",
+      "location": "Helsinki, Finland / Remote (EU timezones)",
+      "url": "https://builtin.com/job/founding-engineer-shookai-platform-helsinki-remote-eu-timezones/7625547",
+      "score": 76,
+      "grade": "B",
+      "why": "Founding-engineer mandate building an AI-native advertiser platform from scratch on EU-timezone remote terms, though comp sits below Swiss market rates.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Staff Software Engineer",
+      "company": "Nexthink",
+      "location": "Lausanne, Switzerland",
+      "url": "https://jobs.smartrecruiters.com/Nexthink/744000131906026-staff-software-engineer-",
+      "score": 76,
+      "grade": "B",
+      "why": "Staff-level role on an AI-native automation platform at an established Swiss scale-up in Lausanne, a solid local option with proven product-market fit and Swiss compensation.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
