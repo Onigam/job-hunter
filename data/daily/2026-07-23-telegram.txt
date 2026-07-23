@@ -1,0 +1,24 @@
+🎯 *Job Hunt — 2026-07-23*
+
+*1.* *Principal Engineer (AI & Cloud Infrastructure)* @ On AG
+📍 Zürich, Switzerland | ⭐ 75/100 | 🏆 Grade B
+💡 Principal-level ownership of AI infra (model serving, agent runtimes, LLMOps) at a fast-growing Swiss company.
+🔗 https://sportstechjobs.com/principal-engineer-(ai-and-cloud-infrastructure)-on/6a60e98e89eb22bf5d69af1b
+
+*2.* *Founding Software Engineer, Agentic AI* @ Glacis
+📍 Remote | ⭐ 75/100 | 🏆 Grade B
+💡 Founding role building an agentic AI product from zero, closest match to Magino's cofounder DNA.
+🔗 https://wellfound.com/jobs/4053494-founding-software-engineer-agentic-ai-remote
+
+*3.* *Senior Software Engineer (Java) - Remediation Agent* @ SonarSource SA
+📍 Geneva, Switzerland | ⭐ 73/100 | 🏆 Grade B
+💡 Geneva role architecting SonarQube's AI code-remediation agent, AWS + LLM integration.
+🔗 https://www.jobs.ch/en/vacancies/detail/f273798a-3207-4db5-9cdd-0f15640cc3ec/
+
+*4.* *VP of Engineering* @ Crystal Intelligence
+📍 Remote (US-based) | ⭐ 71/100 | 🏆 Grade B
+💡 Lead migration to an AI-native pipeline, rebuild engineering discipline, strong comp ($180-288K).
+🔗 https://crystalintelligence.teamtailor.com/jobs/7757461-vp-of-engineering-remote
+
+---
+📊 _11 new offers | 1121 total tracked_

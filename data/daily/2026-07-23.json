@@ -1,0 +1,55 @@
+{
+  "date": "2026-07-23",
+  "total_searched": 14,
+  "new_offers": 11,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Principal Engineer (AI & Cloud Infrastructure)",
+      "company": "On AG",
+      "location": "Zürich, Switzerland",
+      "url": "https://sportstechjobs.com/principal-engineer-(ai-and-cloud-infrastructure)-on/6a60e98e89eb22bf5d69af1b",
+      "score": 75,
+      "grade": "B",
+      "why": "Principal-level ownership of the AI infrastructure stack (model serving, agent runtimes, LLMOps, vector infra) at a fast-growing, publicly traded Swiss company fits Magino's platform-engineering and AI-augmented-engineering focus well. Zurich keeps him in Switzerland and the seniority bar (10+ years, principal scope) matches his Staff+ background.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Founding Software Engineer, Agentic AI",
+      "company": "Glacis",
+      "location": "Remote",
+      "url": "https://wellfound.com/jobs/4053494-founding-software-engineer-agentic-ai-remote",
+      "score": 75,
+      "grade": "B",
+      "why": "A founding-engineer role building an agentic AI product from zero is the closest match to Magino's cofounder background at Alaya. Fully remote and AI-native, though comp and team size weren't disclosed in the listing (Wellfound blocked full detail extraction) so they're worth confirming early.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Senior Software Engineer (Java) - Remediation Agent",
+      "company": "SonarSource SA",
+      "location": "Geneva, Switzerland",
+      "url": "https://www.jobs.ch/en/vacancies/detail/f273798a-3207-4db5-9cdd-0f15640cc3ec/",
+      "score": 73,
+      "grade": "B",
+      "why": "Geneva-based role architecting the AI agent behind SonarQube's autonomous code-remediation engine, combining AWS backend depth with hands-on LLM integration (OpenAI/Anthropic, RAG, sandboxed execution). Title reads 'Senior' rather than Staff, but owning a new production AI agent subsystem is Staff-level scope.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "VP of Engineering",
+      "company": "Crystal Intelligence",
+      "location": "Remote (US-based company)",
+      "url": "https://crystalintelligence.teamtailor.com/jobs/7757461-vp-of-engineering-remote",
+      "score": 71,
+      "grade": "B",
+      "why": "VP Engineering mandate to migrate a blockchain-compliance platform to an AI-native pipeline and rebuild engineering management discipline is a natural extension of Magino's cofounder and platform-rebuild experience. Fully remote with strong comp ($180-288K), though the company is US-headquartered so timezone overlap needs confirming.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
