@@ -1,0 +1,67 @@
+{
+  "date": "2026-07-25",
+  "total_searched": 14,
+  "new_offers": 8,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Fullstack / Product AI Founding Engineer",
+      "company": "Rockstar Recruiting AG (for client)",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.adzuna.ch/details/5752138577",
+      "score": 80,
+      "grade": "B",
+      "why": "Founding-engineer scope building an AI product from scratch, Swiss market rate (CHF 140-150k) plus B-permit sponsorship, close to Magino's cofounder/build-from-zero background even if it comes through a recruiter listing.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "AI/Platform Engineer — AWS Bedrock Agentcore",
+      "company": "Toptal",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/toptal-ai-platform-engineer-aws-bedrock-agentcore",
+      "score": 67,
+      "grade": "C",
+      "why": "Direct hit on AI-augmented engineering and platform ownership (RAG pipelines, agent architectures on AWS), but the role reads more IC than Staff+ leadership.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Senior Staff Software Engineer, Core Automation",
+      "company": "Coinbase",
+      "location": "Remote (US timezone-leaning)",
+      "url": "https://weworkremotely.com/remote-jobs/coinbase-senior-staff-software-engineer-core-automation",
+      "score": 66,
+      "grade": "C",
+      "why": "Senior Staff scope architecting for agentic AI adoption and LLM-based internal tooling matches the AI-augmented engineering angle, though the remote setup leans US hours.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Senior Staff Software Engineer, Data Platform",
+      "company": "Coinbase",
+      "location": "Remote (US timezone-leaning)",
+      "url": "https://weworkremotely.com/remote-jobs/coinbase-senior-staff-software-engineer-data-platform",
+      "score": 64,
+      "grade": "C",
+      "why": "Platform-engineering ownership over AI/ML-ready data infrastructure at Staff+ level, solid technical fit but a large post-IPO company rather than a startup build.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Staff Design Engineer, EU",
+      "company": "Ashby",
+      "location": "Remote (Portugal-based team)",
+      "url": "https://wellfound.com/jobs/3543475-staff-design-engineer-eu",
+      "score": 61,
+      "grade": "C",
+      "why": "Staff-level role at a fast-growing product scale-up in a genuinely Europe-friendly timezone, but the design/frontend focus is a partial rather than core match for Magino's platform background.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}

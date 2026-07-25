@@ -1,0 +1,29 @@
+🎯 *Job Hunter — 2026-07-25*
+
+*1.* *Fullstack / Product AI Founding Engineer* @ Rockstar Recruiting AG (for client)
+📍 Zurich, Switzerland | ⭐ 80/100 | 🏆 Grade B
+💡 Founding-engineer scope building an AI product from zero, CHF 140-150k, B-permit sponsorship.
+🔗 https://www.adzuna.ch/details/5752138577
+
+*2.* *AI/Platform Engineer — AWS Bedrock Agentcore* @ Toptal
+📍 Remote | ⭐ 67/100 | 🏆 Grade C
+💡 RAG pipelines and agent architectures on AWS — strong AI-augmented engineering fit.
+🔗 https://weworkremotely.com/remote-jobs/toptal-ai-platform-engineer-aws-bedrock-agentcore
+
+*3.* *Senior Staff Software Engineer, Core Automation* @ Coinbase
+📍 Remote (US timezone-leaning) | ⭐ 66/100 | 🏆 Grade C
+💡 Staff+ scope on agentic AI adoption and LLM-based internal tooling.
+🔗 https://weworkremotely.com/remote-jobs/coinbase-senior-staff-software-engineer-core-automation
+
+*4.* *Senior Staff Software Engineer, Data Platform* @ Coinbase
+📍 Remote (US timezone-leaning) | ⭐ 64/100 | 🏆 Grade C
+💡 Platform ownership over AI/ML-ready data infrastructure at Staff+ level.
+🔗 https://weworkremotely.com/remote-jobs/coinbase-senior-staff-software-engineer-data-platform
+
+*5.* *Staff Design Engineer, EU* @ Ashby
+📍 Remote (Portugal-based team) | ⭐ 61/100 | 🏆 Grade C
+💡 Staff-level role at a fast-growing scale-up, Europe-friendly hours, though design-focused.
+🔗 https://wellfound.com/jobs/3543475-staff-design-engineer-eu
+
+---
+📊 _8 new offers | 1129 total tracked_
