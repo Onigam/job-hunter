@@ -1,0 +1,43 @@
+{
+  "date": "2026-07-26",
+  "total_searched": 19,
+  "new_offers": 10,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Founding Engineer",
+      "company": "Lonio",
+      "location": "Zurich, Switzerland",
+      "url": "https://ch.linkedin.com/jobs/view/founding-engineer-at-lonio-4420734156",
+      "score": 81,
+      "grade": "B",
+      "why": "Founding engineer at an AI-native startup with a working MVP and paying customers, echoing Magino's own Alaya-to-acquisition story. Zurich is a short hop from Geneva and the AI-first product matches his AI-augmented engineering focus, though it's an IC build role rather than a leadership seat.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Staff Site Reliability Engineer",
+      "company": "SonarSource",
+      "location": "Geneva, Switzerland",
+      "url": "https://jobs.generalcatalyst.com/companies/sonarsource/jobs/69369566-staff-site-reliability-engineer",
+      "score": 73,
+      "grade": "B",
+      "why": "Staff SRE ownership over a Geneva-based, engineering-first product company's cloud-native reliability stack, a natural extension of Magino's platform engineering depth. Local, well-funded and squarely Staff-level, though narrower in scope (reliability/ops) than the cross-team architecture work he did at Benevity.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Senior Staff Engineer (x/f/m)",
+      "company": "Doctolib",
+      "location": "Berlin, Germany (Europe)",
+      "url": "https://wellfound.com/jobs/2734818-senior-staff-engineer-x-f-m",
+      "score": 70,
+      "grade": "B",
+      "why": "Senior Staff IC driving cross-team technical strategy at one of Europe's most mission-driven health-tech scale-ups, similar in spirit to Magino's post-acquisition Benevity work. Berlin rather than Geneva is the main drag, offset by strong mission alignment and growth trajectory.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
