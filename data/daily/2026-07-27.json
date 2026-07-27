@@ -1,0 +1,67 @@
+{
+  "date": "2026-07-27",
+  "total_searched": 20,
+  "new_offers": 9,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Head of/VP of Engineering",
+      "company": "Mimica Automation",
+      "location": "Remote",
+      "url": "https://himalayas.app/companies/mimica-automation/jobs/head-of-vp-of-engineering",
+      "score": 79,
+      "grade": "B",
+      "why": "A first Head of Engineering hire at a well-funded AI automation company doubling its org, which is close to the founding-leadership seat Magino built at Alaya. Fully remote and scaling fast, though the exact time zone overlap isn't confirmed.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Founding Engineer",
+      "company": "Technovatime",
+      "location": "Remote (New York, NY based team)",
+      "url": "https://jobs.techstars.com/companies/technovatime/jobs/73782177-founding-engineer",
+      "score": 74,
+      "grade": "B",
+      "why": "Ground-floor infrastructure ownership on an AI-orchestration platform, the same kind of blank-page build Magino did at Alaya before its acquisition. The US time zone is the main downside for a Geneva-based candidate.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Founding Software Engineer",
+      "company": "hapiy.ai",
+      "location": "Boston, MA (in-office or remote)",
+      "url": "https://builtin.com/job/founding-software-engineer/7188513",
+      "score": 73,
+      "grade": "B",
+      "why": "Founding-engineer scope with a remote option, building an AI trust layer from the ground up, which lines up well with Magino's cofounder history and current AI-augmented engineering focus. Boston base and disclosed salary band suggest it's calibrated to US rather than Swiss comp.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Principal/Staff Software Engineer",
+      "company": "Nexthink",
+      "location": "Lausanne, Switzerland",
+      "url": "https://jobs.smartrecruiters.com/Nexthink/744000137165769-principal-staff-software-engineer",
+      "score": 72,
+      "grade": "B",
+      "why": "Principal/Staff architecture ownership on an AI platform at a well-established Swiss product company, just up the lake from Geneva. Nexthink is more mature than a startup, so it trades some founding-stage upside for stability and local proximity.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Senior AI Engineer",
+      "company": "Jua.ai",
+      "location": "Zurich, Switzerland",
+      "url": "https://builtin.com/job/senior-ai-engineer/3067689",
+      "score": 71,
+      "grade": "B",
+      "why": "An early-stage, equity-heavy AI startup in Zurich building physics-grounded models, a strong match for Magino's AI-augmented engineering interest and in-country location preference. The title reads as senior IC rather than Staff+, so it may sit a notch below his target seniority.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
