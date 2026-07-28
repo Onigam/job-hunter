@@ -1,0 +1,19 @@
+🎯 *Job Hunt — 2026-07-28*
+
+*1.* *Senior Applied AI Engineer* @ Bolt.new (StackBlitz)
+📍 Remote (global) | ⭐ 82/100 | 🏆 Grade B
+💡 Core engineering role building the AI coding agents behind one of the fastest-growing AI products right now, squarely in Magino's AI-augmented engineering focus and TypeScript/WebContainers stack.
+🔗 https://job-boards.greenhouse.io/stackblitz/jobs/4005254009
+
+*2.* *Senior/Staff Engineer, n8n Labs* @ n8n
+📍 Remote - Europe | ⭐ 78/100 | 🏆 Grade B
+💡 Founding-team role on n8n's new AI-native product skunkworks, building 0-to-1 in TypeScript inside a fast-growing, genuinely remote-first European automation platform.
+🔗 https://jobs.ashbyhq.com/n8n/7c4adbd2-5405-4c4a-960a-bd3ed0cacd3b
+
+*3.* *Technical Co-Founder (CTO)* @ Primerus AI
+📍 Remote (Swiss/DACH-market startup) | ⭐ 75/100 | 🏆 Grade B
+💡 Hands-on CTO/co-founder role owning autonomous AI architecture for a bootstrapped, already-revenue-generating DACH startup, a real echo of the Alaya-to-acquisition arc.
+🔗 https://www.startupticker.ch/en/jobs/looking-for-a-technical-co-founder-cto-for-primerus-ai
+
+---
+📊 _20 new offers | 1168 total tracked_

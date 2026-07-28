@@ -1,0 +1,43 @@
+{
+  "date": "2026-07-28",
+  "total_searched": 36,
+  "new_offers": 20,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Senior Applied AI Engineer",
+      "company": "Bolt.new (StackBlitz)",
+      "location": "Remote (global)",
+      "url": "https://job-boards.greenhouse.io/stackblitz/jobs/4005254009",
+      "score": 82,
+      "grade": "B",
+      "why": "Core engineering role building the AI coding agents behind one of the fastest-growing AI products right now, squarely in Magino's AI-augmented engineering focus and TypeScript/WebContainers stack. Fully remote and high-growth, though it's not Switzerland/EU-timezone specific.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Senior/Staff Engineer, n8n Labs",
+      "company": "n8n",
+      "location": "Remote - Europe",
+      "url": "https://jobs.ashbyhq.com/n8n/7c4adbd2-5405-4c4a-960a-bd3ed0cacd3b",
+      "score": 78,
+      "grade": "B",
+      "why": "Founding-team role on n8n's new AI-native product skunkworks, building 0-to-1 in TypeScript inside a fast-growing, genuinely remote-first European automation platform. Combines the founding-engineer ownership Magino is targeting with direct AI product exposure.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Technical Co-Founder (CTO)",
+      "company": "Primerus AI",
+      "location": "Remote (Swiss/DACH-market startup)",
+      "url": "https://www.startupticker.ch/en/jobs/looking-for-a-technical-co-founder-cto-for-primerus-ai",
+      "score": 75,
+      "grade": "B",
+      "why": "Hands-on CTO/co-founder role owning autonomous AI architecture for a bootstrapped, already-revenue-generating DACH startup, a real echo of the Alaya-to-acquisition arc. Equity-based and early-stage, so cash compensation needs direct discussion.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
