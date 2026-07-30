@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28",
+  "last_updated": "2026-07-30",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -16530,6 +16530,76 @@
       "grade": "C",
       "part_time": false,
       "date_found": "2026-07-28",
+      "status": "new"
+    },
+    {
+      "id": "febd4637cd2d",
+      "title": "Co-Founder, CTO (Industrial Intelligence Platform)",
+      "company": "Marble",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.eu-startups.com/job/co-founder-cto-industrial-intelligence-platform",
+      "source": "other",
+      "summary": "Zurich startup founded by a process-engineering PhD from ETH Zurich, targeting a large market to cut industrial energy spend. Looking for a co-founder CTO with a strong ML engineering background to build the industrial intelligence platform from zero.",
+      "score": 84,
+      "grade": "B",
+      "part_time": false,
+      "date_found": "2026-07-30",
+      "status": "new"
+    },
+    {
+      "id": "319ccfd75c8b",
+      "title": "Product/Backend Founding Engineer (1-2% Equity)",
+      "company": "Kensai",
+      "location": "Zurich, Switzerland (flexible location)",
+      "url": "https://www.jackandjill.ai/jobs/product-backend-founding-engineer-1-2-equity-at-kensai-the-operating-system-for--990c3492-8cad-4358-ae51-f336ef840cb6",
+      "source": "other",
+      "summary": "Third technical hire at a stealth-mode Swiss startup building the operating system for health commerce. Owns data pipelines and scraping engines feeding an AI reasoning layer.",
+      "score": 80,
+      "grade": "B",
+      "part_time": false,
+      "date_found": "2026-07-30",
+      "status": "new"
+    },
+    {
+      "id": "22b79597d810",
+      "title": "Senior Rust Engineer (Foundation)",
+      "company": "Proton",
+      "location": "Geneva, Switzerland",
+      "url": "https://boards.eu.greenhouse.io/proton/jobs/4328256101",
+      "source": "other",
+      "summary": "Design and maintain foundational Rust libraries powering Proton's Drive, Mail and Payments clients across web, mobile and desktop. Proton is a privacy-focused, profitable, Geneva-headquartered company.",
+      "score": 58,
+      "grade": "C",
+      "part_time": false,
+      "date_found": "2026-07-30",
+      "status": "new"
+    },
+    {
+      "id": "3a334da3ff68",
+      "title": "Senior Software Engineer",
+      "company": "Spacelift",
+      "location": "Remote (Europe)",
+      "url": "https://news.ycombinator.com/item?id=48360601",
+      "source": "hn",
+      "summary": "Backend role written entirely in Go on AWS at a Series C ($51M) infrastructure-orchestration platform for IaC tools. Fully remote across Europe.",
+      "score": 58,
+      "grade": "C",
+      "part_time": false,
+      "date_found": "2026-07-30",
+      "status": "new"
+    },
+    {
+      "id": "2714815c7ea2",
+      "title": "Senior Solutions Engineer",
+      "company": "Taurus SA",
+      "location": "Zurich / Geneva / Lausanne / Sion, Switzerland",
+      "url": "https://www.crypto-careers.com/jobs/540753571-senior-solutions-engineer-zurich-geneva-lausanne-sion-at-taurus-sa",
+      "source": "other",
+      "summary": "Hands-on technical architect bridging Taurus's engineering teams and clients' IT/devops teams for its digital-asset custody platform.",
+      "score": 57,
+      "grade": "C",
+      "part_time": false,
+      "date_found": "2026-07-30",
       "status": "new"
     }
   ]

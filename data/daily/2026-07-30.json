@@ -1,0 +1,67 @@
+{
+  "date": "2026-07-30",
+  "total_searched": 15,
+  "new_offers": 5,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Co-Founder, CTO (Industrial Intelligence Platform)",
+      "company": "Marble",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.eu-startups.com/job/co-founder-cto-industrial-intelligence-platform",
+      "score": 84,
+      "grade": "B",
+      "why": "Co-founder CTO role building an industrial AI platform from zero, which mirrors Magino's Alaya-to-Benevity trajectory closely. The ML-heavy stack lines up with his AI-augmented engineering focus, and Zurich keeps him in Switzerland even if it's a step from Geneva.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Product/Backend Founding Engineer (1-2% Equity)",
+      "company": "Kensai",
+      "location": "Zurich, Switzerland (flexible location)",
+      "url": "https://www.jackandjill.ai/jobs/product-backend-founding-engineer-1-2-equity-at-kensai-the-operating-system-for--990c3492-8cad-4358-ae51-f336ef840cb6",
+      "score": 80,
+      "grade": "B",
+      "why": "Third technical hire with genuine founding-engineer ownership over the data pipelines and AI reasoning layer, giving him the build-from-zero scope he targets. Flexible location keeps Geneva viable, and the equity structure fits his cofounder background.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Senior Rust Engineer (Foundation)",
+      "company": "Proton",
+      "location": "Geneva, Switzerland",
+      "url": "https://boards.eu.greenhouse.io/proton/jobs/4328256101",
+      "score": 58,
+      "grade": "C",
+      "why": "Geneva-based and platform-foundational, but the Rust-only stack is a step away from Magino's TypeScript/Node/Python core and the title sits below the Staff+ level he's targeting.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Senior Software Engineer",
+      "company": "Spacelift",
+      "location": "Remote (Europe)",
+      "url": "https://news.ycombinator.com/item?id=48360601",
+      "score": 58,
+      "grade": "C",
+      "why": "Infra-orchestration platform with AWS exposure fits his platform-engineering background, but it's a senior IC role on a Go stack rather than the Staff+/founding scope he's after.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Senior Solutions Engineer",
+      "company": "Taurus SA",
+      "location": "Zurich / Geneva / Lausanne / Sion, Switzerland",
+      "url": "https://www.crypto-careers.com/jobs/540753571-senior-solutions-engineer-zurich-geneva-lausanne-sion-at-taurus-sa",
+      "score": 57,
+      "grade": "C",
+      "why": "Swiss digital-asset infra company with a Geneva option, but the role is client-facing solutions engineering rather than platform ownership, a step down in technical depth from his profile.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}

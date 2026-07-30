@@ -1,0 +1,29 @@
+🎯 *Job Hunt — 2026-07-30*
+
+*1.* *Co-Founder, CTO (Industrial Intelligence Platform)* @ Marble
+📍 Zurich, Switzerland | ⭐ 84/100 | 🏆 Grade B
+💡 Co-founder CTO role building an industrial AI platform from zero, which mirrors Magino's Alaya-to-Benevity trajectory closely.
+🔗 https://www.eu-startups.com/job/co-founder-cto-industrial-intelligence-platform
+
+*2.* *Product/Backend Founding Engineer (1-2% Equity)* @ Kensai
+📍 Zurich, Switzerland (flexible location) | ⭐ 80/100 | 🏆 Grade B
+💡 Third technical hire with genuine founding-engineer ownership over the data pipelines and AI reasoning layer, giving him the build-from-zero scope he targets.
+🔗 https://www.jackandjill.ai/jobs/product-backend-founding-engineer-1-2-equity-at-kensai-the-operating-system-for--990c3492-8cad-4358-ae51-f336ef840cb6
+
+*3.* *Senior Rust Engineer (Foundation)* @ Proton
+📍 Geneva, Switzerland | ⭐ 58/100 | 🏆 Grade C
+💡 Geneva-based and platform-foundational, but the Rust-only stack is a step away from Magino's TypeScript/Node/Python core and the title sits below the Staff+ level he's targeting.
+🔗 https://boards.eu.greenhouse.io/proton/jobs/4328256101
+
+*4.* *Senior Software Engineer* @ Spacelift
+📍 Remote (Europe) | ⭐ 58/100 | 🏆 Grade C
+💡 Infra-orchestration platform with AWS exposure fits his platform-engineering background, but it's a senior IC role on a Go stack rather than the Staff+/founding scope he's after.
+🔗 https://news.ycombinator.com/item?id=48360601
+
+*5.* *Senior Solutions Engineer* @ Taurus SA
+📍 Zurich / Geneva / Lausanne / Sion, Switzerland | ⭐ 57/100 | 🏆 Grade C
+💡 Swiss digital-asset infra company with a Geneva option, but the role is client-facing solutions engineering rather than platform ownership, a step down in technical depth from his profile.
+🔗 https://www.crypto-careers.com/jobs/540753571-senior-solutions-engineer-zurich-geneva-lausanne-sion-at-taurus-sa
+
+---
+📊 _5 new offers | 1173 total tracked_
