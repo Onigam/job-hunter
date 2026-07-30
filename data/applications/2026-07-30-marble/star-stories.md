@@ -1,0 +1,26 @@
+Prepared for: Co-Founder, CTO (Industrial Intelligence Platform) at Marble
+Format: STAR+R, first person, flowing prose
+
+---
+
+## 1. Building Alaya from zero (best for: "why should we trust you as a technical co-founder")
+
+Back in 2016 I co-founded Alaya, an employee purpose and impact platform, and we started with nothing. No customers, no product, not even a name that had stuck yet. My job was to architect and build the whole thing from scratch, alone at first, while the rest of the founding team was out signing our first enterprise clients, which meant the pressure to have something demoable was real from week one. I went with Node.js, React, and Postgres, mostly because it let us move fast without locking ourselves into decisions we'd regret in a year. We had a working demo in about three months, then spent the next few years expanding into multi-tenant architecture, an API layer, impact reporting, and eventually hired and onboarded our first three engineers, setting up CI/CD and a code review culture as we went. By the time Benevity, a Canadian company valued north of a billion dollars, acquired us in 2021, we had over fifty enterprise clients across Switzerland and France running on the platform. If I'm honest, I'd have invested in observability much earlier; we bolted on proper APM way later than we should have, and I underestimated how expensive it would be to retrofit multi-tenancy instead of designing for it from day one. That's the kind of thing I'd do differently at Marble from the start.
+
+---
+
+## 2. The monolith-versus-microservices call (best for: "tell me about a hard technical trade-off you owned")
+
+At Alaya, our monolith started showing scaling cracks right around the time investors wanted new features, not a rewrite, which put me in an awkward spot. The team was split between a full microservices rewrite and just living with what we had, and neither felt right to me. I ran a two-week spike where we built prototype load tests for both approaches, then walked the CTO and investors through the actual numbers instead of my opinion on the matter. What came out of that was a strangler-fig plan: pull out the two highest-traffic modules first, leave the rest monolithic, and set clear criteria for when we'd extract more. We shipped the first extracted module in six weeks and saw about a 40% performance gain on our busiest endpoints, and the remaining monolith held up fine all the way through the acquisition. No big-bang rewrite, no six-month detour. The hard part honestly wasn't the technical work, it was convincing people that not rewriting everything was the disciplined choice. Data did most of that convincing for me. Next time I'd push for early benchmarking sooner, just to cut the debate short before it eats a month of everyone's attention.
+
+---
+
+## 3. Driving AI tooling adoption without authority (best for: "how do you get people to change how they work when you can't just tell them to")
+
+At Benevity I was a Senior Staff engineer with no direct reports, sitting on a team ten times the size of anything at Alaya, and I wanted to get people using AI-assisted development practices across two teams that didn't answer to me. Ordering people to change their workflow wasn't an option, so I started small: three engineers who were already curious became my first adopters. I built internal demos that showed real time savings, ran informal lunch-and-learn sessions with no mandate attached, and put together reusable prompt templates in a shared repo so the value was there for anyone who wanted it. One story that stuck was a PR review cycle that dropped by about two hours once someone tried the workflow. Within three months, something like 70% of engineers across both teams were using AI-assisted review and generation day to day. It was slower than a top-down rollout would have been, but it stuck, because people who opt in on their own terms end up defending the change to their peers in a way I never could have from the outside.
+
+---
+
+## 4. Joining a much bigger org after an acquisition (best for: "how do you operate inside someone else's system" / relevant to reporting into Marble's studio structure)
+
+The month after Benevity acquired Alaya, I landed on a team about ten times our old size, working in Java and microservices instead of the stack I knew, with processes I hadn't written and didn't fully understand yet. My instinct was to start proposing changes immediately, but I made myself spend the first month just mapping the existing architecture instead, and building relationships with the platform and infra teams before I pushed any technical opinion on them. That patience paid off: I ended up contributing to three major cross-team architecture decisions and became the point person for AI tooling adoption across two engineering teams, while also getting Alaya's core capabilities migrated into Benevity's platform without losing the delivery pace we'd built. Looking back, I moved too fast in the first couple of weeks trying to fix things that, from the new org's perspective, weren't actually broken. Slowing down and listening first is the one adjustment that made the rest of it work, and it's exactly the muscle I'd want to use again working alongside a Founder in Residence who already knows the domain better than I do.
