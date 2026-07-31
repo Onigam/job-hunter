@@ -1,0 +1,19 @@
+🎯 *Job Hunt — 2026-07-31*
+
+*1.* *Founding AI Engineer [LLM Platform]* @ Lobby
+📍 Zurich, Switzerland | ⭐ 87/100 | 🏆 Grade A
+💡 Founding-level ownership of the AI/LLM layer at a Swiss startup, CHF 155-175k, directly in Magino's AI-augmented engineering wheelhouse and mirrors the Alaya founding-engineer arc.
+🔗 https://swissaijob.ch/jobs/lobby-zuerich-founding-ai-engineer-llm-platform-11481
+
+*2.* *Founding Senior Engineer [Full Stack / Product]* @ Lobby
+📍 Zurich, Switzerland | ⭐ 83/100 | 🏆 Grade B
+💡 Founding full-stack role (TS/React/Node/Python/AWS) building an AI-agent platform from scratch in Zurich, a strong match for the build-from-zero, cofounder-track profile.
+🔗 https://swissaijob.ch/jobs/lobby-zuerich-founding-senior-engineer-full-stack-product-11480
+
+*3.* *Lead Backend Engineer (+ Equity)* @ LightWork AI
+📍 London, UK (hybrid/remote) | ⭐ 73/100 | 🏆 Grade B
+💡 Most senior backend hire on a Node.js/TypeScript AI product, working alongside founders with a proven 0-to-140-person scale-up track record; hybrid London reduces the location fit.
+🔗 https://jackandjill.ai/jobs/lead-backend-engineer-at-lightwork-ai-469cf44e-8c62-4649-810b-a1bcd57b2027
+
+---
+📊 _7 new offers | 1180 total tracked_

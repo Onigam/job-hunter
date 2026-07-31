@@ -1,0 +1,43 @@
+{
+  "date": "2026-07-31",
+  "total_searched": 15,
+  "new_offers": 7,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Founding AI Engineer [LLM Platform]",
+      "company": "Lobby",
+      "location": "Zurich, Switzerland",
+      "url": "https://swissaijob.ch/jobs/lobby-zuerich-founding-ai-engineer-llm-platform-11481",
+      "score": 87,
+      "grade": "A",
+      "why": "Founding-level ownership of the AI/LLM layer at a Swiss startup, CHF 155-175k, directly in Magino's AI-augmented engineering wheelhouse and mirrors the Alaya founding-engineer arc.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Founding Senior Engineer [Full Stack / Product]",
+      "company": "Lobby",
+      "location": "Zurich, Switzerland",
+      "url": "https://swissaijob.ch/jobs/lobby-zuerich-founding-senior-engineer-full-stack-product-11480",
+      "score": 83,
+      "grade": "B",
+      "why": "Founding full-stack role (TS/React/Node/Python/AWS) building an AI-agent platform from scratch in Zurich, a strong match for the build-from-zero, cofounder-track profile.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Lead Backend Engineer (+ Equity)",
+      "company": "LightWork AI",
+      "location": "London, UK (hybrid/remote)",
+      "url": "https://jackandjill.ai/jobs/lead-backend-engineer-at-lightwork-ai-469cf44e-8c62-4649-810b-a1bcd57b2027",
+      "score": 73,
+      "grade": "B",
+      "why": "Most senior backend hire on a Node.js/TypeScript AI product, working alongside founders with a proven 0-to-140-person scale-up track record; hybrid London reduces the location fit.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
