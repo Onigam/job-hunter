@@ -1,0 +1,43 @@
+{
+  "date": "2026-08-01",
+  "total_searched": 21,
+  "new_offers": 4,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Founding Engineer",
+      "company": "House of Charts",
+      "location": "Zurich, Switzerland",
+      "url": "https://houseofcharts.com/jobs/job-2",
+      "score": 77,
+      "grade": "B",
+      "why": "Founding-level ownership at a Zurich deep-tech/MedTech startup building AI applications for healthcare staff, squarely in the build-from-zero cofounder arc Magino is looking to repeat after Alaya.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Staff Software Engineer, AI-native automation",
+      "company": "Nexthink",
+      "location": "Lausanne, Switzerland",
+      "url": "https://jobs.smartrecruiters.com/Nexthink/744000139945699-staff-software-engineer-ai-native-automation",
+      "score": 76,
+      "grade": "B",
+      "why": "Staff-level role architecting the AI chat agent layer of a platform serving 20M+ users at a Swiss dual-HQ scale-up, a strong technical and seniority match with heavy AI exposure.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Co-Founder, CTO, Physical AI for Process Industries",
+      "company": "Marble",
+      "location": "Paris, France",
+      "url": "https://jobs.ashbyhq.com/marble/a6372990-3153-444d-a623-530c6b65caa0",
+      "score": 76,
+      "grade": "B",
+      "why": "Cofounder CTO seat at a climate-tech venture studio (STATION F, Paris) building a manufacturing-focused physical AI company from scratch; strong founder-track and mission fit, tempered by relocation outside Switzerland.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
