@@ -1,0 +1,55 @@
+{
+  "date": "2026-08-02",
+  "total_searched": 31,
+  "new_offers": 11,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Software Engineer",
+      "company": "Clicks (YC F25)",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.ycombinator.com/companies/clicks/jobs/W2yd0eI-software-engineer",
+      "score": 80,
+      "grade": "B",
+      "why": "Near-founding scope at a YC F25 seed startup building AI agents for healthcare back-office automation, Zurich-based with a Python/cloud stack that overlaps Magino's core skills. The title reads junior for his level and seed-stage cash comp is modest, but the ownership and AI-native mission are a strong match.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Senior Platform Architect",
+      "company": "Axelera AI",
+      "location": "Zurich, Switzerland",
+      "url": "https://jobs.ashbyhq.com/axelera/17131e36-e361-45a7-8538-1033a63addd1",
+      "score": 78,
+      "grade": "B",
+      "why": "Platform-architecture ownership at a Zurich AI-chip startup that has raised $370M and scaled past 220 people, sitting on the software layer above their AI accelerator hardware. Strong Swiss location and high-growth company fit offset the fact the core product is silicon, not software.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Staff IT Engineer for Automation & AI Transformation",
+      "company": "SoSafe",
+      "location": "Remote (Europe)",
+      "url": "https://jobs.ashbyhq.com/sosafe/ddf136c9-0367-43a6-8682-72df0feb1691",
+      "score": 75,
+      "grade": "B",
+      "why": "Staff-level automation and AI-transformation role at a fast-growing European cybersecurity-awareness scaleup, Europe-remote friendly with genuine platform ownership and AI exposure.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Staff Software Engineer, Agent Engineering",
+      "company": "TRM Labs",
+      "location": "Remote (US)",
+      "url": "https://jobs.ashbyhq.com/trm-labs/eb560943-3adb-4839-bf64-4cbdeee9ae57",
+      "score": 71,
+      "grade": "B",
+      "why": "Staff engineer building AI agents for a well-funded blockchain-intelligence scaleup, strong AI/agent focus and company trajectory, tempered by a US-remote timezone mismatch.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
