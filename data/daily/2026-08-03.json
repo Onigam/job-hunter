@@ -1,0 +1,67 @@
+{
+  "date": "2026-08-03",
+  "total_searched": 18,
+  "new_offers": 7,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Founding Engineer - Product Architect",
+      "company": "Stealth AI Startup",
+      "location": "Seattle/Bellevue, WA, USA (Hybrid, partial remote)",
+      "url": "https://jobs.ashbyhq.com/Stealth-AI-Startup-WA/69195b55-26ca-4014-ab8d-2614749e9865",
+      "score": 71,
+      "grade": "B",
+      "why": "Founding architect role shaping a from-scratch AI application platform at a stealth seed-stage startup, deep AI-platform ownership mirrors his Alaya founding experience, though it's Seattle-based with only partial remote flexibility.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Founding Engineer, AI - Shiplight AI",
+      "company": "Shiplight AI (Pear VC)",
+      "location": "San Francisco Bay Area, USA (Hybrid)",
+      "url": "https://jobs.ashbyhq.com/pear-vc/e681cf11-9b8a-4630-86ac-b995a76a77d7",
+      "score": 71,
+      "grade": "B",
+      "why": "First founding engineer building agentic QA systems at a Pear VC-backed startup, AI-agent architecture work close to his platform-building background, but Bay Area hybrid presence is expected.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Staff Engineer AI/ML",
+      "company": "AnswersNow Inc",
+      "location": "Remote (United States)",
+      "url": "https://jobs.ashbyhq.com/answersnow/77f6d0e2-adb8-47b8-98bd-d0bd2c5d23a2",
+      "score": 66,
+      "grade": "C",
+      "why": "Staff AI/ML engineering seat at a purpose-driven autism-therapy startup, healthcare mission resonates with his impact-driven preferences, though it's US-remote only and less founding-scope than he's targeting.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Founding Engineer ($3M pre-seed)",
+      "company": "Clera",
+      "location": "San Francisco, CA, USA (in-person hackerhouse)",
+      "url": "https://jobs.ashbyhq.com/clera/5e97b746-879c-422f-9a6e-e05b86d4c70c",
+      "score": 63,
+      "grade": "C",
+      "why": "First engineering hire at a freshly pre-seeded AI recruiting-agent startup, genuine founding-scope ownership, but the SF hackerhouse live-in setup rules out working from Geneva.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Lead Software Engineer / Founding Engineer",
+      "company": "Agent",
+      "location": "Remote (LATAM)",
+      "url": "https://jobs.ashbyhq.com/Agent/f180f3a2-a74d-4205-81c0-edbac49e2aab",
+      "score": 57,
+      "grade": "C",
+      "why": "Lead/founding engineer role at an AI-driven travel startup hiring remote across LATAM, decent founding scope and AI exposure, but the pay band sits well under Swiss market rates.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
