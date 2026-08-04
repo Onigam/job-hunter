@@ -1,0 +1,43 @@
+{
+  "date": "2026-08-04",
+  "total_searched": 18,
+  "new_offers": 5,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "VP of Engineering",
+      "company": "Qdrant",
+      "location": "Remote, Europe (Berlin HQ)",
+      "url": "https://jobs.ashbyhq.com/qdrant.tech/930cc1d0-3c8e-4446-8a56-b5c055609a1b",
+      "score": 78,
+      "grade": "B",
+      "why": "Leads engineering post-Series B at the vector-search company underpinning most RAG/AI stacks, a direct hit on his semantic-search and embeddings background. VP Eng scope over a growing org is a strong echo of scaling Alaya through to acquisition.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Co-Founder & CTO",
+      "company": "Omnia",
+      "location": "Remote, Europe",
+      "url": "https://join.com/companies/omniacarech/16013387-chief-technology-officer",
+      "score": 73,
+      "grade": "B",
+      "why": "Founding-equity CTO role defining the AI strategy and technical roadmap from scratch, a close match to his Alaya cofounder story. Early-stage means compensation is equity-heavy and unproven, which tempers the score.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Senior/Staff Engineer, Core Workflow Engine",
+      "company": "n8n",
+      "location": "Remote, Europe",
+      "url": "https://builtin.com/job/staff-software-engineer-core-workflow-engine-remote-europe/8412157",
+      "score": 66,
+      "grade": "C",
+      "why": "Staff-level ownership of the workflow execution engine at a fast-growing AI-automation platform, solid TypeScript/Node fit. Included to fill the slate: this exact req has been reposted repeatedly since March, so it reads as evergreen rather than a fresh opening.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+🎯 *Job Hunt — 2026-08-04*
+
+*1.* *VP of Engineering* @ Qdrant
+📍 Remote, Europe (Berlin HQ) | ⭐ 78/100 | 🏆 Grade B
+💡 Leads engineering post-Series B at the vector-search company powering most RAG/AI stacks, a direct hit on his semantic-search and embeddings background.
+🔗 https://jobs.ashbyhq.com/qdrant.tech/930cc1d0-3c8e-4446-8a56-b5c055609a1b
+
+*2.* *Co-Founder & CTO* @ Omnia
+📍 Remote, Europe | ⭐ 73/100 | 🏆 Grade B
+💡 Founding-equity CTO role defining AI strategy and technical roadmap from scratch, close to his Alaya cofounder story.
+🔗 https://join.com/companies/omniacarech/16013387-chief-technology-officer
+
+*3.* *Senior/Staff Engineer, Core Workflow Engine* @ n8n
+📍 Remote, Europe | ⭐ 66/100 | 🏆 Grade C
+💡 Staff-level workflow-engine ownership, TypeScript/Node fit, but this req has been reposted repeatedly since March so it's more evergreen than fresh.
+🔗 https://builtin.com/job/staff-software-engineer-core-workflow-engine-remote-europe/8412157
+
+---
+📊 _5 new offers | 1207 total tracked_
