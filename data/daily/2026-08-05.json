@@ -1,0 +1,43 @@
+{
+  "date": "2026-08-05",
+  "total_searched": 16,
+  "new_offers": 7,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Principal Site Reliability Engineer",
+      "company": "ID Quantique",
+      "location": "Geneva, Switzerland",
+      "url": "https://job-boards.eu.greenhouse.io/idquantique/jobs/4925915101",
+      "score": 88,
+      "grade": "A",
+      "why": "Principal-level ownership of reliability strategy for a Geneva-based deep-tech scaleup, now backed by IonQ after acquisition. The AWS/GCP, Kafka and AI-powered ops stack plus the Geneva location line up closely with Magino's platform engineering background and cofounder-level scope.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Staff DevSecOps Engineer",
+      "company": "ID Quantique",
+      "location": "Geneva, Switzerland",
+      "url": "https://job-boards.eu.greenhouse.io/idquantique/jobs/4925920101",
+      "score": 80,
+      "grade": "B",
+      "why": "Staff-level ownership of CI/CD, supply-chain security and an AI/LLM-driven automation-first developer platform, based in Geneva. Strong technical and location fit, though the scope is narrower than full platform architecture.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Sr Cloud Engineer | Infrastructure & Networking",
+      "company": "n8n",
+      "location": "Remote, Europe",
+      "url": "https://jobs.ashbyhq.com/n8n/b36e40e4-19d8-4d7e-a9b2-bddc9a59a63e",
+      "score": 69,
+      "grade": "C",
+      "why": "Only two A/B offers surfaced today, so this C-grade role fills the third slot: cloud infrastructure and networking ownership at n8n, a fast-growing AI-first workflow automation platform, remote Europe. Good company and location fit, but the role is infra-focused rather than AI/platform-architecture and sits at Senior rather than Staff level.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+🎯 *Job Hunt — 2026-08-05*
+
+*1.* *Principal Site Reliability Engineer* @ ID Quantique
+📍 Geneva, Switzerland | ⭐ 88/100 | 🏆 Grade A
+💡 Principal-level reliability ownership at a Geneva deep-tech scaleup (now IonQ-backed) on AWS/GCP, Kafka and AI-powered ops.
+🔗 https://job-boards.eu.greenhouse.io/idquantique/jobs/4925915101
+
+*2.* *Staff DevSecOps Engineer* @ ID Quantique
+📍 Geneva, Switzerland | ⭐ 80/100 | 🏆 Grade B
+💡 Staff-level CI/CD, supply-chain security and AI/LLM-driven automation platform ownership, in Geneva.
+🔗 https://job-boards.eu.greenhouse.io/idquantique/jobs/4925920101
+
+*3.* *Sr Cloud Engineer | Infrastructure & Networking* @ n8n
+📍 Remote, Europe | ⭐ 69/100 | 🏆 Grade C
+💡 Cloud infra role at a fast-growing AI-first workflow automation platform, remote Europe (filling slot 3, only 2 A/B offers today).
+🔗 https://jobs.ashbyhq.com/n8n/b36e40e4-19d8-4d7e-a9b2-bddc9a59a63e
+
+---
+📊 _7 new offers | 1214 total tracked_

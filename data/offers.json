@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04",
+  "last_updated": "2026-08-05",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -17419,6 +17419,97 @@
       "score": 54,
       "grade": "D",
       "date_found": "2026-08-04",
+      "status": "new"
+    },
+    {
+      "title": "Co-Founder CTO",
+      "company": "hrtechventures",
+      "location": "Zurich, Switzerland",
+      "url": "https://ch.linkedin.com/jobs/view/co-founder-cto-at-hrtechventures-3365164458",
+      "source": "linkedin",
+      "summary": "Swiss HR-tech startup (founded 2019) looking for an entrepreneurially-minded co-founder CTO to lead a small dev team and act as CEO sparring partner, with future equity in a planned subsidiary. Salary band 95k-115k CHF, which is below Staff+/CTO market rate for Zurich.",
+      "score": 56,
+      "grade": "C",
+      "id": "c7cc160a49eaca2f743e44614332a6d3",
+      "date_found": "2026-08-05",
+      "status": "new"
+    },
+    {
+      "title": "Principal Site Reliability Engineer",
+      "company": "ID Quantique",
+      "location": "Geneva, Switzerland",
+      "url": "https://job-boards.eu.greenhouse.io/idquantique/jobs/4925915101",
+      "source": "greenhouse",
+      "summary": "Own reliability strategy for ID Quantique's cloud-managed SaaS and on-prem quantum-safe communications platform: AWS/GCP, Kafka, OpenSearch, chaos engineering, AI-powered ops and FinOps. Principal-level, 15+ years, 3 days/week on-site in Geneva. Company was acquired by IonQ, giving it public-company backing.",
+      "score": 88,
+      "grade": "A",
+      "id": "868c6cebb95b5277e61bdda9ea634428",
+      "date_found": "2026-08-05",
+      "status": "new"
+    },
+    {
+      "title": "Staff DevSecOps Engineer",
+      "company": "ID Quantique",
+      "location": "Geneva, Switzerland",
+      "url": "https://job-boards.eu.greenhouse.io/idquantique/jobs/4925920101",
+      "source": "greenhouse",
+      "summary": "Own CI/CD, infrastructure-as-code and software supply-chain security (SBOMs, SLSA, artifact signing) for ID Quantique's internal developer platform, driving an automation-first culture with agentic/AI-LLM workflows. Staff-level, 8+ years, 3 days/week on-site in Geneva.",
+      "score": 80,
+      "grade": "B",
+      "id": "03077bf817c858c575dc7cc6609554a1",
+      "date_found": "2026-08-05",
+      "status": "new"
+    },
+    {
+      "title": "Staff System Architect",
+      "company": "ID Quantique",
+      "location": "Geneva, Switzerland",
+      "url": "https://job-boards.eu.greenhouse.io/idquantique/jobs/4828890101",
+      "source": "greenhouse",
+      "summary": "Lead system architecture for next-generation SNSPD (superconducting nanowire single-photon detector) platforms, spanning photonics, cryogenics, electronics and embedded software. Staff-level, Geneva on-site, but the hardware/quantum-physics focus is a poor match for a software/platform background.",
+      "score": 62,
+      "grade": "C",
+      "id": "b0b327266b73de1f20de8c01e900388b",
+      "date_found": "2026-08-05",
+      "status": "new"
+    },
+    {
+      "title": "Sr Cloud Engineer | Infrastructure & Networking",
+      "company": "n8n",
+      "location": "Remote, Europe",
+      "url": "https://jobs.ashbyhq.com/n8n/b36e40e4-19d8-4d7e-a9b2-bddc9a59a63e",
+      "source": "ashbyhq",
+      "summary": "Own cloud infrastructure and networking for n8n's workflow automation platform, remote Europe, senior level. Good company and location fit but the role itself is infra-focused rather than AI/platform-architecture.",
+      "score": 69,
+      "grade": "C",
+      "id": "c73d12e9462b8fca5afe6cc223e8f930",
+      "date_found": "2026-08-05",
+      "status": "new"
+    },
+    {
+      "title": "Senior Platform Engineer / Senior DevOps Engineer",
+      "company": "Taurus SA",
+      "location": "Geneva / Zurich / Lausanne, Switzerland",
+      "url": "https://www.crypto-careers.com/jobs/544169863-senior-platform-engineer-senior-devops-engineer-geneva-zurich-lausanne-at-taurus-sa",
+      "source": "other",
+      "summary": "Senior DevOps/platform role (3-7 years) at Taurus, a Geneva-based digital-asset custody and trading infrastructure fintech serving banks and institutions. Good location and company fit but seniority sits below Staff+ and no AI/LLM exposure mentioned.",
+      "score": 64,
+      "grade": "C",
+      "id": "bca371ea1f1f6f1052d7a63b2a9f6cdf",
+      "date_found": "2026-08-05",
+      "status": "new"
+    },
+    {
+      "title": "Staff Software Engineer, Distributed Systems",
+      "company": "LiveKit",
+      "location": "Remote, USA",
+      "url": "https://jobs.ashbyhq.com/livekit/b278b3c7-f9cd-4564-9c6b-ee655de75039",
+      "source": "ashbyhq",
+      "summary": "Staff-level distributed-systems role at LiveKit, building the real-time infrastructure that powers voice/video AI agent platforms. Strong technical and seniority fit, but US-only remote lowers the location score against Magino's Geneva/Europe preference.",
+      "score": 69,
+      "grade": "C",
+      "id": "b070fe579bbfbc9c5ce505d1bcab4c69",
+      "date_found": "2026-08-05",
       "status": "new"
     }
   ]
