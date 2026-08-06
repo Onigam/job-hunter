@@ -1,0 +1,19 @@
+{
+  "date": "2026-08-06",
+  "total_searched": 11,
+  "new_offers": 2,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Head of Engineering",
+      "company": "Frida",
+      "location": "Zurich, Switzerland",
+      "url": "https://wellfound.com/jobs/3612928-head-of-engineering",
+      "score": 55,
+      "grade": "C",
+      "why": "Only one offer cleared the quality bar today, so this C-grade fills the slot: Head of Engineering at Frida, an established Zurich-area consumer brand, matches Magino's leadership-track target and Switzerland location preference. Listing details are thin (behind Wellfound's access wall) and the parenting-products mission is a stretch from his AI-first, impact-driven preference.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
