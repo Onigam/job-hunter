@@ -1,0 +1,55 @@
+{
+  "date": "2026-08-07",
+  "total_searched": 22,
+  "new_offers": 4,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Staff / Principal Machine Learning Engineer, Serving",
+      "company": "Inworld AI",
+      "location": "Switzerland (Remote)",
+      "url": "https://jobgether.com/offer/69d6753daba5fafcee020a16-staff-principal-machine-learning-engineer-serving---switzerland",
+      "score": 82,
+      "grade": "B",
+      "why": "Staff/Principal title matches Magino's seniority target exactly, and Inworld is a well-funded AI company building the #1-ranked real-time voice models, strong AI/LLM alignment. Serving/infra ownership overlaps with platform engineering background, though the deep ML-systems focus is more specialized than his core TS/Node stack.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Founding Engineer - Backend & Platform",
+      "company": "Clera",
+      "location": "Berlin, Germany",
+      "url": "https://jobs.ashbyhq.com/Clera/e2686f44-b3e5-49c5-aad0-02a005c054b9",
+      "score": 71,
+      "grade": "B",
+      "why": "Founding-level platform ownership at an early-stage AI-powered B2B SaaS startup is close to the founding-engineer profile that landed Alaya. Berlin isn't Geneva, but it's Europe-friendly; job description details were sparse (Ashby page is JS-rendered) so verify remote flexibility and exact stack before applying.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Product Engineer",
+      "company": "Ojin",
+      "location": "Remote (CET ±2h) or Hybrid Berlin",
+      "url": "https://news.ycombinator.com/item?id=48753172",
+      "score": 68,
+      "grade": "C",
+      "why": "Direct TypeScript/React/Node/Python/AWS stack match and real-time AI agent infrastructure is squarely in the AI-augmented engineering space, plus working directly with a 15-person team's founders. Title and 3-5 year experience bar suggest a mid-level IC scope rather than Staff+, so seniority fit is weaker than the stack fit.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Founding Forward Deployed Engineer",
+      "company": "BLP Digital AG",
+      "location": "Zürich, Switzerland",
+      "url": "https://swissdevjobs.ch/jobs/BLP-Digital-AG-Founding-Forward-Deployed-Engineer",
+      "score": 67,
+      "grade": "C",
+      "why": "Switzerland-based founding-level role with forward-deployed/client-facing scope, a good ownership signal. The detailed job page returned a 403 on fetch so tech stack and company stage couldn't be fully verified; worth a manual look given the Swiss location.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-06",
+  "last_updated": "2026-08-07",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -17536,6 +17536,58 @@
       "grade": "C",
       "id": "59a870a47c8eb91c84cb5c88073f18aa",
       "date_found": "2026-08-06",
+      "status": "new"
+    },
+    {
+      "id": "9577df1216bf241fafb7c0053349d6ff",
+      "title": "Product Engineer",
+      "company": "Ojin",
+      "location": "Remote (CET \u00b12h) or Hybrid Berlin",
+      "url": "https://news.ycombinator.com/item?id=48753172",
+      "source": "hn",
+      "summary": "Ojin builds real-time Human AI agent infrastructure (natural voice/video conversation on a globally distributed GPU fabric), 5+ years proven with enterprise customers, now opening it as a developer platform. 15-person team, work directly with founders. Stack: TypeScript, React, Node.js, Python, WebRTC, WebSockets, AWS. 3-5 years experience, no visa sponsorship/relocation.",
+      "score": 68,
+      "grade": "C",
+      "date_found": "2026-08-07",
+      "status": "new"
+    },
+    {
+      "id": "243f9cdbd514f54274b321d2593bc56d",
+      "title": "Founding Forward Deployed Engineer",
+      "company": "BLP Digital AG",
+      "location": "Z\u00fcrich, Switzerland",
+      "url": "https://swissdevjobs.ch/jobs/BLP-Digital-AG-Founding-Forward-Deployed-Engineer",
+      "source": "swissdevjobs",
+      "summary": "Founding-level, client-facing forward-deployed engineering role at BLP Digital AG in Z\u00fcrich. Job detail page returned 403 on fetch so exact tech stack and company stage could not be verified beyond the listing title.",
+      "score": 67,
+      "grade": "C",
+      "date_found": "2026-08-07",
+      "status": "new"
+    },
+    {
+      "id": "324a09a96cd77b40daf2b7abd92b057e",
+      "title": "Staff / Principal Machine Learning Engineer, Serving",
+      "company": "Inworld AI",
+      "location": "Switzerland (Remote)",
+      "url": "https://jobgether.com/offer/69d6753daba5fafcee020a16-staff-principal-machine-learning-engineer-serving---switzerland",
+      "source": "jobgether",
+      "summary": "Staff/Principal ML Engineer, Serving at Inworld AI, a well-funded AI Character Engine company building top-ranked real-time voice models. Requires legal right to work in Switzerland (no visa sponsorship); relocation support to SF Bay Area possible. Posted May 14, 2026.",
+      "score": 82,
+      "grade": "B",
+      "date_found": "2026-08-07",
+      "status": "new"
+    },
+    {
+      "id": "19276ab1cb21b5e5adc99c77912b371d",
+      "title": "Founding Engineer - Backend & Platform",
+      "company": "Clera",
+      "location": "Berlin, Germany",
+      "url": "https://jobs.ashbyhq.com/Clera/e2686f44-b3e5-49c5-aad0-02a005c054b9",
+      "source": "ashbyhq",
+      "summary": "Founding Engineer, Backend & Platform at Clera, an early-stage B2B SaaS startup building an AI-powered operating platform (workflow automation, data pipelines) for tax advisory / accounting firms in Berlin. Ashby listing is JS-rendered so full detail could not be fetched directly; corroborated across two independent search snippets.",
+      "score": 71,
+      "grade": "B",
+      "date_found": "2026-08-07",
       "status": "new"
     }
   ]
