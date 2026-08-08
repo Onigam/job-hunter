@@ -1,0 +1,29 @@
+🎯 *Job Hunt — 2026-08-08*
+
+*1.* *Director of Engineering* @ n8n
+📍 Remote, Europe | ⭐ 80/100 | 🏆 Grade B
+💡 AI-native workflow automation platform hiring engineering leadership across a remote EU team, close to Magino's cofounder background.
+🔗 https://jobs.ashbyhq.com/n8n/443669df-8d0d-4169-929a-2f9cb293c6df/application
+
+*2.* *Staff Fullstack Engineer, Applied AI* @ Aleph
+📍 Remote, Americas | ⭐ 78/100 | 🏆 Grade B
+💡 Khosla-backed AI-native FP&A platform, Staff-level ownership of LLM features end to end (Americas hours caveat).
+🔗 https://jobs.khoslaventures.com/companies/aleph-2/jobs/65503392-staff-fullstack-engineer
+
+*3.* *Product & Backend Engineer* @ Langfuse (ClickHouse)
+📍 Berlin / EU-remote | ⭐ 68/100 | 🏆 Grade C
+💡 Open-source LLM observability startup backed by ClickHouse, squarely in the AI dev-tools space.
+🔗 https://langfuse.com/careers
+
+*4.* *Senior Software Engineer (Dev Platform)* @ Proxima Fusion
+📍 Munich, Germany | ⭐ 66/100 | 🏆 Grade C
+💡 Well-funded fusion-energy startup building internal dev-platform tooling, mission-driven but not Swiss-based.
+🔗 https://jobs.ashbyhq.com/proxima-fusion/5aebfef0-0c2c-4c87-990d-bbbbd53b94d2
+
+*5.* *Senior Software Engineer, Node/TypeScript* @ Sourcemap
+📍 Remote, Europe | ⭐ 64/100 | 🏆 Grade C
+💡 Architecture-focused role on Node/TypeScript/MongoDB/Redis, senior IC rather than Staff+.
+🔗 https://jobs.climatedraft.org/companies/sourcemap/jobs/72937547-senior-software-engineer-node-typescript-frontend-ecosystem
+
+---
+📊 _7 new offers | 1227 total tracked_

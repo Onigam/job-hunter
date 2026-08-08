@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07",
+  "last_updated": "2026-08-08",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -17588,6 +17588,97 @@
       "score": 71,
       "grade": "B",
       "date_found": "2026-08-07",
+      "status": "new"
+    },
+    {
+      "id": "96aac5177de9071486d3aa42cd173afe",
+      "title": "Director of Engineering",
+      "company": "n8n",
+      "location": "Remote, Europe",
+      "url": "https://jobs.ashbyhq.com/n8n/443669df-8d0d-4169-929a-2f9cb293c6df/application",
+      "source": "ashbyhq",
+      "summary": "Director of Engineering at n8n, an AI-native workflow automation platform (TypeScript/Node core) hiring engineering leadership across a fully remote European team.",
+      "score": 80,
+      "grade": "B",
+      "date_found": "2026-08-08",
+      "status": "new"
+    },
+    {
+      "id": "b6210850b6da18d8c044e327937351e2",
+      "title": "Staff Fullstack Engineer, Applied AI",
+      "company": "Aleph",
+      "location": "Remote, Americas (US/Canada/LATAM)",
+      "url": "https://jobs.khoslaventures.com/companies/aleph-2/jobs/65503392-staff-fullstack-engineer",
+      "source": "khoslaventures",
+      "summary": "Staff Fullstack Engineer, Applied AI at Aleph, a Khosla Ventures-backed AI-native FP&A platform. Owns LLM-driven features end to end. Remote Americas only (US/Canada/LATAM), no Europe hours confirmed.",
+      "score": 78,
+      "grade": "B",
+      "date_found": "2026-08-08",
+      "status": "new"
+    },
+    {
+      "id": "408bd07b1e80873e500cfe82861a4c4c",
+      "title": "Product & Backend Engineer",
+      "company": "Langfuse (ClickHouse)",
+      "location": "Berlin / EU-remote",
+      "url": "https://langfuse.com/careers",
+      "source": "other",
+      "summary": "Product and Backend Engineer roles at Langfuse, an open-source LLM observability platform backed by ClickHouse. Berlin / EU-remote with periodic onsite. Seniority not specified in listing.",
+      "score": 68,
+      "grade": "C",
+      "date_found": "2026-08-08",
+      "status": "new"
+    },
+    {
+      "id": "cd1bbf6f8ca9e9a3c0a667a4510589d2",
+      "title": "Senior Software Engineer (Dev Platform)",
+      "company": "Proxima Fusion",
+      "location": "Munich, Germany",
+      "url": "https://jobs.ashbyhq.com/proxima-fusion/5aebfef0-0c2c-4c87-990d-bbbbd53b94d2",
+      "source": "ashbyhq",
+      "summary": "Senior Software Engineer, Dev Platform at Proxima Fusion, a well-funded fusion-energy startup, building internal developer platform tooling. Based in Munich, mentions Zurich-linked team.",
+      "score": 66,
+      "grade": "C",
+      "date_found": "2026-08-08",
+      "status": "new"
+    },
+    {
+      "id": "5f94faaa8d1a88cb22e644637d023127",
+      "title": "Senior Software Engineer, Node/TypeScript/Frontend Ecosystem",
+      "company": "Sourcemap",
+      "location": "Remote, Europe",
+      "url": "https://jobs.climatedraft.org/companies/sourcemap/jobs/72937547-senior-software-engineer-node-typescript-frontend-ecosystem",
+      "source": "other",
+      "summary": "Senior Software Engineer at Sourcemap, working across Node, TypeScript, Angular/Next.js, MongoDB and Redis to improve architecture and system boundaries. Base salary $130k-$160k.",
+      "score": 64,
+      "grade": "C",
+      "date_found": "2026-08-08",
+      "status": "new"
+    },
+    {
+      "id": "562b2b10d7179fd16d6f0a4a01d83fde",
+      "title": "Staff Platform Engineer",
+      "company": "Jobgether (client undisclosed)",
+      "location": "Remote (Europe/LatAm)",
+      "url": "https://jobs.lever.co/jobgether/740dbf8d-8249-44a2-bf65-31fb722a3e2a",
+      "source": "lever",
+      "summary": "Staff Platform Engineer posted via Jobgether recruiting platform for an undisclosed end client. Low confidence listing; stack, company, and compensation not specified.",
+      "score": 51,
+      "grade": "D",
+      "date_found": "2026-08-08",
+      "status": "new"
+    },
+    {
+      "id": "6719341760a0826b192b6f92a453e47c",
+      "title": "Platform Engineer, Modern Client Infrastructure",
+      "company": "SBB CFF FFS",
+      "location": "Switzerland",
+      "url": "https://www.jobup.ch/en/jobs/detail/5153953a-12da-4bcf-bbbd-c0599fe4d778/",
+      "source": "jobup",
+      "summary": "Platform Engineer, Modern Client Infrastructure at SBB CFF FFS (Swiss Federal Railways). Large state-owned enterprise, not a startup; IC platform role without leadership scope.",
+      "score": 41,
+      "grade": "D",
+      "date_found": "2026-08-08",
       "status": "new"
     }
   ]

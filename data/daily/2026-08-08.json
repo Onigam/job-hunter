@@ -1,0 +1,67 @@
+{
+  "date": "2026-08-08",
+  "total_searched": 16,
+  "new_offers": 7,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Director of Engineering",
+      "company": "n8n",
+      "location": "Remote, Europe",
+      "url": "https://jobs.ashbyhq.com/n8n/443669df-8d0d-4169-929a-2f9cb293c6df/application",
+      "score": 80,
+      "grade": "B",
+      "why": "n8n is a fast-growing, AI-native workflow automation platform on a TypeScript/Node core, hiring engineering leadership across a fully remote European team. The scope blends technical ownership with leadership, close to Magino's cofounder background at Alaya, and the AI-agent product direction lines up with his current AI-augmented engineering focus.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Staff Fullstack Engineer, Applied AI",
+      "company": "Aleph",
+      "location": "Remote, Americas (US/Canada/LATAM)",
+      "url": "https://jobs.khoslaventures.com/companies/aleph-2/jobs/65503392-staff-fullstack-engineer",
+      "score": 78,
+      "grade": "B",
+      "why": "Aleph is a Khosla Ventures-backed, AI-native FP&A platform where this Staff role owns LLM-driven features end to end, a strong match for Magino's AI/LLM integration experience and founding-engineer mindset. The main caveat is the Americas-only remote policy, which likely means US-hours overlap rather than a Geneva-friendly schedule.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Product & Backend Engineer",
+      "company": "Langfuse (ClickHouse)",
+      "location": "Berlin / EU-remote",
+      "url": "https://langfuse.com/careers",
+      "score": 68,
+      "grade": "C",
+      "why": "Langfuse builds open-source LLM observability tooling and is backed by ClickHouse, squarely in the AI developer-tools space Magino wants to move into. Seniority isn't spelled out in the posting, so it may land as a senior IC role rather than Staff+.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Senior Software Engineer (Dev Platform)",
+      "company": "Proxima Fusion",
+      "location": "Munich, Germany (Zurich-linked team)",
+      "url": "https://jobs.ashbyhq.com/proxima-fusion/5aebfef0-0c2c-4c87-990d-bbbbd53b94d2",
+      "score": 66,
+      "grade": "C",
+      "why": "Proxima Fusion is a well-funded fusion-energy startup building internal developer-platform tooling, appealing for the mission-driven, build-from-zero angle Magino looks for. It's based in Munich rather than Switzerland, and the stack skews toward physics/simulation infrastructure rather than his core AI/web platform work.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Senior Software Engineer, Node/TypeScript/Frontend Ecosystem",
+      "company": "Sourcemap",
+      "location": "Remote, Europe",
+      "url": "https://jobs.climatedraft.org/companies/sourcemap/jobs/72937547-senior-software-engineer-node-typescript-frontend-ecosystem",
+      "score": 64,
+      "grade": "C",
+      "why": "Sourcemap needs someone with strong architectural instincts across Node, TypeScript, MongoDB and Redis to shape system boundaries, close to Magino's stack and platform-architecture strengths. It's a senior IC role rather than Staff+ or founding scope, and the supply-chain domain only loosely ties to his AI-augmented engineering focus.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
