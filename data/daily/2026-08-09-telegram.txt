@@ -1,0 +1,24 @@
+🎯 *Job Hunter — 2026-08-09*
+
+*1.* *Hands-on CTO — AI-First Engineering* @ Jobgether (client, SaaS scaleup)
+📍 Remote (Global, EU-friendly, NL-based partner) | ⭐ 81/100 | 🏆 Grade B
+💡 CTO-level ownership with a hands-on, AI-first mandate maps directly onto Magino's cofounder background and current focus on AI-augmented engineering.
+🔗 https://jobs.lever.co/jobgether/374bbe5b-685e-4e6f-9ea9-426c55b31318
+
+*2.* *Founding Engineer (Senior/Staff)* @ Sailor Health
+📍 New York, USA / Remote (US) | ⭐ 73/100 | 🏆 Grade B
+💡 A true 0-to-1 founding role with mission-driven healthcare impact, echoing the Alaya build-from-scratch experience.
+🔗 https://jobs.ashbyhq.com/sailorhealth/8364db39-5045-4707-987c-edeb3b66d352
+
+*3.* *Founding Engineer* @ Clera
+📍 San Francisco, USA (in-person) | ⭐ 70/100 | 🏆 Grade B
+💡 Strong technical and AI-stack overlap plus genuine founding-engineer scope, but the team requires in-person collaboration in San Francisco, which conflicts with Geneva-based location preference and is the main drag on the score.
+🔗 https://jobs.ashbyhq.com/Clera/38b34f63-b2d0-4fff-9e39-a0d87a80f356
+
+*4.* *Staff Platform Engineer, Infrastructure* @ Wispr Flow
+📍 New York, USA (some remote roles) | ⭐ 70/100 | 🏆 Grade B
+💡 Staff-level platform ownership at a high-growth AI product company is a strong technical and seniority fit, tempered by an uncertain remote policy and US timezone base.
+🔗 https://jobs.ashbyhq.com/wispr-flow/935df07f-6718-4c23-988e-f388fdb79760
+
+---
+📊 _16 new offers | 1243 total tracked_
