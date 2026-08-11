@@ -1,0 +1,24 @@
+🎯 *Job Hunter — 2026-08-11*
+
+*1.* *Founding Full Stack & AI Engineer* @ The Outdoor Builders
+📍 San Francisco, USA / Remote | ⭐ 76/100 | 🏆 Grade B
+💡 Founding-scope role with heavy AI/LLM exposure across a 100+ model pipeline, close match to the cofounder + AI-augmented profile.
+🔗 https://wellfound.com/jobs/3059023-founding-full-stack-ai-engineer
+
+*2.* *Founding AI Engineer* @ Casium
+📍 Seattle, USA | ⭐ 72/100 | 🏆 Grade B
+💡 Founding AI role at a $5M-seed startup automating immigration filings, mission-driven and AI-native but onsite in Seattle.
+🔗 https://wellfound.com/jobs/3279816-founding-ai-engineer
+
+*3.* *Founding Engineer, Full Stack* @ Ventuals
+📍 New York, USA (Soho office) | ⭐ 65/100 | 🏆 Grade C
+💡 Strong TypeScript/Next.js overlap and real founding mandate on a crypto exchange ahead of mainnet, but weaker mission fit and likely NYC-based.
+🔗 https://jobs.ashbyhq.com/ventuals/e406d4e0-2a1f-4d15-815e-f610758a72e0
+
+*4.* *Staff Software Engineer* @ Depot
+📍 Unclear (US-based dev-tools startup) | ⭐ 63/100 | 🏆 Grade C
+💡 High-ownership staff role on a small dev-tools team, good platform-engineering fit but no confirmed AI angle or remote policy.
+🔗 https://jobs.ashbyhq.com/depot/c303bf37-ee14-4593-9ac9-c2fb4c65253a
+
+---
+📊 _9 new offers | 1252 total tracked_

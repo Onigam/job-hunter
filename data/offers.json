@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09",
+  "last_updated": "2026-08-11",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -17871,6 +17871,114 @@
       "summary": "Technical Lead role at Sekai, found via startup.jobs; limited public detail available.",
       "score": 48,
       "date_found": "2026-08-09",
+      "status": "new"
+    },
+    {
+      "id": "36786cf5c7",
+      "title": "Founding Full Stack & AI Engineer",
+      "company": "The Outdoor Builders",
+      "location": "San Francisco, USA / Remote",
+      "url": "https://wellfound.com/jobs/3059023-founding-full-stack-ai-engineer",
+      "source": "wellfound",
+      "summary": "Founding engineer role building the AI system (100+ models, 4 pipelines) automating construction workflows at an early-stage startup; full-stack and AI-native scope from day one.",
+      "score": 76,
+      "date_found": "2026-08-11",
+      "status": "new"
+    },
+    {
+      "id": "96f8e67c38",
+      "title": "Founding AI Engineer",
+      "company": "Casium",
+      "location": "Seattle, USA",
+      "url": "https://wellfound.com/jobs/3279816-founding-ai-engineer",
+      "source": "wellfound",
+      "summary": "Founding AI engineer at a $5M-seed, AI2 Incubator spinout automating employment-based immigration filings, architecting systems that read legal documents and generate accurate application materials.",
+      "score": 72,
+      "date_found": "2026-08-11",
+      "status": "new"
+    },
+    {
+      "id": "4962ecc768",
+      "title": "Founding Engineer, Full Stack",
+      "company": "Ventuals",
+      "location": "New York, USA (Soho office)",
+      "url": "https://jobs.ashbyhq.com/ventuals/e406d4e0-2a1f-4d15-815e-f610758a72e0",
+      "source": "other",
+      "summary": "Senior/staff full-stack founding engineer ahead of a crypto exchange's mainnet launch, spanning a Next.js frontend, trading APIs, and the infrastructure behind the exchange.",
+      "score": 65,
+      "date_found": "2026-08-11",
+      "status": "new"
+    },
+    {
+      "id": "b911e446ad",
+      "title": "Staff Software Engineer",
+      "company": "Depot",
+      "location": "Unclear (US-based dev-tools startup)",
+      "url": "https://jobs.ashbyhq.com/depot/c303bf37-ee14-4593-9ac9-c2fb4c65253a",
+      "source": "other",
+      "summary": "High-ownership staff role on a small team building Depot's CI, remote container builds, and developer tooling platform (APIs, SDKs, CLI).",
+      "score": 63,
+      "date_found": "2026-08-11",
+      "status": "new"
+    },
+    {
+      "id": "ef26dd6b63",
+      "title": "Full Stack Engineer, Founding Engineer",
+      "company": "Hire Hangar",
+      "location": "San Francisco, USA (on-site)",
+      "url": "https://jobs.ashbyhq.com/hirehangar/99ffdde3-52a1-43d1-8916-5962d17f677f",
+      "source": "other",
+      "summary": "One of three founding engineers at an AI video-infrastructure startup turning prompts and documents into explainer videos, owning core product surfaces end to end.",
+      "score": 63,
+      "date_found": "2026-08-11",
+      "status": "new"
+    },
+    {
+      "id": "48304e1b58",
+      "title": "Full-stack AI Dev (Contract to Founding Engineer)",
+      "company": "1280 Labs",
+      "location": "Remote (Canada/US)",
+      "url": "https://wellfound.com/jobs/3679566-full-stack-ai-dev-contract-to-founding-engineer",
+      "source": "wellfound",
+      "summary": "Contract-to-founding-engineer trial extending a production AI platform built around document ingestion, retrieval, and reasoning.",
+      "score": 59,
+      "date_found": "2026-08-11",
+      "status": "new"
+    },
+    {
+      "id": "6f60440460",
+      "title": "Staff Platform Engineer",
+      "company": "Jobgether (client, undisclosed)",
+      "location": "Remote (Europe)",
+      "url": "https://jobs.lever.co/jobgether/7b8d23df-dde4-4845-b7ed-66f035ab42b3",
+      "source": "other",
+      "summary": "Staff-level platform role designing cloud-native capabilities for a product serving millions of users, fully remote within Europe.",
+      "score": 58,
+      "date_found": "2026-08-11",
+      "status": "new"
+    },
+    {
+      "id": "45c9568a10",
+      "title": "Staff DevOps Engineer",
+      "company": "Jobgether (client, undisclosed)",
+      "location": "Remote (Europe)",
+      "url": "https://jobs.lever.co/jobgether/a4eb7d79-4171-4dbc-b67e-89880efaeda4",
+      "source": "other",
+      "summary": "Staff DevOps role shaping infrastructure security and reliability direction, fully remote within Europe.",
+      "score": 55,
+      "date_found": "2026-08-11",
+      "status": "new"
+    },
+    {
+      "id": "3acb9c37a4",
+      "title": "Founding Engineer",
+      "company": "Katapult Labs",
+      "location": "Remote (85%) + monthly Miami/NYC sprints",
+      "url": "https://jobs.ashbyhq.com/katapult-Labs/9a0bff95-f46e-4f95-850c-4aa7de10d1d2",
+      "source": "other",
+      "summary": "Founding engineer role, mostly remote with three nights on-site in Miami or NYC each month.",
+      "score": 53,
+      "date_found": "2026-08-11",
       "status": "new"
     }
   ]

@@ -1,0 +1,55 @@
+{
+  "date": "2026-08-11",
+  "total_searched": 30,
+  "new_offers": 9,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Founding Full Stack & AI Engineer",
+      "company": "The Outdoor Builders",
+      "location": "San Francisco, USA / Remote",
+      "url": "https://wellfound.com/jobs/3059023-founding-full-stack-ai-engineer",
+      "score": 76,
+      "grade": "B",
+      "why": "A genuine founding role with heavy AI/LLM exposure and full-stack scope matches the cofounder, build-from-zero profile closely. Remote option softens the SF home base, and the early stage means real architectural ownership rather than incremental feature work.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Founding AI Engineer",
+      "company": "Casium",
+      "location": "Seattle, USA",
+      "url": "https://wellfound.com/jobs/3279816-founding-ai-engineer",
+      "score": 72,
+      "grade": "B",
+      "why": "Founding-level AI ownership at a mission-driven startup (simplifying immigration for skilled workers) plays well against the AI-augmented engineering focus and cofounder background. Seattle is onsite rather than Geneva-friendly, which is the main drag on the score.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Founding Engineer, Full Stack",
+      "company": "Ventuals",
+      "location": "New York, USA (Soho office)",
+      "url": "https://jobs.ashbyhq.com/ventuals/e406d4e0-2a1f-4d15-815e-f610758a72e0",
+      "score": 65,
+      "grade": "C",
+      "why": "Strong technical overlap (TypeScript/Next.js, APIs, infra) and a real founding mandate, but the crypto-trading focus is a weaker mission fit and the NYC office setup likely means limited remote flexibility.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Staff Software Engineer",
+      "company": "Depot",
+      "location": "Unclear (US-based dev-tools startup)",
+      "url": "https://jobs.ashbyhq.com/depot/c303bf37-ee14-4593-9ac9-c2fb4c65253a",
+      "score": 63,
+      "grade": "C",
+      "why": "Platform ownership on a small, fast-moving dev-tools team lines up with the platform engineering background, though there's no confirmed AI angle and the remote policy wasn't stated anywhere in the listing.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
