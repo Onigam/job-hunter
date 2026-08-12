@@ -1,0 +1,21 @@
+{
+  "date": "2026-08-12",
+  "total_searched": 20,
+  "new_offers": 2,
+  "top_offers": [
+    {
+      "rank": 1,
+      "id": "19798f0849",
+      "title": "CTO / Co-Founder",
+      "company": "Paradvisor",
+      "location": "Zurich, Switzerland",
+      "url": "https://joinup.ch/startup/paradvisor-625be009-6fb1-4541-9702-a92eba13e1d9-11761",
+      "score": 67,
+      "grade": "C",
+      "why": "Co-founder/CTO role at an early-stage Zurich startup building a Vue.js product, close to the founding-engineer path Magino walked at Alaya, with real equity upside from day one. Listing gives little on funding stage, AI exposure or cash comp, so it's a worth-a-look lead rather than a confirmed strong fit.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ],
+  "note": "LinkedIn cookie in /tmp/linkedin_cookie.txt was rejected by LinkedIn (HTTP 400, cookie invalidated) — searches ran on web sources only. Ran 8 distinct searches across Indeed, SwissDevJobs, Wellfound, Joinup.ch, StartupTicker, SwissAIJob, WeWorkRemotely, RemoteOK, HN Who's Hiring and LinkedIn public search, covering all 6 required role categories. Of ~20 real postings reviewed, all but 2 were already tracked in offers.json from prior runs; the second new one (NP Group, Senior Kubernetes Platform Engineer, remote EU contract via staffing agency) scored below the C threshold (grade F — poor tech/company/AI fit) and was excluded from top_offers per the 'don't inflate scores' rule."
+}

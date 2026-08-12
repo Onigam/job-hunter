@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-11",
+  "last_updated": "2026-08-12",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -17979,6 +17979,32 @@
       "summary": "Founding engineer role, mostly remote with three nights on-site in Miami or NYC each month.",
       "score": 53,
       "date_found": "2026-08-11",
+      "status": "new"
+    },
+    {
+      "id": "19798f0849",
+      "title": "CTO / Co-Founder",
+      "company": "Paradvisor",
+      "location": "Zurich, Switzerland",
+      "url": "https://joinup.ch/startup/paradvisor-625be009-6fb1-4541-9702-a92eba13e1d9-11761",
+      "source": "joinup.ch",
+      "summary": "Early-stage Zurich startup, Vue.js product, seeking a technical co-founder/CTO to lead back-end and front-end development. Founding-team equity role; funding stage and AI exposure not specified in the listing.",
+      "score": 67,
+      "grade": "C",
+      "date_found": "2026-08-12",
+      "status": "new"
+    },
+    {
+      "id": "858fb53f04",
+      "title": "Senior Kubernetes Platform Engineer",
+      "company": "NP Group",
+      "location": "Remote (European Union)",
+      "url": "https://www.linkedin.com/jobs/view/platform-engineer-at-np-group-4400192929",
+      "source": "linkedin",
+      "summary": "Contract role via staffing agency NP Group, building Kubernetes platforms across Azure and on-prem environments (Terraform, Helm, ArgoCD, ELK). Mid-senior scope, no equity/founding angle, staffing-agency intermediary rather than a product company.",
+      "score": 38,
+      "grade": "F",
+      "date_found": "2026-08-12",
       "status": "new"
     }
   ]
