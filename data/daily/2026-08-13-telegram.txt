@@ -1,0 +1,20 @@
+🎯 *Job Hunt — 2026-08-13*
+
+*1.* *Site Reliability Engineer - Application Edge* @ Proton AG
+📍 Geneva/Paris (hybrid) | ⭐ 68/100 | 🏆 Grade C
+💡 Geneva, mission-driven privacy company, real platform/infra ownership — worth a look, not Staff-titled.
+🔗 https://job-boards.eu.greenhouse.io/proton/jobs/4612377101
+
+*2.* *Site Reliability Engineer - Observability* @ Proton AG
+📍 Geneva/Paris (onsite) | ⭐ 65/100 | 🏆 Grade C
+💡 Same Geneva/Proton fit, owns logs/metrics/traces pipelines with Python/Go and Kubernetes.
+🔗 https://job-boards.eu.greenhouse.io/proton/jobs/4897535101
+
+*3.* *Staff Software Engineer, Time and Scheduling* @ Gusto, Inc.
+📍 Remote (US-centric) | ⭐ 52/100 | 🏆 Grade D
+💡 Real Staff scope but US-timezone-leaning comp bands and feature-team work, not platform/founding.
+🔗 https://weworkremotely.com/remote-jobs/gusto-inc-staff-software-engineer-time-and-scheduling
+
+---
+📊 _3 new offers | 1257 total tracked_
+_No A/B grades today — market was unusually thin after dedup against 1198 previously tracked postings. LinkedIn cookie still expired._

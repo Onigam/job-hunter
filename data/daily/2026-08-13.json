@@ -1,0 +1,47 @@
+{
+  "date": "2026-08-13",
+  "total_searched": 27,
+  "new_offers": 3,
+  "top_offers": [
+    {
+      "rank": 1,
+      "id": "80459f3352",
+      "title": "Site Reliability Engineer - Application Edge",
+      "company": "Proton AG",
+      "location": "Geneva or Paris (hybrid, up to 30% remote)",
+      "url": "https://job-boards.eu.greenhouse.io/proton/jobs/4612377101",
+      "score": 68,
+      "grade": "C",
+      "why": "Geneva-based, mission-driven privacy company with real platform ownership over load balancing and Kubernetes infrastructure for a product used by millions, which lines up with Magino's distributed-systems background. It's an IC infra role rather than a Staff+/founding title, so it reads as a solid look rather than an immediate-apply.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "id": "a2fedd3247",
+      "title": "Site Reliability Engineer - Observability",
+      "company": "Proton AG",
+      "location": "Geneva or Paris (onsite)",
+      "url": "https://job-boards.eu.greenhouse.io/proton/jobs/4897535101",
+      "score": 65,
+      "grade": "C",
+      "why": "Same Geneva-anchored, purpose-driven company as the Application Edge role, this time owning logs/metrics/traces pipelines with Python/Go and Kubernetes. Solid technical and location fit, but scoped as observability tooling rather than architecture ownership, and onsite-only trims flexibility.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "id": "b73185d162",
+      "title": "Staff Software Engineer, Time and Scheduling",
+      "company": "Gusto, Inc.",
+      "location": "Remote (US-centric, Denver/SF/NYC pay bands)",
+      "url": "https://weworkremotely.com/remote-jobs/gusto-inc-staff-software-engineer-time-and-scheduling",
+      "score": 52,
+      "grade": "D",
+      "why": "Genuine Staff-level scope at a proven payroll SaaS, but the compensation bands and onboarding-office requirement point to a US-timezone expectation, and the role is feature-team IC work rather than platform or founding scope. Included only to fill out today's thin slate, not a strong match.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ],
+  "note": "LinkedIn cookie in /tmp/linkedin_cookie.txt was rejected again (HTTP 302 redirect to login), so searches ran on web sources only, same as 2026-08-12. Ran 18 distinct search queries covering all 6 required categories (Staff/Principal/Platform Switzerland, Founding Engineer/CTO startups, VP/Head of Engineering Geneva, remote Staff Engineer Europe, AI/ML Platform Engineer) plus fractional-CTO and HN Who's Hiring (August 2026) sweeps, across Indeed, SwissDevJobs, Joinup.ch, Wellfound, jobup.ch, startup.jobs, WeWorkRemotely, RemoteOK and HN. Of roughly 27 distinct real postings reviewed and checked against the 1198 URLs already in offers.json, all but 3 were already tracked from prior runs (SonarSource, Nexthink, Langfuse, Nango, Taurus, Proton's earlier SRE reqs, several joinup.ch co-founder/CTO listings, and the GF-Accord AI Geneva CTO role were all repeats). No A or B grade offers surfaced today; the 3 new postings are C/D grade and included per the fill-in rule since none cleared the B threshold."
+}
