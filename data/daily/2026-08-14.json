@@ -1,0 +1,47 @@
+{
+  "date": "2026-08-14",
+  "total_searched": 20,
+  "new_offers": 3,
+  "top_offers": [
+    {
+      "rank": 1,
+      "id": "c438e4a3cd",
+      "title": "Founding FullStack Engineer",
+      "company": "Focal",
+      "location": "San Francisco (onsite-leaning)",
+      "url": "https://wellfound.com/jobs/3517170-founding-fullstack-engineer",
+      "score": 69,
+      "grade": "C",
+      "why": "VC-backed startup building browser-native AI agents for financial advisory, a genuine founding role with zero-to-one scope and strong AI-agent exposure that echoes the Alaya build-from-scratch story. The catch is it reads as SF-onsite, which cuts hard against a Geneva base and is the main reason this lands just under a B despite the role-impact and mission fit.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "id": "3f8546b964",
+      "title": "Founding CTO / Head of Engineering",
+      "company": "Coronin AI",
+      "location": "New York City +1 (onsite or remote)",
+      "url": "https://wellfound.com/jobs/4102138-founding-cto-head-of-engineering",
+      "score": 62,
+      "grade": "C",
+      "why": "Founding CTO scope at an early-stage physical-AI startup for skilled trades, remote-eligible which helps, but the stack leans robotics/physical-AI rather than the TypeScript/Node/AI-platform mix Magino's built his career on, and $175-225k is modest for a full CTO risk profile.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "id": "f5a7837ef8",
+      "title": "Senior Full-Stack Engineer (Founding Technical Role)",
+      "company": "Ziggma",
+      "location": "Lausanne, Switzerland",
+      "url": "https://wellfound.com/company/ziggma-analytics-inc/jobs",
+      "score": 61,
+      "grade": "C",
+      "why": "A rare Switzerland-based founding/co-founder-equity role at a DIY/impact-investing platform, which scores well on location and role-impact. The listed cash comp ($36-42k) looks unusually low for the Swiss market, possibly a data artifact on the aggregator, so this is worth a look but the compensation picture needs verifying directly with the company before treating it as a real offer.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ],
+  "note": "LinkedIn cookie in /tmp/linkedin_cookie.txt returned an auth redirect loop (HTTP 302) again, so all searches ran on web sources only. Ran 30 distinct WebSearch queries covering all 6 required categories (Staff/Principal/Platform Switzerland, Founding Engineer/CTO startups, VP/Head of Engineering Geneva, remote Staff Engineer Europe, AI/ML Platform Engineer, plus fractional-CTO and HN Who's Hiring August 2026 sweeps) across Indeed, SwissDevJobs, jobup.ch, jobs.ch, Wellfound, startup.jobs, WeWorkRemotely, RemoteOK and HN. Identified 20 distinct real postings with direct URLs; 17 were already tracked (SonarSource x2, GF-ACCORD AI Geneva CTO, Jam.dev, Bank J. Safra Sarasin, Nexthink x2, Sourcemap, Reedsy, Langfuse's two current openings, and several WeWorkRemotely/RemoteOK US-remote listings were all repeats, several of them re-discovered under different aggregator URLs than previously tracked, e.g. Jam.dev and Sourcemap and one Langfuse posting, and de-duplicated by company+title rather than URL alone). No A or B grade offers surfaced; all 3 new postings are C grade and included per the fill-in rule since none cleared the B threshold. Market for Geneva/Switzerland Staff+/founding-level openings continues to be thin and largely saturated by prior runs."
+}
