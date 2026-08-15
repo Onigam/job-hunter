@@ -1,0 +1,47 @@
+{
+  "date": "2026-08-15",
+  "total_searched": 20,
+  "new_offers": 3,
+  "top_offers": [
+    {
+      "rank": 1,
+      "id": "add784ddab",
+      "title": "Staff AI Engineer, AI Transformation",
+      "company": "Multiverse",
+      "location": "London, UK (Remote allowed)",
+      "url": "https://jobs.ashbyhq.com/multiverse/758c98cd-fce3-49e7-b81d-a003dfe7ac4f",
+      "score": 80,
+      "grade": "B",
+      "why": "Staff role owning the technical architecture of Multiverse's agentic operating system, a close match for someone already running AI-augmented engineering practices at Benevity and building a platform from scratch at Alaya. The company just raised $70M at a $2.1bn valuation as Europe's first EdTech double unicorn, and the role is remote-friendly out of London.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "id": "c474a51a06",
+      "title": "Head of Engineering",
+      "company": "Alohi SA",
+      "location": "Plan-les-Ouates, Geneva, Switzerland",
+      "url": "https://builtin.com/job/head-engineering/7386253",
+      "score": 76,
+      "grade": "B",
+      "why": "Hands-on Head of Engineering at a profitable Geneva SaaS company (Sign.Plus, Fax.Plus, plus two AI products: Dial.Plus voice agent and Scan.Plus scanner) serving 4M+ customers, posted only two days ago. The own-delivery-across-products scope echoes the founding/platform-owner pattern from Alaya, and it's one of the very few genuine Geneva openings this run turned up.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "id": "9f9f54c3c8",
+      "title": "Staff Software Engineer, Platform",
+      "company": "Cantina Labs",
+      "location": "San Francisco / Los Angeles, CA (onsite-leaning)",
+      "url": "https://jobs.ashbyhq.com/cantina/0d768e7f-58de-44f5-9f22-541b2f88fbe9",
+      "score": 60,
+      "grade": "C",
+      "why": "Staff Software Engineer on the Platform team at Sean Parker's well-funded social-AI startup, building reusable infrastructure for a fast-moving product. Reasonable tech and role-impact fit, but the listing reads as SF/LA onsite with no remote option surfaced, which is the main drag against a Geneva-based candidate.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ],
+  "note": "LinkedIn cookie in /tmp/linkedin_cookie.txt still returns an auth redirect loop (HTTP 302), confirmed via a fresh test curl against the voyager jobs API, so all searches ran on web sources only (per fallback rule). Ran 8 WebSearch queries covering all 6 required categories (Staff/Principal/Platform Switzerland, Founding Engineer/CTO startups, VP/Head of Engineering Geneva, remote Staff Engineer Europe, AI/ML Platform Engineer, fractional/part-time CTO) plus follow-up detail searches on the most promising leads. Identified 20 distinct real postings; 13 were already tracked, including hyperexponential's 'Staff Platform Engineer' (jobs.ashbyhq.com/hyperexponential/84162ea6...), GF-ACCORD AI, SonarSource, Zentact repost, Nango, Converge, SBB CFF FFS, Zuhlke, Clera's four prior postings, and Multiverse's earlier posting. 3 new distinct postings cleared the bar: 2 grade B (Multiverse, Alohi) and 1 grade C (Cantina Labs) included per the fill-in rule to reach the 3-offer minimum. Weaker new leads not included: Falconer Founding AI Engineer (Emeryville, $80-150k, too junior for Staff+ profile, scored 50/D) and Neuromorphic Labs Founding Forward Deployed AI Engineer (SF Bay Area onsite, scored 56/C, edged out by Cantina). Geneva/Switzerland market for Staff+/founding-level roles remains thin; Alohi is the first fresh Geneva-based lead in several days."
+}
