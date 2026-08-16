@@ -1,0 +1,56 @@
+{
+  "date": "2026-08-16",
+  "total_searched": 29,
+  "new_offers": 19,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Chief Technology Officer",
+      "company": "Overstory",
+      "location": "Switzerland (remote-friendly, Europe/US timezones)",
+      "url": "https://ch.linkedin.com/jobs/view/chief-technology-officer-at-overstory-4379268063",
+      "score": 80,
+      "grade": "B",
+      "why": "CTO role scaling the engineering org behind a post-Series B climate-tech company using AI and remote sensing to cut wildfire and outage risk for utilities, a mission-driven scope close to Magino's cofounder background at Alaya. Remote-friendly across Europe/US timezones, with the ML-heavy product giving real AI exposure.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "AI Co-Founder / CTO (100% remote) (m/f/d)",
+      "company": "EWOR",
+      "location": "Zurich, Switzerland (fully remote)",
+      "url": "https://ch.linkedin.com/jobs/view/ai-co-founder-cto-100-%25-remote-m-f-d-at-ewor-4453727133",
+      "score": 78,
+      "grade": "B",
+      "why": "Technical co-founder track backed by the Adjust and SumUp founders, funding and mentoring engineers to build their own AI startup rather than joining an existing team. Not a conventional job, closer to a founder program, but it lines up with Magino's proven cofounder-to-acquisition track record and is worth a look given the parallel Givernance project.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Product Builder / CTO (Co-Founder)",
+      "company": "Granular",
+      "location": "Zurich Metropolitan Area, Switzerland",
+      "url": "https://ch.linkedin.com/jobs/view/product-builder-cto-co-founder-at-granular-4434787034",
+      "score": 75,
+      "grade": "B",
+      "why": "Technical co-founder/CTO role building financial-ops software for Swiss restaurants from a blank page, a close echo of the founding-engineer arc that took Alaya to acquisition. Based in the Zurich area on a modern TypeScript stack, though it's an early-stage, equity-heavy build.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Founding Product Engineer (Fullstack / Product AI)",
+      "company": "Client of Rockstar Recruiting AG",
+      "location": "Zürich, Switzerland",
+      "url": "https://apply.workable.com/rockstar-3/j/003E13EDEE/",
+      "score": 75,
+      "grade": "B",
+      "why": "Founding engineer role on an AI company automating back-office accounting work with a TypeScript/React/Python stack and CHF 140-150k pay, a solid technical and seniority match. Company identity is undisclosed pending later interview stages, standard for Rockstar Recruiting's process.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ],
+  "note": "LinkedIn cookie in /tmp/linkedin_cookie.txt returned a 302 auth redirect on the voyager jobs API across all 3 search sub-agents, so all raw postings came via WebSearch/WebFetch on LinkedIn's public guest search pages, Indeed CH, Wellfound, SwissDevJobs, startupticker.ch, jobscout24.ch, Greenhouse and Ashby boards. Ran 3 parallel search passes covering all 6 required categories (Staff/Principal/Platform Switzerland, Founding/First Engineer, VP Eng/Head of Eng Geneva, CTO early-stage Switzerland, remote Staff Engineer Europe, AI/ML Platform remote-or-Switzerland), yielding 29 raw postings; 10 were already tracked (Neural Concept, Frontify, Ripple, Ultravionix, ONZACK, 3x EggAI, Pragmatike, n8n) and 19 were genuinely new. 4 cleared grade B (none reached A): Overstory CTO, EWOR AI Co-Founder/CTO, Granular co-founder/CTO, and an undisclosed Rockstar Recruiting client founding-engineer role. No fractional/part-time CTO or 50% engineering-leadership postings turned up despite targeted searches; the Swiss market for those remains thin, matching the pattern from prior days. SCAIT's new posting scored only 65/C partly because Magino already applied to SCAIT on 2026-06-22. Nango's new posting scored 69/C, just under the B cutoff, and is a company Magino has applied to four times already since April 2026 -- flagging in case a different open role there is worth revisiting directly rather than through search."
+}
