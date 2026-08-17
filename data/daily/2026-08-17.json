@@ -1,0 +1,43 @@
+{
+  "date": "2026-08-17",
+  "total_searched": 19,
+  "new_offers": 10,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Product Engineer",
+      "company": "Langfuse",
+      "location": "Remote — Europe (1 week/month Berlin)",
+      "url": "https://www.ycombinator.com/companies/langfuse/jobs/aAvmoFB-product-engineer",
+      "score": 79,
+      "grade": "B",
+      "why": "Langfuse builds the leading open-source LLM engineering platform (tracing, evals, prompt management) on a TypeScript T3 stack that overlaps heavily with Magino's core skills, and the YC-backed seed-stage setup mirrors the founding-engineer ownership he had at Alaya. It's remote-first for Europe with only monthly Berlin travel, so it works from Geneva, and the AI-native product is a direct match for his AI-augmented engineering focus.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Applied AI Engineer",
+      "company": "DeepJudge",
+      "location": "Zurich, Switzerland",
+      "url": "https://jobs.ashbyhq.com/deepjudge/2b8806be-d6d7-4929-9b0f-b2c09e197669",
+      "score": 73,
+      "grade": "B",
+      "why": "DeepJudge is a Zurich AI scale-up founded by ex-Google/ETH researchers building precision AI search for legal teams, squarely in the AI-first, product-led company profile Magino targets post-Benevity. It's Switzerland-based and fast-growing, though the posting doesn't spell out seniority, so it's worth confirming the scope lands at Staff-equivalent before applying.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Founding Backend Engineer",
+      "company": "Circlin",
+      "location": "Lucerne, Switzerland (onsite or remote)",
+      "url": "https://wellfound.com/jobs/4313208-founding-backend-engineer",
+      "score": 68,
+      "grade": "C",
+      "why": "A genuine founding-engineer seat with 2-3% equity at a Swiss early-stage startup, the closest match to the zero-to-one ownership Magino had building Alaya. It's an unproven, pre-scale company with limited public information on mission or funding, which keeps it a notch below the top two despite the seniority and location fit.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+🎯 *Job Hunt — 2026-08-17*
+
+*1.* *Product Engineer* @ Langfuse
+📍 Remote — Europe (1 week/month Berlin) | ⭐ 79/100 | 🏆 Grade B
+💡 YC-backed open-source LLM engineering platform, TypeScript T3 stack, founding-team ownership.
+🔗 https://www.ycombinator.com/companies/langfuse/jobs/aAvmoFB-product-engineer
+
+*2.* *Applied AI Engineer* @ DeepJudge
+📍 Zurich, Switzerland | ⭐ 73/100 | 🏆 Grade B
+💡 Zurich AI scale-up founded by ex-Google/ETH researchers, precision AI search for legal teams.
+🔗 https://jobs.ashbyhq.com/deepjudge/2b8806be-d6d7-4929-9b0f-b2c09e197669
+
+*3.* *Founding Backend Engineer* @ Circlin
+📍 Lucerne, Switzerland (onsite or remote) | ⭐ 68/100 | 🏆 Grade C
+💡 Founding-engineer seat with equity at an early-stage Swiss startup, closest match to the Alaya zero-to-one experience.
+🔗 https://wellfound.com/jobs/4313208-founding-backend-engineer
+
+---
+📊 _10 new offers | 1292 total tracked_
