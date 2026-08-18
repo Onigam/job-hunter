@@ -1,0 +1,103 @@
+{
+  "date": "2026-08-18",
+  "total_searched": 32,
+  "new_offers": 18,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Founding Engineer",
+      "company": "Metorial",
+      "location": "Remote (company based in Vienna, Austria); visa sponsorship available",
+      "url": "https://www.ycombinator.com/companies/metorial/jobs/WPkk7Yk-founding-engineer",
+      "score": 81,
+      "grade": "B",
+      "why": "Founding Engineer building agentic infrastructure (MCP) in TypeScript/Go on AWS, direct match for AI-augmented platform engineering. Remote Europe-friendly with genuine build-from-zero ownership, echoing the Alaya founding experience.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Chief Technology Officer (CTO)",
+      "company": "Connectome",
+      "location": "London / Zurich, Switzerland / Remote (Europe)",
+      "url": "https://wellfound.com/jobs/3528509-chief-technology-officer-cto",
+      "score": 79,
+      "grade": "B",
+      "why": "Hands-on CTO role at a healthtech startup building AI/LLM pipelines, with Zurich listed as an onsite hub. Full engineering-org ownership plus equity upside fits the cofounder-to-CTO trajectory well.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Principal ML Platform Engineer",
+      "company": "Synthesia",
+      "location": "London, UK / Europe",
+      "url": "https://jobs.ashbyhq.com/synthesia/e9c63d3d-13cc-4049-ae0a-5fef402c595b",
+      "score": 79,
+      "grade": "B",
+      "why": "Principal ML Platform role at Synthesia, a well-funded generative-AI scaleup used across the Fortune 100. Strong platform-ownership scope and deep AI exposure, though based in London/Europe rather than Switzerland.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Member of the Technical Staff, Internal Agent",
+      "company": "Vercel",
+      "location": "Remote - Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/vercel-member-of-the-technical-staff-internal-agent",
+      "score": 78,
+      "grade": "B",
+      "why": "Staff-level IC role at Vercel building an internal agentic system, a dev-tools company with a strong engineering-first culture. Remote from anywhere and heavy TypeScript, though scope is internal tooling rather than core product.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Principal / Distinguished Engineer",
+      "company": "Albert (ALBERT)",
+      "location": "Remote, almost anywhere in the world",
+      "url": "https://news.ycombinator.com/item?id=49172196",
+      "score": 78,
+      "grade": "B",
+      "why": "Principal/Distinguished Engineer at a profitable fintech building with Claude directly, unusually strong AI-augmented engineering signal. Compensation tops out near $750k, well above typical Swiss market rates, for genuinely remote-anywhere work.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 6,
+      "title": "Staff Backend Engineer",
+      "company": "Nango",
+      "location": "Remote (North America, LATAM, Europe)",
+      "url": "https://jobs.ashbyhq.com/Nango",
+      "score": 77,
+      "grade": "B",
+      "why": "Staff Backend Engineer at Nango, an open-source AI-agent integrations startup, owning systems handling millions of integration runs. Remote Europe-eligible with strong platform-ownership scope and solid comp.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 7,
+      "title": "Engineering Leader (Manager/Staff-level technical leadership)",
+      "company": "Ashby",
+      "location": "Remote (North America and Europe, async-first)",
+      "url": "https://www.ashbyhq.com/careers?utm_source=HNwhoshiring",
+      "score": 72,
+      "grade": "B",
+      "why": "Engineering Leader role at Ashby combining hands-on TypeScript/Node/React work with technical leadership, close to the VP Eng/hybrid-IC target. Remote NA/Europe with excellent comp ($200-275k) at a well-regarded product startup.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 8,
+      "title": "Founding Engineer",
+      "company": "Hub",
+      "location": "Paris, France (remote, France-based)",
+      "url": "https://www.ycombinator.com/companies/hub/jobs/Dy8e5Gu-founding-engineer",
+      "score": 71,
+      "grade": "B",
+      "why": "Founding Engineer at an AI-adjacent startup serving major AI companies, owning critical backend/payments systems. Remote France-based role with real founding-level scope, though compensation is more modest.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}

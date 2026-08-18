@@ -1,0 +1,34 @@
+🎯 *Job Hunt — 2026-08-18*
+
+*1.* *Founding Engineer* @ Metorial
+📍 Remote (Vienna-based, visa sponsorship) | ⭐ 81/100 | 🏆 Grade B
+💡 Founding-level role building AI agentic infrastructure (MCP) in TypeScript/Go, echoes the Alaya founding experience.
+🔗 https://www.ycombinator.com/companies/metorial/jobs/WPkk7Yk-founding-engineer
+
+*2.* *Chief Technology Officer (CTO)* @ Connectome
+📍 London / Zurich / Remote Europe | ⭐ 79/100 | 🏆 Grade B
+💡 Hands-on CTO role at a healthtech AI startup with a Zurich hub, fits the cofounder-to-CTO trajectory.
+🔗 https://wellfound.com/jobs/3528509-chief-technology-officer-cto
+
+*3.* *Principal ML Platform Engineer* @ Synthesia
+📍 London, UK / Europe | ⭐ 79/100 | 🏆 Grade B
+💡 Well-funded generative-AI scaleup, strong platform ownership and deep AI exposure.
+🔗 https://jobs.ashbyhq.com/synthesia/e9c63d3d-13cc-4049-ae0a-5fef402c595b
+
+*4.* *Member of the Technical Staff, Internal Agent* @ Vercel
+📍 Remote — Anywhere in the World | ⭐ 78/100 | 🏆 Grade B
+💡 Staff-level agentic systems work at a dev-tools company with strong engineering culture.
+🔗 https://weworkremotely.com/remote-jobs/vercel-member-of-the-technical-staff-internal-agent
+
+*5.* *Principal / Distinguished Engineer* @ Albert
+📍 Remote, almost anywhere | ⭐ 78/100 | 🏆 Grade B
+💡 Builds with Claude directly, comp up to ~$750k, genuinely remote-anywhere.
+🔗 https://news.ycombinator.com/item?id=49172196
+
+*6.* *Staff Backend Engineer* @ Nango
+📍 Remote (NA, LATAM, Europe) | ⭐ 77/100 | 🏆 Grade B
+💡 Open-source AI-agent integrations startup, owns systems handling millions of integration runs.
+🔗 https://jobs.ashbyhq.com/Nango
+
+---
+📊 _18 new offers | 1310 total tracked_
