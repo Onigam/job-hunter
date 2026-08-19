@@ -1,0 +1,34 @@
+🎯 *Job Hunt — 2026-08-19*
+
+*1.* *Founding AI Engineer* @ Voiceops
+📍 New York, NY (US) | ⭐ 69/100 | 🏆 Grade C
+💡 Founding-level AI engineering role building multi-agent systems from customer voice data at a YC seed startup, a strong AI-augmented engineering signal with genuine build-from-zero ownership.
+🔗 https://www.ycombinator.com/companies/voiceops/jobs/Gtlq7oz-founding-ai-engineer
+
+*2.* *Founding Engineer (Full Stack)* @ Imagine AI
+📍 Remote / US (YC startup) | ⭐ 69/100 | 🏆 Grade C
+💡 Full-stack founding engineer at an early-stage YC-backed AI startup, high ownership over architecture and technical direction echoes the Alaya founding experience.
+🔗 https://www.ycombinator.com/companies/imagine-ai/jobs/vayYrCS-founding-engineer-full-stack
+
+*3.* *Founding AI/ML Research Engineer* @ RamAIn
+📍 Remote / US (YC startup) | ⭐ 68/100 | 🏆 Grade C
+💡 Founding research-engineer role applying ML/AI research to production at a YC startup, the strongest AI/LLM exposure in today's batch.
+🔗 https://www.ycombinator.com/companies/ramain/jobs/jezgwo5-founding-ai-ml-research-engineer
+
+*4.* *Founding Engineer / Builder* @ Gooseworks
+📍 San Francisco or Remote (exceptional candidates) | ⭐ 62/100 | 🏆 Grade C
+💡 Founding engineer role blending product thinking with full-stack execution at an early-stage YC company, with genuine build-from-zero scope.
+🔗 https://www.ycombinator.com/companies/gooseworks/jobs/UJ4vH2F-founding-engineer-builder
+
+*5.* *Staff Engineer, Software Release and Packaging (RISC-V)* @ Tenstorrent
+📍 Remote | ⭐ 62/100 | 🏆 Grade C
+💡 Staff-level role at a well-funded AI hardware startup, but the scope, release and packaging pipelines for RISC-V, sits outside the TypeScript/Node/platform stack.
+🔗 https://remoteok.com/remote-jobs/remote-staff-engineer-software-release-and-packaging-risc-v-tenstorrent-1130609
+
+*6.* *Senior/Staff Backend Engineer* @ BlueCargo
+📍 New York / Culver City / Remote (US) | ⭐ 58/100 | 🏆 Grade C
+💡 Staff-level backend and platform role at a YC-backed logistics-tech startup with real infrastructure ownership.
+🔗 https://www.ycombinator.com/companies/bluecargo/jobs/4UzRNNM-senior-staff-backend-engineer
+
+---
+📊 _8 new offers | 1318 total tracked_

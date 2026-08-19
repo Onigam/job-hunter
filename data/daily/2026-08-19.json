@@ -1,0 +1,79 @@
+{
+  "date": "2026-08-19",
+  "total_searched": 20,
+  "new_offers": 8,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Founding AI Engineer",
+      "company": "Voiceops",
+      "location": "New York, NY (US)",
+      "url": "https://www.ycombinator.com/companies/voiceops/jobs/Gtlq7oz-founding-ai-engineer",
+      "score": 69,
+      "grade": "C",
+      "why": "Founding-level AI engineering role building multi-agent systems from customer voice data at a YC seed startup, a strong AI-augmented engineering signal with genuine build-from-zero ownership. Onsite in New York rather than remote or Switzerland is the main drawback against the location preference.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Founding Engineer (Full Stack)",
+      "company": "Imagine AI",
+      "location": "Remote / US (YC startup)",
+      "url": "https://www.ycombinator.com/companies/imagine-ai/jobs/vayYrCS-founding-engineer-full-stack",
+      "score": 69,
+      "grade": "C",
+      "why": "Full-stack founding engineer at an early-stage YC-backed AI startup, high ownership over architecture and technical direction echoes the Alaya founding experience. Remote but US-oriented, and compensation and equity terms are unclear.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Founding AI/ML Research Engineer",
+      "company": "RamAIn",
+      "location": "Remote / US (YC startup)",
+      "url": "https://www.ycombinator.com/companies/ramain/jobs/jezgwo5-founding-ai-ml-research-engineer",
+      "score": 68,
+      "grade": "C",
+      "why": "Founding research-engineer role applying ML/AI research to production at a YC startup, the strongest AI/LLM exposure in today's batch. Leans more research than platform engineering and is US remote rather than Europe-friendly.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Founding Engineer / Builder",
+      "company": "Gooseworks",
+      "location": "San Francisco or Remote (exceptional candidates)",
+      "url": "https://www.ycombinator.com/companies/gooseworks/jobs/UJ4vH2F-founding-engineer-builder",
+      "score": 62,
+      "grade": "C",
+      "why": "Founding engineer role blending product thinking with full-stack execution at an early-stage YC company, with genuine build-from-zero scope. Remote is only available for exceptional candidates, with SF the default expectation.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Staff Engineer, Software Release and Packaging (RISC-V)",
+      "company": "Tenstorrent",
+      "location": "Remote",
+      "url": "https://remoteok.com/remote-jobs/remote-staff-engineer-software-release-and-packaging-risc-v-tenstorrent-1130609",
+      "score": 62,
+      "grade": "C",
+      "why": "Staff-level role at a well-funded AI hardware startup, but the scope, release and packaging pipelines for RISC-V, sits outside the TypeScript/Node/platform stack and is closer to embedded systems work than product platform engineering.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 6,
+      "title": "Senior/Staff Backend Engineer",
+      "company": "BlueCargo",
+      "location": "New York / Culver City / Remote (US)",
+      "url": "https://www.ycombinator.com/companies/bluecargo/jobs/4UzRNNM-senior-staff-backend-engineer",
+      "score": 58,
+      "grade": "C",
+      "why": "Staff-level backend and platform role at a YC-backed logistics-tech startup with real infrastructure ownership. Remote is US-based rather than Europe-friendly, and the freight-audit domain is a stretch from the target mission areas.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
