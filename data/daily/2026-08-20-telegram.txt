@@ -1,0 +1,34 @@
+🎯 *Job Hunt — 2026-08-20*
+
+*1.* *Founding Engineer* @ Lab0
+📍 San Francisco, CA (onsite) | ⭐ 72/100 | 🏆 Grade B
+💡 Founding engineer role at a YC AI-agent startup building automated forward-deployed engineers, a mission built entirely around AI-augmented engineering delivery that mirrors where Magino has been steering his own practice.
+🔗 https://www.ycombinator.com/companies/lab0/jobs/hlPvGkT-founding-engineer
+
+*2.* *Founding Engineer* @ Proximitty
+📍 San Francisco, CA (YC W26) | ⭐ 68/100 | 🏆 Grade C
+💡 First founding engineer at a YC startup building autonomous commercial lending teams for banks and fintechs, full architectural ownership from day one echoes the Alaya founding experience.
+🔗 https://www.ycombinator.com/companies/proximitty/jobs/ctpg0o9-founding-engineer
+
+*3.* *Founding Engineer* @ Proliferate
+📍 San Francisco (SoMa), onsite | ⭐ 67/100 | 🏆 Grade C
+💡 Founding engineer building the operating system for modern engineering, with high ownership across product, systems and user experience, a platform-engineering mission close to Magino's core strength.
+🔗 https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer
+
+*4.* *Founding Software Engineer* @ NOSO LABS
+📍 San Francisco, CA | ⭐ 66/100 | 🏆 Grade C
+💡 Founding role building AI agents that support field technicians in the home services industry, with disclosed compensation ($120K-$200K plus equity) that's unusually transparent for a YC seed posting.
+🔗 https://www.ycombinator.com/companies/noso-labs/jobs/aG9qbus-founding-engineer
+
+*5.* *Remote Principal Software Engineer* @ Carted
+📍 Remote, Worldwide | ⭐ 65/100 | 🏆 Grade C
+💡 Principal-level remote role open worldwide with disclosed compensation around $200K, a genuine location-flexible fit that could work from Geneva.
+🔗 https://remoteok.com/remote-jobs/104840-remote-principal-software-engineer-carted
+
+*6.* *Founding Engineer* @ OpenWork
+📍 San Francisco, CA (YC P26) | ⭐ 60/100 | 🏆 Grade C
+💡 Founding engineer seat at an early YC company working directly with the founder across the whole product, real ground-floor ownership.
+🔗 https://www.ycombinator.com/companies/openwork/jobs/TqV9SSB-founding-engineer
+
+---
+📊 _10 new offers | 1328 total tracked_

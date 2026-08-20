@@ -1,0 +1,79 @@
+{
+  "date": "2026-08-20",
+  "total_searched": 20,
+  "new_offers": 10,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Founding Engineer",
+      "company": "Lab0",
+      "location": "San Francisco, CA (onsite)",
+      "url": "https://www.ycombinator.com/companies/lab0/jobs/hlPvGkT-founding-engineer",
+      "score": 72,
+      "grade": "B",
+      "why": "Founding engineer role at a YC AI-agent startup building automated forward-deployed engineers, a mission built entirely around AI-augmented engineering delivery that mirrors where Magino has been steering his own practice. Genuine build-from-zero ownership taking problems from prototype to production, though the role is SF onsite rather than Geneva or remote.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Founding Engineer",
+      "company": "Proximitty",
+      "location": "San Francisco, CA (YC W26)",
+      "url": "https://www.ycombinator.com/companies/proximitty/jobs/ctpg0o9-founding-engineer",
+      "score": 68,
+      "grade": "C",
+      "why": "First founding engineer at a YC startup building autonomous commercial lending teams for banks and fintechs, full architectural ownership from day one echoes the Alaya founding experience. SF onsite and fintech-vertical focus are the main departures from the target profile.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Founding Engineer",
+      "company": "Proliferate",
+      "location": "San Francisco (SoMa), onsite",
+      "url": "https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer",
+      "score": 67,
+      "grade": "C",
+      "why": "Founding engineer building the operating system for modern engineering, with high ownership across product, systems and user experience, a platform-engineering mission close to Magino's core strength. Fully in-person in SoMa keeps it below Geneva or remote-friendly location preferences.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Founding Software Engineer",
+      "company": "NOSO LABS",
+      "location": "San Francisco, CA",
+      "url": "https://www.ycombinator.com/companies/noso-labs/jobs/aG9qbus-founding-engineer",
+      "score": 66,
+      "grade": "C",
+      "why": "Founding role building AI agents that support field technicians in the home services industry, with disclosed compensation ($120K-$200K plus equity) that's unusually transparent for a YC seed posting. The vertical is a stretch from platform or AI-infra work and the role sits onsite in San Francisco.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Remote Principal Software Engineer",
+      "company": "Carted",
+      "location": "Remote, Worldwide",
+      "url": "https://remoteok.com/remote-jobs/104840-remote-principal-software-engineer-carted",
+      "score": 65,
+      "grade": "C",
+      "why": "Principal-level remote role open worldwide with disclosed compensation around $200K, a genuine location-flexible fit that could work from Geneva. Scope reads as senior IC rather than founding or platform-ownership work, which is the main gap against the target seniority profile.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 6,
+      "title": "Founding Engineer",
+      "company": "OpenWork",
+      "location": "San Francisco, CA (YC P26)",
+      "url": "https://www.ycombinator.com/companies/openwork/jobs/TqV9SSB-founding-engineer",
+      "score": 60,
+      "grade": "C",
+      "why": "Founding engineer seat at an early YC company working directly with the founder across the whole product, real ground-floor ownership. Public details on the product and stack are thin and the role is SF-based, which weighs against both the mission-fit and location dimensions.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
