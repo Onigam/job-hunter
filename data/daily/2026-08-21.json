@@ -1,0 +1,115 @@
+{
+  "date": "2026-08-21",
+  "total_searched": 34,
+  "new_offers": 21,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Staff Engineer, Distributed Storage and HPC & AI Infrastructure",
+      "company": "Together AI",
+      "location": "Remote (US-focused salary band, flexible)",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5155722007",
+      "score": 83,
+      "grade": "B",
+      "why": "Together AI is one of the hottest AI infrastructure companies right now, running multi-petabyte storage for training and inference at scale. Staff-level ownership of distributed storage and HPC systems is a strong match for platform-architecture depth, and the AI-infra mission lines up directly with the AI-augmented engineering focus.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Founding Engineer (Full-Stack AI)",
+      "company": "Camley",
+      "location": "London, UK / Remote",
+      "url": "https://wellfound.com/jobs/4597657-founding-engineer",
+      "score": 81,
+      "grade": "B",
+      "why": "Founding engineer seat building the core agent/intelligence layer for a fund-workflow product, working directly with founders. TypeScript/React/Python/AWS stack overlaps cleanly, and the build-from-zero scope echoes the Alaya cofounder experience.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Staff Engineer",
+      "company": "Zep AI (YC W24)",
+      "location": "San Francisco or Remote (US)",
+      "url": "https://www.ycombinator.com/companies/zep-ai/jobs/e2QxKYu-staff-engineer",
+      "score": 80,
+      "grade": "B",
+      "why": "YC-backed startup building the memory/knowledge-graph layer for AI agents, with real enterprise customers already (Mattel, WebMD). Staff-level backend ownership on Go/Python/TypeScript/AWS, squarely in the AI infrastructure space this profile is pivoting toward.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Staff Engineer, AI Productivity",
+      "company": "Hightouch",
+      "location": "Remote-first (location independent)",
+      "url": "https://job-boards.greenhouse.io/hightouch/jobs/6020404004",
+      "score": 79,
+      "grade": "B",
+      "why": "Staff role owning internal AI productivity tooling at a fast-growing reverse-ETL/data-activation company, fully remote and location-independent (works from Geneva). Wide salary band ($180k-$400k) suggests room to negotiate for senior-level scope.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Co-Founder, CTO, Industrial Intelligence Platform",
+      "company": "Marble",
+      "location": "Zurich, Switzerland",
+      "url": "https://wellfound.com/jobs/4209672-2-co-founder-cto-industrial-intelligence-platform",
+      "score": 76,
+      "grade": "B",
+      "why": "Technical co-founder/CTO opening at an early-stage industrial intelligence startup in Zurich, essentially the same founding-CTO shape as the Alaya story. Switzerland-based and equity-heavy, worth a direct outreach even without full stack details published.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 6,
+      "title": "VP of Software Engineering",
+      "company": "Hilo by Aktiia",
+      "location": "Remote (Europe, CET/GMT); HQ Neuchatel, Switzerland",
+      "url": "https://ch.linkedin.com/jobs/view/vp-of-software-engineering-at-hilo-by-aktiia-4336091406",
+      "score": 74,
+      "grade": "B",
+      "why": "VP of Software Engineering at a venture-backed Swiss medtech (Neuchatel HQ, $96M raised) building a continuous blood-pressure monitor, owning the full stack from mobile app to data backbone and leading a 15-person team. Remote within CET/GMT keeps it realistic from Geneva.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 7,
+      "title": "VP Engineering",
+      "company": "Finary",
+      "location": "Paris, France (hybrid, some listings fully remote)",
+      "url": "https://www.workingnomads.com/jobs/vp-engineering-finary-1335559",
+      "score": 74,
+      "grade": "B",
+      "why": "VP Engineering at an AI-native personal finance platform, leading roughly 30 engineers across web, mobile and backend. Paris hybrid is a plausible commute from Geneva, though the role explicitly requires French fluency alongside English.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 8,
+      "title": "Staff Software Engineer, AI Developer Tools",
+      "company": "Gusto",
+      "location": "Remote (US-oriented, most remote locations eligible)",
+      "url": "https://job-boards.greenhouse.io/gusto/jobs/7947684",
+      "score": 74,
+      "grade": "B",
+      "why": "Staff engineer role architecting Gusto's internal AI developer platform, multi-agent systems, RAG and LLM-integrated CI/CD, for a well-established HR/payroll SaaS. Directly on-thesis for AI-augmented engineering, though the salary band is US-oriented.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 9,
+      "title": "Founding Engineer",
+      "company": "Hatchet",
+      "location": "NYC or Remote (US and EU)",
+      "url": "https://www.ycombinator.com/companies/hatchet-run/jobs/SNpCmgI-founding-engineer",
+      "score": 73,
+      "grade": "B",
+      "why": "Founding engineer at a YC-backed durable task-orchestration platform with a $5.7M seed, remote-first and explicit about accepting EU timezones. Go and distributed-systems heavy rather than TypeScript, but the founding scope and infra depth both fit well.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
