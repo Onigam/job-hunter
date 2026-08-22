@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21",
+  "last_updated": "2026-08-22",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -19264,6 +19264,58 @@
       "score": 55,
       "grade": "C",
       "date_found": "2026-08-21",
+      "status": "new"
+    },
+    {
+      "id": "7a8e303fe484a931c48bf8ed9b0e4264",
+      "title": "Technical Co-Founder (CTO)",
+      "company": "Eatomics",
+      "location": "Zurich, Switzerland / Remote",
+      "url": "https://ch.linkedin.com/jobs/view/technical-co-founder-full-stack-developer-at-eatomics-4051715436",
+      "source": "linkedin",
+      "summary": "Technical cofounder role at an early-stage AI-powered food-matchmaking startup already running pilots with several restaurants. Complete ownership of the tech stack (Python, Node.js, React, AWS/GCP), equity-based compensation, Zurich or remote.",
+      "score": 90,
+      "grade": "A",
+      "date_found": "2026-08-22",
+      "status": "new"
+    },
+    {
+      "id": "3d34e74250654cd9c71ae0ef8183ccda",
+      "title": "Founding Product Engineer (Remote)",
+      "company": "Glass Health",
+      "location": "Remote (USA-oriented)",
+      "url": "https://jobs.lever.co/glass-health-inc/174fd80a-4df6-444c-9d49-859659d1c0d0",
+      "source": "lever",
+      "summary": "YC-backed, physician-cofounded clinical decision support startup building LLM-driven products for diagnostic accuracy and evidence-based medicine. Stack: Python/Django backend, React/TypeScript frontend, GCP/Docker. $120K-$210K + 0.5-1% equity, 6+ years experience.",
+      "score": 78,
+      "grade": "B",
+      "date_found": "2026-08-22",
+      "status": "new"
+    },
+    {
+      "id": "aebadbeea8411032cdb24ffb7295a94e",
+      "title": "Founding Engineer, Full Stack",
+      "company": "Zero21 (Superpower)",
+      "location": "Remote / San Francisco, CA",
+      "url": "https://jobs.lever.co/Zero21/0242c8f4-6335-4376-8aba-e03f7b3c7de9",
+      "source": "lever",
+      "summary": "Founding engineer at Superpower, a digital-health startup building a comprehensive personal health platform. Stack: TypeScript, React, Express.js, Node.js, AWS, Docker, Tailwind. Salary $121,400-$172,900, remote or San Francisco.",
+      "score": 76,
+      "grade": "B",
+      "date_found": "2026-08-22",
+      "status": "new"
+    },
+    {
+      "id": "aa2507680a4d3206684093a977ba9fcc",
+      "title": "Staff Engineer (IT Automation & AI-native Transformation)",
+      "company": "SoSafe",
+      "location": "Remote (Europe)",
+      "url": "https://jobs.ashbyhq.com/sosafe/ddf136c9-0367-43a6-8682-72df0feb1691/application",
+      "source": "ashbyhq",
+      "summary": "Staff/Principal-level role at SoSafe, a fast-growing European human-risk-management/cybersecurity SaaS scale-up, building an AI-native automation toolchain fusing n8n, agentic workflows and infrastructure-as-code across the whole company.",
+      "score": 74,
+      "grade": "B",
+      "date_found": "2026-08-22",
       "status": "new"
     }
   ]

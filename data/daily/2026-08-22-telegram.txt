@@ -1,0 +1,24 @@
+🎯 *Job Hunter — 2026-08-22*
+
+*1.* *Technical Co-Founder (CTO)* @ Eatomics
+📍 Zurich, Switzerland / Remote | ⭐ 90/100 | 🏆 Grade A
+💡 Cofounder-level ownership of the whole stack (Python, Node.js, React, AWS/GCP) at an AI food-matchmaking startup already running restaurant pilots, essentially the Alaya story again.
+🔗 https://ch.linkedin.com/jobs/view/technical-co-founder-full-stack-developer-at-eatomics-4051715436
+
+*2.* *Founding Product Engineer (Remote)* @ Glass Health
+📍 Remote (USA-oriented) | ⭐ 78/100 | 🏆 Grade B
+💡 YC-backed clinical decision support startup building LLM-driven products on Python/Django and React/TypeScript, founding scope with 0.5-1% equity.
+🔗 https://jobs.lever.co/glass-health-inc/174fd80a-4df6-444c-9d49-859659d1c0d0
+
+*3.* *Founding Engineer, Full Stack* @ Zero21 (Superpower)
+📍 Remote / San Francisco, CA | ⭐ 76/100 | 🏆 Grade B
+💡 Founding engineer seat on a near-perfect stack match (TypeScript, Node.js, React, AWS, Docker) at a digital-health startup, though the role leans US-centric.
+🔗 https://jobs.lever.co/Zero21/0242c8f4-6335-4376-8aba-e03f7b3c7de9
+
+*4.* *Staff Engineer (IT Automation & AI-native Transformation)* @ SoSafe
+📍 Remote (Europe) | ⭐ 74/100 | 🏆 Grade B
+💡 Staff/Principal mandate to build agentic AI-native automation at a fast-growing European cybersecurity SaaS scale-up, Europe-friendly remote.
+🔗 https://jobs.ashbyhq.com/sosafe/ddf136c9-0367-43a6-8682-72df0feb1691/application
+
+---
+📊 _4 new offers | 1353 total tracked_
