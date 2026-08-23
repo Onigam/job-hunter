@@ -1,0 +1,43 @@
+{
+  "date": "2026-08-23",
+  "total_searched": 21,
+  "new_offers": 3,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Staff ML Engineer (Zürich)",
+      "company": "Lakera",
+      "location": "Zurich, Switzerland",
+      "url": "https://jobs.ashbyhq.com/lakera.ai/6f04a898-893e-439f-8601-c25a30418c13/application",
+      "score": 78,
+      "grade": "B",
+      "why": "Staff-level ownership of Lakera's AI security detection stack (Python, Docker/Kubernetes, AWS/GCP, observability), at a fast-growing Swiss AI-native cybersecurity company. Strong seniority, AI-mission and Switzerland-location fit, though the role leans ML/security modeling rather than Magino's TypeScript/React platform background.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Founding Full-Stack Engineer",
+      "company": "Valerie Group",
+      "location": "Remote",
+      "url": "https://jobs.ashbyhq.com/valerie-group/085f4876-2ab1-441d-8e05-b1249c3350a4",
+      "score": 74,
+      "grade": "B",
+      "why": "Founding-engineer ownership across a near-exact stack match (React, TypeScript, NestJS, PostgreSQL, AWS) building a multi-tenant e-commerce platform plus AI agents, at a remote-first startup. Echoes the Alaya build-from-zero trajectory, though mission alignment and comp visibility are weaker than top matches.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Founding Full-Stack Engineer",
+      "company": "Dryft",
+      "location": "San Francisco, CA (onsite)",
+      "url": "https://jobs.ashbyhq.com/dryft/572fe2dc-1f15-476e-9e1b-df60ddd3205d",
+      "score": 63,
+      "grade": "C",
+      "why": "Founding-team role building agent-based reasoning and optimization systems for industrial operations at a well-backed startup (Amazon, Meta, Stripe alumni investors). Strong company trajectory and AI exposure, but the onsite San Francisco requirement is a poor fit for a Geneva-based candidate, included here to round out today's shortlist.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}

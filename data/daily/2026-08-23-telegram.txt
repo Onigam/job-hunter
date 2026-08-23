@@ -1,0 +1,19 @@
+🎯 *Job Hunt — 2026-08-23*
+
+*1.* *Staff ML Engineer (Zürich)* @ Lakera
+📍 Zurich, Switzerland | ⭐ 78/100 | 🏆 Grade B
+💡 Staff-level ownership of AI security detection systems at a fast-growing Swiss AI-native cybersecurity company.
+🔗 https://jobs.ashbyhq.com/lakera.ai/6f04a898-893e-439f-8601-c25a30418c13/application
+
+*2.* *Founding Full-Stack Engineer* @ Valerie Group
+📍 Remote | ⭐ 74/100 | 🏆 Grade B
+💡 Founding-engineer role on a near-perfect stack match (React, TypeScript, NestJS, AWS) building an e-commerce platform plus AI agents.
+🔗 https://jobs.ashbyhq.com/valerie-group/085f4876-2ab1-441d-8e05-b1249c3350a4
+
+*3.* *Founding Full-Stack Engineer* @ Dryft
+📍 San Francisco, CA (onsite) | ⭐ 63/100 | 🏆 Grade C
+💡 Founding-team role on agent-based industrial optimization at a well-backed startup; onsite SF is the main drag on fit.
+🔗 https://jobs.ashbyhq.com/dryft/572fe2dc-1f15-476e-9e1b-df60ddd3205d
+
+---
+📊 _3 new offers | 1356 total tracked_

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22",
+  "last_updated": "2026-08-23",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -19316,6 +19316,45 @@
       "score": 74,
       "grade": "B",
       "date_found": "2026-08-22",
+      "status": "new"
+    },
+    {
+      "id": "9298b348dd87a00ab78239f3aad715aa",
+      "title": "Staff ML Engineer (Z\u00fcrich)",
+      "company": "Lakera",
+      "location": "Zurich, Switzerland",
+      "url": "https://jobs.ashbyhq.com/lakera.ai/6f04a898-893e-439f-8601-c25a30418c13/application",
+      "source": "ashbyhq",
+      "summary": "Staff-level ML engineering role at Lakera, an AI-native cybersecurity scale-up building prompt-injection and AI threat detection systems. Deep Python, Docker/Kubernetes, AWS/GCP, and observability stack; Zurich-based.",
+      "score": 78,
+      "grade": "B",
+      "date_found": "2026-08-23",
+      "status": "new"
+    },
+    {
+      "id": "5e2116b3effe4c34f4e8d9786572deb4",
+      "title": "Founding Full-Stack Engineer",
+      "company": "Valerie Group",
+      "location": "Remote",
+      "url": "https://jobs.ashbyhq.com/valerie-group/085f4876-2ab1-441d-8e05-b1249c3350a4",
+      "source": "ashbyhq",
+      "summary": "Founding engineer role at a remote-first e-commerce growth platform, owning features end-to-end across React, TypeScript, NestJS, PostgreSQL and AWS, plus contributing to the company's AI agents product.",
+      "score": 74,
+      "grade": "B",
+      "date_found": "2026-08-23",
+      "status": "new"
+    },
+    {
+      "id": "75bc995ebb6325f909cb48b124c0ed3f",
+      "title": "Founding Full-Stack Engineer",
+      "company": "Dryft",
+      "location": "San Francisco, CA (onsite)",
+      "url": "https://jobs.ashbyhq.com/dryft/572fe2dc-1f15-476e-9e1b-df60ddd3205d",
+      "source": "ashbyhq",
+      "summary": "Founding engineering-team role building agent-based reasoning and mathematical optimization systems for industrial operations, backed by Amazon/Meta/Stripe alumni investors. Onsite San Francisco.",
+      "score": 63,
+      "grade": "C",
+      "date_found": "2026-08-23",
       "status": "new"
     }
   ]
