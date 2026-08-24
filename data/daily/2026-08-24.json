@@ -1,0 +1,67 @@
+{
+  "date": "2026-08-24",
+  "total_searched": 18,
+  "new_offers": 10,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Staff Software Engineer, AI Developer Tools",
+      "company": "Gusto, Inc.",
+      "location": "Remote (US-timezone leaning)",
+      "url": "https://weworkremotely.com/remote-jobs/gusto-inc-staff-software-engineer-ai-developer-tools",
+      "score": 73,
+      "grade": "B",
+      "why": "Staff-level ownership of an internal AI platform meant to accelerate engineering org-wide, a near-exact match for Magino's AI-augmented engineering focus at Benevity. Gusto is a well-funded, product-first scaleup, though the remote policy leans US timezones which softens the location fit for a Geneva-based candidate.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Senior Software Engineer, Platform",
+      "company": "Speechify Inc",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/speechify-inc-senior-software-engineer-platform-1",
+      "score": 66,
+      "grade": "C",
+      "why": "Platform ownership (payments, analytics, subscriptions APIs) at an AI-first accessibility/TTS startup, a decent stack and mission overlap. Seniority is titled Senior rather than Staff, and remote scope isn't confirmed Europe-friendly, so it's a worthwhile look rather than a top pick.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Artificial Intelligence Engineer",
+      "company": "Bank J. Safra Sarasin",
+      "location": "Geneva, Switzerland",
+      "url": "https://www.jobscout24.ch/en/job/6c71bb53-af0f-4e63-a495-c77f7898e12a/",
+      "score": 65,
+      "grade": "C",
+      "why": "Geneva-based role building production-grade AI agents and defining MLOps/CI-CD standards, strong location and AI-exposure fit for Magino. Banking-sector culture and scope (feature-level AI engineering rather than platform ownership or founding scope) pull it below a top-tier match.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Software Engineer (First Engineer, Zurich)",
+      "company": "TalSource",
+      "location": "Zurich, Switzerland / Remote",
+      "url": "https://wellfound.com/jobs/4496946-software-engineer",
+      "score": 64,
+      "grade": "C",
+      "why": "First-hire founding scope in Switzerland echoes Magino's Alaya build-from-zero trajectory, with strong seniority and company-stage fit. Listing is thin on tech-stack detail and comp, which caps confidence in the match.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Principal Software Engineer, Load Balancer - Isovalent",
+      "company": "Cisco (Isovalent)",
+      "location": "Wallisellen, Zurich, Switzerland",
+      "url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL1448616EXTERNALENGLOBAL/Principal-Software-Engineer-Load-Balancer-Isovalent",
+      "score": 60,
+      "grade": "C",
+      "why": "Principal-level infrastructure ownership in Switzerland at Isovalent (creators of Cilium/eBPF), strong seniority and platform-architecture scope. The Go/networking stack is a partial overlap at best with Magino's TypeScript/Node background, and the team now sits inside Cisco rather than an independent startup.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+🎯 *Job Hunt — 2026-08-24*
+
+*1.* *Staff Software Engineer, AI Developer Tools* @ Gusto, Inc.
+📍 Remote (US-leaning) | ⭐ 73/100 | 🏆 Grade B
+💡 Staff ownership of an internal AI platform for engineering-wide acceleration, close match to Magino's AI-augmented engineering focus.
+🔗 https://weworkremotely.com/remote-jobs/gusto-inc-staff-software-engineer-ai-developer-tools
+
+*2.* *Senior Software Engineer, Platform* @ Speechify Inc
+📍 Remote | ⭐ 66/100 | 🏆 Grade C
+💡 Platform ownership at an AI-first TTS/accessibility startup, solid mission fit though titled Senior not Staff.
+🔗 https://weworkremotely.com/remote-jobs/speechify-inc-senior-software-engineer-platform-1
+
+*3.* *Artificial Intelligence Engineer* @ Bank J. Safra Sarasin
+📍 Geneva, Switzerland | ⭐ 65/100 | 🏆 Grade C
+💡 Geneva-based AI agents and MLOps role, strong location fit though banking-sector and feature-level scope.
+🔗 https://www.jobscout24.ch/en/job/6c71bb53-af0f-4e63-a495-c77f7898e12a/
+
+*4.* *Software Engineer (First Engineer, Zurich)* @ TalSource
+📍 Zurich, Switzerland / Remote | ⭐ 64/100 | 🏆 Grade C
+💡 First-hire founding scope in Switzerland, echoes Magino's Alaya build-from-zero background.
+🔗 https://wellfound.com/jobs/4496946-software-engineer
+
+*5.* *Principal Software Engineer, Load Balancer - Isovalent* @ Cisco (Isovalent)
+📍 Wallisellen, Zurich, Switzerland | ⭐ 60/100 | 🏆 Grade C
+💡 Principal-level infra ownership at the creators of Cilium/eBPF, but Go stack is only a partial match.
+🔗 https://careers.cisco.com/global/en/job/CISCISGLOBAL1448616EXTERNALENGLOBAL/Principal-Software-Engineer-Load-Balancer-Isovalent
+
+---
+📊 _10 new offers | 1366 total tracked_

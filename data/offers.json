@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23",
+  "last_updated": "2026-08-24",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -19355,6 +19355,136 @@
       "score": 63,
       "grade": "C",
       "date_found": "2026-08-23",
+      "status": "new"
+    },
+    {
+      "id": "44a7381e3254e1a8de743b3d578b2230",
+      "title": "Staff Software Engineer, AI Developer Tools",
+      "company": "Gusto, Inc.",
+      "location": "Remote (US-timezone leaning)",
+      "url": "https://weworkremotely.com/remote-jobs/gusto-inc-staff-software-engineer-ai-developer-tools",
+      "source": "weworkremotely",
+      "summary": "Staff engineer role architecting an internal AI platform meant to accelerate engineering org-wide at Gusto, redefining how the org builds, tests, and ships software.",
+      "score": 73,
+      "grade": "B",
+      "date_found": "2026-08-24",
+      "status": "new"
+    },
+    {
+      "id": "4757c110b8cbc86c35de8025621d3e97",
+      "title": "Senior Software Engineer, Platform",
+      "company": "Speechify Inc",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/speechify-inc-senior-software-engineer-platform-1",
+      "source": "weworkremotely",
+      "summary": "Senior platform engineering role at Speechify, an AI-powered text-to-speech/accessibility startup, working on Payments, Analytics, Subscriptions and related APIs.",
+      "score": 66,
+      "grade": "C",
+      "date_found": "2026-08-24",
+      "status": "new"
+    },
+    {
+      "id": "a48ee8321ba3dff0d5540a01849d9d2d",
+      "title": "Artificial Intelligence Engineer",
+      "company": "Bank J. Safra Sarasin",
+      "location": "Geneva, Switzerland",
+      "url": "https://www.jobscout24.ch/en/job/6c71bb53-af0f-4e63-a495-c77f7898e12a/",
+      "source": "other",
+      "summary": "AI engineer role within the bank's AI Center of Excellence, leading development of production-grade AI agents (auto-healing code agents, document search assistants) and defining MLOps/CI-CD standards for AI models.",
+      "score": 65,
+      "grade": "C",
+      "date_found": "2026-08-24",
+      "status": "new"
+    },
+    {
+      "id": "76b837705b5105c16a4f15dfed031daa",
+      "title": "Software Engineer (First Engineer, Zurich)",
+      "company": "TalSource",
+      "location": "Zurich, Switzerland / Remote",
+      "url": "https://wellfound.com/jobs/4496946-software-engineer",
+      "source": "wellfound",
+      "summary": "First software engineer hire for TalSource's Switzerland operation, remote-only work policy based out of Zurich.",
+      "score": 64,
+      "grade": "C",
+      "date_found": "2026-08-24",
+      "status": "new"
+    },
+    {
+      "id": "2039a61f6dc31ec1f354288c0c831029",
+      "title": "Principal Software Engineer, Load Balancer - Isovalent",
+      "company": "Cisco (Isovalent)",
+      "location": "Wallisellen, Zurich, Switzerland",
+      "url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL1448616EXTERNALENGLOBAL/Principal-Software-Engineer-Load-Balancer-Isovalent",
+      "source": "other",
+      "summary": "Principal engineer role at Isovalent (now part of Cisco, founded by the creators of Cilium and eBPF) developing their next-generation load balancer. Based in Zurich with Europe-remote flexibility.",
+      "score": 60,
+      "grade": "C",
+      "date_found": "2026-08-24",
+      "status": "new"
+    },
+    {
+      "id": "370b3975ebb5681199f7d3f3aed10706",
+      "title": "Principal Platform Engineer (Architecture & Enablement)",
+      "company": "SonarSource",
+      "location": "Geneva, Switzerland",
+      "url": "https://startup.jobs/principal-platform-engineer-architecture-enablement-sonarsource-7729797",
+      "source": "other",
+      "summary": "SonarSource is hiring a Principal Platform Engineer to be the technical catalyst behind its 'Golden Path' strategy, designing core scaffolding and CLI tools that let product engineering teams bootstrap production-ready services quickly.",
+      "score": 58,
+      "grade": "C",
+      "date_found": "2026-08-24",
+      "status": "new"
+    },
+    {
+      "id": "715684df00f1c24947864c0b01a80390",
+      "title": "Staff Software Engineer (C#)",
+      "company": "SonarSource SA",
+      "location": "Geneva, Switzerland",
+      "url": "https://www.jobs.ch/en/vacancies/detail/b5d5984d-494f-40a4-8f4b-8bea1e9e769f/",
+      "source": "other",
+      "summary": "Staff-level software engineering role at SonarSource, a code quality and security product company headquartered in Geneva. C# focus within one of their product engineering teams.",
+      "score": 58,
+      "grade": "C",
+      "date_found": "2026-08-24",
+      "status": "new"
+    },
+    {
+      "id": "9ba12b0f67f5a0855cec2979fecc231b",
+      "title": "Staff Fullstack Software Engineer, Core Performance",
+      "company": "Dropbox",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/dropbox-staff-fullstack-software-engineer-core-performance",
+      "source": "weworkremotely",
+      "summary": "Staff-level fullstack role focused on performance optimization across Dropbox's web, iOS, Android, and desktop platforms.",
+      "score": 47,
+      "grade": "D",
+      "date_found": "2026-08-24",
+      "status": "new"
+    },
+    {
+      "id": "a7c744b0c226a6a937859606be190b75",
+      "title": "Senior Software Engineer, Go - Isovalent (Europe Remote)",
+      "company": "Cisco (Isovalent)",
+      "location": "Wallisellen, Zurich, Switzerland / Europe Remote",
+      "url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL1448622EXTERNALENGLOBAL/Senior-Software-Engineer-Go-Isovalent-Europe-Remote",
+      "source": "other",
+      "summary": "Go-focused senior engineering role at Isovalent within Cisco's eBPF/Cilium team, explicitly open to Europe-remote candidates.",
+      "score": 50,
+      "grade": "D",
+      "date_found": "2026-08-24",
+      "status": "new"
+    },
+    {
+      "id": "e110da9a8e46f317a1138611ba8f498d",
+      "title": "Staff Software Engineer",
+      "company": "Samsara",
+      "location": "Remote (US)",
+      "url": "https://weworkremotely.com/remote-jobs/samsara-staff-software-engineer",
+      "source": "weworkremotely",
+      "summary": "Samsara is hiring Senior through Staff+ engineers across platform and product; role is explicitly restricted to candidates residing in the US.",
+      "score": 48,
+      "grade": "D",
+      "date_found": "2026-08-24",
       "status": "new"
     }
   ]
