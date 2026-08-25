@@ -1,0 +1,29 @@
+🎯 *Job Hunt — 2026-08-25*
+
+*1.* *Staff Software Engineer, AI-native Automation* @ Nexthink
+📍 Lausanne, Switzerland (Hybrid) | ⭐ 74/100 | 🏆 Grade B
+💡 Staff-level ownership of turning Flow into an AI-native automation platform, close to Geneva.
+🔗 https://jobs.smartrecruiters.com/Nexthink/744000139945699-staff-software-engineer-ai-native-automation
+
+*2.* *CTO and Head of IT (AI)* @ GF-ACCORD AI
+📍 Geneva, Switzerland | ⭐ 74/100 | 🏆 Grade B
+💡 CTO role in Geneva with equity, though it's ML-research heavy and worth vetting before applying.
+🔗 https://wellfound.com/jobs/3026092-cto-and-head-of-it-ai
+
+*3.* *Staff Frontend Engineer (f|m|d)* @ SMG Swiss Marketplace Group
+📍 Zurich, Switzerland (Hybrid) | ⭐ 70/100 | 🏆 Grade B
+💡 Company-wide frontend architecture ownership at Switzerland's largest marketplace network.
+🔗 https://www.jobs.ch/en/vacancies/detail/fe88576f-3169-4ecf-b1d3-1453164f1ba5/
+
+*4.* *Member of Technical Staff - Platform Engineering* @ Modal
+📍 Remote/US (unconfirmed) | ⭐ 64/100 | 🏆 Grade C
+💡 Platform engineering at a fast-rising serverless AI infra startup, location unconfirmed.
+🔗 https://jobs.ashbyhq.com/modal/84467a68-6876-4730-9d80-6c6f3d0c2d71
+
+*5.* *Staff Platform Engineer* @ Abridge
+📍 Remote/US (unconfirmed) | ⭐ 64/100 | 🏆 Grade C
+💡 Platform role at a well-funded healthcare AI unicorn, EU remote eligibility unconfirmed.
+🔗 https://jobs.ashbyhq.com/Abridge/b64d7beb-3f9b-4a65-bb76-ceec5f3c8b11
+
+---
+📊 _9 new offers | 1375 total tracked_

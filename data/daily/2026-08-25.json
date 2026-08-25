@@ -1,0 +1,67 @@
+{
+  "date": "2026-08-25",
+  "total_searched": 22,
+  "new_offers": 9,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Staff Software Engineer, AI-native Automation",
+      "company": "Nexthink",
+      "location": "Lausanne, Switzerland (Hybrid)",
+      "url": "https://jobs.smartrecruiters.com/Nexthink/744000139945699-staff-software-engineer-ai-native-automation",
+      "score": 74,
+      "grade": "B",
+      "why": "Staff-level ownership of turning Nexthink's Flow product into an AI-native automation platform where agents orchestrate executions at enterprise scale, a strong match for Magino's AI-augmented engineering focus at Benevity. The stack is Java rather than TypeScript/Node, and the location is Lausanne rather than Geneva, but both are close enough to be a serious look.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "CTO and Head of IT (AI)",
+      "company": "GF-ACCORD AI",
+      "location": "Geneva, Switzerland (Remote options)",
+      "url": "https://wellfound.com/jobs/3026092-cto-and-head-of-it-ai",
+      "score": 74,
+      "grade": "B",
+      "why": "A CTO opening at a Geneva-based early-stage AI startup, matching Magino's top target role and home city outright, with 1-4% equity. The listing leans heavily on NLP/ML research credentials (PhD preferred) over platform engineering and some of the company framing reads unpolished, so it's worth a closer look before investing time in an application.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Staff Frontend Engineer (f|m|d)",
+      "company": "SMG Swiss Marketplace Group",
+      "location": "Zurich, Switzerland (Hybrid 80-100%)",
+      "url": "https://www.jobs.ch/en/vacancies/detail/fe88576f-3169-4ecf-b1d3-1453164f1ba5/",
+      "score": 70,
+      "grade": "B",
+      "why": "Staff-level, company-wide frontend architecture ownership at Switzerland's largest online marketplace network, a product company with real engineering scope. It's a narrower frontend-only mandate than Magino's usual full-stack/platform remit, but the seniority, culture and Swiss location line up well.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Member of Technical Staff - Platform Engineering",
+      "company": "Modal",
+      "location": "Remote/US (unconfirmed)",
+      "url": "https://jobs.ashbyhq.com/modal/84467a68-6876-4730-9d80-6c6f3d0c2d71",
+      "score": 64,
+      "grade": "C",
+      "why": "Platform engineering at Modal, one of the more talked-about serverless AI infrastructure startups, which lines up with Magino's AI-platform focus and founder-stage instincts from Alaya. Location and remote eligibility for Europe weren't confirmed in the listing, which caps confidence in the match.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Staff Platform Engineer",
+      "company": "Abridge",
+      "location": "Remote/US (unconfirmed)",
+      "url": "https://jobs.ashbyhq.com/Abridge/b64d7beb-3f9b-4a65-bb76-ceec5f3c8b11",
+      "score": 64,
+      "grade": "C",
+      "why": "Platform ownership at Abridge, a well-funded healthcare AI company building ambient clinical documentation, a strong AI-exposure and company-trajectory match. Remote eligibility outside the US isn't confirmed, which is the main open question for a Geneva-based candidate.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
