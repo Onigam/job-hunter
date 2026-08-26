@@ -1,0 +1,55 @@
+{
+  "date": "2026-08-26",
+  "total_searched": 20,
+  "new_offers": 9,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Staff / Principal Machine Learning Engineer, Serving",
+      "company": "Inworld AI",
+      "location": "Switzerland (remote)",
+      "url": "https://www.remoterocketship.com/company/inworld-ai/jobs/staff-principal-machine-learning-engineer-switzerland-remote/",
+      "score": 85,
+      "grade": "A",
+      "why": "Staff/Principal title matches Magino's seniority exactly, and the role is deep AI/ML platform serving infra work at a fast-growing AI startup. Remote-from-Switzerland fits the Geneva base perfectly, and the AI-first mission lines up with his AI-augmented engineering focus.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Founding Engineer (Frontend Focus)",
+      "company": "SCAIT",
+      "location": "Rotkreuz, Zug, Switzerland",
+      "url": "https://ch.talent.com/view?id=615634370003019625",
+      "score": 79,
+      "grade": "B",
+      "why": "A genuine founding-engineer seat with paying customers already in place, strong TypeScript/React overlap, and Swiss AI-startup DNA close to Magino's Alaya cofounder story.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Founding Engineer",
+      "company": "Lonio",
+      "location": "Z\u00fcrich, Switzerland",
+      "url": "https://join.com/companies/carrd956/16560604-founding-engineer",
+      "score": 78,
+      "grade": "B",
+      "why": "First-engineer-after-founders scope matches the founding-engineer target directly, with market validation already de-risking the bet, and Zurich keeps it inside Switzerland.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Head of Engineering, AI Security (Z\u00fcrich)",
+      "company": "Check Point Software Technologies (Lakera)",
+      "location": "Z\u00fcrich, Switzerland",
+      "url": "https://jobs.smartrecruiters.com/CheckPointSoftwareTechnologies2/744000138045889-head-of-engineering-ai-security-zurich-",
+      "score": 74,
+      "grade": "B",
+      "why": "Head of Engineering scope matches Magino's VP/leadership target, sits squarely in AI/agentic security, and is based in Zurich, though the recent acquisition by Check Point trades some startup upside for stability.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
