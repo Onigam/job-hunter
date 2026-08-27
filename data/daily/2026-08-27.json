@@ -1,0 +1,67 @@
+{
+  "date": "2026-08-27",
+  "total_searched": 22,
+  "new_offers": 11,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Backend / Product Engineer",
+      "company": "Langfuse (open source LLM engineering platform)",
+      "location": "Berlin, Germany / EU-remote (~1 week onsite every 2 months)",
+      "url": "https://news.ycombinator.com/item?id=49180088",
+      "score": 82,
+      "grade": "B",
+      "why": "Core product is LLM observability and tracing, directly aligned with your AI-augmented engineering focus since Benevity. EU-remote with light onsite cadence fits a Geneva base, and early-stage open-source AI infra offers the kind of ownership you had at Alaya.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Founding Engineer, Distributed Infrastructure",
+      "company": "BringYour",
+      "location": "Remote",
+      "url": "https://remoteok.com/remote-jobs/remote-founding-engineer-distributed-infrastructure-bringyour-761103",
+      "score": 67,
+      "grade": "C",
+      "why": "Founding engineer title matches your cofounder background from Alaya, and distributed infrastructure work draws on your platform and architecture depth. Fully remote with no relocation needed, though comp and timezone overlap are unconfirmed.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Staff Platform Engineer, Infra + DevOps",
+      "company": "Honor",
+      "location": "Remote",
+      "url": "https://wellfound.com/jobs/3627243-staff-platform-engineer-infra-devops",
+      "score": 67,
+      "grade": "C",
+      "why": "Staff-level title matches your seniority target and the infra/DevOps scope overlaps your Benevity platform work. It's a US remote company though, so timezone and Geneva-friendliness are unconfirmed.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "AI Software Engineer",
+      "company": "GF-ACCORD AI",
+      "location": "Geneva, Switzerland",
+      "url": "https://wellfound.com/jobs/3038650-ai-software-engineer",
+      "score": 65,
+      "grade": "C",
+      "why": "Geneva-based AI startup, so no relocation and a strong location match. The title reads more IC than Staff+, and the role scope beyond 'automation for BA and marketing workflows' isn't detailed.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Director of Engineering, Product Infrastructure and Release Engineering",
+      "company": "Mechanical Orchard",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/mechanical-orchard-director-of-engineering-product-infrastructure-and-release-engineering",
+      "score": 65,
+      "grade": "C",
+      "why": "Director-level scope over product infrastructure and release engineering echoes your Head of Technologies role at Alaya. The legacy-modernization mission is solid but not AI-first, and it's fully remote with no Switzerland presence.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}

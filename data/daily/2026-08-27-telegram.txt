@@ -1,0 +1,29 @@
+🎯 *Job Hunt — 2026-08-27*
+
+*1.* *Backend / Product Engineer* @ Langfuse (open source LLM engineering platform)
+📍 Berlin, Germany / EU-remote (~1 week onsite every 2 months) | ⭐ 82/100 | 🏆 Grade B
+💡 Core product is LLM observability and tracing, directly aligned with your AI-augmented engineering focus since Benevity.
+🔗 https://news.ycombinator.com/item?id=49180088
+
+*2.* *Founding Engineer, Distributed Infrastructure* @ BringYour
+📍 Remote | ⭐ 67/100 | 🏆 Grade C
+💡 Founding engineer title matches your cofounder background from Alaya, and distributed infrastructure work draws on your platform and architecture depth.
+🔗 https://remoteok.com/remote-jobs/remote-founding-engineer-distributed-infrastructure-bringyour-761103
+
+*3.* *Staff Platform Engineer, Infra + DevOps* @ Honor
+📍 Remote | ⭐ 67/100 | 🏆 Grade C
+💡 Staff-level title matches your seniority target and the infra/DevOps scope overlaps your Benevity platform work.
+🔗 https://wellfound.com/jobs/3627243-staff-platform-engineer-infra-devops
+
+*4.* *AI Software Engineer* @ GF-ACCORD AI
+📍 Geneva, Switzerland | ⭐ 65/100 | 🏆 Grade C
+💡 Geneva-based AI startup, so no relocation and a strong location match.
+🔗 https://wellfound.com/jobs/3038650-ai-software-engineer
+
+*5.* *Director of Engineering, Product Infrastructure and Release Engineering* @ Mechanical Orchard
+📍 Remote | ⭐ 65/100 | 🏆 Grade C
+💡 Director-level scope over product infrastructure and release engineering echoes your Head of Technologies role at Alaya.
+🔗 https://weworkremotely.com/remote-jobs/mechanical-orchard-director-of-engineering-product-infrastructure-and-release-engineering
+
+---
+📊 _11 new offers | 1395 total tracked_
