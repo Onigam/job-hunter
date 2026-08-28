@@ -1,0 +1,43 @@
+{
+  "date": "2026-08-28",
+  "total_searched": 24,
+  "new_offers": 4,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Co-Founder, Chief Technical Officer (CTO)",
+      "company": "Purpose:Labs",
+      "location": "Switzerland",
+      "url": "https://joinup.ch/job/co-founder-chief-technical-officer-cto-9637e472-8369-47de-ba6c-45ed793ed281-10068",
+      "score": 72,
+      "grade": "B",
+      "why": "Founding CTO role on an AI-native platform using world models and proactive agents, a strong technical and mission match given your AI-augmented engineering focus and the employee-purpose DNA from Alaya. Note the listing looks several months old, so confirm it's still open before applying.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Founding Engineer, Agent Systems",
+      "company": "Helmguard.ai",
+      "location": "London, UK (onsite)",
+      "url": "https://uk.linkedin.com/jobs/view/founding-engineer-agent-systems-at-helmguard-at-jack-jill-4436213094",
+      "score": 69,
+      "grade": "C",
+      "why": "Founding engineer building production agent orchestration and evaluation infrastructure, a direct fit for your multi-agent workflow expertise, at a startup already at seven-figure revenue. Onsite London with no remote option is the main mismatch against a Geneva base.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "CTO / Lead Engineer / Co-Founder",
+      "company": "UpGrid AG (Tenity-backed)",
+      "location": "Zurich, Switzerland",
+      "url": "https://joinup.ch/job/cto-lead-engineer-co-founder-tenity-backed-startup-de72cbaf-f5e9-4ddb-86de-68f28b6f5de2-9572",
+      "score": 67,
+      "grade": "C",
+      "why": "Founding CTO scope at a Swiss, Tenity-backed energy fintech, matching your cofounder-to-build-from-zero target and staying in-country. Domain is grid/energy rather than AI, and comp looks early-stage equity-heavy.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}

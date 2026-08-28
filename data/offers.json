@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-27",
+  "last_updated": "2026-08-28",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -19875,6 +19875,58 @@
       "score": 82,
       "grade": "B",
       "date_found": "2026-08-27",
+      "status": "new"
+    },
+    {
+      "title": "Co-Founder, Chief Technical Officer (CTO)",
+      "company": "Purpose:Labs",
+      "location": "Switzerland",
+      "url": "https://joinup.ch/job/co-founder-chief-technical-officer-cto-9637e472-8369-47de-ba6c-45ed793ed281-10068",
+      "source": "joinup",
+      "summary": "Co-founder CTO role building an AI-native 'Life & Career Navigation Engine' using world models and proactive AI agents to help people stay skilled and fulfilled. Product x AI focus, own the system end to end. Listing appears to be several months old, may no longer be actively hiring.",
+      "score": 72,
+      "grade": "B",
+      "id": "064909f7ace4438654b79420a912a676",
+      "date_found": "2026-08-28",
+      "status": "new"
+    },
+    {
+      "title": "Founding Engineer, Agent Systems",
+      "company": "Helmguard.ai",
+      "location": "London, UK (onsite)",
+      "url": "https://uk.linkedin.com/jobs/view/founding-engineer-agent-systems-at-helmguard-at-jack-jill-4436213094",
+      "source": "linkedin",
+      "summary": "Pre-Series A startup building agent-native risk infrastructure for high-stakes fintech/healthcare, founded by ex-Meta/SpaceX AI/Palantir engineers with seven-figure revenue within months. TypeScript, LLM frameworks, agent orchestration and evaluation tooling. Onsite London, no relocation support mentioned.",
+      "score": 69,
+      "grade": "C",
+      "id": "2981b422b67ff957cc2b28bc612ed786",
+      "date_found": "2026-08-28",
+      "status": "new"
+    },
+    {
+      "title": "CTO / Lead Engineer / Co-Founder",
+      "company": "UpGrid AG (Tenity-backed)",
+      "location": "Zurich, Switzerland",
+      "url": "https://joinup.ch/job/cto-lead-engineer-co-founder-tenity-backed-startup-de72cbaf-f5e9-4ddb-86de-68f28b6f5de2-9572",
+      "source": "joinup",
+      "summary": "Founding CTO role at an energy fintech startup building Switzerland's largest local energy trading community, backed by Tenity accelerator. Own technical vision at the intersection of renewable energy, distributed power and grid stability.",
+      "score": 67,
+      "grade": "C",
+      "id": "a74149d4d1dad0ef76a18cfbac139a7e",
+      "date_found": "2026-08-28",
+      "status": "new"
+    },
+    {
+      "title": "Co-Founder & CTO",
+      "company": "bitcypher",
+      "location": "Zurich, Switzerland",
+      "url": "https://joinup.ch/job/bitcypher-co-founder--cto-",
+      "source": "joinup",
+      "summary": "ETH Student Project House-backed, unfunded early-stage startup building a blockchain-based global data marketplace. Lead a small team of junior developers as hands-on technical co-founder.",
+      "score": 50,
+      "grade": "D",
+      "id": "285998b2eda05ea86faef5d99d1f95a6",
+      "date_found": "2026-08-28",
       "status": "new"
     }
   ]
