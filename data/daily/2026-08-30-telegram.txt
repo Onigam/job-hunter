@@ -1,0 +1,34 @@
+🎯 *Job Hunt — 2026-08-30*
+
+*1.* *Founding Platform Engineer* @ Converge (YC S23)
+📍 New York City (onsite) | ⭐ 76/100 | 🏆 Grade B
+💡 Founding platform engineer owning a data platform processing 5B jobs a month for a 3-person YC team, as close to a blank-page rebuild as Alaya was.
+🔗 https://www.ycombinator.com/companies/converge/jobs
+
+*2.* *Chief Architect* @ Nexthink SA
+📍 Lausanne, Switzerland | ⭐ 76/100 | 🏆 Grade B
+💡 Chief Architect at Nexthink, setting technical direction across a mature product org, close to the platform-ownership scope you had at Alaya but at a larger, funded scale-up.
+🔗 https://www.jobup.ch/en/jobs/detail/82127265-ca9d-4bb4-adbe-6b4d832540e5/
+
+*3.* *Staff Data Engineer* @ SonarSource SA
+📍 Geneva, Switzerland | ⭐ 76/100 | 🏆 Grade B
+💡 Staff data engineering role in Geneva at Sonar, an AI code verification company whose product surface (Claude Code, Codex, Cursor integrations) sits right in your AI-augmented engineering lane.
+🔗 https://www.jobup.ch/en/jobs/detail/588aaacf-77bd-41ea-8034-f168fb162d76/
+
+*4.* *Chief Technology Officer 100% (m/f/d)* @ Netrics AG
+📍 Biel, Switzerland | ⭐ 73/100 | 🏆 Grade B
+💡 Executive-board CTO seat at Netrics Group in Biel, owning technology strategy across three Swiss engineering brands.
+🔗 https://www.jobup.ch/en/jobs/detail/107ca107-0346-43a0-bae2-3d7a538f6251/
+
+*5.* *Staff Software Engineer (Java)* @ SonarSource SA
+📍 Geneva, Switzerland | ⭐ 72/100 | 🏆 Grade B
+💡 A second Geneva staff opening at Sonar, this one Java-leaning on the core verification engine rather than data infra.
+🔗 https://www.jobup.ch/en/jobs/detail/8b6054b1-af58-4d66-826f-acefaf31250b/
+
+*6.* *Principal Software Engineer - Zalando Payments (all genders)* @ Zalando
+📍 Zurich / Berlin, Switzerland/Germany | ⭐ 71/100 | 🏆 Grade B
+💡 Principal-level architecture role on Zalando's Payments platform, split between Zurich and Berlin.
+🔗 https://jobs.zalando.com/en/jobs/2725281-Principal-Software-Engineer---Zalando-Payments-(al
+
+---
+📊 _25 new offers | 1424 total tracked_
