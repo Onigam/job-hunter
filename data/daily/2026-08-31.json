@@ -1,0 +1,79 @@
+{
+  "date": "2026-08-31",
+  "total_searched": 19,
+  "new_offers": 7,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Software Engineer – Infrastructure & Scaling",
+      "company": "fore ai",
+      "location": "Zürich, Switzerland",
+      "url": "https://foreai.co/careers/software-engineer-infra",
+      "score": 76,
+      "grade": "B",
+      "why": "fore ai is an early-stage, VC-backed startup founded by ex-Google engineers, which fits Magino's founding-engineer instincts from building Alaya to acquisition. The role owns core cloud/Kubernetes infrastructure for an agentic AI platform, a strong match for his platform-engineering and AI-augmented workflow background, and it's onsite in Zurich, Switzerland.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Head of Engineering (FinTech)",
+      "company": "Deel",
+      "location": "Remote (Europe)",
+      "url": "https://jobgether.com/offer/69e8e9f7c646310ee3977c21-head-of-engineering-fintech",
+      "score": 72,
+      "grade": "B",
+      "why": "Deel is a proven scale-up, and this leadership role over payments, ledger, and compliance platforms plays directly to Magino's cofounder-to-acquisition track record at Alaya. It's remote and Europe-friendly, though not Switzerland-based, and the fintech domain is new territory rather than a direct extension of his TypeScript/Node/AI stack.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Principal Engineer (Head of Engineering) - Fintech/Blockchain",
+      "company": "Growing Fintech (via LuRecruiter)",
+      "location": "Remote (Europe)",
+      "url": "https://jobgether.com/offer/69d22befaba5fafceefdaf9d-principal-engineer-head-of-engineering---fintech-blockchain",
+      "score": 70,
+      "grade": "B",
+      "why": "A hybrid technical-owner role spanning both hands-on architecture and organizational leadership, close to how Magino operated as Alaya's Head of Technologies. Distributed, event-driven systems experience transfers well from his microservices background, though the ledger/custody domain and remote-only setup are a step away from his ideal Geneva base.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "AI/ML Technical Lead (LLMs)",
+      "company": "Windmill Smart Solutions",
+      "location": "Remote",
+      "url": "https://jobs.windmill.digital/apply/OiTKgfxZjw/AIML-Technical-Lead-LLMs",
+      "score": 62,
+      "grade": "C",
+      "why": "The LLM roadmap ownership and team mentoring resonate with Magino's AI-augmented engineering focus at Benevity, but the role leans toward ML research (TensorFlow/PyTorch) rather than the platform/product engineering he's built his career on. Worth a look given the remote flexibility, but a partial stack match.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Software Engineer - Product Development",
+      "company": "fore ai",
+      "location": "Remote",
+      "url": "https://foreai.co/careers/full-stack-engineer",
+      "score": 60,
+      "grade": "C",
+      "why": "Same appealing early-stage AI startup as the infra role above, but this posting explicitly targets 3-6 years of experience, a clear step down from Magino's 17+ years and Staff+ scope. Included for company fit and remote flexibility rather than seniority match.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 6,
+      "title": "Agentic AI Data Scientist/Engineer",
+      "company": "Procter & Gamble",
+      "location": "Petit-Lancy, Geneva, Switzerland",
+      "url": "https://www.pgcareers.com/global/en/job/R000153771/Agentic-AI-Data-Scientist-Engineer",
+      "score": 55,
+      "grade": "C",
+      "why": "Geneva-based and squarely in the agentic AI space Magino has been exploring post-Benevity, which counts for a lot given his location priority. But it's a large consumer-goods enterprise rather than a startup, and framed as an individual-contributor data science role rather than the platform/architecture ownership he's after.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
