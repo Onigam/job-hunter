@@ -1,0 +1,25 @@
+# STAR Stories: Principal Engineer (Head of Engineering), Fintech/Blockchain
+
+## 1. Building a platform from zero, then owning its architecture through acquisition
+
+Best for: "why should we trust you with technical ownership of the whole system" / founding-engineer scope questions.
+
+In 2016 I co-founded Alaya, an employee purpose and impact platform, and I was the one who had to turn a blank page into a working product while the business was already out signing its first enterprise clients. I picked a stack that could scale without over-engineering it on day one, Node.js, React, Postgres, and got the core features live for a first demo inside three months. From there it kept expanding: multi-tenant architecture, an API layer, impact reporting, postal campaigns, and I hired and onboarded the first three engineers along the way, setting up CI/CD and a code review culture as the team grew around me. By the time we were acquired by Benevity in 2021, the platform was running in production for more than fifty enterprise clients across Switzerland and France. What I'd do differently is invest in observability much earlier, we bolted on proper APM late, and I underestimated how expensive retrofitting multi-tenancy would be. If I were designing a core platform today, especially one carrying B2C and B2B traffic on the same rails, I'd bake that in from day zero rather than treat it as a phase two problem.
+
+## 2. Making a defensible architecture call under investor pressure
+
+Best for: technical trade-off questions, decisions about scalability versus feature velocity, exactly the kind of coherence-across-squads judgment this role is asking for.
+
+At Alaya our monolith started showing real scaling cracks right as investors were pushing hard for new features, not a rewrite. The team was split between a full microservices rewrite and staying the course, and neither option was going to be free. I ran a two-week spike comparing both approaches with actual load tests instead of opinions, then took the results to the CTO and investors and proposed a strangler-fig migration: pull out the two highest-traffic modules first, leave the rest of the monolith alone, and define clear criteria for when to extract the next piece. The first extracted module shipped in six weeks and performance improved about 40% on the busiest endpoints. The rest of the monolith stayed stable straight through the acquisition, so no big-bang rewrite was ever needed. The hard part wasn't the technical design, it was convincing people that not rewriting everything was the right call. Data got me there faster than argument did, and next time I'd front-load even more of that benchmarking to cut the debate short earlier.
+
+## 3. Owning technical coherence across teams without formal authority
+
+Best for: questions about this role's hybrid scope, someone who's the technical owner of a system without being the people manager of the squads building it.
+
+After the Benevity acquisition I joined as Senior Staff Engineer on a team roughly ten times the size of Alaya, different codebase, different culture, Java and microservices instead of what I'd built. Rather than pushing opinions in week one, I spent the first month mapping the existing architecture and building relationships with the platform and infra teams before proposing anything. From there I ended up becoming the cross-team architecture liaison for the Europe-facing product surface, driving three major architecture decisions and also leading adoption of AI-assisted development practices across two teams that didn't report to me at all. I started with three curious early adopters, built demos that showed concrete time saved, ran informal lunch-and-learn sessions with no mandate behind them, and put together a shared repo of prompt templates. Within three months about 70% of engineers across both teams were using it. I moved too fast early on trying to fix things that weren't actually broken in the new org, and slowing down to listen first is what made the rest of it stick.
+
+## 4. Leading change with no direct reports
+
+Best for: influence-without-authority questions, and this role's requirement to align two squads that report elsewhere.
+
+The AI-tooling adoption at Benevity is the clearest version of this. I had no manager title and no mandate to change how anyone worked, so the only lever I had was making the case concrete enough that people wanted in. I documented specific wins, one story mentions saving about two hours on a single PR review cycle, and let engineers opt in on their own terms rather than announcing a rollout. It was slower than a top-down decree would have been, but it stuck, because the people who adopted it early ended up advocating for it inside their own teams, which is something I couldn't have manufactured with a policy. For a role that has to keep two separately-run squads coherent without owning either one's headcount, that's the operating model I'd bring: build trust and evidence first, and let the authority follow from that rather than from a title.
