@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-31",
+  "last_updated": "2026-09-01",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -20374,6 +20374,76 @@
       "score": 47,
       "grade": "D",
       "date_found": "2026-08-31",
+      "status": "new",
+      "part_time": false
+    },
+    {
+      "id": "00f85e62a828dc2dbd9f6418eff2069d",
+      "title": "Software Engineer, Agentic Team",
+      "company": "Lakera",
+      "location": "Zürich, Switzerland",
+      "url": "https://startup.jobs/software-engineer-agentic-team-lakera-ai-8304359",
+      "source": "other",
+      "summary": "AI-agent security startup, recently folded into Check Point's new AI hub, building the security layer for AI agents in production including inference pipelines and automated red-teaming of LLMs. Strong platform/AI overlap and Zurich-based, though the role's title (non-Staff) leaves seniority scope somewhat open.",
+      "score": 76,
+      "grade": "B",
+      "date_found": "2026-09-01",
+      "status": "new",
+      "part_time": false
+    },
+    {
+      "id": "c9cfbb28cbd9a39bf351b32187a590ff",
+      "title": "Founding Engineer",
+      "company": "Tsenta (YC S26)",
+      "location": "San Francisco, USA (in-person)",
+      "url": "https://jobs.ashbyhq.com/Tsenta/6f260369-fb1b-4025-abd3-ec48c2087c14/",
+      "source": "other",
+      "summary": "YC S26 startup building an LLM-powered agent that finds and auto-applies to jobs across 19+ ATSes, hiring its 5th team member as founding engineer on a TypeScript/Node/LLM stack. Excellent technical and role-impact fit, but requires in-person relocation to San Francisco.",
+      "score": 72,
+      "grade": "B",
+      "date_found": "2026-09-01",
+      "status": "new",
+      "part_time": false
+    },
+    {
+      "id": "77317a17207a893cfeb74878aa1d55f3",
+      "title": "Founding Engineer",
+      "company": "TransVoix",
+      "location": "Phoenix, USA / Remote (Work from Home)",
+      "url": "https://wellfound.com/jobs/4056650-founding-engineer",
+      "source": "wellfound",
+      "summary": "Early-stage, solo-founder startup focused on language accessibility, with an enterprise pilot already lined up with a YC-backed customer. Founding-engineer role owning platform engineering, but the company is pre-funding and the founder is still working a separate full-time job.",
+      "score": 58,
+      "grade": "C",
+      "date_found": "2026-09-01",
+      "status": "new",
+      "part_time": false
+    },
+    {
+      "id": "d1f267cee65acae73609840f110649bd",
+      "title": "Platform Engineer AI & Robotics (80-100%)",
+      "company": "SIX",
+      "location": "Switzerland",
+      "url": "https://ch.linkedin.com/jobs/view/platform-engineer-ai-robotics-80-100%-at-six-4059098170",
+      "source": "linkedin",
+      "summary": "Platform engineering role spanning AI and robotics infrastructure at SIX, the Swiss stock exchange operator. Solid Switzerland location fit, but it's a large, established financial-infrastructure enterprise rather than the startup/scale-up environment Magino targets, and the robotics angle is a stretch from his SaaS/platform background.",
+      "score": 49,
+      "grade": "D",
+      "date_found": "2026-09-01",
+      "status": "new",
+      "part_time": false
+    },
+    {
+      "id": "43c2e70c1501333f905cc100b0ee5b33",
+      "title": "AI Platform Engineer",
+      "company": "Zurich Insurance",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/3981000815",
+      "source": "linkedin",
+      "summary": "AI platform engineering role at a large Swiss insurer. Good location fit but a large legacy enterprise rather than a startup or product-first company, and framed as infrastructure/ops support rather than founding or architecture-ownership scope.",
+      "score": 46,
+      "grade": "D",
+      "date_found": "2026-09-01",
       "status": "new",
       "part_time": false
     }

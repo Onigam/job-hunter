@@ -1,0 +1,19 @@
+🎯 *Job Hunt — 2026-09-01*
+
+*1.* *Software Engineer, Agentic Team* @ Lakera
+📍 Zürich, Switzerland | ⭐ 76/100 | 🏆 Grade B
+💡 AI-agent security startup (now Check Point's AI hub) building LLM red-teaming infra, a strong platform/AI match based in Zurich.
+🔗 https://startup.jobs/software-engineer-agentic-team-lakera-ai-8304359
+
+*2.* *Founding Engineer* @ Tsenta (YC S26)
+📍 San Francisco, USA (in-person) | ⭐ 72/100 | 🏆 Grade B
+💡 YC-backed founding-engineer seat on a TypeScript/LLM stack, but it's in-person in SF, not Geneva or remote.
+🔗 https://jobs.ashbyhq.com/Tsenta/6f260369-fb1b-4025-abd3-ec48c2087c14/
+
+*3.* *Founding Engineer* @ TransVoix
+📍 Phoenix, USA / Remote | ⭐ 58/100 | 🏆 Grade C
+💡 Solo-founder language-accessibility startup with an early enterprise pilot lined up; real ownership but early and unfunded.
+🔗 https://wellfound.com/jobs/4056650-founding-engineer
+
+---
+📊 _5 new offers | 1436 total tracked_

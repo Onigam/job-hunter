@@ -1,0 +1,43 @@
+{
+  "date": "2026-09-01",
+  "total_searched": 18,
+  "new_offers": 5,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Software Engineer, Agentic Team",
+      "company": "Lakera",
+      "location": "Zürich, Switzerland",
+      "url": "https://startup.jobs/software-engineer-agentic-team-lakera-ai-8304359",
+      "score": 76,
+      "grade": "B",
+      "why": "Lakera builds the security layer for AI agents in production and was recently absorbed into Check Point's AI hub, giving it startup speed with acquirer-backed stability. The role spans inference pipelines and red-teaming infrastructure for LLMs, a strong match for Magino's platform-engineering and AI-augmented workflow background, and it's based in Zurich.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Founding Engineer",
+      "company": "Tsenta (YC S26)",
+      "location": "San Francisco, USA (in-person)",
+      "url": "https://jobs.ashbyhq.com/Tsenta/6f260369-fb1b-4025-abd3-ec48c2087c14/",
+      "score": 72,
+      "grade": "B",
+      "why": "Tsenta is a YC-backed founding-engineer seat (team of 5) building an LLM-powered job-application agent on a TypeScript/Node stack, which lines up almost exactly with Magino's build-from-zero instincts from Alaya. The catch is it's in-person in San Francisco, a real relocation ask rather than the Geneva or remote setup he prioritizes.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Founding Engineer",
+      "company": "TransVoix",
+      "location": "Phoenix, USA / Remote (Work from Home)",
+      "url": "https://wellfound.com/jobs/4056650-founding-engineer",
+      "score": 58,
+      "grade": "C",
+      "why": "Solo-founder startup building language-accessibility tooling, with an enterprise pilot already lined up with a YC-backed customer, offering true founding-engineer ownership of the platform. It's early and unfunded (the founder is still moonlighting from a full-time job), and the stack and comp details are thin, so it's more a speculative bet than a clear match.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
