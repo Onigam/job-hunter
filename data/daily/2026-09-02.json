@@ -1,0 +1,19 @@
+{
+  "date": "2026-09-02",
+  "total_searched": 30,
+  "new_offers": 1,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Founding Engineer",
+      "company": "Zauber Technology GmbH",
+      "location": "Berlin, Germany (hybrid/flexible)",
+      "url": "https://jobs.ashbyhq.com/zauber/79276b73-6bb5-4726-95e5-3f926df8ae66",
+      "score": 81,
+      "grade": "B",
+      "why": "Zauber builds autonomous AI agents for global logistics operators already live in Europe and Asia, backed by P9, a top early-stage European fund. The role is full-stack founding-engineer ownership on Node.js/TypeScript/React with real equity, which lines up closely with Magino's build-from-zero path at Alaya and his current AI-augmented engineering focus.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}

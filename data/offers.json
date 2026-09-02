@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-01",
+  "last_updated": "2026-09-02",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -20446,6 +20446,71 @@
       "date_found": "2026-09-01",
       "status": "new",
       "part_time": false
+    },
+    {
+      "id": "65fc3292cfaeaede8e9ecb77a7aac25f",
+      "title": "Founding Engineer",
+      "company": "Zauber Technology GmbH",
+      "location": "Berlin, Germany (hybrid/flexible)",
+      "url": "https://jobs.ashbyhq.com/zauber/79276b73-6bb5-4726-95e5-3f926df8ae66",
+      "source": "ashbyhq",
+      "summary": "Zauber builds autonomous AI agents for the global logistics industry, already live with logistics leaders in Europe and Asia. Backed by P9, a top early-stage European fund. Full-stack founding-engineer role on Node.js, TypeScript, React, distributed systems and serverless infrastructure, working closely with the founding team and customers. Top-of-market equity plus annual 4-week working residencies in San Francisco.",
+      "score": 81,
+      "grade": "B",
+      "date_found": "2026-09-02",
+      "status": "new"
+    },
+    {
+      "id": "d25988a1919048d0883b40315b0f0dea",
+      "title": "Head of Engineering",
+      "company": "Moniepoint Group",
+      "location": "Remote (Poland or India only)",
+      "url": "https://jobgether.com/offer/6a47d591ac00a71a5a7921c6-head-of-engineering",
+      "source": "jobgether",
+      "summary": "Large-scale African fintech (1,001-5,000 employees, 50B+ annual TPV) hiring a Head of Engineering on Java/Spring/Kubernetes/AWS. 12-15 years hands-on experience, ~60/40 technical/people leadership. Remote hiring restricted to Poland and India, which rules it out for a Geneva-based candidate; stack is also Java-centric rather than TypeScript/Node.",
+      "score": 48,
+      "grade": "D",
+      "date_found": "2026-09-02",
+      "status": "new"
+    },
+    {
+      "id": "a95749d3316088dbb98053eeff5cc3f7",
+      "title": "Head of Engineering Services (Remote)",
+      "company": "VOLMI (A Virtuos Studio)",
+      "location": "Remote (PL, MY, CN, SG, UK, IE, FR, CZ, CA, US)",
+      "url": "https://jobgether.com/offer/6a7e7dcb490731f1e19e5774-head-of-engineering-services-remote",
+      "source": "jobgether",
+      "summary": "Video-games engineering-services studio (Virtuos, 51-200 employees) hiring a business-unit leader to build and scale a client-facing engineering services line from scratch. Executive/commercial role rather than hands-on platform engineering; outsourcing/services business model is a weaker fit, remote country list excludes Switzerland.",
+      "score": 40,
+      "grade": "D",
+      "date_found": "2026-09-02",
+      "status": "new"
+    },
+    {
+      "id": "7d53332069c75d76d1b16452abbb95fe",
+      "title": "Principal Engineer / Technical Executive Type",
+      "company": "WOW Remote Teams",
+      "location": "Remote (worldwide)",
+      "url": "https://jobgether.com/offer/69e6e160c646310ee395416b-principal-engineer-technical-executive-type",
+      "source": "jobgether",
+      "summary": "Full-stack ownership role (JS, backend APIs, databases, AI integration, payments) at a 2-10 person staffing/recruiting company. Good tech-stack overlap and worldwide remote flexibility, but the hiring company itself is a staffing/outsourcing shop, which is a weaker fit against Magino's preference to avoid outsourcing/consulting employers.",
+      "score": 48,
+      "grade": "D",
+      "date_found": "2026-09-02",
+      "status": "new"
+    },
+    {
+      "id": "390d444eb4a0320ba1aea941390a39a6",
+      "title": "Staff Platform Architect, Data & AI (Remote)",
+      "company": "Experian",
+      "location": "Remote (US only)",
+      "url": "https://jobgether.com/offer/6a756d88490731f1e1894728-staff-platform-architect-data-ai-remote",
+      "source": "jobgether",
+      "summary": "Staff-level architecture role across MLOps, analytics and AI/ML platforms at Experian (25,000+ employees, 32 countries). Solid AI-platform tech overlap, but remote is US-only and the company is a large legacy enterprise, both of which are a weaker fit against Magino's startup and Switzerland/Europe preferences.",
+      "score": 48,
+      "grade": "D",
+      "date_found": "2026-09-02",
+      "status": "new"
     }
   ]
 }
