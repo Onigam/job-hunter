@@ -1,0 +1,43 @@
+{
+  "date": "2026-09-03",
+  "total_searched": 22,
+  "new_offers": 3,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Co-founder & CTO — Stealth AI Infrastructure for Physical Commodity Trading",
+      "company": "Merantix Capital-backed venture",
+      "location": "Zürich, Switzerland",
+      "url": "https://www.datacareer.ch/job/13870/co-founder-cto-stealth-ai-infrastructure-for-physical-commodity-trading-venture/",
+      "score": 84,
+      "grade": "B",
+      "why": "A founding CTO seat on an AI-native operating layer for physical commodity trading, backed by Merantix Capital, one of Europe's more credible AI venture studios. It's a build-from-zero mandate with a working-capital structure already in motion, which lines up with the ownership Magino had at Alaya before the Benevity acquisition.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Staff Platform Engineer",
+      "company": "Nango",
+      "location": "Remote — Europe (Switzerland eligible)",
+      "url": "https://jobs.ashbyhq.com/nango/8df55632-71d5-481e-8424-1f7491f9e96d",
+      "score": 79,
+      "grade": "B",
+      "why": "Nango is YC-backed AI integration infrastructure connecting agents to 900+ APIs, already at mid-seven-figure ARR with a small, senior team from AWS, GitHub and Okta. Platform ownership on a dev-tool product at that stage suits Magino's post-acquisition Staff Engineer scope at Benevity, and the fully remote, no-office setup keeps Geneva viable.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Staff Backend Engineer",
+      "company": "Nango",
+      "location": "Remote — Europe (Switzerland eligible)",
+      "url": "https://jobs.ashbyhq.com/Nango/3467f495-c833-4dcc-b119-cf43b7b93f84/application",
+      "score": 77,
+      "grade": "B",
+      "why": "Same company as above, backend-leaning: designing and scaling the APIs behind millions of integration runs for customers like Replit and Ramp. Less founding-scope than the CTO role but a real Staff+ bar (11+ years expected) and a stack close to Magino's Node.js/TypeScript core.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}

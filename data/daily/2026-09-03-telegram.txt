@@ -1,0 +1,19 @@
+🎯 *Job Hunt — 2026-09-03*
+
+*1.* *Co-founder & CTO — Stealth AI Infrastructure for Physical Commodity Trading* @ Merantix Capital-backed venture
+📍 Zürich, Switzerland | ⭐ 84/100 | 🏆 Grade B
+💡 Founding CTO seat on an AI-native trading infrastructure venture backed by a top European AI studio — build-from-zero, close to the Alaya playbook.
+🔗 https://www.datacareer.ch/job/13870/co-founder-cto-stealth-ai-infrastructure-for-physical-commodity-trading-venture/
+
+*2.* *Staff Platform Engineer* @ Nango
+📍 Remote — Europe (Switzerland eligible) | ⭐ 79/100 | 🏆 Grade B
+💡 YC-backed AI integration infrastructure at real scale (900+ APIs, mid-7-figure ARR), fully remote with no office to relocate for.
+🔗 https://jobs.ashbyhq.com/nango/8df55632-71d5-481e-8424-1f7491f9e96d
+
+*3.* *Staff Backend Engineer* @ Nango
+📍 Remote — Europe (Switzerland eligible) | ⭐ 77/100 | 🏆 Grade B
+💡 Backend-leaning Staff role on the same team, scaling APIs for customers like Replit and Ramp, close to Magino's Node/TypeScript core.
+🔗 https://jobs.ashbyhq.com/Nango/3467f495-c833-4dcc-b119-cf43b7b93f84/application
+
+---
+📊 _3 new offers | 1444 total tracked_

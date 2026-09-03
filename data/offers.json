@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-02",
+  "last_updated": "2026-09-03",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -20510,6 +20510,45 @@
       "score": 48,
       "grade": "D",
       "date_found": "2026-09-02",
+      "status": "new"
+    },
+    {
+      "id": "bdc72986b9671080d0dc28ad2d71b06f",
+      "title": "Co-founder & CTO — Stealth AI Infrastructure for Physical Commodity Trading",
+      "company": "Merantix Capital-backed venture",
+      "location": "Zürich, Switzerland",
+      "url": "https://www.datacareer.ch/job/13870/co-founder-cto-stealth-ai-infrastructure-for-physical-commodity-trading-venture/",
+      "source": "datacareer.ch",
+      "summary": "Stealth-mode AI-native operating layer for physical commodity trading, founded by a trader with 15+ years across major trading houses and built with Merantix Capital, a leading European AI venture studio. Working-capital structures and initial commercial flows already in development. Co-founder & CTO role, posted August 17, 2026.",
+      "score": 84,
+      "grade": "B",
+      "date_found": "2026-09-03",
+      "status": "new"
+    },
+    {
+      "id": "c34de6adeab9a27bb60046410ae03332",
+      "title": "Staff Platform Engineer",
+      "company": "Nango",
+      "location": "Remote — Europe (Switzerland eligible)",
+      "url": "https://jobs.ashbyhq.com/nango/8df55632-71d5-481e-8424-1f7491f9e96d",
+      "source": "ashbyhq",
+      "summary": "Nango is YC-backed AI infrastructure connecting agents to 900+ APIs, mid-seven-figure ARR, 14-person team from AWS, GitHub, Okta, Snyk, Netlify, Uber. Fully remote, hires across most of Europe including Switzerland, no physical offices. Platform engineering ownership role.",
+      "score": 79,
+      "grade": "B",
+      "date_found": "2026-09-03",
+      "status": "new"
+    },
+    {
+      "id": "e9d73810fcbc7de50966e0bfabba0b15",
+      "title": "Staff Backend Engineer",
+      "company": "Nango",
+      "location": "Remote — Europe (Switzerland eligible)",
+      "url": "https://jobs.ashbyhq.com/Nango/3467f495-c833-4dcc-b119-cf43b7b93f84/application",
+      "source": "ashbyhq",
+      "summary": "Backend-focused Staff Engineer role at Nango, designing and scaling backend systems and APIs powering millions of integration runs for customers including Replit and Ramp. $140K-$220K + equity, 11+ years experience expected, remote across most of Europe including Switzerland.",
+      "score": 77,
+      "grade": "B",
+      "date_found": "2026-09-03",
       "status": "new"
     }
   ]
