@@ -1,0 +1,29 @@
+🎯 *Job Hunt — 2026-09-04*
+
+*1.* *Staff Backend Engineer* @ Nexthink SA
+📍 Lausanne, Switzerland | ⭐ 76/100 | 🏆 Grade B
+💡 Staff-level backend ownership at a proven Swiss scale-up, close to Geneva.
+🔗 https://jobmaps.ch/en/company/417360/job/289860
+
+*2.* *VP Engineering* @ CentML
+📍 United States (Remote) | ⭐ 75/100 | 🏆 Grade B
+💡 VP-level leadership at an AI compute-optimization startup, AI-infra angle fits well.
+🔗 https://www.linkedin.com/jobs/view/vp-engineering-at-centml-3758128861
+
+*3.* *Co-Founder / CTO* @ Snatch Live
+📍 Switzerland | ⭐ 66/100 | 🏆 Grade C
+💡 Founding CTO seat, Switzerland-based, but light on stack/funding detail.
+🔗 https://ch.linkedin.com/jobs/view/co-founder-cto-at-snatch-live-3606324645
+
+*4.* *Senior Kubernetes Platform Engineer / DevOps Engineer (a) 80-100%* @ CONVOTIS Schweiz AG
+📍 Zürich, Switzerland | ⭐ 59/100 | 🏆 Grade C
+💡 Good Kubernetes/platform overlap, but reads as IT-services rather than product.
+🔗 https://swissdevjobs.ch/jobs/CONVOTIS-Schweiz-AG-Senior-Kubernetes-Platform-Engineer--DevOps-Engineer-a-80---100
+
+*5.* *Senior Platform Engineer (Lucerne region)* @ Rockstar Recruiting AG (client role)
+📍 Root, Lucerne region, Switzerland | ⭐ 58/100 | 🏆 Grade C
+💡 Platform scope and Swiss comp in range, but employer undisclosed and a longer relocation.
+🔗 https://swissdevjobs.ch/jobs/Rockstar-Recruiting-AG-Senior-Platform-Engineer-Lucerne-region
+
+---
+📊 _8 new offers | 1452 total tracked_

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-03",
+  "last_updated": "2026-09-04",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -20549,6 +20549,115 @@
       "score": 77,
       "grade": "B",
       "date_found": "2026-09-03",
+      "status": "new"
+    },
+    {
+      "title": "Staff Backend Engineer",
+      "company": "Nexthink SA",
+      "location": "Lausanne, Switzerland",
+      "url": "https://jobmaps.ch/en/company/417360/job/289860",
+      "source": "other",
+      "summary": "Staff-level backend engineering role at Nexthink, a Swiss digital employee experience scale-up headquartered near Lausanne, owning backend systems at production scale.",
+      "score": 76,
+      "grade": "B",
+      "why": "Nexthink is a proven Swiss scale-up (DEX category leader) with a Staff-level backend mandate close to Magino's current Benevity scope, and Lausanne keeps the commute realistic from Geneva. It's the kind of ownership role that fits his platform-architecture background better than a pure feature team.",
+      "id": "2bce03e76b67002709d8bc25c0138485",
+      "date_found": "2026-09-04",
+      "status": "new"
+    },
+    {
+      "title": "VP Engineering",
+      "company": "CentML",
+      "location": "United States (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/vp-engineering-at-centml-3758128861",
+      "source": "linkedin",
+      "summary": "VP Engineering role at CentML, an AI compute-optimization startup, leading engineering strategy and team scaling.",
+      "score": 75,
+      "grade": "B",
+      "why": "A VP Engineering seat at an AI infrastructure startup lines up with Magino's target of hybrid IC/leadership roles and his AI-augmented engineering focus post-Benevity. US remote is a lower location priority than Switzerland, but the seniority and AI-infra angle make it worth a look.",
+      "id": "b2e46ec57dacd69520937ef766526960",
+      "date_found": "2026-09-04",
+      "status": "new"
+    },
+    {
+      "title": "Co-Founder / CTO",
+      "company": "Snatch Live",
+      "location": "Switzerland",
+      "url": "https://ch.linkedin.com/jobs/view/co-founder-cto-at-snatch-live-3606324645",
+      "source": "linkedin",
+      "summary": "Co-founder/CTO seeking to make executive technology decisions and manage the technology budget for a live-events startup.",
+      "score": 66,
+      "grade": "C",
+      "why": "A founding CTO seat matches Magino's Alaya-style build-from-zero ownership and is Switzerland-based, but the posting gives little detail on stack or funding, so the technical fit is a guess rather than a known match.",
+      "id": "be6552a78b555cfc1af08ec7992b7250",
+      "date_found": "2026-09-04",
+      "status": "new"
+    },
+    {
+      "title": "Senior Kubernetes Platform Engineer / DevOps Engineer (a) 80-100%",
+      "company": "CONVOTIS Schweiz AG",
+      "location": "Zürich, Switzerland",
+      "url": "https://swissdevjobs.ch/jobs/CONVOTIS-Schweiz-AG-Senior-Kubernetes-Platform-Engineer--DevOps-Engineer-a-80---100",
+      "source": "swissdevjobs",
+      "summary": "Kubernetes/DevOps platform engineering role, CHF 100-130k, with flexibility for an 80-100% workload.",
+      "score": 59,
+      "grade": "C",
+      "why": "Solid Kubernetes/platform overlap with Magino's infra background and a Swiss location, but it reads as an IT-services engagement rather than a product company, and the title sits below his Staff+ target level.",
+      "id": "79a6f4a251fe099366e50a86bd53537b",
+      "date_found": "2026-09-04",
+      "status": "new"
+    },
+    {
+      "title": "Senior Platform Engineer (Lucerne region)",
+      "company": "Rockstar Recruiting AG (client role)",
+      "location": "Root, Lucerne region, Switzerland",
+      "url": "https://swissdevjobs.ch/jobs/Rockstar-Recruiting-AG-Senior-Platform-Engineer-Lucerne-region",
+      "source": "swissdevjobs",
+      "summary": "Senior platform engineering role, CHF 120-135k, recruited via Rockstar Recruiting for a Lucerne-region employer.",
+      "score": 58,
+      "grade": "C",
+      "why": "Platform engineering scope and Swiss compensation are in range, but the employer is undisclosed behind a recruiter, Lucerne is a longer relocation stretch from Geneva, and the title is Senior rather than Staff+.",
+      "id": "1b9b645d6315e23fe0687e361e1eb105",
+      "date_found": "2026-09-04",
+      "status": "new"
+    },
+    {
+      "title": "Cloud Platform Engineer",
+      "company": "Darwin Recruitment (client role)",
+      "location": "Zürich, Switzerland",
+      "url": "https://ch.linkedin.com/jobs/view/cloud-platform-engineer-at-darwin-recruitment-3325861106",
+      "source": "linkedin",
+      "summary": "Cloud platform engineer advising on API management and cloud technology adoption, working closely with development teams.",
+      "score": 50,
+      "grade": "D",
+      "id": "81e91b7d03eb0b729eba80889f082eac",
+      "date_found": "2026-09-04",
+      "status": "new"
+    },
+    {
+      "title": "Senior Machine Learning Engineer",
+      "company": "Visium",
+      "location": "Lausanne, Vaud, Switzerland",
+      "url": "https://aijobs.net/job/118622-senior-machine-learning-engineer-lausanne/",
+      "source": "other",
+      "summary": "Technical-leadership ML role designing and deploying AI solutions with MLOps tooling (DVC, MLflow, Kubeflow) at a 70-person AI consultancy/product studio.",
+      "score": 52,
+      "grade": "D",
+      "id": "df5502602032ef78b37e8a175c9235ec",
+      "date_found": "2026-09-04",
+      "status": "new"
+    },
+    {
+      "title": "Fractional Chief Technology Officer at a Social Travel Startup",
+      "company": "Undisclosed (via Fractional Jobs)",
+      "location": "Remote",
+      "url": "https://www.fractionaljobs.io/jobs/chief-technology-officer-at-a-social-travel-startup",
+      "source": "other",
+      "summary": "Fractional/part-time CTO engagement helping a social travel startup take its engineering team to the next level.",
+      "score": 55,
+      "grade": "D",
+      "id": "6e1b9c93a80f9a6d3f5e190d08bb69dc",
+      "date_found": "2026-09-04",
       "status": "new"
     }
   ]

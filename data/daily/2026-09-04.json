@@ -1,0 +1,67 @@
+{
+  "date": "2026-09-04",
+  "total_searched": 20,
+  "new_offers": 8,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Staff Backend Engineer",
+      "company": "Nexthink SA",
+      "location": "Lausanne, Switzerland",
+      "url": "https://jobmaps.ch/en/company/417360/job/289860",
+      "score": 76,
+      "grade": "B",
+      "why": "Nexthink is a proven Swiss scale-up (DEX category leader) with a Staff-level backend mandate close to Magino's current Benevity scope, and Lausanne keeps the commute realistic from Geneva. It's the kind of ownership role that fits his platform-architecture background better than a pure feature team.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "VP Engineering",
+      "company": "CentML",
+      "location": "United States (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/vp-engineering-at-centml-3758128861",
+      "score": 75,
+      "grade": "B",
+      "why": "A VP Engineering seat at an AI infrastructure startup lines up with Magino's target of hybrid IC/leadership roles and his AI-augmented engineering focus post-Benevity. US remote is a lower location priority than Switzerland, but the seniority and AI-infra angle make it worth a look.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Co-Founder / CTO",
+      "company": "Snatch Live",
+      "location": "Switzerland",
+      "url": "https://ch.linkedin.com/jobs/view/co-founder-cto-at-snatch-live-3606324645",
+      "score": 66,
+      "grade": "C",
+      "why": "A founding CTO seat matches Magino's Alaya-style build-from-zero ownership and is Switzerland-based, but the posting gives little detail on stack or funding, so the technical fit is a guess rather than a known match.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Senior Kubernetes Platform Engineer / DevOps Engineer (a) 80-100%",
+      "company": "CONVOTIS Schweiz AG",
+      "location": "Zürich, Switzerland",
+      "url": "https://swissdevjobs.ch/jobs/CONVOTIS-Schweiz-AG-Senior-Kubernetes-Platform-Engineer--DevOps-Engineer-a-80---100",
+      "score": 59,
+      "grade": "C",
+      "why": "Solid Kubernetes/platform overlap with Magino's infra background and a Swiss location, but it reads as an IT-services engagement rather than a product company, and the title sits below his Staff+ target level.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Senior Platform Engineer (Lucerne region)",
+      "company": "Rockstar Recruiting AG (client role)",
+      "location": "Root, Lucerne region, Switzerland",
+      "url": "https://swissdevjobs.ch/jobs/Rockstar-Recruiting-AG-Senior-Platform-Engineer-Lucerne-region",
+      "score": 58,
+      "grade": "C",
+      "why": "Platform engineering scope and Swiss compensation are in range, but the employer is undisclosed behind a recruiter, Lucerne is a longer relocation stretch from Geneva, and the title is Senior rather than Staff+.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
