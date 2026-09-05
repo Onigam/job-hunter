@@ -1,0 +1,24 @@
+🎯 *Job Hunt — 2026-09-05*
+
+*1.* *Manager, ML Solutions Architecture (Token Factory)* @ Nebius
+📍 Remote (Switzerland) | ⭐ 78/100 | 🏆 Grade B
+💡 Well-funded AI-infra scaleup, strong platform/AI overlap, remote from CH.
+🔗 https://himalayas.app/companies/nebius/jobs/manager-ml-solutions-architecture-token-factory
+
+*2.* *Staff DevSecOps Engineer* @ ID Quantique (an IonQ company)
+📍 Geneva, Switzerland | ⭐ 73/100 | 🏆 Grade B
+💡 Staff title, Geneva-based, deep-tech quantum-crypto scaleup.
+🔗 https://wellfound.com/jobs/4644356-staff-devsecops-engineer
+
+*3.* *Head of Infrastructure Services* @ Crossref
+📍 Remote (global, EU-friendly) | ⭐ 71/100 | 🏆 Grade B
+💡 Infra leadership at mission-driven scholarly infrastructure nonprofit.
+🔗 https://news.ycombinator.com/item?id=49522897#49562582
+
+*4.* *Machine Learning Platform Engineer* @ Bjak
+📍 Switzerland only | ⭐ 70/100 | 🏆 Grade B
+💡 Platform + ML technical match at a fast-growing insurtech.
+🔗 https://himalayas.app/companies/bjak/jobs/machine-learning-platform-engineer-9001773401
+
+---
+📊 _8 new offers | 1460 total tracked_

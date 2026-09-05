@@ -1,0 +1,55 @@
+{
+  "date": "2026-09-05",
+  "total_searched": 20,
+  "new_offers": 8,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Manager, ML Solutions Architecture (Token Factory)",
+      "company": "Nebius",
+      "location": "Remote (Switzerland)",
+      "url": "https://himalayas.app/companies/nebius/jobs/manager-ml-solutions-architecture-token-factory",
+      "score": 78,
+      "grade": "B",
+      "why": "Well-funded AI-infra scaleup (Token Factory is Nebius's managed LLM inference product) with strong platform/AI overlap and a remote-Switzerland setup; it's a solutions-architecture leadership track rather than pure IC staff+ engineering.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Staff DevSecOps Engineer",
+      "company": "ID Quantique (an IonQ company)",
+      "location": "Geneva, Switzerland",
+      "url": "https://wellfound.com/jobs/4644356-staff-devsecops-engineer",
+      "score": 73,
+      "grade": "B",
+      "why": "Staff-level title, Geneva-based, at the quantum-safe cryptography deep-tech scaleup now owned by IonQ; security/infra hardening scope is a partial rather than perfect match for the core TypeScript/React stack.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Head of Infrastructure Services",
+      "company": "Crossref",
+      "location": "Remote (global, 2h EU timezone overlap)",
+      "url": "https://news.ycombinator.com/item?id=49522897#49562582",
+      "score": 71,
+      "grade": "B",
+      "why": "Infrastructure leadership at the nonprofit behind scholarly DOI infrastructure, a strong mission/impact match; ~$120k comp and nonprofit setup sit below Geneva market rates and startup preference.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Machine Learning Platform Engineer",
+      "company": "Bjak",
+      "location": "Switzerland only",
+      "url": "https://himalayas.app/companies/bjak/jobs/machine-learning-platform-engineer-9001773401",
+      "score": 70,
+      "grade": "B",
+      "why": "Direct platform-plus-ML technical match at a fast-growing insurtech, hiring locally in Switzerland; the posting doesn't specify a staff+ seniority band.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04",
+  "last_updated": "2026-09-05",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -20658,6 +20658,146 @@
       "grade": "D",
       "id": "6e1b9c93a80f9a6d3f5e190d08bb69dc",
       "date_found": "2026-09-04",
+      "status": "new"
+    },
+    {
+      "id": "d25e04221df70932e3026d85a76b47ab",
+      "title": "Manager, ML Solutions Architecture (Token Factory)",
+      "company": "Nebius",
+      "location": "Remote (Switzerland)",
+      "url": "https://himalayas.app/companies/nebius/jobs/manager-ml-solutions-architecture-token-factory",
+      "source": "himalayas",
+      "description_short": "Nebius is a fast-growing AI cloud infrastructure company (Token Factory is its managed LLM inference product) building out ML solutions architecture for enterprise customers.",
+      "score": 78,
+      "grade": "B",
+      "score_breakdown": {
+        "technical": 24,
+        "seniority": 16,
+        "location": 18,
+        "company": 13,
+        "impact": 7
+      },
+      "why": "Strong overlap with platform/cloud infrastructure and AI/LLM exposure at a well-funded AI-infra scaleup, matching the AI-augmented engineering focus. Remote-Switzerland location and growth-stage company fit well, though it's a solutions-architecture management track rather than a pure IC staff+ role.",
+      "apply_by": null,
+      "date_found": "2026-09-05",
+      "status": "new"
+    },
+    {
+      "id": "31e6267e296fe843c0a206c3076819a0",
+      "title": "Staff DevSecOps Engineer",
+      "company": "ID Quantique (an IonQ company)",
+      "location": "Geneva, Switzerland",
+      "url": "https://wellfound.com/jobs/4644356-staff-devsecops-engineer",
+      "source": "wellfound",
+      "description_short": "Staff-level DevSecOps role at ID Quantique, the Geneva-based quantum-safe cryptography company now part of IonQ, hardening cloud infrastructure and security posture.",
+      "score": 73,
+      "grade": "B",
+      "score_breakdown": {
+        "technical": 16,
+        "seniority": 20,
+        "location": 20,
+        "company": 11,
+        "impact": 6
+      },
+      "why": "Geneva-based Staff title at a deep-tech scaleup lines up well on seniority and location. Security/infra focus is a partial rather than perfect stack match against the TypeScript/React core, and the scope reads more platform-hardening than build-from-zero.",
+      "apply_by": null,
+      "date_found": "2026-09-05",
+      "status": "new"
+    },
+    {
+      "id": "2bca85f4892c33079db4203cc46229fb",
+      "title": "Head of Infrastructure Services",
+      "company": "Crossref",
+      "location": "Remote (global, 2h EU timezone overlap required)",
+      "url": "https://news.ycombinator.com/item?id=49522897#49562582",
+      "source": "hn",
+      "description_short": "Crossref, the nonprofit behind scholarly DOI infrastructure, is hiring a leader to own strategy and evolution of its core infrastructure ecosystem. ~$120k, EU-friendly remote.",
+      "score": 71,
+      "grade": "B",
+      "score_breakdown": {
+        "technical": 20,
+        "seniority": 20,
+        "location": 14,
+        "company": 10,
+        "impact": 7
+      },
+      "why": "Infrastructure leadership scope and mission-driven, purpose-built engineering culture match well with the impact-driven preference. Compensation and remote-global setup are a step below Geneva market rates and it's a nonprofit rather than a startup, which caps the company-fit score.",
+      "apply_by": null,
+      "date_found": "2026-09-05",
+      "status": "new"
+    },
+    {
+      "id": "9b368c0c13da7a3e57ddc2e914e8f571",
+      "title": "Machine Learning Platform Engineer",
+      "company": "Bjak",
+      "location": "Switzerland only",
+      "url": "https://himalayas.app/companies/bjak/jobs/machine-learning-platform-engineer-9001773401",
+      "source": "himalayas",
+      "description_short": "Bjak is a fast-growing insurtech scaleup building an ML platform team, hiring locally in Switzerland.",
+      "score": 70,
+      "grade": "B",
+      "score_breakdown": {
+        "technical": 22,
+        "seniority": 14,
+        "location": 18,
+        "company": 10,
+        "impact": 6
+      },
+      "why": "Platform engineering plus ML is a direct technical match and the Switzerland-only requirement plays to the location preference. Listing doesn't specify a staff+ seniority band, so the level is less certain than the technical fit.",
+      "apply_by": null,
+      "date_found": "2026-09-05",
+      "status": "new"
+    },
+    {
+      "id": "3237c0b69c55ff9d1326e8c7f868c98f",
+      "title": "Principal AI Engineer",
+      "company": "Cotiviti",
+      "location": "Remote (Switzerland)",
+      "url": "https://himalayas.app/companies/cotiviti/jobs/principal-ai-engineer",
+      "source": "himalayas",
+      "summary": "Principal-level AI engineering role at Cotiviti, a large US healthcare-analytics enterprise, remote from Switzerland.",
+      "score": 68,
+      "grade": "C",
+      "date_found": "2026-09-05",
+      "status": "new"
+    },
+    {
+      "id": "99e08beadff77da69c78b64611c8ece0",
+      "title": "Lead ML/Perception Engineer",
+      "company": "May Mobility",
+      "location": "Remote (multiple countries incl. Switzerland)",
+      "url": "https://himalayas.app/companies/may-mobility/jobs/lead-ml-perception-engineer",
+      "source": "himalayas",
+      "summary": "Autonomous-vehicle scaleup hiring a Lead engineer for perception ML, remote-eligible including Switzerland.",
+      "score": 66,
+      "grade": "C",
+      "date_found": "2026-09-05",
+      "status": "new"
+    },
+    {
+      "id": "cb1279e3051366249ab79ddba96fb4d6",
+      "title": "Technical Co-Founder / CTO (Hands-on, AI/ML & Voice Deepfake Detection)",
+      "company": "FinOptima Solutions",
+      "location": "Remote (Everywhere)",
+      "url": "https://wellfound.com/jobs/4629808-technical-co-founder-cto-hands-on-ai-ml-voice-deepfake-detection-equity-only-pre-funding-salary-equity-after-raise",
+      "source": "wellfound",
+      "summary": "Equity-only, pre-funding technical co-founder/CTO role building AI/ML voice deepfake detection. No salary until a raise closes.",
+      "score": 65,
+      "grade": "C",
+      "date_found": "2026-09-05",
+      "status": "new"
+    },
+    {
+      "id": "f7143cdaee5be1fa6642270925132942",
+      "title": "Founding Engineer",
+      "company": "ResearchHub",
+      "location": "Remote",
+      "url": "https://researchhub.breezy.hr/p/8755ab0a64a2-founding-engineer",
+      "source": "other",
+      "summary": "Founding engineer role at ResearchHub, an open-source scientific forum with a crypto-token (ResearchCoin) incentive model, stack is Django/React/Solidity/Postgres.",
+      "score": 58,
+      "grade": "C",
+      "date_found": "2026-09-05",
       "status": "new"
     }
   ]
