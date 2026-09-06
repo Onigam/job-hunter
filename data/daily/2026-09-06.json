@@ -1,0 +1,67 @@
+{
+  "date": "2026-09-06",
+  "total_searched": 32,
+  "new_offers": 13,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Founding AI Engineer",
+      "company": "Clera",
+      "location": "Remote — US-friendly",
+      "url": "https://jobs.ashbyhq.com/clera/3a7488e5-b7df-45fd-acc9-a4796dcbe7a8",
+      "score": 78,
+      "grade": "B",
+      "why": "YC-backed (S26) AI-native financial research platform for healthcare, hiring one of its earliest technical hires to build the AI layer from scratch. Strong founding-engineer ownership and AI/LLM exposure match Magino's cofounder background and AI-augmented engineering focus, though it's US-timezone remote rather than Europe-based.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Founding Engineer",
+      "company": "Clera",
+      "location": "Remote — US-friendly",
+      "url": "https://jobs.ashbyhq.com/Clera/32a5f658-9421-4481-9605-9cceb2623fce",
+      "score": 77,
+      "grade": "B",
+      "why": "Generalist founding engineer seat at the same YC S26 startup as the AI-focused role above — full architecture ownership from a blank page, close to the Alaya build-from-zero experience. Same location tradeoff (US-friendly remote, not Europe).",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Founding Forward Deployed AI Engineer",
+      "company": "Neuromorphic Labs",
+      "location": "Remote",
+      "url": "https://jobs.ashbyhq.com/Neuromorphic-Labs/78dd02e0-c0bf-4c4a-8d48-f5bab85c290c",
+      "score": 74,
+      "grade": "B",
+      "why": "Early-stage startup building a trust layer for production AI systems — founding-level ownership working directly with customers on AI pipelines and feeding learnings back into the platform. Good AI/LLM exposure and founding scope, remote location fit is decent but unconfirmed timezone.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Founding Backend/Infra Engineer",
+      "company": "Remy",
+      "location": "Remote",
+      "url": "https://jobs.ashbyhq.com/withremy/a5faf110-dcf3-4aa7-9742-d265605abe3b",
+      "score": 72,
+      "grade": "B",
+      "why": "AI product-ideation startup hiring a founding infra engineer to own core platform plumbing early. Strong platform-ownership and founding-team fit, AI-native product; remote-only with unconfirmed comp band keeps it out of A range.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Principal Full Stack Developer (TypeScript)",
+      "company": "Cosuno",
+      "location": "Remote — Europe",
+      "url": "https://weworkremotely.com/remote-jobs/cosuno-principal-full-stack-developer-typescript",
+      "score": 71,
+      "grade": "B",
+      "why": "Berlin-based construction-procurement SaaS scaleup looking for a Principal-level, TypeScript-first technical leader to architect complex platform problems. Strong direct stack match and Europe-remote timezone fit, though seniority framing (Principal IC) is slightly less founder-flavored than the other picks.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}

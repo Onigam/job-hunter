@@ -1,0 +1,29 @@
+🎯 *Job Hunt — 2026-09-06*
+
+*1.* *Founding AI Engineer* @ Clera
+📍 Remote — US-friendly | ⭐ 78/100 | 🏆 Grade B
+💡 YC-backed AI-native fintech-for-healthcare startup hiring an early technical hire to build the AI layer from scratch.
+🔗 https://jobs.ashbyhq.com/clera/3a7488e5-b7df-45fd-acc9-a4796dcbe7a8
+
+*2.* *Founding Engineer* @ Clera
+📍 Remote — US-friendly | ⭐ 77/100 | 🏆 Grade B
+💡 Generalist founding seat at the same YC S26 startup, full architecture ownership from a blank page.
+🔗 https://jobs.ashbyhq.com/Clera/32a5f658-9421-4481-9605-9cceb2623fce
+
+*3.* *Founding Forward Deployed AI Engineer* @ Neuromorphic Labs
+📍 Remote | ⭐ 74/100 | 🏆 Grade B
+💡 Early-stage trust-layer-for-production-AI startup, founding-level ownership working directly with customers.
+🔗 https://jobs.ashbyhq.com/Neuromorphic-Labs/78dd02e0-c0bf-4c4a-8d48-f5bab85c290c
+
+*4.* *Founding Backend/Infra Engineer* @ Remy
+📍 Remote | ⭐ 72/100 | 🏆 Grade B
+💡 AI product-ideation startup hiring a founding infra engineer to own core platform plumbing early.
+🔗 https://jobs.ashbyhq.com/withremy/a5faf110-dcf3-4aa7-9742-d265605abe3b
+
+*5.* *Principal Full Stack Developer (TypeScript)* @ Cosuno
+📍 Remote — Europe | ⭐ 71/100 | 🏆 Grade B
+💡 Berlin construction-procurement SaaS scaleup, TypeScript-first Principal technical leadership role.
+🔗 https://weworkremotely.com/remote-jobs/cosuno-principal-full-stack-developer-typescript
+
+---
+📊 _13 new offers | 1473 total tracked_
