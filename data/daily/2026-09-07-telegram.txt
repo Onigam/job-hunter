@@ -1,0 +1,29 @@
+🎯 *Job Hunt — 2026-09-07*
+
+*1.* *Founding/Technical Co-Founder or First Engineer* @ Tufalabs
+📍 Zurich, Switzerland (onsite) | ⭐ 84/100 | 🏆 Grade B
+💡 Full technical ownership of an AI research lab mirrors the founding-engineer role Magino played at Alaya before its acquisition by Benevity.
+🔗 https://tufalabs.ai/open-positions/
+
+*2.* *Founding Full-Stack Engineer* @ Astoria AI
+📍 New York City / Remote | ⭐ 73/100 | 🏆 Grade B
+💡 Another zero-to-one founding mandate that matches Magino's cofounder DNA, with remote flexibility that would let him stay in Geneva.
+🔗 https://wellfound.com/jobs/4521145-founding-full-stack-engineer
+
+*3.* *Remote Founding Go Backend Platform Engineer* @ Paranormal
+📍 Remote | ⭐ 60/100 | 🏆 Grade C
+💡 Founding-level platform ownership plays to his Alaya build-from-zero experience, but the Go-centric stack is outside his core TypeScript/Python toolkit and the listed salary is well below Geneva-market rates.
+🔗 https://remoteok.com/remote-jobs/remote-founding-go-backend-platform-engineer-paranormal-1068834
+
+*4.* *Engineering Manager* @ NetBird
+📍 Berlin, Germany (or remote, CET/CEST overlap) | ⭐ 60/100 | 🏆 Grade C
+💡 A post-Series-A scaling story suits his experience growing Alaya's engineering org, and CET/CEST overlap keeps Geneva hours workable.
+🔗 https://news.ycombinator.com/item?id=49532898
+
+*5.* *Staff Data Engineer* @ SonarSource SA
+📍 Geneva, Switzerland | ⭐ 60/100 | 🏆 Grade C
+💡 Geneva-based and Staff-titled, so it satisfies his top location priority and seniority bar without a move.
+🔗 https://jobup.ch/en/jobs/detail/588aaacf-77bd-41ea-8034-f168fb162d76/
+
+---
+📊 _5 new offers | 1478 total tracked_

@@ -1,0 +1,67 @@
+{
+  "date": "2026-09-07",
+  "total_searched": 15,
+  "new_offers": 5,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Founding/Technical Co-Founder or First Engineer",
+      "company": "Tufalabs",
+      "location": "Zurich, Switzerland (onsite)",
+      "url": "https://tufalabs.ai/open-positions/",
+      "score": 84,
+      "grade": "B",
+      "why": "Full technical ownership of an AI research lab mirrors the founding-engineer role Magino played at Alaya before its acquisition by Benevity. Deep LLM/RAG focus lines up directly with his AI-augmented engineering pivot, and Zurich keeps him in Switzerland even if it means relocating from Geneva.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Founding Full-Stack Engineer",
+      "company": "Astoria AI",
+      "location": "New York City / Remote",
+      "url": "https://wellfound.com/jobs/4521145-founding-full-stack-engineer",
+      "score": 73,
+      "grade": "B",
+      "why": "Another zero-to-one founding mandate that matches Magino's cofounder DNA, with remote flexibility that would let him stay in Geneva. Lower score than Tufalabs mainly on compensation clarity and a US-hub-centric team.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Remote Founding Go Backend Platform Engineer",
+      "company": "Paranormal",
+      "location": "Remote",
+      "url": "https://remoteok.com/remote-jobs/remote-founding-go-backend-platform-engineer-paranormal-1068834",
+      "score": 60,
+      "grade": "C",
+      "why": "Founding-level platform ownership plays to his Alaya build-from-zero experience, but the Go-centric stack is outside his core TypeScript/Python toolkit and the listed salary is well below Geneva-market rates.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Engineering Manager",
+      "company": "NetBird",
+      "location": "Berlin, Germany (or remote, CET/CEST overlap)",
+      "url": "https://news.ycombinator.com/item?id=49532898",
+      "score": 60,
+      "grade": "C",
+      "why": "A post-Series-A scaling story suits his experience growing Alaya's engineering org, and CET/CEST overlap keeps Geneva hours workable. Scored down for a stack that leans networking/security rather than his usual platform and AI focus.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Staff Data Engineer",
+      "company": "SonarSource SA",
+      "location": "Geneva, Switzerland",
+      "url": "https://jobup.ch/en/jobs/detail/588aaacf-77bd-41ea-8034-f168fb162d76/",
+      "score": 60,
+      "grade": "C",
+      "why": "Geneva-based and Staff-titled, so it satisfies his top location priority and seniority bar without a move. Held to a C because it's a mature, established product company rather than the early-stage/founding scope he's prioritizing now.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
