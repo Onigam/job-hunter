@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-07",
+  "last_updated": "2026-09-08",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -21032,6 +21032,84 @@
       "score": 60,
       "grade": "C",
       "date_found": "2026-09-07",
+      "status": "new"
+    },
+    {
+      "id": "3db081a83245b8283e7a6c51d18b1f07",
+      "title": "Staff Backend Engineer",
+      "company": "Nexthink SA",
+      "location": "Lausanne, Switzerland",
+      "url": "https://jobs.smartrecruiters.com/Nexthink/744000146417479-staff-backend-engineer-",
+      "source": "smartrecruiters",
+      "summary": "Staff-level Java backend role owning Nexthink's data platform, designing large-scale distributed services that process billions of events. Dual HQ Lausanne/Boston, established DEX product company.",
+      "score": 60,
+      "grade": "C",
+      "date_found": "2026-09-08",
+      "status": "new"
+    },
+    {
+      "id": "1d8c8c428ca3c1d233e51812ed86e778",
+      "title": "Senior Backend Engineer / Technical Lead",
+      "company": "Nexthink SA",
+      "location": "Lausanne, Switzerland",
+      "url": "https://jobs.smartrecruiters.com/Nexthink/744000142856889-senior-backend-engineer-technical-lead",
+      "source": "smartrecruiters",
+      "summary": "Senior/tech-lead backend role at Nexthink in Lausanne, close to Staff scope but with a smaller ownership footprint than the parallel Staff Backend Engineer opening.",
+      "score": 56,
+      "grade": "C",
+      "date_found": "2026-09-08",
+      "status": "new"
+    },
+    {
+      "id": "08fffab69a6bb6e6049d7e8adda14293",
+      "title": "Staff Front End Engineer",
+      "company": "Playful Software, Inc",
+      "location": "Remote (in-person option Seattle, USA)",
+      "url": "https://weworkremotely.com/listings/playful-software-inc-staff-front-end-engineer",
+      "source": "weworkremotely",
+      "summary": "Build-from-zero MVP role at a two-founder startup, React/Redux/Node stack, fully remote. US-hours company so weaker overlap with Geneva timezone.",
+      "score": 64,
+      "grade": "C",
+      "date_found": "2026-09-08",
+      "status": "new"
+    },
+    {
+      "id": "958be5fb3ae440f46628aa17f9f5caa6",
+      "title": "Founding Engineer (Potential CTO)",
+      "company": "Clera",
+      "location": "New York, NY / San Francisco, CA / Montreal, Canada (on-site, no visa sponsorship)",
+      "url": "https://startup.jobs/founding-engineer-potential-cto-clera-8026454",
+      "source": "startup.jobs",
+      "summary": "Second technical hire with a path to CTO at a well-funded early-stage healthtech startup building an AI biofeedback coach (React Native app, frontier-model inference, wearable integrations). Strong technical and seniority fit, but requires in-person relocation to the US or Canada with no visa sponsorship offered.",
+      "score": 71,
+      "grade": "B",
+      "date_found": "2026-09-08",
+      "status": "new"
+    },
+    {
+      "id": "62afc759ee58e34956f63f20a81905c7",
+      "title": "Co-Founder and CTO",
+      "company": "Stealth Startup",
+      "location": "San Francisco, CA (on-site)",
+      "url": "https://startup.jobs/co-founder-and-cto-stealthstartup-32762",
+      "source": "startup.jobs",
+      "summary": "Technical co-founder role at a two-person pre-seed team (economist + generalist founder) building an unspecified high-transaction product. High equity, ambiguous mission and product maturity, on-site San Francisco only.",
+      "score": 56,
+      "grade": "C",
+      "date_found": "2026-09-08",
+      "status": "new"
+    },
+    {
+      "id": "3b331b09641c6855e48bc9c6b573a8c5",
+      "title": "Tech Lead (m/f/d)",
+      "company": "Superchat",
+      "location": "Berlin, Germany (hybrid, in-person expected)",
+      "url": "https://startup.jobs/tech-lead-m-f-d-superchat-9915849",
+      "source": "startup.jobs",
+      "summary": "Backend-leaning tech lead owning a product area and a team of 3-4 at a Berlin messaging/CRM SaaS scale-up. Requires regular in-person presence in Berlin, below target seniority and location fit.",
+      "score": 47,
+      "grade": "D",
+      "date_found": "2026-09-08",
       "status": "new"
     }
   ]

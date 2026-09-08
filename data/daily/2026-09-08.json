@@ -1,0 +1,67 @@
+{
+  "date": "2026-09-08",
+  "total_searched": 20,
+  "new_offers": 6,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Founding Engineer (Potential CTO)",
+      "company": "Clera",
+      "location": "New York, NY / San Francisco, CA / Montreal, Canada (on-site)",
+      "url": "https://startup.jobs/founding-engineer-potential-cto-clera-8026454",
+      "score": 71,
+      "grade": "B",
+      "why": "Second technical hire with a real path to CTO at a well-funded early-stage healthtech startup, building an AI biofeedback coach end to end, which matches Magino's founding-engineer DNA from Alaya and his AI-augmented engineering focus. Caveat that matters a lot: it's in-person only in NY, SF or Montreal with no visa sponsorship, so it's a non-starter without a personal relocation path.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Staff Front End Engineer",
+      "company": "Playful Software, Inc",
+      "location": "Remote (Seattle-based team)",
+      "url": "https://weworkremotely.com/listings/playful-software-inc-staff-front-end-engineer",
+      "score": 64,
+      "grade": "C",
+      "why": "Fully remote, build-the-MVP-from-scratch role on a React/Redux/Node stack at a two-founder startup, which fits the early-stage builder profile Magino is looking for. Scored down because the team runs on US hours, which cuts into Geneva overlap, and the front-end-only scope is narrower than his usual platform remit.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Staff Backend Engineer",
+      "company": "Nexthink SA",
+      "location": "Lausanne, Switzerland",
+      "url": "https://jobs.smartrecruiters.com/Nexthink/744000146417479-staff-backend-engineer-",
+      "score": 60,
+      "grade": "C",
+      "why": "Staff-level ownership of a distributed data platform processing billions of events at a mature, Swiss-headquartered product company, keeping Magino in Switzerland without leaving Geneva too far behind. Held to a C because the stack is Java-first rather than his usual TypeScript/Python/AI focus and the company is well past founding stage.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Co-Founder and CTO",
+      "company": "Stealth Startup",
+      "location": "San Francisco, CA (on-site)",
+      "url": "https://startup.jobs/co-founder-and-cto-stealthstartup-32762",
+      "score": 56,
+      "grade": "C",
+      "why": "Technical co-founder role with heavy equity and full architectural ownership, which lines up with Magino's cofounder track record at Alaya. Scored down hard for an unclear product mission, a very early two-person team, and an on-site San Francisco requirement with no remote option mentioned.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Senior Backend Engineer / Technical Lead",
+      "company": "Nexthink SA",
+      "location": "Lausanne, Switzerland",
+      "url": "https://jobs.smartrecruiters.com/Nexthink/744000142856889-senior-backend-engineer-technical-lead",
+      "score": 56,
+      "grade": "C",
+      "why": "A second, slightly more junior opening on the same Lausanne backend team as Nexthink's Staff role, worth a look for the Switzerland location and product-company culture. Scope is more tech-lead than Staff+/Principal, which caps the seniority fit below what Magino is targeting.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
