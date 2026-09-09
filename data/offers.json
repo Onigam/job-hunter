@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-08",
+  "last_updated": "2026-09-09",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -21110,6 +21110,110 @@
       "score": 47,
       "grade": "D",
       "date_found": "2026-09-08",
+      "status": "new"
+    },
+    {
+      "id": "f51be03f864818584142f04ce71cd4c7",
+      "title": "Staff Software Engineer (Java)",
+      "company": "SonarSource",
+      "location": "Geneva, Switzerland",
+      "url": "https://jobs.generalcatalyst.com/companies/sonarsource/jobs/89774144-staff-software-engineer-java",
+      "source": "generalcatalyst",
+      "summary": "Staff-level engineer for the Identity Squad within Sonar's StoreFront department, owning authentication and authorization end to end across Sonar's entire product ecosystem. Sonar is a profitable, Geneva-headquartered devtools company (static analysis, Java-heavy stack) with hubs in Austin, Bochum, Dubai, London, Singapore and Tokyo. Partners closely with Product Managers, Engineering Managers and other Staff/Principal Engineers on architecture through deployment.",
+      "score": 82,
+      "grade": "B",
+      "date_found": "2026-09-09",
+      "status": "new"
+    },
+    {
+      "id": "e19eeb023ab46895a551c084e2198264",
+      "title": "Staff Backend Engineer",
+      "company": "Nango",
+      "location": "Remote \u2014 USA",
+      "url": "https://jobs.ashbyhq.com/nango/35c99053-7425-4366-9dc2-102c1f2170d0",
+      "source": "ashbyhq",
+      "summary": "YC W23-backed, fully remote AI infrastructure startup connecting AI agents to 900+ third-party APIs. Small 14-person team with mid-seven-figure ARR and customers including Replit and Ramp. Listing is explicitly scoped to Remote, USA.",
+      "score": 74,
+      "grade": "B",
+      "date_found": "2026-09-09",
+      "status": "new"
+    },
+    {
+      "id": "b82b9f156484f66abfc497f7ca96646b",
+      "title": "Staff Founding Product Engineer",
+      "company": "Pragmatike",
+      "location": "Los Angeles, CA (in-office or remote)",
+      "url": "https://jobs.ashbyhq.com/pragmatike/0beada74-65b0-4f8a-adfa-bf510ed74a3c",
+      "source": "ashbyhq",
+      "summary": "Founding-level product engineering role leading 0-to-1 initiatives at a scaling company staffed via the Pragmatike talent marketplace: defining technical and product direction, architecting scalable systems, and mentoring senior engineers. $200K-$350K range, Los Angeles-based with remote flexibility mentioned.",
+      "score": 65,
+      "grade": "C",
+      "date_found": "2026-09-09",
+      "status": "new"
+    },
+    {
+      "id": "5b0ae738ae15cc61518ed3348ed1b59d",
+      "title": "Staff Platform Engineer, AI Systems",
+      "company": "Jobgether",
+      "location": "Remote",
+      "url": "https://startup.jobs/staff-platform-engineer-ai-systems-jobgether-com-8054088",
+      "source": "startupjobs",
+      "summary": "Builds Jobgether's internal AI platform for agentic systems: orchestration layers, secure execution environments for LLM-based tools, IDE agents, and tiered-autonomy safety mechanisms (verifiable state, rollback, controlled execution boundaries).",
+      "score": 62,
+      "grade": "C",
+      "date_found": "2026-09-09",
+      "status": "new"
+    },
+    {
+      "id": "c9ddecbd831cd8f9c8e8fd26a8e3c1c4",
+      "title": "Staff Engineer - AI Security",
+      "company": "On",
+      "location": "Zurich, Switzerland",
+      "url": "https://startup.jobs/staff-engineer-ai-security-on-company-2-8562038",
+      "source": "startupjobs",
+      "summary": "New senior AI Security role within On's Information Security team, defining security controls for AI agents, chatbots and agentic workflows across development and production. On is a publicly traded, Zurich-headquartered premium sports brand, not a startup. $190K-$245K range.",
+      "score": 58,
+      "grade": "C",
+      "date_found": "2026-09-09",
+      "status": "new"
+    },
+    {
+      "id": "068b810dada90cd34ef23420a36ca129",
+      "title": "Staff Frontend Software Engineer",
+      "company": "Cube",
+      "location": "Remote \u2014 North America",
+      "url": "https://jobs.ashbyhq.com/cubesoftware/34a53a31-1322-4c2b-b9b2-2a00c1947802",
+      "source": "ashbyhq",
+      "summary": "Frontend-focused Staff role at Cube, a cloud FP&A platform, building React/Redux UI and spreadsheet-manipulation features. North America remote only; feature-level scope rather than platform ownership.",
+      "score": 59,
+      "grade": "C",
+      "date_found": "2026-09-09",
+      "status": "new"
+    },
+    {
+      "id": "2778aac85bf0732053916e45f9e0045e",
+      "title": "Senior/Staff Frontend Engineer",
+      "company": "DualEntry",
+      "location": "Remote (4hr+ US ET overlap required)",
+      "url": "https://jobs.ashbyhq.com/dualentry/92576bb6-df72-4592-b54c-606952dcf991",
+      "source": "ashbyhq",
+      "summary": "Fast-growing AI accounting-automation startup (founded 2024, $100M+ raised from Lightspeed, Khosla, Contrary, Google Ventures) hiring a frontend owner for React/Next.js UI systems. Requires heavy overlap with US Eastern time, a poor fit for Geneva hours.",
+      "score": 58,
+      "grade": "C",
+      "date_found": "2026-09-09",
+      "status": "new"
+    },
+    {
+      "id": "61d7f61bf14666cb4fc41a955d015ffb",
+      "title": "Founding Support Engineer",
+      "company": "Reducto",
+      "location": "Remote \u2014 EMEA/APAC preferred",
+      "url": "https://jobs.ashbyhq.com/reducto/6cd55316-21ca-4fbe-ae00-36b56196c50a",
+      "source": "ashbyhq",
+      "summary": "YC-backed AI document-ingestion startup ($100M+ raised, 7x YoY revenue growth) hiring a founding support engineer with EMEA/APAC timezone coverage. Customer-facing support scope rather than core platform engineering despite the founding title.",
+      "score": 52,
+      "grade": "D",
+      "date_found": "2026-09-09",
       "status": "new"
     }
   ]
