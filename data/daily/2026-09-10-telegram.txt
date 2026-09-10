@@ -1,0 +1,19 @@
+🎯 *Job Hunt — 2026-09-10*
+
+*1.* *Technical Co-Founder / Founding Engineer* @ Turiq
+📍 Zurich, Switzerland | ⭐ 75/100 | 🏆 Grade B
+💡 ETH-born AI-native finance startup wants an ex-Staff/CTO/founding engineer to own the product end to end; flexible 60-100% but no salary until they raise.
+🔗 https://turiq.ch/
+
+*2.* *Research Engineer - Post-Training for Agentic Coding* @ SonarSource
+📍 Geneva, Switzerland | ⭐ 73/100 | 🏆 Grade B
+💡 Geneva devtools scale-up applying LLMs directly to code analysis, though they want a Master's/PhD research background.
+🔗 https://jobs.generalcatalyst.com/companies/sonarsource/jobs/77967632-research-engineer-post-training-for-agentic-coding
+
+*3.* *Staff Software Engineer* @ vCluster Labs
+📍 Berlin, Germany (Remote-first) | ⭐ 71/100 | 🏆 Grade B
+💡 Staff-level platform ownership at a well-funded, fast-growing Kubernetes infra startup, remote-first team, but core stack is Go not TypeScript.
+🔗 https://www.vcluster.com/careers/64142e45-1ffc-4113-a515-05246328a2d5
+
+---
+📊 _3 new offers | 1495 total tracked_

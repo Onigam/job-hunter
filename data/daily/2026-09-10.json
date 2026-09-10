@@ -1,0 +1,43 @@
+{
+  "date": "2026-09-10",
+  "total_searched": 21,
+  "new_offers": 3,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Technical Co-Founder / Founding Engineer",
+      "company": "Turiq",
+      "location": "Zurich, Switzerland",
+      "url": "https://turiq.ch/",
+      "score": 75,
+      "grade": "B",
+      "why": "ETH-born Zurich startup explicitly wants an ex-Staff/Principal engineer or ex-CTO/founding engineer to own the product and codebase end to end, which matches Magino's Alaya cofounder profile closely. Flexible 60-100% could suit the Givernance split, but there's no salary until they raise or hit revenue, so cash comp is a real risk.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Research Engineer - Post-Training for Agentic Coding",
+      "company": "SonarSource",
+      "location": "Geneva, Switzerland",
+      "url": "https://jobs.generalcatalyst.com/companies/sonarsource/jobs/77967632-research-engineer-post-training-for-agentic-coding",
+      "score": 73,
+      "grade": "B",
+      "why": "Geneva-based, profitable devtools scale-up applying LLM/agentic techniques directly to code analysis, squarely in Magino's AI-augmented engineering focus. Scored down because the role wants a Master's/PhD research background rather than the cofounder/staff-engineering track record he actually has.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Staff Software Engineer",
+      "company": "vCluster Labs",
+      "location": "Berlin, Germany (Remote-first)",
+      "url": "https://www.vcluster.com/careers/64142e45-1ffc-4113-a515-05246328a2d5",
+      "score": 71,
+      "grade": "B",
+      "why": "Staff-level platform ownership at a fast-growing, well-funded ($30M+, Khosla) Kubernetes infrastructure startup with a genuinely remote-first, distributed team. Core stack is Go/Kubernetes rather than Magino's usual TypeScript/Node, so there's a real ramp-up on language even though the platform-engineering scope fits well.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
