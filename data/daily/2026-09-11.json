@@ -1,0 +1,67 @@
+{
+  "date": "2026-09-11",
+  "total_searched": 19,
+  "new_offers": 11,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Founding AI-Native Platform Engineer",
+      "company": "Decadent.com (DECA)",
+      "location": "Remote (offices in Austin, LA, NYC, SF)",
+      "url": "https://wellfound.com/jobs/4653948-founding-ai-native-platform-engineer",
+      "score": 80,
+      "grade": "B",
+      "why": "Founding-level platform ownership on a TypeScript/Node/React stack with LangGraph and LangChain in production, near-perfect technical overlap with Magino's post-Alaya, AI-augmented engineering focus. Company already has live traction (seven clinics), not just an idea, and pays founding equity plus a strong base.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Applied AI Founding Engineer (Agentic Workflows)",
+      "company": "Client of Rockstar Recruiting AG",
+      "location": "Zurich, Switzerland",
+      "url": "https://swissdevjobs.ch/jobs/Rockstar-Recruiting-AG-Applied-AI-Founding-Engineer-Agentic-Workflows",
+      "score": 77,
+      "grade": "B",
+      "why": "One of the rare Swiss-based founding engineer roles this cycle, agentic AI workflows squarely match Magino's AI-augmented engineering pivot post-Benevity. Zurich means no relocation friction and CHF 140-150k is a credible local band, though it's agency-sourced so the actual company is still undisclosed.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Founding Engineer \u2014 Path to CTO",
+      "company": "Ponce AI",
+      "location": "San Francisco / Remote",
+      "url": "https://wellfound.com/jobs/4492782-founding-engineer-path-to-cto",
+      "score": 68,
+      "grade": "C",
+      "why": "Explicit path-to-CTO framing lines up with Magino's cofounder background and long-term CTO target, and the TypeScript/React/Python stack overlaps well. Scored down for thin public detail on the company itself and US-hub remote timezone friction from Geneva.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Chief Architect",
+      "company": "Legion",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/legion-chief-architect",
+      "score": 64,
+      "grade": "C",
+      "why": "Principal/Staff-equivalent scope spanning AI systems, distributed systems and platform modernization suits Magino's architecture background, and it's fully remote. Held back by vague company-stage signals and no confirmed European-friendly hours.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Founding Engineer at YC Startup",
+      "company": "Superpowered",
+      "location": "Toronto / Remote",
+      "url": "https://wellfound.com/jobs/1985464-founding-engineer-at-yc-startup",
+      "score": 61,
+      "grade": "C",
+      "why": "YC backing is a real growth-trajectory signal and the Node/TypeScript/React stack fits, plus it's a genuine founding-engineer seat. Scored down for no AI/LLM angle and a Toronto-remote timezone that's a stretch from Geneva.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}

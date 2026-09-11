@@ -1,0 +1,29 @@
+🎯 *Job Hunter — 2026-09-11*
+
+*1.* *Founding AI-Native Platform Engineer* @ Decadent.com (DECA)
+📍 Remote (offices in Austin, LA, NYC, SF) | ⭐ 80/100 | 🏆 Grade B
+💡 Founding-level platform ownership on a TypeScript/Node/React stack with LangGraph and LangChain in production, near-perfect technical overlap with Magino's post-Alaya, AI-augmented engineering focus.
+🔗 https://wellfound.com/jobs/4653948-founding-ai-native-platform-engineer
+
+*2.* *Applied AI Founding Engineer (Agentic Workflows)* @ Client of Rockstar Recruiting AG
+📍 Zurich, Switzerland | ⭐ 77/100 | 🏆 Grade B
+💡 One of the rare Swiss-based founding engineer roles this cycle, agentic AI workflows squarely match Magino's AI-augmented engineering pivot post-Benevity.
+🔗 https://swissdevjobs.ch/jobs/Rockstar-Recruiting-AG-Applied-AI-Founding-Engineer-Agentic-Workflows
+
+*3.* *Founding Engineer — Path to CTO* @ Ponce AI
+📍 San Francisco / Remote | ⭐ 68/100 | 🏆 Grade C
+💡 Explicit path-to-CTO framing lines up with Magino's cofounder background and long-term CTO target, and the TypeScript/React/Python stack overlaps well.
+🔗 https://wellfound.com/jobs/4492782-founding-engineer-path-to-cto
+
+*4.* *Chief Architect* @ Legion
+📍 Remote | ⭐ 64/100 | 🏆 Grade C
+💡 Principal/Staff-equivalent scope spanning AI systems, distributed systems and platform modernization suits Magino's architecture background, and it's fully remote.
+🔗 https://weworkremotely.com/remote-jobs/legion-chief-architect
+
+*5.* *Founding Engineer at YC Startup* @ Superpowered
+📍 Toronto / Remote | ⭐ 61/100 | 🏆 Grade C
+💡 YC backing is a real growth-trajectory signal and the Node/TypeScript/React stack fits, plus it's a genuine founding-engineer seat.
+🔗 https://wellfound.com/jobs/1985464-founding-engineer-at-yc-startup
+
+---
+📊 _11 new offers | 1506 total tracked_
