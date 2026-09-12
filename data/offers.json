@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11",
+  "last_updated": "2026-09-12",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -21384,6 +21384,54 @@
       "source": "hn",
       "summary": "Found via HN 'Who is hiring? (September 2026)' thread. Backend Platform team role at Close.com (CRM), $150k-210k plus equity, stack is Python/Flask/FastAPI/GraphQL/Rust/TypeScript/Kubernetes/AWS; billed as having unusual influence over team ownership.",
       "date_found": "2026-09-11",
+      "status": "new"
+    },
+    {
+      "id": "d41c5c3043beff6764a4fb512840a286",
+      "title": "Senior/Staff Backend Engineer",
+      "company": "vCluster Labs",
+      "location": "Remote (US, Canada, Europe)",
+      "url": "https://www.vcluster.com/careers?ashby_jid=516c8859-83be-4535-8d2d-32a305a07e6d#jobs",
+      "source": "hn",
+      "summary": "Found via HN Who is hiring (September 2026). Senior/Staff Backend Engineer building Kubernetes controllers/operators at vCluster Labs, a VC-backed hyper-growth startup turning raw compute into clusters for AI infrastructure teams. Remote US/Canada/Europe, $140k-220k + equity.",
+      "score": 74,
+      "date_found": "2026-09-12",
+      "status": "new"
+    },
+    {
+      "id": "850aa8b6258e50e4bf0b05237eb564e7",
+      "title": "Founding Engineer",
+      "company": "cloro",
+      "location": "Remote (EU timezones)",
+      "url": "https://cloro.dev/careers/founding-engineer/",
+      "source": "hn",
+      "summary": "Found via HN Who is hiring (September 2026). Founding Engineer at cloro, a bootstrapped startup providing one API for search and AI-answer results; backend/infra heavy, large-scale collection. AI-native workflow (Claude Code daily). $80k-150k.",
+      "score": 72,
+      "date_found": "2026-09-12",
+      "status": "new"
+    },
+    {
+      "id": "322e518dd2a604d7fb37b9f29da92465",
+      "title": "Head of Engineering",
+      "company": "Estuary",
+      "location": "US-based / Remote",
+      "url": "https://builtin.com/job/director-engineering/7456608",
+      "source": "hn",
+      "summary": "Found via HN Who is hiring (September 2026). Head of Engineering at Estuary, a VC-backed post-Series A open-source data replication/transform platform; partners directly with the founder CTO on strategy, people, delivery and operations.",
+      "score": 67,
+      "date_found": "2026-09-12",
+      "status": "new"
+    },
+    {
+      "id": "2c784399816615f81bf1b39ea0bfb6cd",
+      "title": "Lead AI Application Engineer (Infrastructure & LLMOps)",
+      "company": "TechBiz Global (client, unnamed)",
+      "location": "Remote (Spain / EU)",
+      "url": "https://jobs.techbiz.global/o/lead-ai-application-engineer-infrastructure-llmops",
+      "source": "other",
+      "summary": "Agency-posted (TechBiz Global) role for an unnamed client. Leads design/build/operation of a multi-tenant AI platform and LLMOps infrastructure: vector DBs, feature stores, Kubernetes+GPU model hosting, developer self-service tooling.",
+      "score": 63,
+      "date_found": "2026-09-12",
       "status": "new"
     }
   ]

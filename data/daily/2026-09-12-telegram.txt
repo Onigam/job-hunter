@@ -1,0 +1,24 @@
+🎯 *Job Hunt — 2026-09-12*
+
+*1.* *Senior/Staff Backend Engineer* @ vCluster Labs
+📍 Remote (US, Canada, Europe) | ⭐ 74/100 | 🏆 Grade B
+💡 Hyper-growth VC-backed platform startup, Kubernetes controllers at the core of the product, Staff-level scope.
+🔗 https://www.vcluster.com/careers?ashby_jid=516c8859-83be-4535-8d2d-32a305a07e6d#jobs
+
+*2.* *Founding Engineer* @ cloro
+📍 Remote (EU timezones) | ⭐ 72/100 | 🏆 Grade B
+💡 Founding seat at a small AI-native search API startup, backend/infra heavy, EU-timezone remote.
+🔗 https://cloro.dev/careers/founding-engineer/
+
+*3.* *Head of Engineering* @ Estuary
+📍 US-based / Remote | ⭐ 67/100 | 🏆 Grade C
+💡 Partner to founder CTO owning engineering end-to-end at a VC-backed open-source data infra startup.
+🔗 https://builtin.com/job/director-engineering/7456608
+
+*4.* *Lead AI Application Engineer (Infrastructure & LLMOps)* @ TechBiz Global (client)
+📍 Remote (Spain / EU) | ⭐ 63/100 | 🏆 Grade C
+💡 AI platform/LLMOps role owning vector DBs and GPU orchestration, agency-posted for an unnamed client.
+🔗 https://jobs.techbiz.global/o/lead-ai-application-engineer-infrastructure-llmops
+
+---
+📊 _4 new offers | 1510 total tracked_

@@ -1,0 +1,59 @@
+{
+  "date": "2026-09-12",
+  "total_searched": 22,
+  "new_offers": 4,
+  "top_offers": [
+    {
+      "rank": 1,
+      "id": "d41c5c3043beff6764a4fb512840a286",
+      "title": "Senior/Staff Backend Engineer",
+      "company": "vCluster Labs",
+      "location": "Remote (US, Canada, Europe)",
+      "url": "https://www.vcluster.com/careers?ashby_jid=516c8859-83be-4535-8d2d-32a305a07e6d#jobs",
+      "score": 74,
+      "grade": "B",
+      "why": "VC-backed, hyper-growth platform startup building the software layer that turns hardware into a cloud for AI infrastructure teams; role authors Kubernetes controllers/operators at the core of the platform. Strong platform-engineering and distributed-systems overlap with Magino's background, Europe-friendly remote, Staff-level scope.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "id": "850aa8b6258e50e4bf0b05237eb564e7",
+      "title": "Founding Engineer",
+      "company": "cloro",
+      "location": "Remote (EU timezones)",
+      "url": "https://cloro.dev/careers/founding-engineer/",
+      "score": 72,
+      "grade": "B",
+      "why": "Bootstrapped founding-engineer seat at a small AI-search API startup (one API for search + AI-answer results), backend/infra-heavy with large-scale collection work, explicitly AI-native workflow (Claude Code daily). Matches Magino's cofounder/build-from-zero profile and EU-timezone remote preference, though comp ($80-150k) is below Swiss Staff-level market rate.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "id": "322e518dd2a604d7fb37b9f29da92465",
+      "title": "Head of Engineering",
+      "company": "Estuary",
+      "location": "US-based / Remote",
+      "url": "https://builtin.com/job/director-engineering/7456608",
+      "score": 67,
+      "grade": "C",
+      "why": "VC-backed, post-Series A open-source data infrastructure company; role partners directly with the founder CTO to own engineering strategy, people, and delivery end-to-end. Strong seniority and leadership-scope match, but location skews US-based which weakens the fit versus Geneva/EU-remote preference.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "id": "2c784399816615f81bf1b39ea0bfb6cd",
+      "title": "Lead AI Application Engineer (Infrastructure & LLMOps)",
+      "company": "TechBiz Global (client, unnamed)",
+      "location": "Remote (Spain / EU)",
+      "url": "https://jobs.techbiz.global/o/lead-ai-application-engineer-infrastructure-llmops",
+      "score": 63,
+      "grade": "C",
+      "why": "AI platform/LLMOps infrastructure role: multi-tenant AI platform, vector DBs, Kubernetes+GPU orchestration, developer self-service tooling. Good AI/platform technical overlap and EU-remote friendly, but posted by a recruitment agency for an unnamed client and titled below Staff/Principal seniority.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
