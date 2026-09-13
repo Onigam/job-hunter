@@ -1,0 +1,24 @@
+🎯 *Job Hunt — 2026-09-13*
+
+*1.* *Staff Software Engineer - Grafana Cloud k6* @ Grafana Labs
+📍 Remote (Ireland / UK / EU) | ⭐ 71/100 | 🏆 Grade B
+💡 Staff-level IC scope on a widely-used open-source dev-tools platform, fully remote with EU-friendly hours; the stack leans more infra/observability than AI, but the seniority and product-company culture line up well with Magino's profile.
+🔗 https://job-boards.greenhouse.io/grafanalabs/jobs/5996122004
+
+*2.* *Founding Engineer* @ Joggr (Techstars portfolio)
+📍 Not specified | ⭐ 68/100 | 🏆 Grade C
+💡 A true founding-engineer seat that mirrors Magino's Alaya-to-acquisition path, but the posting doesn't confirm location or stack details, so it needs a direct check before applying.
+🔗 https://jobs.techstars.com/companies/joggr/jobs/27147749-founding-engineer
+
+*3.* *Leiter:in Platform Engineering (Head of Platform Engineering)* @ Wunderman Thompson Switzerland
+📍 Zurich, Switzerland | ⭐ 59/100 | 🏆 Grade C
+💡 Head of Platform Engineering is squarely at the leadership level Magino targets, and it's Switzerland-based, but Wunderman Thompson is an ad agency, not a product or startup environment, which is a weaker cultural fit than his Alaya/Benevity background.
+🔗 https://ch.linkedin.com/jobs/view/leiter-in-platform-engineering-at-wunderman-thompson-switzerland-3344026641
+
+*4.* *Senior Software Engineer* @ Ripple
+📍 Geneva, Switzerland | ⭐ 59/100 | 🏆 Grade C
+💡 Based right in Geneva at a well-funded fintech product company, a strong location match, but the Senior (not Staff+) title and IC feature scope sit a level below where Magino is targeting.
+🔗 https://boards.greenhouse.io/ripple/jobs/6812811
+
+---
+📊 _6 new offers | 1516 total tracked_

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-12",
+  "last_updated": "2026-09-13",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -21433,6 +21433,85 @@
       "score": 63,
       "date_found": "2026-09-12",
       "status": "new"
+    },
+    {
+      "id": "ecc8205a917359298859d0f9f9d06ef8",
+      "title": "Staff Software Engineer - Grafana Cloud k6",
+      "company": "Grafana Labs",
+      "location": "Remote (Ireland / UK / EU)",
+      "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/5996122004",
+      "source": "other",
+      "summary": "Staff engineer role on Grafana Cloud k6 (performance-testing product) at a fully remote, 1,600+ person open-source dev-tools company spanning 40+ countries.",
+      "score": 71,
+      "grade": "B",
+      "date_found": "2026-09-13",
+      "status": "new"
+    },
+    {
+      "id": "b5574b5c62cb61703d95c793d3e7a8be",
+      "title": "Founding Engineer",
+      "company": "Joggr (Techstars portfolio)",
+      "location": "Not specified",
+      "url": "https://jobs.techstars.com/companies/joggr/jobs/27147749-founding-engineer",
+      "source": "other",
+      "summary": "Founding engineer opening for Joggr, an early-stage startup listed through the Techstars portfolio job board.",
+      "score": 68,
+      "grade": "C",
+      "date_found": "2026-09-13",
+      "status": "new"
+    },
+    {
+      "id": "0bc0e53226beeebb96a802ae5207e5d4",
+      "title": "Leiter:in Platform Engineering (Head of Platform Engineering)",
+      "company": "Wunderman Thompson Switzerland",
+      "location": "Zurich, Switzerland",
+      "url": "https://ch.linkedin.com/jobs/view/leiter-in-platform-engineering-at-wunderman-thompson-switzerland-3344026641",
+      "source": "linkedin",
+      "summary": "Leadership role over platform engineering at Wunderman Thompson's Swiss office, an advertising/marketing agency rather than a product company.",
+      "score": 59,
+      "grade": "C",
+      "date_found": "2026-09-13",
+      "status": "new"
+    },
+    {
+      "id": "47ccedae9530704b1747215dd3caa96d",
+      "title": "Senior Software Engineer",
+      "company": "Ripple",
+      "location": "Geneva, Switzerland",
+      "url": "https://boards.greenhouse.io/ripple/jobs/6812811",
+      "source": "other",
+      "summary": "Senior Software Engineer role at Ripple's Geneva office, a well-known crypto/fintech product company.",
+      "score": 59,
+      "grade": "C",
+      "date_found": "2026-09-13",
+      "status": "new"
+    },
+    {
+      "id": "3e718b1768fb397a8aded8d077d79693",
+      "title": "Founding Engineer",
+      "company": "Unspecified startup (via Built In)",
+      "location": "Not specified",
+      "url": "https://builtin.com/job/founding-engineer/7490249",
+      "source": "other",
+      "summary": "Founding engineer role surfaced via Built In job search; company and location details are not disclosed on the listing.",
+      "score": 58,
+      "grade": "C",
+      "date_found": "2026-09-13",
+      "status": "new"
+    },
+    {
+      "id": "de9159bcf42561a1ae913d7a2cef2525",
+      "title": "Platform Engineer (m/w)",
+      "company": "SBB CFF FFS",
+      "location": "Bern, Switzerland",
+      "url": "https://ch.linkedin.com/jobs/view/platform-engineer-m-w-at-sbb-cff-ffs-3782008796",
+      "source": "linkedin",
+      "summary": "Platform engineer role at the Swiss national railway covering database platforms (Oracle, MS SQL) and AWS infrastructure, offered at 60-100%.",
+      "score": 41,
+      "grade": "D",
+      "date_found": "2026-09-13",
+      "status": "new",
+      "part_time": true
     }
   ]
 }

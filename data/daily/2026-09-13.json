@@ -1,0 +1,55 @@
+{
+  "date": "2026-09-13",
+  "total_searched": 17,
+  "new_offers": 6,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Staff Software Engineer - Grafana Cloud k6",
+      "company": "Grafana Labs",
+      "location": "Remote (Ireland / UK / EU)",
+      "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/5996122004",
+      "score": 71,
+      "grade": "B",
+      "why": "Staff-level IC scope on a widely-used open-source dev-tools platform, fully remote with EU-friendly hours; the stack leans more infra/observability than AI, but the seniority and product-company culture line up well with Magino's profile.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Founding Engineer",
+      "company": "Joggr (Techstars portfolio)",
+      "location": "Not specified",
+      "url": "https://jobs.techstars.com/companies/joggr/jobs/27147749-founding-engineer",
+      "score": 68,
+      "grade": "C",
+      "why": "A true founding-engineer seat that mirrors Magino's Alaya-to-acquisition path, but the posting doesn't confirm location or stack details, so it needs a direct check before applying.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Leiter:in Platform Engineering (Head of Platform Engineering)",
+      "company": "Wunderman Thompson Switzerland",
+      "location": "Zurich, Switzerland",
+      "url": "https://ch.linkedin.com/jobs/view/leiter-in-platform-engineering-at-wunderman-thompson-switzerland-3344026641",
+      "score": 59,
+      "grade": "C",
+      "why": "Head of Platform Engineering is squarely at the leadership level Magino targets, and it's Switzerland-based, but Wunderman Thompson is an ad agency, not a product or startup environment, which is a weaker cultural fit than his Alaya/Benevity background.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Senior Software Engineer",
+      "company": "Ripple",
+      "location": "Geneva, Switzerland",
+      "url": "https://boards.greenhouse.io/ripple/jobs/6812811",
+      "score": 59,
+      "grade": "C",
+      "why": "Based right in Geneva at a well-funded fintech product company, a strong location match, but the Senior (not Staff+) title and IC feature scope sit a level below where Magino is targeting.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
