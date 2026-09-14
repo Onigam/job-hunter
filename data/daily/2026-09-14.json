@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-14",
+  "total_searched": 17,
+  "new_offers": 2,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Senior Engineer (Platform)",
+      "company": "Oyster HR",
+      "location": "Remote — EMEA (UTC+3 to UTC-5)",
+      "url": "https://builtin.com/job/senior-engineer-platform/3268731",
+      "score": 67,
+      "grade": "C",
+      "why": "Oyster is a well-funded, remote-first global employment platform looking for a platform engineer to own CI/CD, cloud infra and developer experience, close to Magino's platform-ownership track record from Alaya and Benevity. The title sits a step below Staff+ and the mission isn't AI-first, but the remote Europe-friendly timezone window keeps it viable.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Staff DevSecOps Engineer",
+      "company": "SpotMe",
+      "location": "Geneva, Switzerland",
+      "url": "https://wellfound.com/company/withspotme/jobs",
+      "score": 65,
+      "grade": "C",
+      "why": "Geneva-based B2B event-tech scaleup hiring a Staff-level DevSecOps role covering CI/CD, cloud security and infrastructure, a decent platform-engineering match for Magino's AWS/Kubernetes background. Posted only two days ago and the location fit is exactly right, even though the company mission isn't particularly AI-driven.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
