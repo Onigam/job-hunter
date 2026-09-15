@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14",
+  "last_updated": "2026-09-15",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -21537,6 +21537,110 @@
       "score": 65,
       "grade": "C",
       "date_found": "2026-09-14",
+      "status": "new"
+    },
+    {
+      "id": "62448da171fb0061b18e9131",
+      "title": "Founding Engineer",
+      "company": "Lonio",
+      "location": "Zurich, Switzerland (on-site)",
+      "url": "https://join.com/companies/carrd956/16687552-founding-engineer",
+      "source": "join.com",
+      "summary": "Spin-off from BLP Digital building AI-native backoffice automation for Swiss finance and HR (CHF 3B market), with paying customers already validated. First engineer after the founders, working across product engineering, AI workflow automation and compliance. B-permit sponsorship available for EU/EFTA residents.",
+      "score": 69,
+      "grade": "C",
+      "date_found": "2026-09-15",
+      "status": "new"
+    },
+    {
+      "id": "e942450ae3f04a6c1604a787",
+      "title": "Staff Platform Engineer",
+      "company": "Calendly",
+      "location": "Remote — US",
+      "url": "https://job-boards.greenhouse.io/calendly/jobs/8013433002",
+      "source": "greenhouse",
+      "summary": "Staff-level role architecting foundational platform infrastructure and engineering systems at Calendly, a mature scheduling SaaS product. US remote only, no EU timezone overlap guarantee.",
+      "score": 64,
+      "grade": "C",
+      "date_found": "2026-09-15",
+      "status": "new"
+    },
+    {
+      "id": "893b9bb51be047bdef56fe36",
+      "title": "Lead ML/AI Platform Engineer",
+      "company": "SavvyMoney",
+      "location": "Remote — EU/EMEA",
+      "url": "https://jobs.ashbyhq.com/savvymoney/f1d6d55f-949d-43a4-9e78-8927a5afdaae",
+      "source": "ashbyhq",
+      "summary": "Lead-level ownership of ML/AI platform infrastructure for a fintech product serving the European market, fully remote across EU/EMEA. Strong overlap with AI-augmented platform engineering focus.",
+      "score": 73,
+      "grade": "B",
+      "date_found": "2026-09-15",
+      "status": "new"
+    },
+    {
+      "id": "eb950c1e0020ef05ffa653cb",
+      "title": "AI Engineer",
+      "company": "Starbridge",
+      "location": "Remote — EMEA/LATAM",
+      "url": "https://jobs.ashbyhq.com/starbridge/80ee1fbc-2de4-4c9a-b62a-be5ae89b0c37",
+      "source": "ashbyhq",
+      "summary": "AI engineering role at an early-stage startup, remote across EMEA/LATAM timezones. Seniority level and scope not staff-equivalent based on the posting title.",
+      "score": 59,
+      "grade": "C",
+      "date_found": "2026-09-15",
+      "status": "new"
+    },
+    {
+      "id": "f71ca76d9464e33d0a26120e",
+      "title": "Software Engineer (Full-Stack)",
+      "company": "Runpod",
+      "location": "Not specified (GPU cloud infra startup)",
+      "url": "https://jobs.ashbyhq.com/runpod/b64a3935-931a-4b7f-9899-7ebe152164c5",
+      "source": "ashbyhq",
+      "summary": "Full-stack engineering role at Runpod, a fast-growing GPU cloud platform for AI workloads. Generic IC-level title, location/remote policy not confirmed in posting.",
+      "score": 59,
+      "grade": "C",
+      "date_found": "2026-09-15",
+      "status": "new"
+    },
+    {
+      "id": "870da2721af1724e3017e598",
+      "title": "Applied AI Engineer, Agents & Automations",
+      "company": "Cohere",
+      "location": "Not specified (Cohere HQ Toronto)",
+      "url": "https://jobs.ashbyhq.com/cohere/3fe03041-347a-479f-8361-6b1f5f81338e",
+      "source": "ashbyhq",
+      "summary": "Applied AI engineering role building agentic automation at Cohere, a leading foundation model lab. Strong AI/LLM exposure but weak Europe location fit and IC-level seniority.",
+      "score": 68,
+      "grade": "C",
+      "date_found": "2026-09-15",
+      "status": "new"
+    },
+    {
+      "id": "d5bbab0b8adea0c163bf8630",
+      "title": "Founding Software Engineer (Backend)",
+      "company": "Glass Health",
+      "location": "Remote",
+      "url": "https://jobs.lever.co/glass-health-inc/bf5e10db-5222-44df-a16f-f410f2b1e260",
+      "source": "lever",
+      "summary": "Founding-level backend engineering role at Glass Health, an early-stage AI clinical decision support startup. Build-from-zero ownership with mission-driven healthcare impact and heavy AI/LLM exposure.",
+      "score": 76,
+      "grade": "B",
+      "date_found": "2026-09-15",
+      "status": "new"
+    },
+    {
+      "id": "5c600b3944182cc564dcfa7b",
+      "title": "Founding Engineer — Full-Stack Generalist",
+      "company": "Smart Working Solutions",
+      "location": "Remote",
+      "url": "https://jobs.lever.co/smart-working-solutions/f26595de-8dda-4487-a9f5-417e637d3433",
+      "source": "lever",
+      "summary": "First in-house engineering hire for an AI-native professional-services-automation platform. Requires 5+ years senior full-stack ownership; founding scope mirrors cofounder-level responsibility.",
+      "score": 73,
+      "grade": "B",
+      "date_found": "2026-09-15",
       "status": "new"
     }
   ]

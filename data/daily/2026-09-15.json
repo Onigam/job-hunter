@@ -1,0 +1,43 @@
+{
+  "date": "2026-09-15",
+  "total_searched": 24,
+  "new_offers": 8,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Founding Software Engineer (Backend)",
+      "company": "Glass Health",
+      "location": "Remote",
+      "url": "https://jobs.lever.co/glass-health-inc/bf5e10db-5222-44df-a16f-f410f2b1e260",
+      "score": 76,
+      "grade": "B",
+      "why": "Founding-level backend role at an early-stage AI healthcare startup, directly matching Magino's Alaya-style build-from-zero experience. Strong AI/LLM exposure and mission-driven product (clinical decision support) align with his AI-augmented engineering focus.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Lead ML/AI Platform Engineer",
+      "company": "SavvyMoney",
+      "location": "Remote — EU/EMEA",
+      "url": "https://jobs.ashbyhq.com/savvymoney/f1d6d55f-949d-43a4-9e78-8927a5afdaae",
+      "score": 73,
+      "grade": "B",
+      "why": "Lead-level platform ownership of ML/AI infrastructure at a fintech scale-up, with EU-friendly remote timezone that works from Geneva. Heavy AI/platform overlap fits his Benevity-era AI-assisted engineering work.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Founding Engineer — Full-Stack Generalist",
+      "company": "Smart Working Solutions",
+      "location": "Remote",
+      "url": "https://jobs.lever.co/smart-working-solutions/f26595de-8dda-4487-a9f5-417e637d3433",
+      "score": 73,
+      "grade": "B",
+      "why": "First in-house engineering hire on an AI-native professional-services-automation platform, requiring 5+ years senior full-stack ownership. Founding scope mirrors his cofounder background at Alaya, though team/comp maturity is unclear at this stage.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
