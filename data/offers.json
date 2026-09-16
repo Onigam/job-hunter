@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-15",
+  "last_updated": "2026-09-16",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -21641,6 +21641,97 @@
       "score": 73,
       "grade": "B",
       "date_found": "2026-09-15",
+      "status": "new"
+    },
+    {
+      "id": "815a835cff328d0a49b680cf72636696",
+      "title": "Principal/Staff Software Engineer",
+      "company": "Synthesia",
+      "location": "Remote — Europe",
+      "url": "https://jobs.ashbyhq.com/synthesia/6afd3236-71d3-4f67-92e6-b99a868a3260",
+      "source": "ashbyhq",
+      "summary": "Synthesia is the world's leading AI video platform for business, with offices and teams across Europe and the US. This role owns core enterprise platform systems, focused on keeping the platform secure, reliable and scalable for Synthesia's largest customers.",
+      "score": 75,
+      "grade": "B",
+      "date_found": "2026-09-16",
+      "status": "new"
+    },
+    {
+      "id": "83acd467fbc1f6ef5cb9dee18e75833e",
+      "title": "Principal Engineer, Core Platform",
+      "company": "Hostaway",
+      "location": "Remote — EMEA",
+      "url": "https://remoteok.com/remote-jobs/remote-principal-engineer-core-platform-emea-hostaway-1085273",
+      "source": "remoteok",
+      "summary": "Hostaway is a profitable, high-growth, AI-powered vacation rental management platform (the category's first PMS unicorn), trusted by 20,000+ property managers. This role transforms the core platform to support hundreds of integrations and complex workflows, with a focus on scalability and microservices/DDD.",
+      "score": 72,
+      "grade": "B",
+      "date_found": "2026-09-16",
+      "status": "new"
+    },
+    {
+      "id": "1ee3a12172233c8a7cb1d1dd833fdb33",
+      "title": "Founding Engineer — Full Stack",
+      "company": "Neuromorphic Labs",
+      "location": "Bellevue, WA, USA (on-site)",
+      "url": "https://jobs.ashbyhq.com/Neuromorphic-Labs/e3e1b681-548b-4b25-b09a-29d5c4f48484",
+      "source": "ashbyhq",
+      "summary": "Neuromorphic Labs is a top-tier-VC-backed seed-stage AI startup. The founding engineer leads hands-on development of a new platform for building, deploying and managing AI applications across cloud, on-prem and hybrid environments.",
+      "score": 70,
+      "grade": "B",
+      "date_found": "2026-09-16",
+      "status": "new"
+    },
+    {
+      "id": "eb2409556a4e53c1d578725fed16de50",
+      "title": "Staff Software Engineer — AI Applications",
+      "company": "Vanilla Technologies",
+      "location": "Remote",
+      "url": "https://jobs.ashbyhq.com/vanilla/d65904ae-7ce6-4d1c-8f7b-717cab3745b6",
+      "source": "ashbyhq",
+      "summary": "Vanilla is building the first AI-powered estate advisory platform, aiming to transform how wealth is transferred across generations. Staff-level engineer building AI-driven applications, fully remote.",
+      "score": 66,
+      "grade": "C",
+      "date_found": "2026-09-16",
+      "status": "new"
+    },
+    {
+      "id": "365e9acb598d4aa677a555304cbfefb2",
+      "title": "Senior Fullstack Engineer (f/m/d)",
+      "company": "Hygraph",
+      "location": "Berlin, Germany / EMEA Remote",
+      "url": "https://weworkremotely.com/remote-jobs/hygraph-senior-fullstack-engineer-f-m-d-berlin-i-germany-emea-i-remote",
+      "source": "weworkremotely",
+      "summary": "Hygraph (Series B headless CMS/developer-tools company) is hiring a Senior Fullstack Engineer, remote across Germany/EMEA.",
+      "score": 64,
+      "grade": "C",
+      "date_found": "2026-09-16",
+      "status": "new"
+    },
+    {
+      "id": "a8aec6b47a544a466788f490115c826b",
+      "title": "Founding AI Engineer",
+      "company": "Clera",
+      "location": "San Francisco, CA, USA (on-site)",
+      "url": "https://jobs.ashbyhq.com/clera/3a7488e5-b7df-45fd-acc9-a4796dcbe7a8",
+      "source": "ashbyhq",
+      "summary": "Clera is an early-stage consumer social startup running AI-powered small-group hangouts to help young people make friends in real life, matched via embeddings, ranking and reinforcement learning across a suite of AI agents.",
+      "score": 63,
+      "grade": "C",
+      "date_found": "2026-09-16",
+      "status": "new"
+    },
+    {
+      "id": "88482e1c820a4c3009c0de803b720b36",
+      "title": "Founding AI Engineer",
+      "company": "Autena Inc.",
+      "location": "Unclear (not specified)",
+      "url": "https://jobs.ashbyhq.com/autena/98217138-6806-4ee6-a2c1-12344aaaa92b",
+      "source": "ashbyhq",
+      "summary": "Autena applies AI to the operational core of a large, mostly AI-untouched physical-economy industry. Founding engineer role; job posting doesn't specify location or remote policy.",
+      "score": 58,
+      "grade": "C",
+      "date_found": "2026-09-16",
       "status": "new"
     }
   ]

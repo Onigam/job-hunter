@@ -1,0 +1,43 @@
+{
+  "date": "2026-09-16",
+  "total_searched": 27,
+  "new_offers": 7,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Principal/Staff Software Engineer",
+      "company": "Synthesia",
+      "location": "Remote — Europe",
+      "url": "https://jobs.ashbyhq.com/synthesia/6afd3236-71d3-4f67-92e6-b99a868a3260",
+      "score": 75,
+      "grade": "B",
+      "why": "Staff/Principal-level platform ownership at a well-funded AI unicorn, fully remote from Europe so it works from Geneva. Strong technical and seniority match, though it's product-scale platform work rather than a founding role.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Principal Engineer, Core Platform",
+      "company": "Hostaway",
+      "location": "Remote — EMEA",
+      "url": "https://remoteok.com/remote-jobs/remote-principal-engineer-core-platform-emea-hostaway-1085273",
+      "score": 72,
+      "grade": "B",
+      "why": "Principal-level role at a profitable, fast-growing unicorn, fully remote within EMEA so Geneva works without relocation. Stack is PHP-centric rather than TypeScript/Node, and AI isn't core to this specific role, which pulls the technical and AI-exposure scores down.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Founding Engineer — Full Stack",
+      "company": "Neuromorphic Labs",
+      "location": "Bellevue, WA, USA (on-site)",
+      "url": "https://jobs.ashbyhq.com/Neuromorphic-Labs/e3e1b681-548b-4b25-b09a-29d5c4f48484",
+      "score": 70,
+      "grade": "B",
+      "why": "A genuine founding-engineer, build-from-zero AI platform role at a well-backed seed startup — strong on seniority, impact and AI exposure. The catch is it's on-site in Bellevue, WA, so it only makes sense if relocation is on the table.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
