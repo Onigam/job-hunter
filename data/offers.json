@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16",
+  "last_updated": "2026-09-17",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -21732,6 +21732,84 @@
       "score": 58,
       "grade": "C",
       "date_found": "2026-09-16",
+      "status": "new"
+    },
+    {
+      "id": "1b8e51b1de859a8af183c57e9b13d275",
+      "title": "Staff/Principal AI Engineer",
+      "company": "Inworld AI",
+      "location": "Switzerland (Remote)",
+      "url": "https://www.remoterocketship.com/company/inworld-ai/jobs/staff-principal-ai-engineer-switzerland-remote/",
+      "source": "remoterocketship",
+      "summary": "Staff/Principal-level ML engineering role building production systems (speech/video, NLP, action planning) for Inworld AI's conversational AI / voice agent platform. Python, PyTorch, C++. Remote within Switzerland.",
+      "score": 76,
+      "grade": "B",
+      "date_found": "2026-09-17",
+      "status": "new"
+    },
+    {
+      "id": "fe2d1ec21b8695c5eef17ae9ef68e6fa",
+      "title": "Founding Engineer - Frontend Focus",
+      "company": "SCAIT",
+      "location": "Rotkreuz, Switzerland",
+      "url": "https://swissdevjobs.ch/jobs/SCAIT-Founding-Engineer---Frontend-Focus-mwd---100",
+      "source": "swissdevjobs",
+      "summary": "Founding engineer role at a Swiss startup, frontend-focused. Stack: React, Python, FastAPI, Langfuse, Azure, TailwindCSS. CHF 105'000-125'000, 100%.",
+      "score": 70,
+      "grade": "B",
+      "date_found": "2026-09-17",
+      "status": "new"
+    },
+    {
+      "id": "0a4b7be325e59864a2aaaa9ba1a59f82",
+      "title": "Founding Engineer",
+      "company": "MangoDesk",
+      "location": "Not specified (US-oriented, YC-backed)",
+      "url": "https://jobs.ashbyhq.com/mangodesk/ad4f871b-d704-4227-b72e-6418210c0ef9",
+      "source": "ashbyhq",
+      "summary": "YC-backed startup building AI-driven data infrastructure for the knowledge-work economy. Founding engineer, build-from-zero. Location not specified in posting.",
+      "score": 66,
+      "grade": "C",
+      "date_found": "2026-09-17",
+      "status": "new"
+    },
+    {
+      "id": "44764306be944de20717a2edae226620",
+      "title": "Founding Engineer",
+      "company": "Fig AI",
+      "location": "Likely San Francisco, USA (on-site, not specified in posting)",
+      "url": "https://jobs.ashbyhq.com/growfig/7a5b4941-ae83-4480-a062-51f2f89da920",
+      "source": "ashbyhq",
+      "summary": "Founding engineer at Fig AI, an AI workflow-automation platform for the $750B food-ingredient industry, founded 2024, HQ San Francisco. Builds agents directly with the founders.",
+      "score": 60,
+      "grade": "C",
+      "date_found": "2026-09-17",
+      "status": "new"
+    },
+    {
+      "id": "bd50cede1f22d3e6eb89898290fe366d",
+      "title": "Senior Full-Stack Engineer",
+      "company": "Jobgether (client role)",
+      "location": "Remote - Europe",
+      "url": "https://jobs.lever.co/jobgether/77252878-3020-405f-97ed-648f70b0978e",
+      "source": "lever",
+      "summary": "Senior full-stack engineering role on a distributed rendering platform, fully remote within Europe. Senior rather than Staff-level scope.",
+      "score": 52,
+      "grade": "D",
+      "date_found": "2026-09-17",
+      "status": "new"
+    },
+    {
+      "id": "18b63f61655c77112b42e43d5a2a67fe",
+      "title": "Platform Engineer (Mid)",
+      "company": "Bloom & Wild Group",
+      "location": "UK, Netherlands, or Remote (Europe)",
+      "url": "https://jobs.lever.co/bloomon/0456acf7-4fed-4ef7-b115-7bb8e94a99f8",
+      "source": "lever",
+      "summary": "Mid-level platform engineering role at e-commerce company Bloom & Wild. Stack: AWS, Terraform, Ruby, Python, React, GitHub Actions. Below target seniority.",
+      "score": 49,
+      "grade": "D",
+      "date_found": "2026-09-17",
       "status": "new"
     }
   ]

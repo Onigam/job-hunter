@@ -1,0 +1,43 @@
+{
+  "date": "2026-09-17",
+  "total_searched": 24,
+  "new_offers": 6,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Staff/Principal AI Engineer",
+      "company": "Inworld AI",
+      "location": "Switzerland (Remote)",
+      "url": "https://www.remoterocketship.com/company/inworld-ai/jobs/staff-principal-ai-engineer-switzerland-remote/",
+      "score": 76,
+      "grade": "B",
+      "why": "Staff/Principal-level individual contributor role building production ML systems for a well-funded conversational-AI platform, fully remote within Switzerland so no relocation needed. Stack leans Python/PyTorch/C++ rather than TypeScript/Node, and it's research-leaning ML work rather than platform architecture, which keeps it just short of a perfect fit.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Founding Engineer - Frontend Focus",
+      "company": "SCAIT",
+      "location": "Rotkreuz, Switzerland",
+      "url": "https://swissdevjobs.ch/jobs/SCAIT-Founding-Engineer---Frontend-Focus-mwd---100",
+      "score": 70,
+      "grade": "B",
+      "why": "A genuine founding-engineer seat at a Swiss startup with React, Python and FastAPI in the stack, based in-country so no relocation is required. It's scoped to frontend rather than full platform ownership, and the CHF 105-125k range sits below what a founding, Staff-level profile would typically command.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Founding Engineer",
+      "company": "MangoDesk",
+      "location": "Not specified (US-oriented, YC-backed)",
+      "url": "https://jobs.ashbyhq.com/mangodesk/ad4f871b-d704-4227-b72e-6418210c0ef9",
+      "score": 66,
+      "grade": "C",
+      "why": "A build-from-zero founding role at a YC-backed startup working on AI-driven data infrastructure, which matches the cofounder background well. The posting doesn't state a location and the YC/US orientation suggests it likely expects US hours or on-site, so that needs clarifying before applying.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
