@@ -1,0 +1,43 @@
+{
+  "date": "2026-09-18",
+  "total_searched": 17,
+  "new_offers": 4,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Head of Software Engineering",
+      "company": "Adaptyv Biosystems",
+      "location": "Lausanne, Switzerland",
+      "url": "https://jobs.ashbyhq.com/adaptyv/11d5013d-e24d-47b5-8dd3-3d5f670f753f/application",
+      "score": 75,
+      "grade": "B",
+      "why": "A Head of Engineering seat at a fast-growing, AI-first biotech startup in Switzerland, which lines up well with the founding-team background from Alaya and the eventual Benevity acquisition. It's in Lausanne rather than Geneva and the stack details are thin in the posting, so it's worth a closer read before applying, but the leadership scope and mission fit are both strong.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Sr. Software Engineer, Platform Engineering",
+      "company": "Chronograph",
+      "location": "Remote (US)",
+      "url": "https://builtin.com/job/sr-software-engineer-platform-engineering/10193600",
+      "score": 56,
+      "grade": "C",
+      "why": "Solid platform-engineering scope and strong US-remote pay, but it's a Senior title rather than Staff+/founding, and the US timezone is a step down from the Europe-friendly remote preference. Worth a look mainly for the compensation and platform ownership.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Platform Engineer / Ing\u00e9nieur Plateforme",
+      "company": "Confidential (via eFinancialCareers)",
+      "location": "Geneva, Switzerland",
+      "url": "https://www.efinancialcareers.com/jobs-Switzerland-Geneva-Platform_Engineer__Ingenieur.id22964660",
+      "score": 55,
+      "grade": "C",
+      "why": "Geneva-based with genuine Python and ML-infrastructure work, including embeddings and vector databases, which plays to the AI-augmented engineering angle. The confidential finance-enterprise employer and generic 'Platform Engineer' title suggest it sits below Staff-level scope, and there's no company name yet to vet culture fit.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
