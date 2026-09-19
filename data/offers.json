@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18",
+  "last_updated": "2026-09-19",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -21862,6 +21862,71 @@
       "score": 34,
       "grade": "F",
       "date_found": "2026-09-18",
+      "status": "new"
+    },
+    {
+      "id": "026b804f95ab02daae2d803c5d0e8488",
+      "title": "Staff Engineer",
+      "company": "Akuity",
+      "location": "Remote \u2014 EMEA/APAC",
+      "url": "https://www.remoteanywherejob.com/en/job/41301",
+      "source": "other",
+      "summary": "Akuity, founded by the creators of Argo CD, builds a Kubernetes/GitOps platform for DevOps and Platform Engineering teams. Staff Engineer role, fully remote across EMEA/APAC with some US timezone overlap expected.",
+      "score": 73,
+      "grade": "B",
+      "date_found": "2026-09-19",
+      "status": "new"
+    },
+    {
+      "id": "bce9cc53186f5481db2cd861cc3ebc85",
+      "title": "Senior Platform Engineer",
+      "company": "Proxify AB",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-platform-engineer",
+      "source": "weworkremotely",
+      "summary": "Build, scale, and maintain an Internal Developer Platform (IDP) that lets application teams ship independently, treating the platform as a product. Requires 5+ years of platform engineering, SRE, or core DevOps experience.",
+      "score": 61,
+      "grade": "C",
+      "date_found": "2026-09-19",
+      "status": "new"
+    },
+    {
+      "id": "e6d7c7bdf1205cbe4f5b94d240690bb0",
+      "title": "Site Reliability Engineer (SRE) \u2014 Hosting Platforms",
+      "company": "Infomaniak",
+      "location": "Geneva, Switzerland",
+      "url": "https://www.jobup.ch/en/jobs/detail/dde0b947-9984-49c2-81d0-5222fa7a476b/",
+      "source": "other",
+      "summary": "SRE role on hosting platform infrastructure at Infomaniak, an independent Geneva-based \"ethical cloud\" hosting company. Full-time, permanent. Requires passing a technical assessment before the application is reviewed.",
+      "score": 59,
+      "grade": "C",
+      "date_found": "2026-09-19",
+      "status": "new"
+    },
+    {
+      "id": "bd5f5e9fa2d40f4a1aff85e0c260e603",
+      "title": "Site Reliability Engineer (SRE) \u2014 Data Engineer",
+      "company": "Infomaniak",
+      "location": "Geneva, Switzerland",
+      "url": "https://www.jobup.ch/en/jobs/detail/b1cdba2e-820a-4835-add4-cef8cd0a293b/",
+      "source": "other",
+      "summary": "SRE role focused on data infrastructure and monitoring at Infomaniak in Geneva. Full-time, permanent.",
+      "score": 55,
+      "grade": "C",
+      "date_found": "2026-09-19",
+      "status": "new"
+    },
+    {
+      "id": "175bcc4632604c65d4766625816304c1",
+      "title": "Site Reliability Engineer (SRE) \u2014 Network Engineer",
+      "company": "Infomaniak",
+      "location": "Geneva, Switzerland",
+      "url": "https://www.jobup.ch/en/jobs/detail/8bf87223-8156-4052-ba7f-cce2357e396a/",
+      "source": "other",
+      "summary": "SRE role focused on network engineering for Infomaniak's hosting infrastructure in Geneva. Full-time, permanent.",
+      "score": 49,
+      "grade": "D",
+      "date_found": "2026-09-19",
       "status": "new"
     }
   ]

@@ -1,0 +1,19 @@
+🎯 *Job Hunt — 2026-09-19*
+
+*1.* *Staff Engineer* @ Akuity
+📍 Remote — EMEA/APAC | ⭐ 73/100 | 🏆 Grade B
+💡 Kubernetes/GitOps platform startup founded by the Argo CD creators, genuine Staff-level scope.
+🔗 https://www.remoteanywherejob.com/en/job/41301
+
+*2.* *Senior Platform Engineer* @ Proxify AB
+📍 Remote | ⭐ 61/100 | 🏆 Grade C
+💡 Owning an Internal Developer Platform treated as a product — solid platform-building scope.
+🔗 https://weworkremotely.com/remote-jobs/proxify-ab-senior-platform-engineer
+
+*3.* *SRE — Hosting Platforms* @ Infomaniak
+📍 Geneva, Switzerland | ⭐ 59/100 | 🏆 Grade C
+💡 Geneva-based, well-regarded independent Swiss cloud company; role scope is more IC than staff+.
+🔗 https://www.jobup.ch/en/jobs/detail/dde0b947-9984-49c2-81d0-5222fa7a476b/
+
+---
+📊 _5 new offers | 1548 total tracked_

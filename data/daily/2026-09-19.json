@@ -1,0 +1,43 @@
+{
+  "date": "2026-09-19",
+  "total_searched": 22,
+  "new_offers": 5,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Staff Engineer",
+      "company": "Akuity",
+      "location": "Remote — EMEA/APAC",
+      "url": "https://www.remoteanywherejob.com/en/job/41301",
+      "score": 73,
+      "grade": "B",
+      "why": "Akuity was founded by the creators of Argo CD and builds a Kubernetes/GitOps platform for DevOps and Platform Engineering teams, which lines up well with the AWS/Docker/Kubernetes side of the profile. It's a genuine Staff-level IC seat at a product-focused infra startup, though the EMEA/APAC-with-US-overlap remote setup is a step down from Geneva or Europe-only remote.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Senior Platform Engineer",
+      "company": "Proxify AB",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-platform-engineer",
+      "score": 61,
+      "grade": "C",
+      "why": "Direct platform-engineering ownership, building an Internal Developer Platform treated as a product, which matches the founding-engineer instinct for owning infrastructure end to end. The Senior (not Staff+) title and unspecified remote geography keep it a notch below the top tier.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Site Reliability Engineer (SRE) — Hosting Platforms",
+      "company": "Infomaniak",
+      "location": "Geneva, Switzerland",
+      "url": "https://www.jobup.ch/en/jobs/detail/dde0b947-9984-49c2-81d0-5222fa7a476b/",
+      "score": 59,
+      "grade": "C",
+      "why": "Geneva-based and at a well-regarded independent Swiss cloud/hosting company, which scores well on location and culture. The title reads as an IC infrastructure role without an explicit senior/staff qualifier, so the scope looks narrower than the target seniority band.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
