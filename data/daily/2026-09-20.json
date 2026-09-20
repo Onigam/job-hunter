@@ -1,0 +1,55 @@
+{
+  "date": "2026-09-20",
+  "total_searched": 20,
+  "new_offers": 4,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Founding Engineer",
+      "company": "Almedia",
+      "location": "Berlin, Germany (in-office)",
+      "url": "https://www.linkedin.com/jobs/view/founding-engineer-at-almedia-4416165442",
+      "score": 71,
+      "grade": "B",
+      "why": "Profitable, fast-growing startup (FT1000 #3 in Europe, 2025) building an AI agent framework for a 70M+ user rewards platform — genuine zero-to-one ownership with meaningful equity. Main drawback: requires being in the Berlin office daily, which is a step down from Geneva or remote.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Fintech Founding Engineer (100% remote)",
+      "company": "EWOR GmbH",
+      "location": "Remote — Europe/Americas",
+      "url": "https://freehire.me/jobs/fintech-founding-engineer-100-remote-m-f-d-eworgmbh-edjzg5zk",
+      "score": 70,
+      "grade": "B",
+      "why": "Venture studio backed by the founders of Adjust (€1.2B exit) and SumUp (€8B) is spinning up a new fintech department and wants a founding builder with full autonomy to take it 0-to-1. Fully remote fits the Geneva base well, though the specific product and comp aren't detailed yet.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Founder & CTO — Stealth DefenceTech (Autonomous Systems)",
+      "company": "Foodlabs / Atlantic (venture studio)",
+      "location": "Europe",
+      "url": "https://startup.jobs/founder-cto-gn-stealth-defencetech-autonomous-systems-europe-foodlabs-atlantic-7938080",
+      "score": 65,
+      "grade": "C",
+      "why": "A venture studio offering founder equity to build a European autonomous-defence company from scratch — matches the cofounder/build-from-zero profile, but the defence-tech mission is a stretch from Magino's purpose-driven background and comp is unclear pre-financing.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Staff Engineer — Agentic AI",
+      "company": "Republic Services",
+      "location": "Remote — United States",
+      "url": "https://jobs.republicservices.com/us/en/job/ROURSAUSR179963EXTERNALENUS/Staff-Engineer-Agentic-AI",
+      "score": 62,
+      "grade": "C",
+      "why": "First hire to build out an agentic AI platform (LangChain/LangGraph, RAG) from scratch inside a large enterprise, with solid comp (~$175k + bonus). Heavy AI/LLM exposure, but a legacy waste-management enterprise is a poor culture fit against the startup/product-company preference.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
