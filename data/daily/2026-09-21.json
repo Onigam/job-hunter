@@ -1,0 +1,55 @@
+{
+  "date": "2026-09-21",
+  "total_searched": 19,
+  "new_offers": 5,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Head of Engineering - Platform",
+      "company": "Keyrock",
+      "location": "Zurich, Switzerland",
+      "url": "https://ch.linkedin.com/jobs/view/head-of-engineering-platform-at-keyrock-4143859914",
+      "score": 77,
+      "grade": "B",
+      "why": "Platform-ownership leadership role at an engineering-first crypto/trading scale-up in Zurich, close to Magino's platform-architecture background and Staff-to-leadership trajectory. Strong location and seniority fit, though it's an IC-to-leadership shift rather than a founding role.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Head of Engineering - Trading",
+      "company": "Keyrock",
+      "location": "Zurich, Switzerland",
+      "url": "https://ch.linkedin.com/jobs/view/head-of-engineering-trading-at-keyrock-4059526180",
+      "score": 70,
+      "grade": "B",
+      "why": "Second Keyrock leadership opening, this one scoped to trading systems rather than platform. Same scale-up, same Zurich location and seniority fit, slightly less overlap with Magino's platform/architecture focus than the Platform counterpart.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Head of Engineering - Echo",
+      "company": "Zalando",
+      "location": "Zurich, Switzerland",
+      "url": "https://ch.linkedin.com/jobs/view/head-of-engineering-echo-at-zalando-4132077703",
+      "score": 67,
+      "grade": "C",
+      "why": "VP/Head-of-Engineering scope matches Magino's target seniority and Zurich is a strong location fit, but Zalando is a large established public company rather than a startup or scale-up, which cuts against his stated preference.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Head of Engineering",
+      "company": "grape",
+      "location": "Zurich, Switzerland",
+      "url": "https://ch.linkedin.com/jobs/view/head-of-engineering-at-grape-4287952358",
+      "score": 61,
+      "grade": "C",
+      "why": "Head-of-Engineering title in Zurich fits the target seniority and location well, but public information on grape's stack, stage and mission is thin, so the fit is harder to confirm than the other options.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
