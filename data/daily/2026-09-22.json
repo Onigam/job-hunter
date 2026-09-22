@@ -1,0 +1,43 @@
+{
+  "date": "2026-09-22",
+  "total_searched": 34,
+  "new_offers": 13,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Staff+ Software Engineer, Platform Distribution",
+      "company": "Anthropic",
+      "location": "San Francisco, CA / New York, NY (hybrid, min. 25% in-office)",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5397005008",
+      "score": 82,
+      "grade": "B",
+      "why": "Top-tier AI mission and comp at Staff+ scope, but requires relocation to SF or NYC with a hybrid in-office minimum — not remote, worth flagging before applying.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Staff+ Software Engineer, Platform Ecosystem",
+      "company": "Anthropic",
+      "location": "San Francisco, CA / New York, NY (hybrid, min. 25% in-office)",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5392335008",
+      "score": 81,
+      "grade": "B",
+      "why": "Same relocation caveat as the Distribution role, but this one leans more product/0-to-1, which plays to the founding-engineer background.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Staff Engineer, Platform & Infrastructure",
+      "company": "Nango",
+      "location": "Remote (NA/LATAM/Europe)",
+      "url": "https://jobs.ashbyhq.com/nango/09421bc9-987b-4fe3-aeac-bd183afc5b8e",
+      "score": 79,
+      "grade": "B",
+      "why": "Small, senior, remote-first team building AI-agent infrastructure with real platform ownership — closest thing here to a founding-engineer role with an established, funded company behind it.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+🎯 *Job Hunt — 2026-09-22*
+
+*1.* *Staff+ Software Engineer, Platform Distribution* @ Anthropic
+📍 San Francisco, CA / New York, NY (hybrid, min. 25% in-office) | ⭐ 82/100 | 🏆 Grade B
+💡 Top-tier AI mission and comp at Staff+ scope, but requires relocation to SF or NYC with a hybrid in-office minimum — not remote, worth flagging before applying.
+🔗 https://job-boards.greenhouse.io/anthropic/jobs/5397005008
+
+*2.* *Staff+ Software Engineer, Platform Ecosystem* @ Anthropic
+📍 San Francisco, CA / New York, NY (hybrid, min. 25% in-office) | ⭐ 81/100 | 🏆 Grade B
+💡 Same relocation caveat as the Distribution role, but this one leans more product/0-to-1, which plays to the founding-engineer background.
+🔗 https://job-boards.greenhouse.io/anthropic/jobs/5392335008
+
+*3.* *Staff Engineer, Platform & Infrastructure* @ Nango
+📍 Remote (NA/LATAM/Europe) | ⭐ 79/100 | 🏆 Grade B
+💡 Small, senior, remote-first team building AI-agent infrastructure with real platform ownership — closest thing here to a founding-engineer role with an established, funded company behind it.
+🔗 https://jobs.ashbyhq.com/nango/09421bc9-987b-4fe3-aeac-bd183afc5b8e
+
+---
+📊 _13 new offers | 1570 total tracked_
