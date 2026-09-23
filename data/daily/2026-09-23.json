@@ -1,0 +1,79 @@
+{
+  "date": "2026-09-23",
+  "total_searched": 32,
+  "new_offers": 12,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Founding Engineer",
+      "company": "Zenline AI",
+      "location": "Zurich, Switzerland",
+      "url": "https://ch.linkedin.com/jobs/view/founding-engineer-at-zenline-ai-4095719525",
+      "score": 82,
+      "grade": "B",
+      "why": "Founding engineer role at an early-stage AI startup, close to the from-scratch platform-building Magino did at Alaya. AI-native focus lines up with his push into AI-augmented engineering, though it's Zurich rather than Geneva.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "VP Engineering",
+      "company": "Daedalean AI",
+      "location": "Zurich, Switzerland",
+      "url": "https://ch.linkedin.com/jobs/view/vp-engineering-at-daedalean-ai-3670563052",
+      "score": 78,
+      "grade": "B",
+      "why": "VP Engineering at a funded deep-tech startup building AI/autonomy systems for aviation. Matches his target leadership tier and startup scale, with strong AI exposure even if it's classical ML rather than LLM-based.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Senior Platform Engineer",
+      "company": "Oyster (OysterHR)",
+      "location": "Remote, EMEA (UTC+0 to UTC+4)",
+      "url": "https://news.ycombinator.com/item?id=49523166",
+      "score": 69,
+      "grade": "C",
+      "why": "Platform engineering seat at a well-funded HR-tech scaleup that's exploring AI for developer productivity, fully remote in an EMEA timezone that overlaps cleanly with Geneva.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "CTO (Chief Technology Officer)",
+      "company": "Divio",
+      "location": "Switzerland",
+      "url": "https://ch.linkedin.com/jobs/view/cto-chief-technology-officer-at-divio-4090518607",
+      "score": 66,
+      "grade": "C",
+      "why": "CTO seat at an established Swiss cloud/PaaS company. Strong seniority match, though it's running/scaling an existing product rather than a from-zero build like Alaya was.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Founding Engineer",
+      "company": "Fuze",
+      "location": "Remote (Dubai, Europe, India, Abu Dhabi)",
+      "url": "https://wellfound.com/jobs/2448180-founding-engineer",
+      "score": 65,
+      "grade": "C",
+      "why": "Founding engineer shaping tech direction for a fintech infrastructure startup serving MENA banks and fintechs, but remote hours skew toward Gulf/Asia rather than Europe.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 6,
+      "title": "CTO",
+      "company": "Client of LHH",
+      "location": "Geneva, Switzerland",
+      "url": "https://ch.linkedin.com/jobs/view/cto-at-lhh-4160264498",
+      "score": 58,
+      "grade": "C",
+      "why": "CTO search run by recruiter LHH for an undisclosed Geneva client. Best possible location fit of the batch, but company details are still opaque.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
