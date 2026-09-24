@@ -1,0 +1,163 @@
+{
+  "date": "2026-09-24",
+  "total_searched": 160,
+  "new_offers": 24,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Principal Engineer / Engineering Lead, Agentic AI",
+      "company": "NWS Management AG (client: Zurich B2B AI scaleup)",
+      "location": "Zurich, Switzerland",
+      "url": "https://ch.linkedin.com/jobs/view/principal-engineer-engineering-lead-%E2%80%94-agentic-ai-at-nws-management-ag-4469426642",
+      "score": 85,
+      "grade": "A",
+      "why": "CTO-scope ownership of a multi-agent platform while staying hands-on in React/TypeScript, which is exactly the Alaya builder profile plus the AI-augmented engineering focus. Equity is on the table; Azure rather than AWS is the only real stack gap.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Founding Engineer (path to CTO), AI infrastructure startup",
+      "company": "Jobgether (partner: early-stage AI infra startup)",
+      "location": "Switzerland / Remote Europe",
+      "url": "https://ch.linkedin.com/jobs/view/founding-engineer-at-jobgether-4468710266",
+      "score": 80,
+      "grade": "B",
+      "why": "First engineer next to the founder with an explicit path to CTO, rebuilding an agentic runtime for scale; it's the Alaya zero-to-one story again but AI-native. The catch is the expected move to San Francisco within a year.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Founding CTO",
+      "company": "Flycatcher",
+      "location": "Lugano, Switzerland (remote CET ±2)",
+      "url": "https://ch.linkedin.com/jobs/view/founding-cto-at-flycatcher-4469753581",
+      "score": 79,
+      "grade": "B",
+      "why": "A true founding CTO seat with two founders who want an opinion on the roadmap, fully remote from Geneva after onboarding. The stack is Python/ML-heavy and the base salary is below Geneva rates, so the equity has to carry it.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Lead AI Engineer, Fund & Portfolio",
+      "company": "Forestay Capital",
+      "location": "Geneva, Switzerland (or London)",
+      "url": "https://ch.linkedin.com/jobs/view/lead-ai-engineer-fund-portfolio-at-forestay-capital-4468216444",
+      "score": 77,
+      "grade": "B",
+      "why": "It's in Geneva, it's AI-first, and the scope reaches across a whole portfolio of AI scale-ups, so the cofounder background would carry weight with founders. The work leans Python and data, and it sits in a fund rather than a product company.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Chief Technology Officer, Swiss SaaS",
+      "company": "Jobgether (partner: Swiss SaaS company)",
+      "location": "Switzerland (remote, async-first)",
+      "url": "https://ch.linkedin.com/jobs/view/chief-technology-officer-at-jobgether-4469495237",
+      "score": 77,
+      "grade": "B",
+      "why": "A hands-on CTO whose main brief is rolling out AI-assisted development across a small senior team, which is the exact practice Magino built at Benevity. The setup is remote and async-first from Switzerland, though the company is unnamed and it's a transformation job rather than a zero-to-one build.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 6,
+      "title": "Principal Software Engineer, Platform (TypeScript, backend-heavy)",
+      "company": "REMATIQ",
+      "location": "Berlin, Germany (hybrid)",
+      "url": "https://de.linkedin.com/jobs/view/principal-software-engineer-typescript-backend%E2%80%91heavy-at-rematiq-4459008116",
+      "score": 76,
+      "grade": "B",
+      "why": "The stack overlap is close to perfect (TypeScript/Node platform work behind an AI engine), and the regulated MedTech mission gives it real impact. Berlin hybrid is the drawback, so it only makes sense if remote can be negotiated.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 7,
+      "title": "Principal Applied AI Engineer",
+      "company": "Levellr",
+      "location": "Remote, Europe (UK-overlap)",
+      "url": "https://www.linkedin.com/jobs/view/principal-applied-ai-engineer-at-levellr-4463922082",
+      "score": 76,
+      "grade": "B",
+      "why": "Fully remote and European-timezone, on a TypeScript/Node stack, with the job of putting LLM systems at the centre of the product, which plays directly to the semantic search and embeddings experience. The mission is less purpose-driven than Alaya's was.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 8,
+      "title": "CTO & Technical Co-Founder",
+      "company": "Tralkan",
+      "location": "Zurich area, Switzerland (hybrid)",
+      "url": "https://ch.linkedin.com/jobs/view/cto-technical-co-founder-at-tralkan-4471143900",
+      "score": 76,
+      "grade": "B",
+      "why": "A co-founder CTO role on a mission-driven Swiss platform with a TypeScript/React base already built. The team is currently working part-time toward a funding milestone, which could fit alongside Givernance but means little or no salary for now.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 9,
+      "title": "AI Engineering & Adoption Lead",
+      "company": "TSG Corp",
+      "location": "Lausanne area, Switzerland",
+      "url": "https://ch.linkedin.com/jobs/view/ai-engineering-adoption-lead-at-tsg-corp-4459209143",
+      "score": 75,
+      "grade": "B",
+      "why": "The brief is to define and scale AI-assisted engineering practice across teams, the niche Magino has been building a reputation in. Little is known about TSG itself, so the company fit needs checking.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 10,
+      "title": "Founding Full-Stack Engineer, Agentic AI startups",
+      "company": "Stealth venture studio",
+      "location": "Remote, European Union",
+      "url": "https://www.linkedin.com/jobs/view/founding-fullstack-engineer-agentic-ai-startups-at-stealth-startup-4469484259",
+      "score": 74,
+      "grade": "B",
+      "why": "Founding-engineer ownership inside funded agentic-AI startups, remote from the EU, with an explicit expectation of working alongside AI coding agents. The studio is unnamed and the title is IC-level, so it's worth probing for a CTO track.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 11,
+      "title": "Chief Technology Officer",
+      "company": "Toptal",
+      "location": "Zurich, Switzerland (remote-first company)",
+      "url": "https://ch.linkedin.com/jobs/view/chief-technology-officer-at-toptal-4467705474",
+      "score": 74,
+      "grade": "B",
+      "why": "A big CTO seat at a remote-first company with an agentic-engineering-first mandate and strong compensation potential. Toptal is a talent marketplace rather than a startup, and the ask for foundation-model training depth goes beyond the current profile.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 12,
+      "title": "Senior Staff MLOps & Cloud Platform Engineer, Robotics",
+      "company": "Hexagon Robotics",
+      "location": "Zurich, Switzerland",
+      "url": "https://ch.linkedin.com/jobs/view/senior-staff-mlops-cloud-platform-engineer-%E2%80%93-robotics-at-hexagon-robotics-4467348938",
+      "score": 70,
+      "grade": "B",
+      "why": "The Senior Staff title matches, and it's a real platform-ownership role at a well-funded robotics unit. It's a large enterprise, though, and the job is more MLOps-heavy than product-platform work.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 13,
+      "title": "Senior AI Engineer",
+      "company": "Rivia",
+      "location": "Zurich, Switzerland",
+      "url": "https://ch.linkedin.com/jobs/view/senior-ai-engineer-at-rivia-4399398799",
+      "score": 70,
+      "grade": "B",
+      "why": "A freshly funded Series A with an impact-driven mission and serious agent work. At Senior level it's a step down from Staff, so the scope would need to be negotiated up.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
