@@ -52,7 +52,7 @@ jobs:
           fi
 
           echo "Running Job Hunter Search..."
-          claude -p --model claude-3-7-sonnet-20250219 --dangerously-skip-permissions --output-format text < .claude/prompts/job-hunter-orchestrator-v2.md
+          claude -p --model claude-opus-5-5 --dangerously-skip-permissions --output-format text < .claude/prompts/job-hunter-orchestrator-v2.md
 
       - name: Generate Application Packages (for A/B grades)
         env:
@@ -107,7 +107,7 @@ jobs:
             4. After writing the files, print exactly: APPLICATION_DOCS_DONE
             "
 
-            claude -p --model claude-3-7-sonnet-20250219 --dangerously-skip-permissions --output-format text <<< "$PROMPT" || echo "Failed to generate package for $COMPANY"
+            claude -p --model claude-opus-5-5 --dangerously-skip-permissions --output-format text <<< "$PROMPT" || echo "Failed to generate package for $COMPANY"
           done
 
           git add data/
