@@ -39,15 +39,15 @@ blocks it. Paste the literal value directly into the curl command.
 - Remote: leave locationUnion empty or use keyword "remote"
 
 **Run these LinkedIn searches (at minimum):**
-1. `keywords=Staff%20Engineer` + geoId Switzerland
-2. `keywords=Platform%20Engineer` + geoId Switzerland
-3. `keywords=Founding%20Engineer` + geoId Switzerland
+1. `keywords=Staff%20Engineer` + geoId Geneva
+2. `keywords=Platform%20Engineer` + geoId Geneva
+3. `keywords=Founding%20Engineer` + geoId Geneva
 4. `keywords=Senior%20Engineer` + geoId Geneva
-5. `keywords=CTO%20startup` + geoId Switzerland
+5. `keywords=CTO%20startup` + geoId Geneva
 6. `keywords=VP%20Engineering` + geoId Geneva
 7. `keywords=Staff%20Engineer%20remote` (no geoId filter)
-8. `keywords=Staff%20Engineer%20part-time` + geoId Switzerland (50% / part-time)
-9. `keywords=CTO%20part-time` OR `keywords=fractional%20CTO` + geoId Switzerland
+8. `keywords=Staff%20Engineer%20part-time` + geoId Geneva (50% / part-time)
+9. `keywords=CTO%20part-time` OR `keywords=fractional%20CTO` + geoId Geneva
 
 **Parsing LinkedIn response:**
 The response is JSON. Look for job cards in the `elements` array. Each card contains:

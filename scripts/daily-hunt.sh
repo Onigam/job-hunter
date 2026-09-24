@@ -13,7 +13,7 @@ echo "[$(date)] Starting daily job hunt..." | tee "$LOG_FILE"
 cd "$REPO_DIR"
 
 # Run Claude Code with the orchestrator prompt
-claude --dangerously-skip-permissions \
+claude --model claude-3-7-sonnet-20250219 --dangerously-skip-permissions \
   -p "$(cat "$PROMPT_FILE")" \
   --output-format text \
   2>&1 | tee -a "$LOG_FILE"
