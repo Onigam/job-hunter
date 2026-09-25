@@ -1,0 +1,151 @@
+{
+  "date": "2026-09-25",
+  "total_searched": 220,
+  "new_offers": 29,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Lead Engineer, AI for Clinical Genomics",
+      "company": "Invenia (client: early-stage precision oncology company)",
+      "location": "Remote, Europe",
+      "url": "https://www.linkedin.com/jobs/view/lead-engineer-at-invenia-4470323287",
+      "score": 81,
+      "grade": "B",
+      "why": "An early core-team seat where the job is shaping architecture and engineering culture, which is the Alaya playbook, and the company works AI-native end to end. It's fully remote in Europe, but it comes through a recruiter so the company isn't named yet, and the stack leans Python/ML.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Lead Agentic Systems Engineer",
+      "company": "Findr (client: AI-first HealthTech)",
+      "location": "Frankfurt, Germany",
+      "url": "https://de.linkedin.com/jobs/view/lead-agentic-systems-engineer-frankfurt-%E2%82%AC175-000-%E2%82%AC200-000-at-findr-4472039165",
+      "score": 80,
+      "grade": "B",
+      "why": "This is production agentic AI with evals and guardrails, which is the AI-augmented engineering story Magino has been building, and it pays EUR 175-200k with a strong health mission. Frankfurt is the catch, and the recruiter post doesn't say whether remote work is allowed.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Senior Product Engineer (Darkplane, Agentic Platform)",
+      "company": "Jobgether",
+      "location": "Switzerland (remote-first, contract)",
+      "url": "https://ch.linkedin.com/jobs/view/senior-product-engineer-darkplane-agentic-platform-at-jobgether-4469084561",
+      "score": 77,
+      "grade": "B",
+      "why": "The stack is almost exactly TypeScript/Node, and the product is tooling that makes AI-generated code safe to ship, which is the topic Magino knows best. The title is Senior rather than Staff and it's a contract, so it could fit well as a 50% role alongside Givernance.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Engineering Team Lead, Sandbox",
+      "company": "Mistral",
+      "location": "Switzerland",
+      "url": "https://ch.linkedin.com/jobs/view/engineering-team-lead-sandbox-at-mistral-4470946746",
+      "score": 76,
+      "grade": "B",
+      "why": "It's a Swiss-based lead role at Europe's leading AI lab, owning the runtime that agents live in, and the hybrid management-plus-architecture split fits the Head of Technologies background. The real gap is deep Linux and microVM internals, and the code is Go.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Founding ML Engineer (Spectrum)",
+      "company": "JetBrains",
+      "location": "Munich, Germany",
+      "url": "https://de.linkedin.com/jobs/view/founding-ml-engineer-spectrum-at-jetbrains-4372689945",
+      "score": 75,
+      "grade": "B",
+      "why": "It's a founding seat on developer tooling for AI agents with JetBrains behind it, and the semantic search and multi-agent experience maps directly. The role is more ML research than platform work, and it's based in Munich.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 6,
+      "title": "Founding Engineer, Orchestration (Pre-Seed, AI-Infra)",
+      "company": "PYROIS",
+      "location": "Zurich, Switzerland (or remote via EOR)",
+      "url": "https://ch.linkedin.com/jobs/view/founding-engineer-orchestration-pre-seed-ai-infra-at-pyrois-4472026057",
+      "score": 74,
+      "grade": "B",
+      "why": "One of the first ten hires at a VC-backed Zurich AI-infra startup, with remote allowed and an MCP surface for agents to build. The work is Go and scheduling-heavy, and CHF 120-140k is below what a Staff engineer earns in Geneva.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 7,
+      "title": "Senior Agentic-AI Engineer",
+      "company": "PEAX AG",
+      "location": "Lucerne, Switzerland",
+      "url": "https://ch.linkedin.com/jobs/view/senior-agentic-ai-engineer-m-w-d-at-peax-ag-4471180488",
+      "score": 74,
+      "grade": "B",
+      "why": "Magino would set the agentic AI strategy and coach the team at a Swiss SaaS scale-up, which is the AI-adoption work done at Benevity. It's in Lucerne, the posting is in German, and the backend is Java/Python on Azure.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 8,
+      "title": "Staff Engineer (founding)",
+      "company": "Clera",
+      "location": "Munich, Germany (on-site)",
+      "url": "https://de.linkedin.com/jobs/view/staff-engineer-at-clera-4471117310",
+      "score": 73,
+      "grade": "B",
+      "why": "The stack is a near-perfect match (Python/React/TypeScript plus LLM pipelines) and Magino would be the technical backbone of a small team. It's full-time on-site in Munich and the pay tops out at EUR 130k, which rules it out unless relocating.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 9,
+      "title": "Senior / Staff Full-stack Engineer",
+      "company": "Electricity Maps",
+      "location": "Copenhagen, Denmark",
+      "url": "https://dk.linkedin.com/jobs/view/senior-staff-full-stack-engineer-at-electricity-maps-4470095995",
+      "score": 72,
+      "grade": "B",
+      "why": "The mission is strong, the TypeScript/Node/React stack fits, and engineers own product decisions, which suits a builder. It's office-first in Copenhagen and the scope is smaller than Staff+.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 10,
+      "title": "Senior Frontend (Full-stack) Engineer",
+      "company": "Rivia",
+      "location": "Zurich, Switzerland",
+      "url": "https://ch.linkedin.com/jobs/view/senior-frontend-full-stack-engineer-at-rivia-4399398793",
+      "score": 72,
+      "grade": "B",
+      "why": "A freshly funded Swiss Series A with a clear health mission, and the frontend architecture ownership plays to React strengths. It's frontend-heavy and below Staff level; Rivia's Senior AI Engineer opening, added yesterday, fits better.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 11,
+      "title": "Senior/Lead Backend Engineer (Remote)",
+      "company": "Fuse Energy",
+      "location": "Switzerland (remote)",
+      "url": "https://ch.linkedin.com/jobs/view/senior-lead-backend-engineer-remote-at-fuse-energy-4458506031",
+      "score": 72,
+      "grade": "B",
+      "why": "It's remote from Switzerland at a heavily funded climate scale-up, with real distributed-systems problems on AWS. The bar is set at 2+ years, so it may be pitched below Staff and would need to be negotiated up to Lead.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 12,
+      "title": "Founding Engineer",
+      "company": "SANOVIO",
+      "location": "Munich, Germany (in-person)",
+      "url": "https://de.linkedin.com/jobs/view/founding-engineer-at-sanovio-4471118237",
+      "score": 70,
+      "grade": "B",
+      "why": "The stack is exactly React/TypeScript/Node with embeddings and agents, and it's a founding role with healthcare impact. It's in-person in Munich and pitched at 3-5 years of experience, which is well below the profile.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}

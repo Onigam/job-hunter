@@ -1,0 +1,34 @@
+🎯 *Job Hunt — 2026-09-25*
+
+*1.* *Lead Engineer, AI for Clinical Genomics* @ Invenia (client: early-stage precision oncology company)
+📍 Remote, Europe | ⭐ 81/100 | 🏆 Grade B
+💡 An early core-team seat where the job is shaping architecture and engineering culture, which is the Alaya playbook, and the company works AI-native end to end.
+🔗 https://www.linkedin.com/jobs/view/lead-engineer-at-invenia-4470323287
+
+*2.* *Lead Agentic Systems Engineer* @ Findr (client: AI-first HealthTech)
+📍 Frankfurt, Germany | ⭐ 80/100 | 🏆 Grade B
+💡 This is production agentic AI with evals and guardrails, which is the AI-augmented engineering story Magino has been building, and it pays EUR 175-200k with a strong health mission.
+🔗 https://de.linkedin.com/jobs/view/lead-agentic-systems-engineer-frankfurt-%E2%82%AC175-000-%E2%82%AC200-000-at-findr-4472039165
+
+*3.* *Senior Product Engineer (Darkplane, Agentic Platform)* @ Jobgether
+📍 Switzerland (remote-first, contract) | ⭐ 77/100 | 🏆 Grade B
+💡 The stack is almost exactly TypeScript/Node, and the product is tooling that makes AI-generated code safe to ship, which is the topic Magino knows best.
+🔗 https://ch.linkedin.com/jobs/view/senior-product-engineer-darkplane-agentic-platform-at-jobgether-4469084561
+
+*4.* *Engineering Team Lead, Sandbox* @ Mistral
+📍 Switzerland | ⭐ 76/100 | 🏆 Grade B
+💡 It's a Swiss-based lead role at Europe's leading AI lab, owning the runtime that agents live in, and the hybrid management-plus-architecture split fits the Head of Technologies background.
+🔗 https://ch.linkedin.com/jobs/view/engineering-team-lead-sandbox-at-mistral-4470946746
+
+*5.* *Founding ML Engineer (Spectrum)* @ JetBrains
+📍 Munich, Germany | ⭐ 75/100 | 🏆 Grade B
+💡 It's a founding seat on developer tooling for AI agents with JetBrains behind it, and the semantic search and multi-agent experience maps directly.
+🔗 https://de.linkedin.com/jobs/view/founding-ml-engineer-spectrum-at-jetbrains-4372689945
+
+*6.* *Founding Engineer, Orchestration (Pre-Seed, AI-Infra)* @ PYROIS
+📍 Zurich, Switzerland (or remote via EOR) | ⭐ 74/100 | 🏆 Grade B
+💡 One of the first ten hires at a VC-backed Zurich AI-infra startup, with remote allowed and an MCP surface for agents to build.
+🔗 https://ch.linkedin.com/jobs/view/founding-engineer-orchestration-pre-seed-ai-infra-at-pyrois-4472026057
+
+---
+📊 _29 new offers | 1635 total tracked_
