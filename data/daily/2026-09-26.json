@@ -1,0 +1,67 @@
+{
+  "date": "2026-09-26",
+  "total_searched": 515,
+  "new_offers": 23,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "CTO, SaaS Venture Builder (Full Remote)",
+      "company": "Leonar",
+      "location": "Remote (Europe)",
+      "url": "https://fr.linkedin.com/jobs/view/cto-saas-fullremote-at-leonar-4469417757",
+      "score": 80,
+      "grade": "B",
+      "why": "The stack lines up almost line for line with Magino's (TypeScript, Node, React, MongoDB, AWS), and the job is running the whole technical portfolio of a venture builder, much like being a cofounder again. It's fully remote, but it's through a recruiter so the studio isn't named, and French-market pay is likely below Geneva rates.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Co-Founder & CTO | AI Infrastructure for Legal Insurance",
+      "company": "iudexnc",
+      "location": "Zurich, Zurich, Switzerland",
+      "url": "https://ch.linkedin.com/jobs/view/co-founder-cto-ai-infrastructure-for-legal-insurance-at-iudexnc-4468902202",
+      "score": 78,
+      "grade": "B",
+      "why": "A real co-founder seat in Switzerland with a paid pilot and a technical CEO from ETH, so Magino would own the whole technical foundation, as at Alaya. It's a repost of the July listing, so the seat is still open, but it's pre-seed and the pay is likely mostly equity.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Head of Engineering in Network Security (Remote in EU or UK)",
+      "company": "Abusix, Inc.",
+      "location": "Remote (EU or UK)",
+      "url": "https://de.linkedin.com/jobs/view/head-of-engineering-in-network-security-remote-in-eu-or-uk-at-abusix-inc-4470693824",
+      "score": 74,
+      "grade": "B",
+      "why": "A hands-on Head of Engineering at a small, fully remote company that wants someone to bring AI into how the team works, which is exactly Magino's Benevity track record. The pay tops out at EUR 120k, well under Geneva levels, and network security would be a new domain.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Staff/Principal Software Engineer – AI Applications",
+      "company": "Axelera AI",
+      "location": "Zurich, Switzerland",
+      "url": "https://ch.linkedin.com/jobs/view/staff-principal-software-engineer-%E2%80%93-ai-applications-at-axelera-ai-4472074622",
+      "score": 71,
+      "grade": "B",
+      "why": "It's a Staff/Principal role in Switzerland at a well-funded AI hardware scaleup, owning the SDK architecture that customers build on. The gap is real, though: the role asks for expert C++ and edge inference work (TensorRT, OpenVINO), which is far from web and platform engineering.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Founding Engineer, AI Infrastructure (path to CTO)",
+      "company": "Jobgether (client: early-stage AI infra startup)",
+      "location": "Remote Europe, then San Francisco",
+      "url": "https://fr.linkedin.com/jobs/view/founding-engineer-at-jobgether-4468491654",
+      "score": 70,
+      "grade": "B",
+      "why": "This is a founding seat with a clear path to CTO, and the work is building a production agent runtime from a working prototype, where Magino's zero-to-acquisition experience applies directly. Moving to San Francisco within a year is required, which is a big ask for someone who wants to stay in Geneva.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}

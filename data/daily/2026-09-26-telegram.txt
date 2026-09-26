@@ -1,0 +1,29 @@
+🎯 *Job Hunt — 2026-09-26*
+
+*1.* *CTO, SaaS Venture Builder (Full Remote)* @ Leonar
+📍 Remote (Europe) | ⭐ 80/100 | 🏆 Grade B
+💡 The stack lines up almost line for line with Magino's (TypeScript, Node, React, MongoDB, AWS), and the job is running the whole technical portfolio of a venture builder, much like being a cofounder again.
+🔗 https://fr.linkedin.com/jobs/view/cto-saas-fullremote-at-leonar-4469417757
+
+*2.* *Co-Founder & CTO | AI Infrastructure for Legal Insurance* @ iudexnc
+📍 Zurich, Zurich, Switzerland | ⭐ 78/100 | 🏆 Grade B
+💡 A real co-founder seat in Switzerland with a paid pilot and a technical CEO from ETH, so Magino would own the whole technical foundation, as at Alaya.
+🔗 https://ch.linkedin.com/jobs/view/co-founder-cto-ai-infrastructure-for-legal-insurance-at-iudexnc-4468902202
+
+*3.* *Head of Engineering in Network Security (Remote in EU or UK)* @ Abusix, Inc.
+📍 Remote (EU or UK) | ⭐ 74/100 | 🏆 Grade B
+💡 A hands-on Head of Engineering at a small, fully remote company that wants someone to bring AI into how the team works, which is exactly Magino's Benevity track record.
+🔗 https://de.linkedin.com/jobs/view/head-of-engineering-in-network-security-remote-in-eu-or-uk-at-abusix-inc-4470693824
+
+*4.* *Staff/Principal Software Engineer – AI Applications* @ Axelera AI
+📍 Zurich, Switzerland | ⭐ 71/100 | 🏆 Grade B
+💡 It's a Staff/Principal role in Switzerland at a well-funded AI hardware scaleup, owning the SDK architecture that customers build on.
+🔗 https://ch.linkedin.com/jobs/view/staff-principal-software-engineer-%E2%80%93-ai-applications-at-axelera-ai-4472074622
+
+*5.* *Founding Engineer, AI Infrastructure (path to CTO)* @ Jobgether (client: early-stage AI infra startup)
+📍 Remote Europe, then San Francisco | ⭐ 70/100 | 🏆 Grade B
+💡 This is a founding seat with a clear path to CTO, and the work is building a production agent runtime from a working prototype, where Magino's zero-to-acquisition experience applies directly.
+🔗 https://fr.linkedin.com/jobs/view/founding-engineer-at-jobgether-4468491654
+
+---
+📊 _23 new offers | 1658 total tracked_
