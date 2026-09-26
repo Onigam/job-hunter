@@ -1,0 +1,66 @@
+name: Terra Léman — déploiement
+
+# Builds the static web app and publishes it on GitHub Pages.
+# Deployment only runs when the repository variable TERRA_LEMAN_PAGES is set to "true"
+# (Settings → Secrets and variables → Actions → Variables) and Pages is configured with
+# "GitHub Actions" as source. Without it, the build still runs and the site is available
+# as a downloadable artifact.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'terra-leman/web/**'
+      - 'terra-leman/shared/**'
+      - '.github/workflows/terra-leman-deploy.yml'
+  # Data commits pushed by the sync workflow do not trigger `push` workflows: redeploy after each sync.
+  workflow_run:
+    workflows: ['Terra Léman — synchro des annonces']
+    types: [completed]
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: terra-leman-pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    defaults:
+      run:
+        working-directory: terra-leman/web
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+          cache-dependency-path: terra-leman/web/package-lock.json
+      - run: npm ci
+      - run: npm run build
+        env:
+          VITE_BASE: './'
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: terra-leman/web/dist
+
+  deploy:
+    needs: build
+    if: vars.TERRA_LEMAN_PAGES == 'true'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

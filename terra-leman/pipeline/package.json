@@ -1,0 +1,37 @@
+{
+  "name": "terra-leman-pipeline",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Terra Léman ingestion pipeline: listing connectors, reference geodata, parcel reconstruction, publication.",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "sync": "tsx src/cli.ts sync",
+    "reference": "tsx src/cli.ts reference",
+    "demo": "tsx src/cli.ts sync --demo",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "@mapbox/polyline": "^1.2.1",
+    "@turf/turf": "^7.4.0",
+    "cheerio": "^1.2.0",
+    "fast-xml-parser": "^5.11.1",
+    "flatbush": "^4.6.2",
+    "geotiff": "^3.0.5",
+    "pngjs": "^7.0.0",
+    "proj4": "^2.22.0"
+  },
+  "devDependencies": {
+    "@types/geojson": "^7946.0.16",
+    "@types/mapbox__polyline": "^1.0.5",
+    "@types/node": "^26.6.3",
+    "@types/pngjs": "^6.0.5",
+    "@types/proj4": "^2.5.6",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2",
+    "vitest": "^5.0.2"
+  }
+}

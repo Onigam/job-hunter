@@ -1,0 +1,7 @@
+{
+  "name": "terra-leman-shared",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Data contract and area-of-interest definition shared by the pipeline and the web app.",
+  "type": "module"
+}

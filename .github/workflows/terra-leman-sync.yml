@@ -1,0 +1,112 @@
+name: Terra Léman — synchro des annonces
+
+# Weekly refresh of the land/property listings shown on the Terra Léman map:
+# fetches the portals, reconstructs the cadastral parcels and commits the updated
+# data files (terra-leman/web/public/data) back to the branch.
+
+on:
+  schedule:
+    - cron: '23 3 * * 1' # every Monday, 05:23 Geneva (summer time)
+  workflow_dispatch:
+    inputs:
+      sources:
+        description: 'Portails à interroger (ids séparés par des virgules, vide = tous ceux actifs par défaut)'
+        required: false
+        default: ''
+      communes:
+        description: 'Limiter à ces communes (codes INSEE/OFS séparés par des virgules, vide = toute la zone)'
+        required: false
+        default: ''
+      demo_fallback:
+        description: "Générer des annonces de démonstration si aucun portail ne répond"
+        type: boolean
+        default: true
+      screenshots:
+        description: "Prendre des captures d'écran de l'app après la synchro"
+        type: boolean
+        default: false
+permissions:
+  contents: write
+
+concurrency:
+  group: terra-leman-sync-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 50
+    defaults:
+      run:
+        working-directory: terra-leman/pipeline
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+          cache-dependency-path: terra-leman/pipeline/package-lock.json
+
+      - name: Compute cache period
+        id: period
+        run: echo "month=$(date -u +%Y-%m)" >> "$GITHUB_OUTPUT"
+
+      # Reference geodata (cadastre, zoning, DVF, DEM tiles...) changes slowly: keep it for a month.
+      - name: Restore reference data cache
+        uses: actions/cache@v4
+        with:
+          path: terra-leman/pipeline/.cache
+          key: terra-leman-ref-${{ steps.period.outputs.month }}-${{ github.run_id }}
+          restore-keys: |
+            terra-leman-ref-${{ steps.period.outputs.month }}-
+
+      - name: Install pipeline dependencies
+        run: npm ci
+
+      - name: Run sync
+        env:
+          INPUT_SOURCES: ${{ github.event.inputs.sources }}
+          INPUT_COMMUNES: ${{ github.event.inputs.communes }}
+          INPUT_DEMO_FALLBACK: ${{ github.event_name != 'workflow_dispatch' || github.event.inputs.demo_fallback == 'true' }}
+        run: |
+          ARGS=(sync --max-minutes 38)
+          [ -n "$INPUT_SOURCES" ] && ARGS+=(--sources "$INPUT_SOURCES")
+          [ -n "$INPUT_COMMUNES" ] && ARGS+=(--communes "$INPUT_COMMUNES")
+          [ "$INPUT_DEMO_FALLBACK" = "true" ] && ARGS+=(--demo-fallback)
+          npx tsx src/cli.ts "${ARGS[@]}"
+
+      - name: Build web app and take screenshots
+        if: github.event_name == 'push' || github.event.inputs.screenshots == 'true'
+        working-directory: terra-leman/web
+        run: |
+          if [ ! -f package.json ]; then echo "No web app yet"; exit 0; fi
+          npm ci
+          npm run build
+          npx --yes playwright@1.56.1 install --with-deps chromium
+          npm run screenshots -- --ci || echo "::warning::Screenshots failed"
+
+      - name: Commit refreshed data
+        working-directory: .
+        run: |
+          git config user.name "Magino"
+          git config user.email "13470680+Onigam@users.noreply.github.com"
+          git add terra-leman/web/public/data terra-leman/pipeline/state
+          if [ -d terra-leman/docs/screenshots ]; then git add terra-leman/docs/screenshots; fi
+          if git diff --cached --quiet; then
+            echo "No data change."
+            exit 0
+          fi
+          git commit -m "🗺️ Terra Léman — synchro des annonces $(date -u +%Y-%m-%d)"
+          for attempt in 1 2 3 4; do
+            if git push origin "HEAD:${GITHUB_REF_NAME}"; then exit 0; fi
+            sleep $((attempt * 5))
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+          done
+          echo "::error::Could not push the refreshed data"
+          exit 1
