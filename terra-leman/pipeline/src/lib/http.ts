@@ -42,6 +42,13 @@ export interface RequestOptions {
   cacheMaxAgeMs?: number;
   /** Treat these statuses as a valid (non-throwing) response, e.g. [404]. */
   acceptStatus?: number[];
+  /**
+   * Transparently gunzip gzip payloads (default true). Disable for binary byte ranges
+   * (e.g. Cloud-Optimized GeoTIFF blocks), which may start with the gzip magic bytes by chance.
+   */
+  decompress?: boolean;
+  /** When the request fails, serve an expired cached copy if one exists (requires `cacheKey`). */
+  staleIfError?: boolean;
 }
 
 export interface HttpResponse {
@@ -172,6 +179,23 @@ export function createHttpClient(options: HttpClientOptions): HttpClient {
       }
     }
 
+    try {
+      return await fetchWithRetries(url, host, opts);
+    } catch (err) {
+      if (opts.cacheKey && opts.staleIfError) {
+        const stale = await readCache(opts.cacheKey, Number.POSITIVE_INFINITY);
+        if (stale) {
+          st.cacheHits++;
+          log.warn('request failed, using stale cached copy', { url, error: (err as Error).message });
+          return { status: 200, url, headers: new Headers(), body: stale, fromCache: true };
+        }
+      }
+      throw err;
+    }
+  }
+
+  async function fetchWithRetries(url: string, host: string, opts: RequestOptions): Promise<HttpResponse> {
+    const st = statFor(host);
     const retries = opts.retries ?? 3;
     const headers: Record<string, string> = {
       'User-Agent': options.userAgent ?? BROWSER_UA,
@@ -203,7 +227,7 @@ export function createHttpClient(options: HttpClientOptions): HttpClient {
         const raw = Buffer.from(await res.arrayBuffer());
         st.bytes += raw.length;
         if (res.ok || opts.acceptStatus?.includes(res.status)) {
-          const decoded = maybeGunzip(raw);
+          const decoded = opts.decompress === false ? raw : maybeGunzip(raw);
           if (res.ok) st.ok++;
           if (res.ok && opts.cacheKey) await writeCache(opts.cacheKey, decoded);
           return { status: res.status, url: res.url || url, headers: res.headers, body: decoded, fromCache: false };
