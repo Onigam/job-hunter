@@ -1,0 +1,34 @@
+🎯 *Job Hunt — 2026-09-27*
+
+*1.* *Staff Engineer/Tech Lead, Agentic Payments (AI Commerce & Browser Automation)* @ Reap
+📍 Remote (listed Ireland) | ⭐ 79/100 | 🏆 Grade B
+💡 The stack is TypeScript/NestJS on AWS with Postgres, which is Magino's daily toolkit, and the job is exactly the cross-team Staff work Magino did at Benevity after the Alaya acquisition: drop into systems you didn't write and ship with the owning teams.
+🔗 https://ie.linkedin.com/jobs/view/staff-engineer-tech-lead-agentic-payments-ai-commerce-browser-automation-at-reap-4468207248
+
+*2.* *Founding Engineer* @ WhyBrilliant
+📍 Berlin, Germany (hybrid) | ⭐ 78/100 | 🏆 Grade B
+💡 Technical hire #1 turning a validated prototype into a production platform, which is the Alaya story again, and the posting explicitly wants a Claude Code/Cursor power user on a TypeScript + Python stack.
+🔗 https://de.linkedin.com/jobs/view/founding-engineer-at-whybrilliant-4461451956
+
+*3.* *Head of Engineering* @ Ooak Data (YC, via STATION F)
+📍 Paris, France (on-site, 1-2 days WFH) | ⭐ 76/100 | 🏆 Grade B
+💡 A YC company already selling 8-figure contracts to frontier labs needs someone to grow engineering from a few people to 15-30 while staying hands-on, which matches Magino's cofounder-to-scale arc.
+🔗 https://fr.linkedin.com/jobs/view/head-of-engineering-at-station-f-4470760026
+
+*4.* *Platform Engineer - Founding - AI (Founding AI Platform Engineer)* @ Atarus (client: AI data-for-agents startup, renewable energy)
+📍 London, UK (on-site) | ⭐ 76/100 | 🏆 Grade B
+💡 It's a founding seat building production agent architecture (RAG, routing, evals, AI-native engineering workflows) for a climate-focused startup that already has revenue, a close match to Magino's AI-augmented engineering focus and the purpose-driven Alaya background.
+🔗 https://uk.linkedin.com/jobs/view/platform-engineer-founding-ai-at-atarus-4462839611
+
+*5.* *Senior AI Engineer* @ Nexthink
+📍 Lausanne, Vaud, Switzerland | ⭐ 73/100 | 🏆 Grade B
+💡 It's 45 minutes from Geneva at a Swiss scale-up, owning architecture for LLM, RAG and multi-agent features on AWS, which is exactly the AI platform work Magino wants.
+🔗 https://ch.linkedin.com/jobs/view/senior-ai-engineer-at-nexthink-4454534329
+
+*6.* *Senior Software Engineer (Full-Stack)* @ Ucentrics AG
+📍 Zurich, Switzerland | ⭐ 71/100 | 🏆 Grade B
+💡 The stack (React, TypeScript, Node, MongoDB, microservices) is a near-exact copy of what Magino built at Alaya, at a small ETH spin-off with direct access to the CTO and equity.
+🔗 https://ch.linkedin.com/jobs/view/senior-software-engineer-at-ucentrics-ag-4472407188
+
+---
+📊 _38 new offers | 1696 total tracked_

@@ -1,0 +1,115 @@
+{
+  "date": "2026-09-27",
+  "total_searched": 462,
+  "new_offers": 38,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Staff Engineer/Tech Lead, Agentic Payments (AI Commerce & Browser Automation)",
+      "company": "Reap",
+      "location": "Remote (listed Ireland)",
+      "url": "https://ie.linkedin.com/jobs/view/staff-engineer-tech-lead-agentic-payments-ai-commerce-browser-automation-at-reap-4468207248",
+      "score": 79,
+      "grade": "B",
+      "why": "The stack is TypeScript/NestJS on AWS with Postgres, which is Magino's daily toolkit, and the job is exactly the cross-team Staff work Magino did at Benevity after the Alaya acquisition: drop into systems you didn't write and ship with the owning teams. It's fully remote and AI-agent-native, though payments and stablecoins would be a new domain.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Founding Engineer",
+      "company": "WhyBrilliant",
+      "location": "Berlin, Germany (hybrid)",
+      "url": "https://de.linkedin.com/jobs/view/founding-engineer-at-whybrilliant-4461451956",
+      "score": 78,
+      "grade": "B",
+      "why": "Technical hire #1 turning a validated prototype into a production platform, which is the Alaya story again, and the posting explicitly wants a Claude Code/Cursor power user on a TypeScript + Python stack. Berlin hybrid and early-stage pay are the trade-offs.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Head of Engineering",
+      "company": "Ooak Data (YC, via STATION F)",
+      "location": "Paris, France (on-site, 1-2 days WFH)",
+      "url": "https://fr.linkedin.com/jobs/view/head-of-engineering-at-station-f-4470760026",
+      "score": 76,
+      "grade": "B",
+      "why": "A YC company already selling 8-figure contracts to frontier labs needs someone to grow engineering from a few people to 15-30 while staying hands-on, which matches Magino's cofounder-to-scale arc. It's Paris on-site at EUR 100-130k, below Geneva rates, and the core is Python data pipelines rather than Magino's TypeScript platform work.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Platform Engineer - Founding - AI (Founding AI Platform Engineer)",
+      "company": "Atarus (client: AI data-for-agents startup, renewable energy)",
+      "location": "London, UK (on-site)",
+      "url": "https://uk.linkedin.com/jobs/view/platform-engineer-founding-ai-at-atarus-4462839611",
+      "score": 76,
+      "grade": "B",
+      "why": "It's a founding seat building production agent architecture (RAG, routing, evals, AI-native engineering workflows) for a climate-focused startup that already has revenue, a close match to Magino's AI-augmented engineering focus and the purpose-driven Alaya background. It's a recruiter post for London on-site, so relocation is the big question.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Senior AI Engineer",
+      "company": "Nexthink",
+      "location": "Lausanne, Vaud, Switzerland",
+      "url": "https://ch.linkedin.com/jobs/view/senior-ai-engineer-at-nexthink-4454534329",
+      "score": 73,
+      "grade": "B",
+      "why": "It's 45 minutes from Geneva at a Swiss scale-up, owning architecture for LLM, RAG and multi-agent features on AWS, which is exactly the AI platform work Magino wants. The title is a step below Staff, so scope and level would need negotiating.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 6,
+      "title": "Senior Software Engineer (Full-Stack)",
+      "company": "Ucentrics AG",
+      "location": "Zurich, Switzerland",
+      "url": "https://ch.linkedin.com/jobs/view/senior-software-engineer-at-ucentrics-ag-4472407188",
+      "score": 71,
+      "grade": "B",
+      "why": "The stack (React, TypeScript, Node, MongoDB, microservices) is a near-exact copy of what Magino built at Alaya, at a small ETH spin-off with direct access to the CTO and equity. It's a senior IC title in Zurich, so the seniority and scope are below the target.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 7,
+      "title": "Chief Technology Officer",
+      "company": "Stealth Startup (AI systems for traditional industries)",
+      "location": "Remote (Europe / Middle East), first market Spain",
+      "url": "https://es.linkedin.com/jobs/view/chief-technology-officer-at-stealth-startup-4469768486",
+      "score": 70,
+      "grade": "B",
+      "why": "A true founding CTO seat, fully remote, where every system has to be multi-tenant and resellable from the first commit. That's platform thinking Magino has done before. It's pre-revenue with a low base salary, and fluent Spanish is a hard requirement.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 8,
+      "title": "Deputy Chief Technology Officer - Trading Firm",
+      "company": "Stealth (Series C digital-asset market maker)",
+      "location": "Geneva, Switzerland",
+      "url": "https://ch.linkedin.com/jobs/view/deputy-chief-technology-officer-trading-firm-at-stealth-4470576338",
+      "score": 70,
+      "grade": "B",
+      "why": "It's an executive engineering role in Geneva with near-CTO authority over delivery, platform consolidation and budget, the kind of cross-org architecture and M&A integration Magino handled after Benevity bought Alaya. They want a low-latency trading and crypto background that isn't on Magino's CV, so this is a stretch.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 9,
+      "title": "Co-Founding CTO",
+      "company": "Clera (client: pre-seed AI smart-home platform)",
+      "location": "Munich, Germany",
+      "url": "https://de.linkedin.com/jobs/view/co-founding-cto-at-clera-4471668890",
+      "score": 70,
+      "grade": "B",
+      "why": "It asks for a proven 0-to-1 co-founder who still writes code, plus embedded crossover. Alaya and the Sagemcom set-top-box years cover both. It's pre-seed in Munich, found through a recruiter, and IoT would dominate the work.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
