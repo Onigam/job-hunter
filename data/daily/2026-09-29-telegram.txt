@@ -1,0 +1,34 @@
+🎯 *Job Hunt — 2026-09-29*
+
+*1.* *(Senior or Staff) Backend Engineer, AI tooling* @ Synthesia
+📍 Zurich, Switzerland | ⭐ 83/100 | 🏆 Grade B
+💡 Synthesia's Developer Platform team owns how AI-assisted development actually works across engineering, which is the practice Magino has been pushing at Benevity, now as a Staff-level scope at a $4B AI scale-up.
+🔗 https://ch.linkedin.com/jobs/view/senior-or-staff-backend-engineer-ai-tooling-at-synthesia-4472730797
+
+*2.* *Founding Tech Lead (GrowthBricks)* @ JetBrains
+📍 Germany (hybrid, relocation support) | ⭐ 81/100 | 🏆 Grade B
+💡 A blank repository, one product founder and JetBrains money behind it: Magino would own the whole agent/memory/context architecture, which is the Alaya zero-to-one story with LLMs at the core.
+🔗 https://de.linkedin.com/jobs/view/founding-tech-lead-growthbricks-at-jetbrains-4473229247
+
+*3.* *Staff Engineer (f/m/d) AI* @ plancraft
+📍 Germany (Berlin HQ) | ⭐ 81/100 | 🏆 Grade B
+💡 The stack is all TypeScript (React, serverless Node, GCP) and the role is Staff IC shaping agentic features plus how the org builds with AI, a close fit for Magino's Benevity work.
+🔗 https://de.linkedin.com/jobs/view/staff-engineer-f-m-d-ai-at-plancraft-4454592387
+
+*4.* *Senior/Staff TypeScript Engineer* @ Undisclosed AI-native startup (via Jobgether)
+📍 Switzerland | ⭐ 79/100 | 🏆 Grade B
+💡 TypeScript, Node, serverless AWS, Postgres and React, with explicit expectations around running AI coding agents in parallel streams: that's Magino's exact toolkit at an early-stage company based in Switzerland.
+🔗 https://ch.linkedin.com/jobs/view/senior-staff-typescript-engineer-at-jobgether-4469600213
+
+*5.* *Product Engineering Tech Lead* @ deepset (makers of Haystack)
+📍 Berlin, Germany (remote-first) | ⭐ 78/100 | 🏆 Grade B
+💡 deepset explicitly says startup or founder experience is a strong signal and wants someone to build the execution layer for long-running agents, not maintain it.
+🔗 https://de.linkedin.com/jobs/view/product-engineering-tech-lead-at-deepset-makers-of-haystack-4443390456
+
+*6.* *Founding CTO / Co-Founder — European AI Infrastructure Startup* @ Stealth Startup
+📍 London, UK | ⭐ 76/100 | 🏆 Grade B
+💡 A real co-founder seat on an AI gateway/governance platform with sovereignty as the European angle, and Magino has already done the cofounder-to-acquisition journey once.
+🔗 https://uk.linkedin.com/jobs/view/founding-cto-co-founder-%E2%80%94-european-ai-infrastructure-startup-at-stealth-startup-4472717153
+
+---
+📊 _28 new offers | 1724 total tracked_

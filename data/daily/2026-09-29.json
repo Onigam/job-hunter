@@ -1,0 +1,151 @@
+{
+  "date": "2026-09-29",
+  "total_searched": 527,
+  "new_offers": 28,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "(Senior or Staff) Backend Engineer, AI tooling",
+      "company": "Synthesia",
+      "location": "Zurich, Switzerland",
+      "url": "https://ch.linkedin.com/jobs/view/senior-or-staff-backend-engineer-ai-tooling-at-synthesia-4472730797",
+      "score": 83,
+      "grade": "B",
+      "why": "Synthesia's Developer Platform team owns how AI-assisted development actually works across engineering, which is the practice Magino has been pushing at Benevity, now as a Staff-level scope at a $4B AI scale-up. Zurich keeps it in Switzerland; the catch is it's internal platform work rather than customer product.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Founding Tech Lead (GrowthBricks)",
+      "company": "JetBrains",
+      "location": "Germany (hybrid, relocation support)",
+      "url": "https://de.linkedin.com/jobs/view/founding-tech-lead-growthbricks-at-jetbrains-4473229247",
+      "score": 81,
+      "grade": "B",
+      "why": "A blank repository, one product founder and JetBrains money behind it: Magino would own the whole agent/memory/context architecture, which is the Alaya zero-to-one story with LLMs at the core. Germany (or Warsaw) means relocation or heavy travel from Geneva.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Staff Engineer (f/m/d) AI",
+      "company": "plancraft",
+      "location": "Germany (Berlin HQ)",
+      "url": "https://de.linkedin.com/jobs/view/staff-engineer-f-m-d-ai-at-plancraft-4454592387",
+      "score": 81,
+      "grade": "B",
+      "why": "The stack is all TypeScript (React, serverless Node, GCP) and the role is Staff IC shaping agentic features plus how the org builds with AI, a close fit for Magino's Benevity work. Purpose-driven product for tradespeople; Germany-based and already 200+ applicants, so apply fast.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Senior/Staff TypeScript Engineer",
+      "company": "Undisclosed AI-native startup (via Jobgether)",
+      "location": "Switzerland",
+      "url": "https://ch.linkedin.com/jobs/view/senior-staff-typescript-engineer-at-jobgether-4469600213",
+      "score": 79,
+      "grade": "B",
+      "why": "TypeScript, Node, serverless AWS, Postgres and React, with explicit expectations around running AI coding agents in parallel streams: that's Magino's exact toolkit at an early-stage company based in Switzerland. The company is hidden behind Jobgether, so the real team and equity are unknowns.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Product Engineering Tech Lead",
+      "company": "deepset (makers of Haystack)",
+      "location": "Berlin, Germany (remote-first)",
+      "url": "https://de.linkedin.com/jobs/view/product-engineering-tech-lead-at-deepset-makers-of-haystack-4443390456",
+      "score": 78,
+      "grade": "B",
+      "why": "deepset explicitly says startup or founder experience is a strong signal and wants someone to build the execution layer for long-running agents, not maintain it. It's a remote-first open-source AI company; the Python/Kubernetes serverless depth is heavier infra than Magino's usual TypeScript platform work.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 6,
+      "title": "Founding CTO / Co-Founder — European AI Infrastructure Startup",
+      "company": "Stealth Startup",
+      "location": "London, UK",
+      "url": "https://uk.linkedin.com/jobs/view/founding-cto-co-founder-%E2%80%94-european-ai-infrastructure-startup-at-stealth-startup-4472717153",
+      "score": 76,
+      "grade": "B",
+      "why": "A real co-founder seat on an AI gateway/governance platform with sovereignty as the European angle, and Magino has already done the cofounder-to-acquisition journey once. It's equity-heavy, pre-funding and London-based, so the risk profile needs a hard look.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 7,
+      "title": "Senior Backend Engineer",
+      "company": "Nexthink",
+      "location": "Lausanne, Switzerland",
+      "url": "https://ch.linkedin.com/jobs/view/senior-backend-engineer-at-nexthink-4471726257",
+      "score": 75,
+      "grade": "B",
+      "why": "45 minutes from Geneva, backend ownership of Nexthink's AI-native Assist product with explicit cross-team technical direction. The core language is Java and the title is Senior, so it's a step down in seniority unless scoped up in interviews.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 8,
+      "title": "AI Systems Engineer",
+      "company": "Sonar",
+      "location": "Geneva, Switzerland",
+      "url": "https://ch.linkedin.com/jobs/view/ai-systems-engineer-at-sonar-4471725267",
+      "score": 74,
+      "grade": "B",
+      "why": "It's in Geneva at Sonar, a profitable $400M+ company at the centre of AI code verification, building internal agents and Claude MCP integrations. The scope leans on internal IT and Atlassian administration, so it's below Magino's level; worth it mainly as a Geneva foothold.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 9,
+      "title": "Principal Full Stack Engineer, AI Platform & Agents",
+      "company": "Wolters Kluwer",
+      "location": "Hürth, Germany (remote-first team)",
+      "url": "https://de.linkedin.com/jobs/view/principal-full-stack-engineer-ai-platform-agents-at-wolters-kluwer-4375536967",
+      "score": 73,
+      "grade": "B",
+      "why": "Principal-level full-stack work on a GenAI platform used by hundreds of product teams, including a clinical agent for millions of physicians. Great AI and platform scope, but it's a large enterprise and the posting is tied to Germany.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 10,
+      "title": "Staff Engineer - Client Experience - Yuno",
+      "company": "Yuno",
+      "location": "Remote (listed Madrid, Spain)",
+      "url": "https://es.linkedin.com/jobs/view/staff-engineer-client-experience-yuno-at-yuno-4471303296",
+      "score": 73,
+      "grade": "B",
+      "why": "Fully remote Staff role where Yuno expects the person to define AI-driven development practices across the org, a direct match for Magino's AI-augmented engineering focus. The Go/Kotlin backend and payments domain are both new ground.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 11,
+      "title": "CTO - BeReal",
+      "company": "BeReal (Voodoo)",
+      "location": "Paris, France",
+      "url": "https://fr.linkedin.com/jobs/view/cto-bereal-at-bereal-4444960761",
+      "score": 72,
+      "grade": "B",
+      "why": "A real CTO seat at a 40M-user consumer app that wants someone to define how AI changes engineering. Deep native mobile expertise is a stated requirement, which is Magino's weakest area, and it's Paris-based with 200+ applicants.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 12,
+      "title": "Senior / Principal Software Engineer (m/f/d - Remote)",
+      "company": "Weflow",
+      "location": "Remote (Germany-listed, CET ±2h)",
+      "url": "https://de.linkedin.com/jobs/view/senior-principal-software-engineer-m-f-d-remote-at-weflow-4470151173",
+      "score": 71,
+      "grade": "B",
+      "why": "The stack is a line-by-line match (React/TypeScript/Next, Node, Postgres, AWS) and it's 100% remote on CET hours at a repeat-founder startup. Remote is within the country of residence, so Swiss eligibility needs confirming.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
