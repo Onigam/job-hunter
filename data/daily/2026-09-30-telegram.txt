@@ -1,0 +1,34 @@
+🎯 *Job Hunt — 2026-09-30*
+
+*1.* *Founding AI Engineer* @ 5U AI
+📍 Munich, Germany (on-site) | ⭐ 80/100 | 🏆 Grade B
+💡 Founding seat that owns the whole AI Worker platform: agent architecture, state, evals, observability, with Python and TypeScript underneath.
+🔗 https://de.linkedin.com/jobs/view/founding-ai-engineer-at-5u-ai-4452294865
+
+*2.* *Principal Engineer (AI, Office of the CEO)* @ Jobber
+📍 United States (Massachusetts) | ⭐ 79/100 | 🏆 Grade B
+💡 A startup inside a 1,000-person SaaS company: the founding technical seat in the Office of the CEO, rebuilding how the whole company runs on AI, from zero to production.
+🔗 https://www.linkedin.com/jobs/view/principal-engineer-ai-office-of-the-ceo-at-jobber-4470180262
+
+*3.* *Staff Forward Deployed Engineer, GenAI, Google Cloud* @ Google
+📍 Zurich, Switzerland | ⭐ 77/100 | 🏆 Grade B
+💡 Staff-level GenAI builder role in Zurich: RAG pipelines, multi-agent systems (ADK/LangGraph) and Python/TypeScript, shipped straight into customer production.
+🔗 https://ch.linkedin.com/jobs/view/staff-forward-deployed-engineer-genai-google-cloud-at-google-4472150794
+
+*4.* *Co-Founder / CTO* @ Vivarus Diagnostics AG
+📍 Zurich, Switzerland | ⭐ 76/100 | 🏆 Grade B
+💡 Real co-founder/CTO seat on an AI clinical decision-support platform for rare diseases, moving in-house ahead of a seed round.
+🔗 https://ch.linkedin.com/jobs/view/co-founder-cto-at-vivarus-diagnostics-ag-4473758137
+
+*5.* *Head of Agent Architecture - EMEA - Remote* @ Pencil
+📍 Remote (EMEA) | ⭐ 75/100 | 🏆 Grade B
+💡 Player-coach lead for multi-agent workflows, tool calling and eval loops behind a GenAI ad platform serving 1,000+ brands, fully remote in EMEA.
+🔗 https://www.linkedin.com/jobs/view/head-of-agent-architecture-emea-remote-at-pencil-4452592458
+
+*6.* *Staff Engineer Agentic AI* @ Believe
+📍 Paris, France | ⭐ 74/100 | 🏆 Grade B
+💡 Staff IC building Believe's enterprise agentic framework: MCP/tool integration, multi-agent orchestration, evals in CI, with platform-wide reach across 50 countries.
+🔗 https://fr.linkedin.com/jobs/view/staff-engineer-agentic-ai-at-believe-4463299442
+
+---
+📊 _23 new offers | 1747 total tracked_

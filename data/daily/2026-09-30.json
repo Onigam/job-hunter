@@ -1,0 +1,127 @@
+{
+  "date": "2026-09-30",
+  "total_searched": 510,
+  "new_offers": 23,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Founding AI Engineer",
+      "company": "5U AI",
+      "location": "Munich, Germany (on-site)",
+      "url": "https://de.linkedin.com/jobs/view/founding-ai-engineer-at-5u-ai-4452294865",
+      "score": 80,
+      "grade": "B",
+      "why": "Founding seat that owns the whole AI Worker platform: agent architecture, state, evals, observability, with Python and TypeScript underneath. It's the Alaya build-from-zero job again, with LLM agents at the core. The catch: Munich office, in person, no remote.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Principal Engineer (AI, Office of the CEO)",
+      "company": "Jobber",
+      "location": "United States (Massachusetts)",
+      "url": "https://www.linkedin.com/jobs/view/principal-engineer-ai-office-of-the-ceo-at-jobber-4470180262",
+      "score": 79,
+      "grade": "B",
+      "why": "A startup inside a 1,000-person SaaS company: the founding technical seat in the Office of the CEO, rebuilding how the whole company runs on AI, from zero to production. Pays $229k-$310k plus equity. It's US-based, so relocation or a remote exception would be needed.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Staff Forward Deployed Engineer, GenAI, Google Cloud",
+      "company": "Google",
+      "location": "Zurich, Switzerland",
+      "url": "https://ch.linkedin.com/jobs/view/staff-forward-deployed-engineer-genai-google-cloud-at-google-4472150794",
+      "score": 77,
+      "grade": "B",
+      "why": "Staff-level GenAI builder role in Zurich: RAG pipelines, multi-agent systems (ADK/LangGraph) and Python/TypeScript, shipped straight into customer production. Big-company comp in Switzerland; the tradeoff is Google Cloud scale instead of startup ownership.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Co-Founder / CTO",
+      "company": "Vivarus Diagnostics AG",
+      "location": "Zurich, Switzerland",
+      "url": "https://ch.linkedin.com/jobs/view/co-founder-cto-at-vivarus-diagnostics-ag-4473758137",
+      "score": 76,
+      "grade": "B",
+      "why": "Real co-founder/CTO seat on an AI clinical decision-support platform for rare diseases, moving in-house ahead of a seed round. Magino has already taken a platform from zero to acquisition. Big caveat: salary is deferred until the seed closes, and it's on the MDR Class IIa certification track.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Head of Agent Architecture - EMEA - Remote",
+      "company": "Pencil",
+      "location": "Remote (EMEA)",
+      "url": "https://www.linkedin.com/jobs/view/head-of-agent-architecture-emea-remote-at-pencil-4452592458",
+      "score": 75,
+      "grade": "B",
+      "why": "Player-coach lead for multi-agent workflows, tool calling and eval loops behind a GenAI ad platform serving 1,000+ brands, fully remote in EMEA. Fits Magino's multi-agent work; it asks for 8 years of direct GenAI and already has 72 applicants, so the story needs framing.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 6,
+      "title": "Staff Engineer Agentic AI",
+      "company": "Believe",
+      "location": "Paris, France",
+      "url": "https://fr.linkedin.com/jobs/view/staff-engineer-agentic-ai-at-believe-4463299442",
+      "score": 74,
+      "grade": "B",
+      "why": "Staff IC building Believe's enterprise agentic framework: MCP/tool integration, multi-agent orchestration, evals in CI, with platform-wide reach across 50 countries. Closest to the AI-augmented engineering work Magino did at Benevity; the stack is Python/Java on GCP rather than TypeScript.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 7,
+      "title": "Founding Engineer",
+      "company": "Zentio",
+      "location": "Berlin, Germany",
+      "url": "https://de.linkedin.com/jobs/view/founding-engineer-at-zentio-4471252798",
+      "score": 74,
+      "grade": "B",
+      "why": "TypeScript, React, tRPC and Postgres with an explicit AI-first development thesis, at an early startup making European factories competitive. The stack matches exactly, but it's Berlin-based and has 152 applicants.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 8,
+      "title": "AI Native Founding Product and Platform Engineer",
+      "company": "Undisclosed partner (via Jobgether)",
+      "location": "United States (remote)",
+      "url": "https://www.linkedin.com/jobs/view/ai-native-founding-product-and-platform-engineer-at-jobgether-4472169259",
+      "score": 73,
+      "grade": "B",
+      "why": "Founding-level engineer defining architecture, CI/CD, Kubernetes and developer platform for a lean AI-native product org, leading through code. Scope matches the platform-builder profile; the company isn't named and it's US-based.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 9,
+      "title": "CTO / Technical Co-Founder – Lab Automation",
+      "company": "Ovaity",
+      "location": "Zurich, Switzerland",
+      "url": "https://ch.linkedin.com/jobs/view/cto-technical-co-founder-%E2%80%93-lab-automation-at-ovaity-4473786456",
+      "score": 72,
+      "grade": "B",
+      "why": "Technical co-founder for an AI-native research environment where scientists and agents share context and provenance. The Zurich startup-zero role fits; the lab automation and instrument background it asks for is a gap.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 10,
+      "title": "Lead/Staff Full Stack Engineer, AI Platform & Agents",
+      "company": "Wolters Kluwer",
+      "location": "Germany (remote-first team)",
+      "url": "https://de.linkedin.com/jobs/view/lead-staff-full-stack-engineer-ai-platform-agents-at-wolters-kluwer-4375538910",
+      "score": 71,
+      "grade": "B",
+      "why": "Central GenAI platform serving hundreds of product teams, with 20+ agents already shipped. The platform-for-other-teams scope mirrors Benevity; it's a large enterprise though, and 167 applicants.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
