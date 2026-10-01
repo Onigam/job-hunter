@@ -1,0 +1,103 @@
+{
+  "date": "2026-10-01",
+  "total_searched": 577,
+  "new_offers": 26,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Group Chief Technology Officer",
+      "company": "Ideawise",
+      "location": "Remote-first, Europe (CET)",
+      "url": "https://www.linkedin.com/jobs/view/chief-technology-officer-at-ideawise-group-4470871765",
+      "score": 82,
+      "grade": "B",
+      "why": "Nobody has held this seat before: you build the shared platform and agentic layer that every new venture launches on, then hire the CTOs who run on it. It's Magino's Alaya build-from-zero instinct applied at portfolio scale, remote from Geneva on CET. The catch: it's org-heavy, and 78 people have already applied.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "First Founding Engineer",
+      "company": "Undisclosed Paris AI FP&A startup (via Stakha)",
+      "location": "Paris, France",
+      "url": "https://fr.linkedin.com/jobs/view/first-founding-engineer-at-stakha-4474323503",
+      "score": 79,
+      "grade": "B",
+      "why": "First engineer at a repeat-founder startup that raised a $3M pre-seed. The core of the job is orchestration, tool use and sandboxing for agents running on real finance data, and the posting asks for people who build daily with Claude Code. It's a founding seat with paying customers already. Downsides: Paris on-site and a 100k EUR ceiling.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Staff Engineer (first Platform hire)",
+      "company": "Ecair",
+      "location": "Paris, France",
+      "url": "https://fr.linkedin.com/jobs/view/staff-engineer-at-ecair-4472577155",
+      "score": 76,
+      "grade": "B",
+      "why": "Staff seat that founds Ecair's platform team, on a pure TypeScript/React/tRPC/Postgres stack that maps almost one-to-one onto Magino's. They're also building an agentic case-processing platform, and the climate-transition mission sits close to the Alaya purpose angle. It's Paris, though, and the posting is in French.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Founding Engineer (AI Agents)",
+      "company": "Undisclosed pre-seed AI startup (via PulseRise)",
+      "location": "San Francisco, CA (on-site)",
+      "url": "https://www.linkedin.com/jobs/view/founding-engineer-ai-agents-tt-at-pulserise-technologies-4472560652",
+      "score": 76,
+      "grade": "B",
+      "why": "Explicitly calibrated for CTO-level builders who have taken something from zero to production as a cofounder, which is Magino's story exactly. Equity is 1-3% working with a founder who has already exited. The real cost: relocating to SF and six on-site days a week.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Staff Backend Engineer, AI Tooling",
+      "company": "Undisclosed company (via Jobgether)",
+      "location": "Switzerland (remote-first)",
+      "url": "https://ch.linkedin.com/jobs/view/senior-or-staff-backend-engineer-ai-tooling-at-jobgether-4471573836",
+      "score": 74,
+      "grade": "B",
+      "why": "The role is to make AI-assisted engineering work across an org: developer platform, CI/CD and the rollout of AI tooling. That's exactly what Magino has been doing at Benevity. It's a Swiss-based Staff seat. The employer is hidden behind Jobgether, so check who it is before investing time.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 6,
+      "title": "Senior Software Engineer, Agent Systems",
+      "company": "Kraken",
+      "location": "Switzerland (remote)",
+      "url": "https://ch.linkedin.com/jobs/view/senior-software-engineer-%E2%80%93-agent-systems-at-kraken-4471506254",
+      "score": 73,
+      "grade": "B",
+      "why": "A 0-to-1 team building internal agents that take real actions across Kraken's systems, with patterns for safe and observable execution. It's a strong AI-platform fit, and the role can be done from Switzerland. The title is a step below Staff, so it's worth asking where the level lands.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 7,
+      "title": "Staff Engineer (Core & MLOps)",
+      "company": "Undisclosed company (via Jobgether)",
+      "location": "Switzerland (remote-first)",
+      "url": "https://ch.linkedin.com/jobs/view/staff-engineer-core-mlops-at-jobgether-4472524924",
+      "score": 72,
+      "grade": "B",
+      "why": "Pure platform ownership: control plane, golden path, service contracts and SLOs, with Staff-level influence over several squads. It sits close to Magino's distributed-systems and platform background. The stack leans Java/Kafka over TypeScript, and the employer isn't named.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 8,
+      "title": "Staff AI Engineer - Agentic Shopping",
+      "company": "Picnic Technologies",
+      "location": "Amsterdam, Netherlands",
+      "url": "https://nl.linkedin.com/jobs/view/staff-ai-engineer-agentic-shopping-at-picnic-technologies-4463610105",
+      "score": 71,
+      "grade": "B",
+      "why": "Hands-on tech lead for a production shopping agent that actually builds the basket, owning the architecture, evals and guardrails that other teams will reuse. It's a strong AI-builder role, but it means Amsterdam, and the posting already has 166 applicants.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
