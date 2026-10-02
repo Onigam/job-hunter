@@ -1,0 +1,34 @@
+🎯 *Job Hunt — 2026-10-02*
+
+*1.* *Head of Engineering* @ Kuro
+📍 Berlin, Germany (on-site) | ⭐ 78/100 | 🏆 Grade B
+💡 Kuro wants someone to own the whole technical foundation from the ground up next to two repeat founders, which is the seat Magino held at Alaya.
+🔗 https://de.linkedin.com/jobs/view/head-of-engineering-at-kuro-4472166778
+
+*2.* *Engineering Manager, Applied AI* @ JUPUS
+📍 Remote (CET ±2) | ⭐ 75/100 | 🏆 Grade B
+💡 Fully remote on CET, so it works from Geneva, and the job is literally making the architecture calls on retrieval, evals and agents.
+🔗 https://news.ycombinator.com/item?id=49931051
+
+*3.* *Senior Product Engineer (TypeScript) - Platform -* @ Vocca
+📍 Paris, France | ⭐ 74/100 | 🏆 Grade B
+💡 It's a platform-from-zero brief on a TypeScript stack: turn agent behaviour that lives in prompts into a structured config engine and self-serve onboarding.
+🔗 https://fr.linkedin.com/jobs/view/senior-product-engineer-typescript-platform-at-vocca-4473788424
+
+*4.* *Chief Technology Officer* @ Undisclosed food-waste ML SaaS (via Impala Search)
+📍 Berlin, Germany | ⭐ 74/100 | 🏆 Grade B
+💡 A hands-on CTO seat with a measurable impact mission (food waste) and enterprise traction already in place, which fits Magino's cofounder-to-scale path.
+🔗 https://de.linkedin.com/jobs/view/chief-technology-officer-at-impala-search-4472566313
+
+*5.* *CTO / Entrepreneur in Residence (technical cofounder track)* @ arcneo (arcOS spin-out)
+📍 Berlin, Germany (regular presence) | ⭐ 73/100 | 🏆 Grade B
+💡 A cofounder seat with paying users and a 30-agent production system already running, so it's not a blank page.
+🔗 https://de.linkedin.com/jobs/view/cto-entrepreneur-in-residence-at-arcneo-4472187648
+
+*6.* *Engineering Manager, Foundations & Enablement* @ Undisclosed company (via Jobgether)
+📍 Switzerland (remote) | ⭐ 72/100 | 🏆 Grade B
+💡 Platform enablement for many product teams is what Magino did across teams at Benevity, and it's remote from Switzerland.
+🔗 https://ch.linkedin.com/jobs/view/engineering-manager-foundations-enablement-at-jobgether-4472554116
+
+---
+📊 _26 new offers | 1799 total tracked_

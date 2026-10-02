@@ -1,0 +1,127 @@
+{
+  "date": "2026-10-02",
+  "total_searched": 451,
+  "new_offers": 26,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Head of Engineering",
+      "company": "Kuro",
+      "location": "Berlin, Germany (on-site)",
+      "url": "https://de.linkedin.com/jobs/view/head-of-engineering-at-kuro-4472166778",
+      "score": 78,
+      "grade": "B",
+      "why": "Kuro wants someone to own the whole technical foundation from the ground up next to two repeat founders, which is the seat Magino held at Alaya. AI-heavy document processing for enterprise customers with >€30bn project volume, and it's still 16 people. Berlin on-site is the cost.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Engineering Manager, Applied AI",
+      "company": "JUPUS",
+      "location": "Remote (CET ±2)",
+      "url": "https://news.ycombinator.com/item?id=49931051",
+      "score": 75,
+      "grade": "B",
+      "why": "Fully remote on CET, so it works from Geneva, and the job is literally making the architecture calls on retrieval, evals and agents. €19.5M raised and 2,000+ daily lawyer users means real production load. They ask for 3+ years at an agentic-AI company, which Magino would need to frame through the Benevity AI work.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Senior Product Engineer (TypeScript) - Platform -",
+      "company": "Vocca",
+      "location": "Paris, France",
+      "url": "https://fr.linkedin.com/jobs/view/senior-product-engineer-typescript-platform-at-vocca-4473788424",
+      "score": 74,
+      "grade": "B",
+      "why": "It's a platform-from-zero brief on a TypeScript stack: turn agent behaviour that lives in prompts into a structured config engine and self-serve onboarding. Healthcare access is a purpose angle that echoes Alaya. Title says Senior and it's Paris, so expect to negotiate scope and comp.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Chief Technology Officer",
+      "company": "Undisclosed food-waste ML SaaS (via Impala Search)",
+      "location": "Berlin, Germany",
+      "url": "https://de.linkedin.com/jobs/view/chief-technology-officer-at-impala-search-4472566313",
+      "score": 74,
+      "grade": "B",
+      "why": "A hands-on CTO seat with a measurable impact mission (food waste) and enterprise traction already in place, which fits Magino's cofounder-to-scale path. Series A money and €2M ARR make it less risky than a pre-seed bet. The stack leans Python/ML and the role sits in Berlin.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "CTO / Entrepreneur in Residence (technical cofounder track)",
+      "company": "arcneo (arcOS spin-out)",
+      "location": "Berlin, Germany (regular presence)",
+      "url": "https://de.linkedin.com/jobs/view/cto-entrepreneur-in-residence-at-arcneo-4472187648",
+      "score": 73,
+      "grade": "B",
+      "why": "A cofounder seat with paying users and a 30-agent production system already running, so it's not a blank page. Magino's multi-agent work and Alaya fundraising history map directly. Requires regular Berlin presence, German, and it competes with Givernance for attention.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 6,
+      "title": "Engineering Manager, Foundations & Enablement",
+      "company": "Undisclosed company (via Jobgether)",
+      "location": "Switzerland (remote)",
+      "url": "https://ch.linkedin.com/jobs/view/engineering-manager-foundations-enablement-at-jobgether-4472554116",
+      "score": 72,
+      "grade": "B",
+      "why": "Platform enablement for many product teams is what Magino did across teams at Benevity, and it's remote from Switzerland. The catch: it's a manager track with an undisclosed employer behind a Jobgether listing.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 7,
+      "title": "Senior Foundation Engineer (Drive)",
+      "company": "Proton",
+      "location": "Geneva, Switzerland",
+      "url": "https://ch.linkedin.com/jobs/view/senior-foundation-engineer-drive-at-proton-4437782334",
+      "score": 71,
+      "grade": "B",
+      "why": "Geneva-based and mission-driven (privacy), and the work is a cross-client TypeScript SDK and RFC process, so it's platform thinking rather than feature work. Below Magino's level on paper, and C#/Rust are a big part of the job.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 8,
+      "title": "Staff Product Engineer (Forward Deployed)",
+      "company": "Undisclosed European AI agent platform (via Impala Search)",
+      "location": "Germany (remote)",
+      "url": "https://de.linkedin.com/jobs/view/staff-product-engineer-at-impala-search-4472592620",
+      "score": 71,
+      "grade": "B",
+      "why": "TypeScript, enterprise architecture and AI agents in production at a clear €150-180k band. Remote, but listed as Germany, so Swiss residency has to be checked.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 9,
+      "title": "Founding Engineer (full remote)",
+      "company": "Undisclosed Series A AI/robotics data startup (via Mobiskill)",
+      "location": "Remote (EU)",
+      "url": "https://www.linkedin.com/jobs/view/founding-engineer-h-f-full-remote-at-mobiskill-wefy-group-4472935848",
+      "score": 70,
+      "grade": "B",
+      "why": "Founding-level ownership of a whole software estate, fully remote in the EU, at a company feeding frontier labs. The stack is Python-heavy and the brief is very much execution under pressure.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 10,
+      "title": "Founding Software Engineer (2nd engineer)",
+      "company": "Undisclosed energy-infrastructure startup (via BAO)",
+      "location": "Paris, France",
+      "url": "https://fr.linkedin.com/jobs/view/founding-software-engineer-at-bao-4474702914",
+      "score": 70,
+      "grade": "B",
+      "why": "Early enough that Magino would shape the architecture and engineering practices, with an impact mission close to Alaya's. Paris and an early-career salary band are likely limits.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
