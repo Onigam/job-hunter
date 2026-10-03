@@ -1,0 +1,24 @@
+🎯 *Job Hunt — 2026-10-03*
+
+*1.* *Staff AI Engineer - Architecture skills* @ Shift Technology
+📍 Paris, France (hybrid) | ⭐ 72/100 | 🏆 Grade B
+💡 It's a Staff seat whose whole job is turning agent prototypes into production systems and setting the AI engineering bar across squads, which is the AI-augmented engineering work Magino pushed at Benevity.
+🔗 https://fr.linkedin.com/jobs/view/staff-ai-engineer-architecture-skills-at-shift-technology-4475338334
+
+*2.* *Staff Engineer (Core & MLOps) - Remote* @ Zyte
+📍 Remote (worldwide, listed Lisbon) | ⭐ 71/100 | 🏆 Grade B
+💡 Pure platform ownership: Magino would own the control plane and the golden path that five neighbouring squads ship on.
+🔗 https://pt.linkedin.com/jobs/view/staff-engineer-core-mlops-remote-at-zyte-4472136413
+
+*3.* *Founding AI Engineer (co-founding partner)* @ newinsights.ai
+📍 Germany | ⭐ 71/100 | 🏆 Grade B
+💡 A blank-page technical cofounder seat next to a founder with two exits and AWS GM history, which mirrors how Alaya started.
+🔗 https://de.linkedin.com/jobs/view/founding-ai-engineer-at-newinsights-ai-4473095834
+
+*4.* *Product Engineer* @ Namespace
+📍 Switzerland (Zurich / remote) | ⭐ 70/100 | 🏆 Grade B
+💡 A devtools company with serious customers and a Swiss hub, and the stack is TypeScript/React on top of infra Magino already understands.
+🔗 https://jobs.ashbyhq.com/namespace/c31e067e-f10d-4015-8901-bc6df4304122
+
+---
+📊 _22 new offers | 1821 total tracked_

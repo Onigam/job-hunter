@@ -1,0 +1,55 @@
+{
+  "date": "2026-10-03",
+  "total_searched": 705,
+  "new_offers": 22,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Staff AI Engineer - Architecture skills",
+      "company": "Shift Technology",
+      "location": "Paris, France (hybrid)",
+      "url": "https://fr.linkedin.com/jobs/view/staff-ai-engineer-architecture-skills-at-shift-technology-4475338334",
+      "score": 72,
+      "grade": "B",
+      "why": "It's a Staff seat whose whole job is turning agent prototypes into production systems and setting the AI engineering bar across squads, which is the AI-augmented engineering work Magino pushed at Benevity. Shift is an established AI SaaS with real insurer customers. The catch is Paris and an Azure/Python-first stack.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Staff Engineer (Core & MLOps) - Remote",
+      "company": "Zyte",
+      "location": "Remote (worldwide, listed Lisbon)",
+      "url": "https://pt.linkedin.com/jobs/view/staff-engineer-core-mlops-remote-at-zyte-4472136413",
+      "score": 71,
+      "grade": "B",
+      "why": "Pure platform ownership: Magino would own the control plane and the golden path that five neighbouring squads ship on. Zyte is profitable and remote-first, so it works from Geneva without relocation. Java/Python/gRPC rather than TypeScript, and the AI angle is agents using the platform rather than building models.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Founding AI Engineer (co-founding partner)",
+      "company": "newinsights.ai",
+      "location": "Germany",
+      "url": "https://de.linkedin.com/jobs/view/founding-ai-engineer-at-newinsights-ai-4473095834",
+      "score": 71,
+      "grade": "B",
+      "why": "A blank-page technical cofounder seat next to a founder with two exits and AWS GM history, which mirrors how Alaya started. LLM-powered code understanding for regulated enterprises sits right on Magino's AI-augmented engineering focus. Expect equity-heavy pay at first and a Germany base.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Product Engineer",
+      "company": "Namespace",
+      "location": "Switzerland (Zurich / remote)",
+      "url": "https://jobs.ashbyhq.com/namespace/c31e067e-f10d-4015-8901-bc6df4304122",
+      "score": 70,
+      "grade": "B",
+      "why": "A devtools company with serious customers and a Swiss hub, and the stack is TypeScript/React on top of infra Magino already understands. The title sits below Magino's level, so it's worth pitching for a lead scope given they're also hiring an Engineering Lead in the US.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
