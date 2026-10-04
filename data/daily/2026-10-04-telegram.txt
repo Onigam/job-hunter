@@ -1,0 +1,29 @@
+🎯 *Job Hunt — 2026-10-04*
+
+*1.* *Tech Lead - Code Plane [IC5]* @ Sourcegraph
+📍 Remote (Europe preferred, CEST overlap) | ⭐ 79/100 | 🏆 Grade B
+💡 The team builds products for coding agents and with them, and the posting makes hands-on AI agent use a hard requirement, which lines up directly with the AI-augmented engineering practice Magino pushed at Benevity.
+🔗 https://job-boards.greenhouse.io/sourcegraph91/jobs/6194803004
+
+*2.* *Co-Founder & CTO (full-time or part-time)* @ Vyzor (Prodiges)
+📍 Paris, France | ⭐ 73/100 | 🏆 Grade B
+💡 A blank-page technical cofounder seat on a Next.js/TypeScript product with a multi-agent AI layer, which is basically the Alaya playbook with LLMs on top.
+🔗 https://www.linkedin.com/jobs/view/4475382239
+
+*3.* *Principal Software Engineer* @ Siteimprove
+📍 Copenhagen, Denmark | ⭐ 71/100 | 🏆 Grade B
+💡 The role is literally to define how a team ships with coding agents, from PRD to agent-ready stories to review practice, on a TypeScript/React/AWS stack Magino knows well.
+🔗 https://www.linkedin.com/jobs/view/4474509053
+
+*4.* *Senior Staff Software Engineer, Full Stack, CodeAI* @ Google
+📍 Munich, Germany (on-site) | ⭐ 71/100 | 🏆 Grade B
+💡 Google wants someone who has actually built agentic systems and used them to speed up engineering in a big org, which is the exact story Magino tells from Benevity.
+🔗 https://www.google.com/about/careers/applications/jobs/results/87958496640672454-senior-staff-software-engineer-full-stack-codeai
+
+*5.* *Staff Engineer AI & Dev Tools (Python)* @ Undisclosed French CI/CD SaaS (via LITY)
+📍 Toulouse, France (full remote possible) | ⭐ 70/100 | 🏆 Grade B
+💡 A Staff seat launching a new AI product inside a profitable, engineering-led devtools company, and full remote works from Geneva.
+🔗 https://www.linkedin.com/jobs/view/4474712360
+
+---
+📊 _23 new offers | 1844 total tracked_

@@ -1,0 +1,67 @@
+{
+  "date": "2026-10-04",
+  "total_searched": 784,
+  "new_offers": 23,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Tech Lead - Code Plane [IC5]",
+      "company": "Sourcegraph",
+      "location": "Remote (Europe preferred, CEST overlap)",
+      "url": "https://job-boards.greenhouse.io/sourcegraph91/jobs/6194803004",
+      "score": 79,
+      "grade": "B",
+      "why": "The team builds products for coding agents and with them, and the posting makes hands-on AI agent use a hard requirement, which lines up directly with the AI-augmented engineering practice Magino pushed at Benevity. It's remote with a stated Europe preference, so Geneva works as is. IC5 tech lead rather than Staff title, but the scope is architecture and roadmap for a whole product area.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Co-Founder & CTO (full-time or part-time)",
+      "company": "Vyzor (Prodiges)",
+      "location": "Paris, France",
+      "url": "https://www.linkedin.com/jobs/view/4475382239",
+      "score": 73,
+      "grade": "B",
+      "why": "A blank-page technical cofounder seat on a Next.js/TypeScript product with a multi-agent AI layer, which is basically the Alaya playbook with LLMs on top. They explicitly accept part-time candidates with equity adjusted, so it could sit alongside Givernance. Pre-raise and Paris-based, so cash comp is the weak point.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Principal Software Engineer",
+      "company": "Siteimprove",
+      "location": "Copenhagen, Denmark",
+      "url": "https://www.linkedin.com/jobs/view/4474509053",
+      "score": 71,
+      "grade": "B",
+      "why": "The role is literally to define how a team ships with coding agents, from PRD to agent-ready stories to review practice, on a TypeScript/React/AWS stack Magino knows well. Cross-team architecture ownership matches Magino's Benevity scope. Copenhagen relocation is the main cost.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Senior Staff Software Engineer, Full Stack, CodeAI",
+      "company": "Google",
+      "location": "Munich, Germany (on-site)",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/87958496640672454-senior-staff-software-engineer-full-stack-codeai",
+      "score": 71,
+      "grade": "B",
+      "why": "Google wants someone who has actually built agentic systems and used them to speed up engineering in a big org, which is the exact story Magino tells from Benevity. Senior Staff level with strong comp. It's an on-site Munich role inside a large enterprise, far from the startup preference.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Staff Engineer AI & Dev Tools (Python)",
+      "company": "Undisclosed French CI/CD SaaS (via LITY)",
+      "location": "Toulouse, France (full remote possible)",
+      "url": "https://www.linkedin.com/jobs/view/4474712360",
+      "score": 70,
+      "grade": "B",
+      "why": "A Staff seat launching a new AI product inside a profitable, engineering-led devtools company, and full remote works from Geneva. It's Python-first, and ~€100k is well under Geneva rates, so treat it as a lever for equity or a part-time conversation.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
