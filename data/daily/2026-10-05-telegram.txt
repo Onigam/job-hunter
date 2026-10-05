@@ -1,0 +1,29 @@
+🎯 *Job Hunt — 2026-10-05*
+
+*1.* *Senior AI Platform Engineer (FrontiersOS)* @ Frontiers
+📍 Lausanne, Switzerland (office-first) | ⭐ 81/100 | 🏆 Grade B
+💡 FrontiersOS is an agent platform wired into the company's real systems, with LLM routing, RAG, evals and permissioning all in scope, which is exactly the AI-augmented engineering work Magino drove at Benevity.
+🔗 https://www.linkedin.com/jobs/view/4473643843
+
+*2.* *Head of Engineering (founding-level)* @ Pond AI
+📍 San Francisco, USA (on-site) | ⭐ 79/100 | 🏆 Grade B
+💡 A founding-level platform seat on an AI agent marketplace built on MCP, asking for someone who has been a founder or early engineer, which is the Alaya story almost word for word.
+🔗 https://news.ycombinator.com/item?id=49951635
+
+*3.* *Staff Engineer - Pricing* @ Undisclosed energy trading platform (via Jobgether)
+📍 Switzerland (remote-first) | ⭐ 75/100 | 🏆 Grade B
+💡 Staff-level ownership of a new service from first architecture to external API, inside a remote-first company that names AI-assisted workflows as a team practice.
+🔗 https://www.linkedin.com/jobs/view/4474245610
+
+*4.* *Staff Software Engineer, Generative AI, Commerce* @ Google
+📍 Zurich, Switzerland | ⭐ 71/100 | 🏆 Grade B
+💡 Agentic workflows and multi-agent orchestration are an explicit requirement, and Zurich keeps Magino in Switzerland with top-of-market comp.
+🔗 https://www.linkedin.com/jobs/view/4474265398
+
+*5.* *Staff Software Engineer* @ Cloover
+📍 Berlin, Germany (office-first) | ⭐ 71/100 | 🏆 Grade B
+💡 The stack is a one-to-one match (Node, Next.js, React, TypeScript, Postgres) and the seat reports straight to the CTO with cross-squad architecture scope, the kind of role Magino held at Alaya.
+🔗 https://www.linkedin.com/jobs/view/4402545229
+
+---
+📊 _21 new offers | 1865 total tracked_

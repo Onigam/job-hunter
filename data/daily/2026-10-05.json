@@ -1,0 +1,67 @@
+{
+  "date": "2026-10-05",
+  "total_searched": 756,
+  "new_offers": 21,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Senior AI Platform Engineer (FrontiersOS)",
+      "company": "Frontiers",
+      "location": "Lausanne, Switzerland (office-first)",
+      "url": "https://www.linkedin.com/jobs/view/4473643843",
+      "score": 81,
+      "grade": "B",
+      "why": "FrontiersOS is an agent platform wired into the company's real systems, with LLM routing, RAG, evals and permissioning all in scope, which is exactly the AI-augmented engineering work Magino drove at Benevity. Open-science publisher with a real mission, and Lausanne is a train ride from Geneva. Title says Senior, not Staff, so level and comp need checking early.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Head of Engineering (founding-level)",
+      "company": "Pond AI",
+      "location": "San Francisco, USA (on-site)",
+      "url": "https://news.ycombinator.com/item?id=49951635",
+      "score": 79,
+      "grade": "B",
+      "why": "A founding-level platform seat on an AI agent marketplace built on MCP, asking for someone who has been a founder or early engineer, which is the Alaya story almost word for word. TypeScript/Python agents in production is Magino's current stack. The catch is big: on-site San Francisco, so this only makes sense if a US move is on the table.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Staff Engineer - Pricing",
+      "company": "Undisclosed energy trading platform (via Jobgether)",
+      "location": "Switzerland (remote-first)",
+      "url": "https://www.linkedin.com/jobs/view/4474245610",
+      "score": 75,
+      "grade": "B",
+      "why": "Staff-level ownership of a new service from first architecture to external API, inside a remote-first company that names AI-assisted workflows as a team practice. Switzerland-based and remote, so Geneva works without compromise. Stack is Python-heavy and the domain is energy pricing, so expect questions on numerical correctness.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Staff Software Engineer, Generative AI, Commerce",
+      "company": "Google",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4474265398",
+      "score": 71,
+      "grade": "B",
+      "why": "Agentic workflows and multi-agent orchestration are an explicit requirement, and Zurich keeps Magino in Switzerland with top-of-market comp. The weak spots are the 5 years of ML infra leadership Google asks for and the big-company setting, far from the startup preference.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Staff Software Engineer",
+      "company": "Cloover",
+      "location": "Berlin, Germany (office-first)",
+      "url": "https://www.linkedin.com/jobs/view/4402545229",
+      "score": 71,
+      "grade": "B",
+      "why": "The stack is a one-to-one match (Node, Next.js, React, TypeScript, Postgres) and the seat reports straight to the CTO with cross-squad architecture scope, the kind of role Magino held at Alaya. Climate-tech mission, funded and growing. Office-first in Berlin is the dealbreaker to weigh.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
