@@ -1,0 +1,34 @@
+🎯 *Job Hunt — 2026-10-06*
+
+*1.* *Staff Product Engineer (€130k–165k + equity)* @ Leapsome (via Jack & Jill)
+📍 Berlin, Germany | ⭐ 77/100 | 🏆 Grade B
+💡 Leapsome sells into the same HR and employee-experience buyers Alaya and Benevity did, and this seat leads its shift to an agent-driven platform, which lines up with Magino's AI-augmented engineering work.
+🔗 https://www.linkedin.com/jobs/view/4474680645
+
+*2.* *Staff Full Stack Engineer - Sell Side Engine* @ Undisclosed energy tech platform (via Jobgether)
+📍 Switzerland (fully remote) | ⭐ 76/100 | 🏆 Grade B
+💡 Staff-level architecture ownership, Swiss-based, fully remote, on a Python/AWS/React stack Magino already runs.
+🔗 https://www.linkedin.com/jobs/view/4474225640
+
+*3.* *Staff Backend Product Engineer (Prague/Brno/Remote EU)* @ Productboard
+📍 Prague, Czechia / Remote EU | ⭐ 74/100 | 🏆 Grade B
+💡 This is a Staff role whose job is to make the codebase AI-native for coding agents.
+🔗 https://www.linkedin.com/jobs/view/4476342285
+
+*4.* *Executive IC, Engineering* @ Motion (Creative Analytics)
+📍 Remote (Canada/US preferred, open to exceptional elsewhere) | ⭐ 73/100 | 🏆 Grade B
+💡 An executive-level IC seat at a remote-first Series B is about as senior as IC roles get.
+🔗 https://www.linkedin.com/jobs/view/4420682532
+
+*5.* *Principal Software Engineer - AI Foundations* @ Toast
+📍 Dublin, Ireland (2 days/week in office) | ⭐ 72/100 | 🏆 Grade B
+💡 This role builds the internal AI developer platform (LLM proxy, plugin marketplace, SDLC agents), which is the platform-plus-AI-tooling mix Magino is positioning around.
+🔗 https://www.linkedin.com/jobs/view/4411896004
+
+*6.* *Staff Software Engineer - Platform Team* @ Legora
+📍 Stockholm / Malmö, Sweden | ⭐ 71/100 | 🏆 Grade B
+💡 Platform ownership at one of Europe's fastest-growing AI scale-ups, on Magino's exact Node/React/AWS/Kubernetes stack.
+🔗 https://www.linkedin.com/jobs/view/4364156936
+
+---
+📊 _26 new offers | 1891 total tracked_

@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-06",
+  "total_searched": 590,
+  "new_offers": 26,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Staff Product Engineer (€130k–165k + equity)",
+      "company": "Leapsome (via Jack & Jill)",
+      "location": "Berlin, Germany",
+      "url": "https://www.linkedin.com/jobs/view/4474680645",
+      "score": 77,
+      "grade": "B",
+      "why": "Leapsome sells into the same HR and employee-experience buyers Alaya and Benevity did, and this seat leads its shift to an agent-driven platform, which lines up with Magino's AI-augmented engineering work. The €130–165k band plus pre-IPO equity is published. The drawback is Berlin, so remote terms need checking early.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Staff Full Stack Engineer - Sell Side Engine",
+      "company": "Undisclosed energy tech platform (via Jobgether)",
+      "location": "Switzerland (fully remote)",
+      "url": "https://www.linkedin.com/jobs/view/4474225640",
+      "score": 76,
+      "grade": "B",
+      "why": "Staff-level architecture ownership, Swiss-based, fully remote, on a Python/AWS/React stack Magino already runs. It's very likely the same renewable-energy company behind yesterday's Staff Pricing role, so one conversation could cover both. LinkedIn marks it as a contract, which needs clarifying.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Staff Backend Product Engineer (Prague/Brno/Remote EU)",
+      "company": "Productboard",
+      "location": "Prague, Czechia / Remote EU",
+      "url": "https://www.linkedin.com/jobs/view/4476342285",
+      "score": 74,
+      "grade": "B",
+      "why": "This is a Staff role whose job is to make the codebase AI-native for coding agents. That's close to what Magino pushed at Benevity, and Productboard is a developer-adjacent product company. Kotlin is a gap, and it's unclear whether a Geneva resident counts for 'Remote EU'.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Executive IC, Engineering",
+      "company": "Motion (Creative Analytics)",
+      "location": "Remote (Canada/US preferred, open to exceptional elsewhere)",
+      "url": "https://www.linkedin.com/jobs/view/4420682532",
+      "score": 73,
+      "grade": "B",
+      "why": "An executive-level IC seat at a remote-first Series B is about as senior as IC roles get. The TypeScript/Node/React stack and agent product match Magino's current work. Benevity's Canadian roots help with a team centred on Canada, but the location preference needs a direct pitch.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Principal Software Engineer - AI Foundations",
+      "company": "Toast",
+      "location": "Dublin, Ireland (2 days/week in office)",
+      "url": "https://www.linkedin.com/jobs/view/4411896004",
+      "score": 72,
+      "grade": "B",
+      "why": "This role builds the internal AI developer platform (LLM proxy, plugin marketplace, SDLC agents), which is the platform-plus-AI-tooling mix Magino is positioning around. Principal level is a fit. The catches are two office days a week in Dublin and a public, enterprise-scale employer.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 6,
+      "title": "Staff Software Engineer - Platform Team",
+      "company": "Legora",
+      "location": "Stockholm / Malmö, Sweden",
+      "url": "https://www.linkedin.com/jobs/view/4364156936",
+      "score": 71,
+      "grade": "B",
+      "why": "Platform ownership at one of Europe's fastest-growing AI scale-ups, on Magino's exact Node/React/AWS/Kubernetes stack. It's a Sweden-based seat, so relocation or remote terms decide whether it works.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
