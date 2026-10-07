@@ -1,0 +1,68 @@
+{
+  "date": "2026-10-07",
+  "total_searched": 548,
+  "new_offers": 19,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Principal Engineer - Product, Platform, Infrastructure",
+      "company": "Ayunis",
+      "location": "Munich, Germany (hybrid, EU workations)",
+      "url": "https://www.linkedin.com/jobs/view/4474061583",
+      "score": 77,
+      "grade": "B",
+      "why": "The stack is exactly Magino's (TypeScript, Node, NestJS, React, Postgres), and the job is to own architecture for an agent platform built in-house, with no LangChain. It's an open-source product for public administration with 800+ municipal customers, which fits Magino's purpose-driven background. The catches are Munich hybrid and fluent German.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Senior Staff Forward Deployed Engineer, GenAI, Google Cloud",
+      "company": "Google",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4466564719",
+      "score": 74,
+      "grade": "B",
+      "why": "A Senior Staff title in Zurich with top-of-market pay, building multi-agent and RAG systems in production for enterprise customers. Magino's experience shipping from a blank page at Alaya maps well to the forward-deployed model. The downsides are Big Tech, the customer-facing travel load, and GCP rather than AWS.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "AI Architect / AI Engineering Lead",
+      "company": "Undisclosed (via Jobgether)",
+      "location": "Switzerland (fully remote, contract)",
+      "url": "https://www.linkedin.com/jobs/view/4474247680",
+      "score": 73,
+      "grade": "B",
+      "why": "This role is about AI-augmented engineering: building agentic workflows across the SDLC with Claude Code and LangGraph, which is close to what Magino did at Benevity. It's Swiss-based and fully remote. It's a contract with an undisclosed client, and the healthcare-claims domain is a gap.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Staff Full-stack Product Engineer, Growth (Prague/Brno/Remote EU)",
+      "company": "Productboard",
+      "location": "Prague, Czechia / Remote EU",
+      "url": "https://www.linkedin.com/jobs/view/4476327860",
+      "score": 73,
+      "grade": "B",
+      "why": "Productboard's AI-native engineering culture, where agents build from specs, matches Magino's positioning, and this seat's React/TypeScript/GraphQL front end is a better fit than yesterday's Kotlin-heavy backend role. It's a sister opening, so one conversation could cover both. Geneva eligibility for 'Remote EU' is still unconfirmed.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Senior Architect (Fractional CTO)",
+      "company": "Undisclosed startup studio (via Jobgether)",
+      "location": "Switzerland (remote within Europe, part-time possible)",
+      "url": "https://www.linkedin.com/jobs/view/4476573207",
+      "score": 72,
+      "grade": "B",
+      "why": "A part-time fractional CTO role advising 2-3 startups, which fits the 50% setup Magino wants alongside Givernance. Working with founders on architecture is something Magino has done from the founder's seat. The client is undisclosed and the work runs agency-style.",
+      "apply_by": null,
+      "status": "new",
+      "part_time": true
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+🎯 *Job Hunt — 2026-10-07*
+
+*1.* *Principal Engineer - Product, Platform, Infrastructure* @ Ayunis
+📍 Munich, Germany (hybrid, EU workations) | ⭐ 77/100 | 🏆 Grade B
+💡 The stack is exactly Magino's (TypeScript, Node, NestJS, React, Postgres), and the job is to own architecture for an agent platform built in-house, with no LangChain.
+🔗 https://www.linkedin.com/jobs/view/4474061583
+
+*2.* *Senior Staff Forward Deployed Engineer, GenAI, Google Cloud* @ Google
+📍 Zurich, Switzerland | ⭐ 74/100 | 🏆 Grade B
+💡 A Senior Staff title in Zurich with top-of-market pay, building multi-agent and RAG systems in production for enterprise customers.
+🔗 https://www.linkedin.com/jobs/view/4466564719
+
+*3.* *AI Architect / AI Engineering Lead* @ Undisclosed (via Jobgether)
+📍 Switzerland (fully remote, contract) | ⭐ 73/100 | 🏆 Grade B
+💡 This role is about AI-augmented engineering: building agentic workflows across the SDLC with Claude Code and LangGraph, which is close to what Magino did at Benevity.
+🔗 https://www.linkedin.com/jobs/view/4474247680
+
+*4.* *Staff Full-stack Product Engineer, Growth (Prague/Brno/Remote EU)* @ Productboard
+📍 Prague, Czechia / Remote EU | ⭐ 73/100 | 🏆 Grade B
+💡 Productboard's AI-native engineering culture, where agents build from specs, matches Magino's positioning, and this seat's React/TypeScript/GraphQL front end is a better fit than yesterday's Kotlin-heavy backend role.
+🔗 https://www.linkedin.com/jobs/view/4476327860
+
+*5.* *Senior Architect (Fractional CTO)* @ Undisclosed startup studio (via Jobgether)
+📍 Switzerland (remote within Europe, part-time possible) | ⭐ 72/100 | 🏆 Grade B
+💡 A part-time fractional CTO role advising 2-3 startups, which fits the 50% setup Magino wants alongside Givernance.
+🔗 https://www.linkedin.com/jobs/view/4476573207
+
+---
+📊 _19 new offers | 1910 total tracked_
