@@ -32,7 +32,7 @@ Write to `data/daily/YYYY-MM-DD.json`:
       "source": "...",
       "description_short": "...",
       "score": 85,
-      "match_reason": "..."
+      "match_reason": "Score: 85% - Match: \"[Exact quote]\" -> [Profile element]"
     }
   ]
 }
@@ -65,7 +65,7 @@ Format (Markdown):
 
 *1.* *[Title]* @ [Company]
 📍 [Location] | ⭐ [Score]/100
-💡 [Match reason]
+💡 [match_reason string formatted as: Score: X% - Match: "[Quote]" -> [Profile Element]]
 🔗 [URL]
 
 *2.* ...
