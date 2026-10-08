@@ -2,7 +2,7 @@
 
 ## Identity
 - **Name**: Magino Marveaux-Cochet
-- **Title**: Senior Staff Engineer — Cofounder & Platform Builder
+- **Title**: Senior Staff Engineer — Agent Manager & Platform Builder
 - **Location**: Geneva, Switzerland
 - **LinkedIn**: https://linkedin.com/in/magino-marveaux-cochet-6308458b
 - **GitHub**: https://github.com/Onigam
@@ -10,7 +10,7 @@
 ## Summary
 Senior Staff Engineer with 17+ years of experience in software architecture, system design, and platform engineering — from embedded systems to SaaS at international scale. Co-founded Alaya, an employee purpose platform, and grew it from a blank page to acquisition by Benevity (Canadian unicorn, $1B+ valuation).
 
-Combines founding-engineer ownership with deep hands-on expertise across distributed systems, microservices, API design, and cloud infrastructure. Now focused on AI-augmented engineering workflows, mentoring engineering teams, and designing systems that balance product velocity with long-term sustainability.
+Transitioning from traditional developer to "Agent Manager", multiplying team productivity by orchestrating multi-agent workflows (OpenClaw, Claude CLI). Combines founding-engineer ownership with deep expertise in distributed systems, focusing on designing agile internal architectures ("SaaS-killers"), structuring technical context, and building systems where AI and engineers scale product velocity.
 
 ## Career Highlights
 - **Benevity** (2021–2026) — Senior Staff Engineer, Geneva (Remote). Platform evolution post-acquisition, cross-team architecture, AI-assisted engineering practices.
