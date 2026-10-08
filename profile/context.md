@@ -10,7 +10,7 @@
 ## Summary
 Senior Staff Engineer with 17+ years of experience in software architecture, system design, and platform engineering — from embedded systems to SaaS at international scale. Co-founded Alaya, an employee purpose platform, and grew it from a blank page to acquisition by Benevity (Canadian unicorn, $1B+ valuation).
 
-Transitioning from traditional developer to "Agent Manager", multiplying team productivity by orchestrating multi-agent workflows (OpenClaw, Claude CLI). Combines founding-engineer ownership with deep expertise in distributed systems, focusing on designing agile internal architectures ("SaaS-killers"), structuring technical context, and building systems where AI and engineers scale product velocity.
+Transitioning from traditional developer to "Agent Manager", multiplying team productivity by orchestrating multi-agent workflows (OpenClaw, Claude CLI). Combines founding-engineer ownership with deep hands-on expertise in platform architecture, API design, and cloud infrastructure, focusing on designing agile internal architectures ("SaaS-killers"), structuring technical context, and building systems where AI and engineers scale product velocity.
 
 ## Career Highlights
 - **Benevity** (2021–2026) — Senior Staff Engineer, Geneva (Remote). Platform evolution post-acquisition, cross-team architecture, AI-assisted engineering practices.
@@ -27,7 +27,7 @@ Transitioning from traditional developer to "Agent Manager", multiplying team pr
 - **Databases**: MongoDB, PostgreSQL, Redis
 - **Cloud & Infra**: AWS, Docker, Kubernetes, CI/CD
 - **AI/ML**: LLM integration, Multi-agent workflows, Semantic search, Embeddings
-- **Architecture**: Distributed systems, Platform engineering, API design, Service-oriented architecture
+- **Architecture**: Platform engineering, API design, Service-oriented architecture, Microservices
 
 ## Key Strengths
 - Engineering cofounder — built platform from zero
