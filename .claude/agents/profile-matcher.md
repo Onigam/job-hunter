@@ -66,7 +66,7 @@ Return a JSON array of the top 5 offers, sorted by score descending:
     "company": 10,
     "impact": 5
   },
-  "match_reason": "1-line explanation of why this is a good match"
+  "match_reason": "Score: 85% - Match: \"[Exact quote from job requirements]\" -> [Specific element from profile/context.md]"
 }
 ```
 
@@ -74,4 +74,4 @@ Return a JSON array of the top 5 offers, sorted by score descending:
 - Be honest about scoring — don't inflate scores to fill slots
 - If fewer than 5 genuinely relevant offers exist, return fewer
 - A score below 40 should not make the top 5
-- Always explain the match reason in plain language
+- STRICT TRACEABILITY: You MUST quote the exact line from the job requirements and explicitly link it to a specific element from the candidate's profile/context.md. Format it exactly as: `Score: X% - Match: "[Citation de l'offre]" -> [Élément du profil]`.
