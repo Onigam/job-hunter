@@ -1,0 +1,403 @@
+{
+  "date": "2026-10-08",
+  "total_searched": 490,
+  "new_offers": 24,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Lead Product Engineer → CTO (AI & Data Infrastructure, EU remote)",
+      "company": "Undisclosed early-stage AI company (via Owen Thomas)",
+      "location": "Remote EU / London",
+      "url": "https://www.linkedin.com/jobs/view/4477117842",
+      "score": 77,
+      "grade": "B",
+      "match_reason": "Score: 77% - Match: \"As the company scales, there is potential for this person to grow into broader technology leadership and ultimately a CTO-level role.\" -> Career Highlights > Alaya (2016–2021) — Cofounder & Head of Technologies, Built entire platform from zero, scaled to acquisition by Benevity; Target Roles > 4. CTO (early-stage startup)",
+      "match_evidence": [
+        {
+          "dimension": "impact",
+          "offer_quote": "As the company scales, there is potential for this person to grow into broader technology leadership and ultimately a CTO-level role.",
+          "profile_element": "Career Highlights > Alaya (2016–2021) — Cofounder & Head of Technologies, Built entire platform from zero, scaled to acquisition by Benevity; Target Roles > 4. CTO (early-stage startup)",
+          "note": null
+        },
+        {
+          "dimension": "ai",
+          "offer_quote": "Develop RAG and semantic search capabilities",
+          "profile_element": "Core Technical Skills > AI/ML: LLM integration, Multi-agent workflows, Semantic search, Embeddings",
+          "note": null
+        },
+        {
+          "dimension": "technical",
+          "offer_quote": "Python | SQL | PostgreSQL | TypeScript | AWS | RAG | LLMs | APIs | Data Pipelines",
+          "profile_element": "Core Technical Skills > Languages: TypeScript, JavaScript, Node.js, Python, Java; Databases: MongoDB, PostgreSQL, Redis; Cloud & Infra: AWS",
+          "note": null
+        },
+        {
+          "dimension": "company",
+          "offer_quote": "Startup / scale-up experience",
+          "profile_element": "Company Preferences > Startups and scale-ups (Series A to post-acquisition); Key Strengths > Engineering cofounder — built platform from zero",
+          "note": null
+        },
+        {
+          "dimension": "location",
+          "offer_quote": "Flexible London / remote working",
+          "profile_element": "Location Preferences > 3. Remote (Europe-friendly timezone)",
+          "note": "Title says EU remote"
+        }
+      ],
+      "gaps": [
+        {
+          "offer_quote": "Strong Python backend engineering",
+          "note": "Python is listed in Core Technical Skills but the profile centres on TypeScript/Node; expect Python depth to be probed"
+        },
+        {
+          "offer_quote": "Lead Product Engineer → CTO | Python, SQL, RAG, AWS, TypeScript | AI & Data Infrastructure, Start-up | Technical Ownership, 0→1 | EU remote | Base 80-100K euros + Equity",
+          "note": "Base well below Geneva market rates (Compensation > Geneva market rates expected for local positions); equity has to carry it"
+        }
+      ],
+      "evidence_status": "full_text",
+      "score_breakdown": {
+        "technical": 8,
+        "seniority": 8,
+        "location": 6,
+        "company": 8,
+        "impact": 9,
+        "mission": 6,
+        "compensation": 6,
+        "growth": 7,
+        "ai": 9,
+        "novelty": 10
+      },
+      "why": "A recruiter-run search for the engineer who grows into CTO at a seed-stage AI data company that already has paying customers, with RAG and semantic search at the core. Magino's Alaya cofounder path and his embeddings and LLM work match the job directly. The 80-100K EUR base is low for Geneva, so the equity terms decide it.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Principal AI Engineer - Context - Agents and Context",
+      "company": "Elastic",
+      "location": "Remote (Greece / Poland listings, distributed company)",
+      "url": "https://www.linkedin.com/jobs/view/4475817703",
+      "score": 75,
+      "grade": "B",
+      "match_reason": "Score: 75% - Match: \"Direct experience building agents with state and memory, and iterating on prompts, skills and tool behaviour safely in production.\" -> Core Technical Skills > AI/ML: LLM integration, Multi-agent workflows; Summary > orchestrating multi-agent workflows (OpenClaw, Claude CLI)",
+      "match_evidence": [
+        {
+          "dimension": "ai",
+          "offer_quote": "Direct experience building agents with state and memory, and iterating on prompts, skills and tool behaviour safely in production.",
+          "profile_element": "Core Technical Skills > AI/ML: LLM integration, Multi-agent workflows; Summary > orchestrating multi-agent workflows (OpenClaw, Claude CLI)",
+          "note": null
+        },
+        {
+          "dimension": "technical",
+          "offer_quote": "The codebase is TypeScript and we build it in the open, so you'll be shipping code, designs and discussions in public alongside the rest of the Elastic Stack.",
+          "profile_element": "Core Technical Skills > Languages: TypeScript, JavaScript, Node.js, Python, Java",
+          "note": null
+        },
+        {
+          "dimension": "seniority",
+          "offer_quote": "10+ years of software engineering experience, with the recent years spent shipping and operating AI-driven products on real production traffic, ideally products with public APIs and data models that had to evolve without breaking customers.",
+          "profile_element": "Summary > Senior Staff Engineer with 17+ years of experience in software architecture, system design, and platform engineering; Core Technical Skills > Architecture: Platform engineering, API design",
+          "note": null
+        },
+        {
+          "dimension": "mission",
+          "offer_quote": "Elastic, the Search AI Company, enables everyone to find the answers they need in real time, using all their data, at scale",
+          "profile_element": "Company Preferences > AI/ML or developer tools companies",
+          "note": null
+        }
+      ],
+      "gaps": [
+        {
+          "offer_quote": "A track record of eval-driven product improvement: you have diagnosed agent or LLM behaviour from traces and user feedback, designed the evaluation that exposed the problem, shipped the fix and measured the outcome.",
+          "note": "Evaluation/telemetry for LLM systems is not explicit in profile/context.md"
+        },
+        {
+          "offer_quote": "Familiarity with MCP, including exposing public MCP servers and tools.",
+          "note": "MCP not listed in profile/context.md"
+        },
+        {
+          "offer_quote": null,
+          "note": "Posting is listed for Greece and Poland only; Switzerland eligibility needs confirming with Elastic"
+        }
+      ],
+      "evidence_status": "full_text",
+      "score_breakdown": {
+        "technical": 9,
+        "seniority": 9,
+        "location": 5,
+        "company": 6,
+        "impact": 7,
+        "mission": 7,
+        "compensation": 7,
+        "growth": 6,
+        "ai": 10,
+        "novelty": 9
+      },
+      "why": "Elastic's Context Engine is the knowledge layer agents like Claude Code plug into, and this Principal seat owns how those agents behave in production, written in open-source TypeScript. That is very close to Magino's Agent Manager positioning. The gaps are the eval and telemetry track record and the fact that it's posted for Greece and Poland only.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Technical Director, Applied AI",
+      "company": "Undisclosed game studio (via Jobgether)",
+      "location": "Switzerland (fully remote)",
+      "url": "https://www.linkedin.com/jobs/view/4475708925",
+      "score": 73,
+      "grade": "B",
+      "match_reason": "Score: 73% - Match: \"Explore agentic development approaches, including coding agents, custom agents, MCP-based integrations, and multi-agent systems.\" -> Core Technical Skills > AI/ML: Multi-agent workflows; Summary > Transitioning from traditional developer to \"Agent Manager\", orchestrating multi-agent workflows (OpenClaw, Claude CLI)",
+      "match_evidence": [
+        {
+          "dimension": "ai",
+          "offer_quote": "Explore agentic development approaches, including coding agents, custom agents, MCP-based integrations, and multi-agent systems.",
+          "profile_element": "Core Technical Skills > AI/ML: Multi-agent workflows; Summary > Transitioning from traditional developer to \"Agent Manager\", orchestrating multi-agent workflows (OpenClaw, Claude CLI)",
+          "note": null
+        },
+        {
+          "dimension": "impact",
+          "offer_quote": "Run internal workshops and demonstrations, helping team members progress from basic prompting toward building their own tools, agents, and AI-assisted workflows.",
+          "profile_element": "Career Highlights > Benevity (2021–2026) — AI-assisted engineering practices; Key Strengths > AI-augmented engineering pioneer",
+          "note": null
+        },
+        {
+          "dimension": "technical",
+          "offer_quote": "Strong programming skills in one or more languages such as Python, C#, C++, TypeScript, or similar.",
+          "profile_element": "Core Technical Skills > Languages: TypeScript, JavaScript, Node.js, Python, Java",
+          "note": null
+        },
+        {
+          "dimension": "location",
+          "offer_quote": "Our partner is looking for a Technical Director, Applied AI based in Switzerland.",
+          "profile_element": "Location Preferences > 2. Switzerland (other cities)",
+          "note": null
+        }
+      ],
+      "gaps": [
+        {
+          "offer_quote": "Strong understanding of real-time production and game-development workflows.",
+          "note": "No game-development experience in profile/context.md"
+        },
+        {
+          "offer_quote": "Experience working with environments such as Unity, Unreal Engine, Houdini, Blender, Maya, or comparable creative and technical platforms.",
+          "note": "None of these tools appear in profile/context.md"
+        }
+      ],
+      "evidence_status": "full_text",
+      "score_breakdown": {
+        "technical": 6,
+        "seniority": 8,
+        "location": 9,
+        "company": 6,
+        "impact": 7,
+        "mission": 6,
+        "compensation": 6,
+        "growth": 6,
+        "ai": 10,
+        "novelty": 9
+      },
+      "why": "This is a Switzerland-based, fully remote role whose job is to bring coding agents, MCP and multi-agent workflows into a studio and teach teams to build their own. That's the AI-assisted engineering Magino drove at Benevity. The weak spot is game development: Unity, Unreal and Houdini aren't in his background.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Senior Founding Software Engineer",
+      "company": "Ocushield",
+      "location": "Remote (EU / EEA / UK)",
+      "url": "https://www.linkedin.com/jobs/view/4477418431",
+      "score": 72,
+      "grade": "B",
+      "match_reason": "Score: 72% - Match: \"This is the first full-time engineering hire the company has ever made. The person we hire owns the engineering function and defines what engineering at Ocushield looks like for the next five years.\" -> Career Highlights > Alaya (2016–2021) — Cofounder & Head of Technologies, Built entire platform from zero; Target Roles > 2. Founding Engineer / First Engineer",
+      "match_evidence": [
+        {
+          "dimension": "impact",
+          "offer_quote": "This is the first full-time engineering hire the company has ever made. The person we hire owns the engineering function and defines what engineering at Ocushield looks like for the next five years.",
+          "profile_element": "Career Highlights > Alaya (2016–2021) — Cofounder & Head of Technologies, Built entire platform from zero; Target Roles > 2. Founding Engineer / First Engineer",
+          "note": null
+        },
+        {
+          "dimension": "technical",
+          "offer_quote": "Deep TypeScript and Node.js experience in production.",
+          "profile_element": "Core Technical Skills > Languages: TypeScript, JavaScript, Node.js",
+          "note": null
+        },
+        {
+          "dimension": "technical",
+          "offer_quote": "Production experience with AWS and comfort setting up Cognito, SAML and OIDC SSO, and infrastructure-as-code (CDK, Terraform, or similar).",
+          "profile_element": "Core Technical Skills > Cloud & Infra: AWS, Docker, Kubernetes, CI/CD",
+          "note": null
+        },
+        {
+          "dimension": "ai",
+          "offer_quote": "You code with AI as part of your daily workflow.",
+          "profile_element": "Key Strengths > AI-augmented engineering pioneer",
+          "note": null
+        },
+        {
+          "dimension": "mission",
+          "offer_quote": "Ocushield is a UK-based healthtech company making preventive eye care more accessible.",
+          "profile_element": "Company Preferences > Impact-driven / purpose-driven companies",
+          "note": null
+        }
+      ],
+      "gaps": [
+        {
+          "offer_quote": "Based in the European Union, European Economic Area, or United Kingdom, with the right to work locally. This is a hard requirement.",
+          "note": "Profile location is Geneva, Switzerland (not EU/EEA/UK); citizenship not recorded in profile/context.md"
+        },
+        {
+          "offer_quote": "Base salary: €55,000 – €85,000 per year, benchmarked to your location.",
+          "note": "Well below Compensation > Geneva market rates expected"
+        },
+        {
+          "offer_quote": "Experience in healthtech, insurance, fintech, or another regulated or sensitive-data environment.",
+          "note": "No regulated-sector experience in profile/context.md"
+        }
+      ],
+      "evidence_status": "full_text",
+      "score_breakdown": {
+        "technical": 10,
+        "seniority": 9,
+        "location": 4,
+        "company": 8,
+        "impact": 9,
+        "mission": 8,
+        "compensation": 3,
+        "growth": 5,
+        "ai": 6,
+        "novelty": 10
+      },
+      "why": "This is the first full-time engineering hire at a profitable, bootstrapped healthtech, on Magino's exact stack (TypeScript, Node, React, Postgres, AWS), with AI-assisted coding required and a path to VP Engineering or CTO. Two things work against it: an EU/EEA/UK residency requirement and a 55-85K EUR base.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Artificial Intelligence Engineer (AI platform team)",
+      "company": "Undisclosed international group (via Sigma Suisse)",
+      "location": "Geneva, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4474082359",
+      "score": 71,
+      "grade": "B",
+      "match_reason": "Score: 71% - Match: \"Develop shared platform capabilities for LLM applications, agentic systems and enterprise knowledge solutions\" -> Core Technical Skills > Architecture: Platform engineering, API design; AI/ML: LLM integration, Multi-agent workflows",
+      "match_evidence": [
+        {
+          "dimension": "technical",
+          "offer_quote": "Develop shared platform capabilities for LLM applications, agentic systems and enterprise knowledge solutions",
+          "profile_element": "Core Technical Skills > Architecture: Platform engineering, API design; AI/ML: LLM integration, Multi-agent workflows",
+          "note": null
+        },
+        {
+          "dimension": "ai",
+          "offer_quote": "Set interoperability standards across models, tools and agents, including MCP and A2A",
+          "profile_element": "Core Technical Skills > AI/ML: Multi-agent workflows; Summary > orchestrating multi-agent workflows (OpenClaw, Claude CLI)",
+          "note": null
+        },
+        {
+          "dimension": "ai",
+          "offer_quote": "Vector databases, lexical and semantic search, hybrid retrieval and reranking",
+          "profile_element": "Core Technical Skills > AI/ML: Semantic search, Embeddings",
+          "note": null
+        },
+        {
+          "dimension": "location",
+          "offer_quote": "On behalf of our client, a leading international group, we are looking for a Artificial Intelligence Engineer to join their AI platform team in Geneva.",
+          "profile_element": "Location Preferences > 1. Geneva, Switzerland",
+          "note": null
+        }
+      ],
+      "gaps": [
+        {
+          "offer_quote": "Agent frameworks and orchestration tools, LangGraph, LangChain, LlamaIndex, CrewAI or equivalent",
+          "note": "Named frameworks not in profile/context.md (OpenClaw / Claude CLI may count as equivalent)"
+        },
+        {
+          "offer_quote": "LLM evaluation, observability, tracing and regression testing",
+          "note": "Not explicit in profile/context.md"
+        },
+        {
+          "offer_quote": "Mid-Senior level",
+          "note": "Title and level sit below Staff; enterprise client rather than startup (Company Preferences > Avoid: large legacy enterprises)"
+        }
+      ],
+      "evidence_status": "full_text",
+      "score_breakdown": {
+        "technical": 8,
+        "seniority": 6,
+        "location": 10,
+        "company": 4,
+        "impact": 7,
+        "mission": 5,
+        "compensation": 8,
+        "growth": 5,
+        "ai": 10,
+        "novelty": 8
+      },
+      "why": "It's in Geneva, on an AI platform team setting the standards for RAG, agents and MCP/A2A across the group. Magino's platform engineering and semantic search background fits that. It's a mid-senior IC role at a large group hiring through a recruiter, so it only makes sense as a well-paid local option.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 6,
+      "title": "Staff Software Engineer, Product Engineering - EU",
+      "company": "Ashby",
+      "location": "Remote EU (listed Switzerland)",
+      "url": "https://www.linkedin.com/jobs/view/4403610723",
+      "score": 70,
+      "grade": "B",
+      "match_reason": "Score: 70% - Match: \"TypeScript (frontend & backend), React, GraphQL API, Node.js, Postgres, Redis.\" -> Core Technical Skills > Languages: TypeScript, Node.js; Frontend: React; Backend: GraphQL; Databases: PostgreSQL, Redis",
+      "match_evidence": [
+        {
+          "dimension": "technical",
+          "offer_quote": "TypeScript (frontend & backend), React, GraphQL API, Node.js, Postgres, Redis.",
+          "profile_element": "Core Technical Skills > Languages: TypeScript, Node.js; Frontend: React; Backend: GraphQL; Databases: PostgreSQL, Redis",
+          "note": null
+        },
+        {
+          "dimension": "impact",
+          "offer_quote": "you write product specs, make product and design decisions, and build in an almost-no-meeting culture.",
+          "profile_element": "Key Strengths > Builder mindset with strong architectural thinking",
+          "note": null
+        },
+        {
+          "dimension": "growth",
+          "offer_quote": "we have tens of millions in ARR, growing >100% year over year, very low churn, and many years of runway.",
+          "profile_element": "Company Preferences > Startups and scale-ups (Series A to post-acquisition)",
+          "note": null
+        },
+        {
+          "dimension": "location",
+          "offer_quote": "Our remote, low-meeting, high-ownership culture gives you a lot of flexibility in how you structure your days and weeks.",
+          "profile_element": "Location Preferences > 3. Remote (Europe-friendly timezone)",
+          "note": null
+        }
+      ],
+      "gaps": [
+        {
+          "offer_quote": "You’ve probably seen this role posted before, and it’s because we’re always expanding the team (we’re on track to double Engineering this year).",
+          "note": "Evergreen repost; Ashby EU Staff roles already tracked in offers.json, and the listing shows over 200 applicants"
+        },
+        {
+          "offer_quote": "Our most tenured engineers spend most of their time building",
+          "note": "Feature-level IC work rather than platform ownership or a founding role (Target Roles > 1-2)"
+        }
+      ],
+      "evidence_status": "full_text",
+      "score_breakdown": {
+        "technical": 10,
+        "seniority": 8,
+        "location": 7,
+        "company": 9,
+        "impact": 6,
+        "mission": 6,
+        "compensation": 8,
+        "growth": 9,
+        "ai": 4,
+        "novelty": 3
+      },
+      "why": "Ashby's stack is exactly Magino's (TypeScript end to end, React, GraphQL, Node, Postgres, Redis), the company is growing more than 100% a year, and the culture has almost no meetings and gives staff engineers real ownership. It's an evergreen repost with 200+ applicants, though, so it only makes sense if the earlier Ashby roles weren't pursued.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}

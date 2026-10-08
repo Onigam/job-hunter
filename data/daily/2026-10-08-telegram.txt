@@ -1,0 +1,40 @@
+🎯 *Job Hunt — 2026-10-08*
+
+*1.* *Lead Product Engineer → CTO (AI & Data Infrastructure, EU remote)* @ Undisclosed early-stage AI company (via Owen Thomas)
+📍 Remote EU / London | ⭐ 77/100 | 🏆 Grade B
+🧾 Score: 77% - Match: "As the company scales, there is potential for this person to grow into broader technology leadership and ultimately a…" -> Career Highlights > Alaya (2016–2021) — Cofounder & Head of Technologies, Built entire platform from zero, scaled to acquisition by Benevity; Target Roles > 4. CTO (early-stage startup)
+💡 A recruiter-run search for the engineer who grows into CTO at a seed-stage AI data company that already has paying customers, with RAG and semantic search at the core.
+🔗 https://www.linkedin.com/jobs/view/4477117842
+
+*2.* *Principal AI Engineer - Context - Agents and Context* @ Elastic
+📍 Remote (Greece / Poland listings, distributed company) | ⭐ 75/100 | 🏆 Grade B
+🧾 Score: 75% - Match: "Direct experience building agents with state and memory, and iterating on prompts, skills and tool behaviour safely in…" -> Core Technical Skills > AI/ML: LLM integration, Multi-agent workflows; Summary > orchestrating multi-agent workflows (OpenClaw, Claude CLI)
+💡 Elastic's Context Engine is the knowledge layer agents like Claude Code plug into, and this Principal seat owns how those agents behave in production, written in open-source TypeScript.
+🔗 https://www.linkedin.com/jobs/view/4475817703
+
+*3.* *Technical Director, Applied AI* @ Undisclosed game studio (via Jobgether)
+📍 Switzerland (fully remote) | ⭐ 73/100 | 🏆 Grade B
+🧾 Score: 73% - Match: "Explore agentic development approaches, including coding agents, custom agents, MCP-based integrations, and multi-agent…" -> Core Technical Skills > AI/ML: Multi-agent workflows; Summary > Transitioning from traditional developer to "Agent Manager", orchestrating multi-agent workflows (OpenClaw, Claude CLI)
+💡 This is a Switzerland-based, fully remote role whose job is to bring coding agents, MCP and multi-agent workflows into a studio and teach teams to build their own.
+🔗 https://www.linkedin.com/jobs/view/4475708925
+
+*4.* *Senior Founding Software Engineer* @ Ocushield
+📍 Remote (EU / EEA / UK) | ⭐ 72/100 | 🏆 Grade B
+🧾 Score: 72% - Match: "This is the first full-time engineering hire the company has ever made. The person we hire owns the engineering…" -> Career Highlights > Alaya (2016–2021) — Cofounder & Head of Technologies, Built entire platform from zero; Target Roles > 2. Founding Engineer / First Engineer
+💡 This is the first full-time engineering hire at a profitable, bootstrapped healthtech, on Magino's exact stack (TypeScript, Node, React, Postgres, AWS), with AI-assisted coding required and a path to VP Engineering or CTO.
+🔗 https://www.linkedin.com/jobs/view/4477418431
+
+*5.* *Artificial Intelligence Engineer (AI platform team)* @ Undisclosed international group (via Sigma Suisse)
+📍 Geneva, Switzerland | ⭐ 71/100 | 🏆 Grade B
+🧾 Score: 71% - Match: "Develop shared platform capabilities for LLM applications, agentic systems and enterprise knowledge solutions" -> Core Technical Skills > Architecture: Platform engineering, API design; AI/ML: LLM integration, Multi-agent workflows
+💡 It's in Geneva, on an AI platform team setting the standards for RAG, agents and MCP/A2A across the group.
+🔗 https://www.linkedin.com/jobs/view/4474082359
+
+*6.* *Staff Software Engineer, Product Engineering - EU* @ Ashby
+📍 Remote EU (listed Switzerland) | ⭐ 70/100 | 🏆 Grade B
+🧾 Score: 70% - Match: "TypeScript (frontend & backend), React, GraphQL API, Node.js, Postgres, Redis." -> Core Technical Skills > Languages: TypeScript, Node.js; Frontend: React; Backend: GraphQL; Databases: PostgreSQL, Redis
+💡 Ashby's stack is exactly Magino's (TypeScript end to end, React, GraphQL, Node, Postgres, Redis), the company is growing more than 100% a year, and the culture has almost no meetings and gives staff engineers real ownership.
+🔗 https://www.linkedin.com/jobs/view/4403610723
+
+---
+📊 _24 new offers | 1934 total tracked_
