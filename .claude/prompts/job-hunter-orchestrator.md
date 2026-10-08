@@ -32,8 +32,10 @@ Aim for 15-25 raw results total across all sources.
 ## Step 4: Match and Rank
 Follow `.claude/agents/profile-matcher.md` to:
 - Deduplicate against existing offers
+- Fetch the full posting text for each candidate offer
 - Score each new offer against the profile
-- Return the top 5 most relevant new offers
+- For every retained offer, produce the strict traceability block: verbatim `offer_quote` lines from the posting, each linked to a specific `profile_element` of `profile/context.md`, plus the primary line `Score: X% - Match: "[Citation de l'offre]" -> [Élément du profil]` (`match_reason`)
+- Return the top 5 most relevant new offers; an offer without a verbatim quote and a resolvable profile element is dropped, not padded in
 
 ## Step 5: Generate Report
 Follow `.claude/agents/report-builder.md` to:

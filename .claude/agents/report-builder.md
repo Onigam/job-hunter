@@ -32,11 +32,25 @@ Write to `data/daily/YYYY-MM-DD.json`:
       "source": "...",
       "description_short": "...",
       "score": 85,
-      "match_reason": "Score: 85% - Match: \"[Exact quote]\" -> [Profile element]"
+      "match_reason": "Score: 85% - Match: \"[Exact quote]\" -> [Profile element]",
+      "match_evidence": [
+        {
+          "dimension": "technical",
+          "offer_quote": "verbatim requirement line from the posting",
+          "profile_element": "Section > item from profile/context.md",
+          "note": null
+        }
+      ],
+      "gaps": [
+        { "offer_quote": "verbatim requirement the profile does not cover", "note": "..." }
+      ],
+      "evidence_status": "full_text"
     }
   ]
 }
 ```
+
+Copy `match_reason`, `match_evidence`, `gaps` and `evidence_status` exactly as produced by the profile-matcher. Do not rewrite, shorten or paraphrase the quotes. An offer that arrives without a `match_reason` in the `Score: X% - Match: "..." -> ...` format, or with fewer than 2 `match_evidence` pairs, must not be written to the report: send it back to the matcher or drop it.
 
 ### 2. Update Offers Database
 Read `data/offers.json`, add new offers with status "new", write back.
@@ -51,6 +65,7 @@ Each offer entry:
   "source": "...",
   "summary": "...",
   "score": 85,
+  "match_reason": "Score: 85% - Match: \"...\" -> ...",
   "date_found": "2026-02-12",
   "status": "new"
 }
@@ -74,6 +89,8 @@ Format (Markdown):
 📊 _[N] new offers found | [Total] total tracked_
 ```
 
+The 💡 line is the offer's `match_reason`, verbatim. If the quote is longer than ~120 characters, keep the full line in the JSON report and cut the quote in the Telegram message at a word boundary, closing with `…"` so the reader knows it was shortened.
+
 If NO new offers were found:
 ```
 🎯 *Job Hunter — YYYY-MM-DD*
@@ -88,4 +105,5 @@ No new relevant offers found today.
 - Use Telegram Markdown V1 format (single asterisks for bold, underscores for italic)
 - URLs should be plain text (not hyperlinked) for maximum compatibility
 - Always include the total tracked offers count
+- Every retained offer shows its `match_reason` in both the JSON report and the Telegram message; the two must be identical apart from the Telegram quote truncation rule above
 - Write all files using the Write tool

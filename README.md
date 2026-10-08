@@ -145,6 +145,16 @@ Offers are scored on 5 dimensions (100 points total):
 | Company Fit | 15 | Startup/scale-up vs enterprise/consulting |
 | Role Impact | 10 | Platform ownership, build-from-zero opportunities |
 
+### Strict Traceability
+
+Every retained offer must explain *why* it was selected with cited sources. The matcher reads the full posting, copies requirement lines **verbatim**, and links each one to a specific element of `profile/context.md` (section heading + item). The primary pair becomes the `match_reason`:
+
+```
+Score: 85% - Match: "5+ years building backend services in TypeScript and Node.js on AWS" -> Core Technical Skills > Languages: TypeScript, Node.js; Cloud & Infra: AWS
+```
+
+In the daily JSON each offer also carries `match_evidence` (one quote/profile pair per scored dimension), `gaps` (requirement lines the profile does not cover) and `evidence_status` (`full_text`, `partial_text`, `title_only`). The Telegram message repeats the `match_reason` on its own line under each offer. An offer with no verbatim quote or no resolvable profile element is dropped from the ranking rather than padded in. Details in `.claude/agents/profile-matcher.md` > Strict Traceability.
+
 ---
 
 ## Customization

@@ -46,6 +46,15 @@ Score 0–10 per dimension. Sum = raw score. Map to grade:
 
 Only surface A and B grades in the report.
 
+**Strict traceability (mandatory, see `profile-matcher.md` > Strict Traceability):**
+Before scoring, fetch the full posting text for every candidate offer. For each offer you surface, extract verbatim requirement lines from the posting and link each one to a specific element of `profile/context.md` (section heading + item). Build the primary `match_reason`:
+
+```
+Score: X% - Match: "[Citation de l'offre]" -> [Élément du profil]
+```
+
+An offer with no verbatim quote, or whose quote cannot be linked to a concrete profile element, is not surfaced, whatever its grade. Requirements the profile does not satisfy go in `gaps`, quoted the same way.
+
 ## Step 4: Generate Daily Files
 Create the following files (use `date +%Y-%m-%d` for YYYY-MM-DD):
 
@@ -64,6 +73,25 @@ Create the following files (use `date +%Y-%m-%d` for YYYY-MM-DD):
       "url": "...",
       "score": 87,
       "grade": "A",
+      "match_reason": "Score: 87% - Match: \"Own the architecture of our TypeScript/Node.js platform on AWS\" -> Core Technical Skills > Languages: TypeScript, Node.js; Cloud & Infra: AWS",
+      "match_evidence": [
+        {
+          "dimension": "technical",
+          "offer_quote": "Own the architecture of our TypeScript/Node.js platform on AWS",
+          "profile_element": "Core Technical Skills > Languages: TypeScript, Node.js; Cloud & Infra: AWS",
+          "note": null
+        },
+        {
+          "dimension": "seniority",
+          "offer_quote": "You will be the first Staff Engineer on the team",
+          "profile_element": "Career Highlights > Benevity (2021–2026) — Senior Staff Engineer",
+          "note": null
+        }
+      ],
+      "gaps": [
+        { "offer_quote": "Fluent German required", "note": "Not in profile/context.md" }
+      ],
+      "evidence_status": "full_text",
       "why": "2-3 sentence explanation of fit",
       "apply_by": "YYYY-MM-DD or null",
       "status": "new"
@@ -72,6 +100,8 @@ Create the following files (use `date +%Y-%m-%d` for YYYY-MM-DD):
 }
 ```
 
+`match_reason` and at least 2 `match_evidence` pairs are required for every entry in `top_offers`. Quotes are copied verbatim from the posting; `profile_element` cites a section and item of `profile/context.md`. `evidence_status` is `full_text`, `partial_text` or `title_only` (a `title_only` offer cannot be in `top_offers`).
+
 ### `data/daily/YYYY-MM-DD-telegram.txt`
 Format for Telegram (markdown):
 ```
@@ -79,6 +109,7 @@ Format for Telegram (markdown):
 
 *1.* *[Title]* @ [Company]
 📍 [Location] | ⭐ [score]/100 | 🏆 Grade [X]
+🧾 Score: [score]% - Match: "[Citation de l'offre]" -> [Élément du profil]
 💡 [why it matches — 1 sentence]
 🔗 [url]
 
@@ -108,3 +139,5 @@ The orchestrating system will forward it to Telegram.
 - If fewer than 3 A/B offers found, include top C grades to fill.
 - Always include direct URL to the job posting.
 - Keep `why` punchy and specific to Magino's profile (cofounder background, Alaya→Benevity, AI-augmented engineering, Geneva-based).
+- `why` never replaces evidence. Every surfaced offer carries its `match_reason` (🧾 line in Telegram, same text as the JSON) built from a verbatim quote of the posting linked to a specific element of `profile/context.md`. If the quote is longer than ~120 characters, cut it at a word boundary in the Telegram message only, closing with `…"`.
+- Never invent a quote. If the sentence is not in the posting text you retrieved, it does not exist for scoring purposes.
