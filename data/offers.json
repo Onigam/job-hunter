@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-08",
+  "last_updated": "2026-10-09",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -27781,6 +27781,602 @@
       "evidence_status": "full_text",
       "date_posted": "2026-10-01",
       "date_found": "2026-10-08",
+      "status": "new"
+    },
+    {
+      "id": "423463c63299901fb5e07bc4bd0331e4",
+      "title": "Senior AI Product Engineer (Geneva, Switzerland)",
+      "company": "Sealio",
+      "location": "Geneva, Switzerland (hybrid, 3 days on-site)",
+      "url": "https://www.linkedin.com/jobs/view/4477832316",
+      "source": "linkedin",
+      "summary": "Swiss AI B2B SaaS automating tender/RFP answers, pre-seed, second-time founders. One of the first engineers: full-stack Next.js/TypeScript + FastAPI/Python, Postgres+pgvector, hybrid RAG, evals; Claude Code daily; path to Engineering Lead. Geneva hybrid 3 days/week.",
+      "score": 85,
+      "grade": "A",
+      "match_reason": "Score: 85% - Match: \"You will be among the first employees in the engineering team at Sealio. You will work directly alongside the Founders.\" -> Career Highlights > Alaya (2016–2021) — Cofounder & Head of Technologies, Built entire platform from zero, scaled to acquisition by Benevity; Target Roles > 2. Founding Engineer / First Engineer",
+      "match_evidence": [
+        {
+          "dimension": "impact",
+          "offer_quote": "You will be among the first employees in the engineering team at Sealio. You will work directly alongside the Founders.",
+          "profile_element": "Career Highlights > Alaya (2016–2021) — Cofounder & Head of Technologies, Built entire platform from zero, scaled to acquisition by Benevity; Target Roles > 2. Founding Engineer / First Engineer",
+          "note": null
+        },
+        {
+          "dimension": "ai",
+          "offer_quote": "You are highly proficient with AI developer tools (Claude Code, etc.) and use them daily to accelerate feature delivery.",
+          "profile_element": "Summary > Transitioning from traditional developer to \"Agent Manager\", orchestrating multi-agent workflows (OpenClaw, Claude CLI); Key Strengths > AI-augmented engineering pioneer",
+          "note": null
+        },
+        {
+          "dimension": "technical",
+          "offer_quote": "Frontend: Next.js, TypeScript, Tailwind CSS. Backend and data: FastAPI, Python, PostgreSQL with pgvector, S3.",
+          "profile_element": "Core Technical Skills > Languages: TypeScript, Python; Frontend: React, Tailwind CSS; Databases: PostgreSQL; Cloud & Infra: AWS",
+          "note": "Next.js and FastAPI themselves are not listed; React and Python are"
+        },
+        {
+          "dimension": "ai",
+          "offer_quote": "Direct experience building agentic workflows, embeddings, vector databases, reranking, and structured extraction from unstructured documents.",
+          "profile_element": "Core Technical Skills > AI/ML: LLM integration, Multi-agent workflows, Semantic search, Embeddings",
+          "note": null
+        },
+        {
+          "dimension": "seniority",
+          "offer_quote": "Leading a team: 3+ years in an engineering lead role, including line management.",
+          "profile_element": "Career Highlights > Alaya (2016–2021) — Cofounder & Head of Technologies, Built entire platform from zero, scaled to acquisition by Benevity",
+          "note": null
+        },
+        {
+          "dimension": "location",
+          "offer_quote": "Able to work on-site in Geneva three days per week.",
+          "profile_element": "Location Preferences > 1. Geneva, Switzerland",
+          "note": null
+        },
+        {
+          "dimension": "growth",
+          "offer_quote": "We are early-stage, fast-moving, and have already raised our pre-seed funding round.",
+          "profile_element": "Company Preferences > Startups and scale-ups (Series A to post-acquisition)",
+          "note": "Pre-seed is earlier than the Series A floor in the profile"
+        }
+      ],
+      "gaps": [
+        {
+          "offer_quote": "(Swiss) German is a strong asset for interacting with regional Swiss/DACH clients.",
+          "note": "No language skills listed in profile/context.md"
+        },
+        {
+          "offer_quote": "Comfortable running convincing client demos.",
+          "note": "Client-facing demo work is not mentioned in profile/context.md"
+        },
+        {
+          "offer_quote": "Competitive Compensation: Base salary + early-employee equity.",
+          "note": "No figure given; pre-seed base may sit under Geneva market rates (Compensation > Geneva market rates expected)"
+        }
+      ],
+      "evidence_status": "full_text",
+      "date_found": "2026-10-09",
+      "status": "new"
+    },
+    {
+      "id": "316bb2e3668a2e32f410f413dcfcece7",
+      "title": "Agentic SDLC Transformation Lead",
+      "company": "Talan",
+      "location": "Meyrin, Geneva, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4476816456",
+      "source": "linkedin",
+      "summary": "Consulting group (Talan Suisse) role leading the shift to an AI-driven / agentic SDLC: agent ecosystem design, spec-driven development, human-in-the-loop orchestration, TokenOps, change management with CTO posture. Executive level, Meyrin (Geneva). Posting in French.",
+      "score": 74,
+      "grade": "B",
+      "match_reason": "Score: 74% - Match: \"Modéliser un écosystème d'agents virtuels autonomes et collaboratifs adaptés aux enjeux des équipes de dev.\" -> Summary > Transitioning from traditional developer to \"Agent Manager\", orchestrating multi-agent workflows (OpenClaw, Claude CLI); Key Strengths > AI-augmented engineering pioneer",
+      "match_evidence": [
+        {
+          "dimension": "ai",
+          "offer_quote": "Modéliser un écosystème d'agents virtuels autonomes et collaboratifs adaptés aux enjeux des équipes de dev.",
+          "profile_element": "Summary > Transitioning from traditional developer to \"Agent Manager\", orchestrating multi-agent workflows (OpenClaw, Claude CLI); Key Strengths > AI-augmented engineering pioneer",
+          "note": null
+        },
+        {
+          "dimension": "seniority",
+          "offer_quote": "10+ ans d'expérience globale en ingénierie logicielle, architecture de systèmes ou direction technique (SVP/VP Engineering, CTO organisation, Head of Tech).",
+          "profile_element": "Summary > 17+ years of experience in software architecture, system design, and platform engineering; Career Highlights > Alaya (2016–2021) — Cofounder & Head of Technologies, Built entire platform from zero, scaled to acquisition by Benevity",
+          "note": null
+        },
+        {
+          "dimension": "impact",
+          "offer_quote": "Incarner la posture CTO pour acculturer, convaincre et fédérer les équipes d'ingénierie autour des nouvelles pratiques.",
+          "profile_element": "Career Highlights > Benevity (2021–2026) — Senior Staff Engineer, Platform evolution post-acquisition, cross-team architecture, AI-assisted engineering practices",
+          "note": null
+        },
+        {
+          "dimension": "technical",
+          "offer_quote": "IA Générative & Agents : LLMs (intégration, limites), systèmes multi-agents / agents autonomes, RAG (Retrieval-Augmented Generation), Prompt Engineering, Context Engineering.",
+          "profile_element": "Core Technical Skills > AI/ML: LLM integration, Multi-agent workflows, Semantic search, Embeddings; Summary > structuring technical context",
+          "note": null
+        }
+      ],
+      "gaps": [
+        {
+          "offer_quote": "Talan est un groupe international de conseil et d’expertises technologiques",
+          "note": "Company Preferences > Avoid: pure consulting, outsourcing"
+        },
+        {
+          "offer_quote": "Gouvernance Tech : TokenOps, FinOps IA, qualité et sécurité du code généré.",
+          "note": "Token/FinOps governance is not in profile/context.md"
+        },
+        {
+          "offer_quote": "Expérience confirmée dans le pilotage de transformations d'ingénierie à grande échelle (déploiement de pratiques DevOps, Platform Engineering ou Agilité à l'échelle).",
+          "note": "Platform engineering is in the profile, but large-scale transformation leadership across client organisations is not documented"
+        }
+      ],
+      "evidence_status": "full_text",
+      "date_found": "2026-10-09",
+      "status": "new"
+    },
+    {
+      "id": "0d96177019f597da7fa8a549092245d5",
+      "title": "Senior Full Stack Developer",
+      "company": "Delta Labs",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4477159672",
+      "source": "linkedin",
+      "summary": "Zurich early-stage AI startup (Elaiia: AI Twins simulating consumer decisions). Full-stack TS/Next.js/React + Python microservices, Postgres, LangGraph agents, LLM tracing/evals, long-running durable jobs. Vercel/Azure. Switzerland-based, in person regularly; equity possible.",
+      "score": 74,
+      "grade": "B",
+      "match_reason": "Score: 74% - Match: \"You use AI tools as a core part of your development workflow and consider AI-assisted engineering the standard, not optional\" -> Key Strengths > AI-augmented engineering pioneer",
+      "match_evidence": [
+        {
+          "dimension": "ai",
+          "offer_quote": "You use AI tools as a core part of your development workflow and consider AI-assisted engineering the standard, not optional",
+          "profile_element": "Key Strengths > AI-augmented engineering pioneer",
+          "note": null
+        },
+        {
+          "dimension": "technical",
+          "offer_quote": "A modern TypeScript frontend stack built on Next.js and React, backed by PostgreSQL and a set of Python microservices.",
+          "profile_element": "Core Technical Skills > Languages: TypeScript, Python; Frontend: React; Databases: PostgreSQL; Backend: Microservices",
+          "note": null
+        },
+        {
+          "dimension": "seniority",
+          "offer_quote": "You have 4+ years of experience shipping production web applications in TypeScript",
+          "profile_element": "Core Technical Skills > Languages: TypeScript; Summary > 17+ years of experience",
+          "note": "Bar is far below the profile; title is a step down from Target Roles"
+        },
+        {
+          "dimension": "location",
+          "offer_quote": "This role is based in Switzerland. We work from Zürich and meet regularly in person.",
+          "profile_element": "Location Preferences > 2. Switzerland (other cities)",
+          "note": null
+        },
+        {
+          "dimension": "company",
+          "offer_quote": "We offer a competitive salary, potential equity participation, and the opportunity to build a company from its earliest stages.",
+          "profile_element": "Company Preferences > Startups and scale-ups; Key Strengths > Engineering cofounder — built platform from zero",
+          "note": null
+        }
+      ],
+      "gaps": [
+        {
+          "offer_quote": "Deployed on Vercel and Microsoft Azure.",
+          "note": "Profile lists AWS, not Azure/Vercel"
+        },
+        {
+          "offer_quote": "As a Full Stack Developer at Delta Labs, you will design and build the systems that power Elaiia's simulation platform.",
+          "note": "IC developer scope, below Target Roles > 1–4"
+        }
+      ],
+      "evidence_status": "full_text",
+      "date_found": "2026-10-09",
+      "status": "new"
+    },
+    {
+      "id": "68b08f364f8b1debec4fcdb50dcbbc99",
+      "title": "Staff Full-stack Product Engineer (Prague/Brno/Remote EU)",
+      "company": "Productboard",
+      "location": "Remote EU / Prague / Brno",
+      "url": "https://www.linkedin.com/jobs/view/4476326916",
+      "source": "linkedin",
+      "summary": "Staff full-stack role owning the AI-native architecture layer: agent-native standards, repo-versioned context infrastructure for Claude Code/Cursor/Codex, self-healing incident agents, AI code review. Stack: Python AI layer, TS/React/GraphQL, Kotlin backend, Postgres/Mongo, AWS/K8s. 2.3–3.3M CZK. Sibling Productboard Staff roles already tracked 2026-10-06/07.",
+      "score": 73,
+      "grade": "B",
+      "match_reason": "Score: 73% - Match: \"A context infrastructure layer. Repo-versioned guidance that AI tools load automatically — improving the output of Cursor, Claude Code, and Codex simultaneously.\" -> Summary > structuring technical context, and building systems where AI and engineers scale product velocity; orchestrating multi-agent workflows (OpenClaw, Claude CLI)",
+      "match_evidence": [
+        {
+          "dimension": "ai",
+          "offer_quote": "A context infrastructure layer. Repo-versioned guidance that AI tools load automatically — improving the output of Cursor, Claude Code, and Codex simultaneously.",
+          "profile_element": "Summary > structuring technical context, and building systems where AI and engineers scale product velocity; orchestrating multi-agent workflows (OpenClaw, Claude CLI)",
+          "note": null
+        },
+        {
+          "dimension": "impact",
+          "offer_quote": "Strong fit: Former founding engineer or founder.",
+          "profile_element": "Career Highlights > Alaya (2016–2021) — Cofounder & Head of Technologies, Built entire platform from zero, scaled to acquisition by Benevity",
+          "note": null
+        },
+        {
+          "dimension": "technical",
+          "offer_quote": "Frontend: TypeScript, React, Relay, GraphQL",
+          "profile_element": "Core Technical Skills > Languages: TypeScript; Frontend: React; Backend: GraphQL",
+          "note": null
+        },
+        {
+          "dimension": "ai",
+          "offer_quote": "Daily use of AI coding tools as a core part of your workflow — pushing them, refining prompts, knowing where they break",
+          "profile_element": "Key Strengths > AI-augmented engineering pioneer",
+          "note": null
+        },
+        {
+          "dimension": "seniority",
+          "offer_quote": "You'd lead the architectural work that makes our codebase AI-native.",
+          "profile_element": "Target Roles > 1. Staff/Principal Platform Engineer; Core Technical Skills > Architecture: Platform engineering, API design",
+          "note": null
+        }
+      ],
+      "gaps": [
+        {
+          "offer_quote": "Backend: Kotlin, Ruby (legacy services we're modernizing), with new services built in Kotlin",
+          "note": "Kotlin and Ruby are not in profile/context.md (Python and Java are)"
+        },
+        {
+          "offer_quote": "Candidates must have the legal right to work in the EU.",
+          "note": "profile/context.md does not state EU work authorisation"
+        },
+        {
+          "offer_quote": "Salary range: 2,295,000–3,305,000 CZK annually",
+          "note": "Roughly EUR 90–135K, below Geneva market rates (Compensation section)"
+        }
+      ],
+      "evidence_status": "full_text",
+      "date_found": "2026-10-09",
+      "status": "new"
+    },
+    {
+      "id": "e49b57f9bc1f4c4c2dc941191cb21ca4",
+      "title": "Lead Engineer, AI Platform",
+      "company": "Undisclosed company (via Jobgether)",
+      "location": "Switzerland (fully remote)",
+      "url": "https://www.linkedin.com/jobs/view/4474669995",
+      "source": "linkedin",
+      "summary": "Jobgether-listed role for an undisclosed company: lead the AI Quality engineering team, build evaluation infra (CI pipelines, scorers, datasets), agent observability, model/prompt experimentation, cost/latency optimisation. Rails/Python. $170K USD + equity, fully remote, 35 days PTO.",
+      "score": 73,
+      "grade": "B",
+      "match_reason": "Score: 73% - Match: \"Experience working with complex, tool-using AI systems involving multiple tools, planning, orchestration, or sub-agents rather than only simple, single-turn assistants.\" -> Core Technical Skills > AI/ML: Multi-agent workflows; Summary > orchestrating multi-agent workflows (OpenClaw, Claude CLI)",
+      "match_evidence": [
+        {
+          "dimension": "ai",
+          "offer_quote": "Experience working with complex, tool-using AI systems involving multiple tools, planning, orchestration, or sub-agents rather than only simple, single-turn assistants.",
+          "profile_element": "Core Technical Skills > AI/ML: Multi-agent workflows; Summary > orchestrating multi-agent workflows (OpenClaw, Claude CLI)",
+          "note": null
+        },
+        {
+          "dimension": "seniority",
+          "offer_quote": "7+ years of experience building and shipping production software, ideally including LLM-powered agents capable of taking real actions within products.",
+          "profile_element": "Summary > 17+ years of experience in software architecture, system design, and platform engineering; Core Technical Skills > AI/ML: LLM integration",
+          "note": null
+        },
+        {
+          "dimension": "impact",
+          "offer_quote": "The position combines hands-on software engineering with technical leadership and people management.",
+          "profile_element": "Target Roles > 3. VP Engineering / Engineering Lead (hybrid IC)",
+          "note": null
+        },
+        {
+          "dimension": "location",
+          "offer_quote": "Fully remote work environment.",
+          "profile_element": "Location Preferences > 3. Remote (Europe-friendly timezone)",
+          "note": null
+        },
+        {
+          "dimension": "compensation",
+          "offer_quote": "Annual cash compensation of $170,000 USD, benchmarked to U.S. compensation levels regardless of location.",
+          "profile_element": "Compensation > Geneva market rates expected for local positions",
+          "note": null
+        }
+      ],
+      "gaps": [
+        {
+          "offer_quote": "Familiarity with evaluation frameworks such as Braintrust, LangSmith, or similar tools.",
+          "note": "Eval tooling not in profile/context.md"
+        },
+        {
+          "offer_quote": "Experience designing datasets, annotation workflows, or labeling pipelines for machine learning or AI evaluation.",
+          "note": "Not in profile/context.md"
+        },
+        {
+          "offer_quote": "Experience with Ruby on Rails and/or Python, with the ability to become productive quickly in technologies that may be new to you.",
+          "note": "Python is listed; Rails is not"
+        }
+      ],
+      "evidence_status": "full_text",
+      "date_found": "2026-10-09",
+      "status": "new"
+    },
+    {
+      "id": "d97c28e870545f1187db05d427f93e2a",
+      "title": "Staff Applied AI Engineer",
+      "company": "Qonto",
+      "location": "Remote (France, Germany, Spain or Italy)",
+      "url": "https://www.linkedin.com/jobs/view/4476348721",
+      "source": "linkedin",
+      "summary": "Staff Applied AI Engineer, Backend in the AI Compliance Tooling team: agentic tools gathering context from 10–15 internal systems for AFC investigators, evals, human review, no PM. Remote within FR/DE/ES/IT.",
+      "score": 72,
+      "grade": "B",
+      "match_reason": "Score: 72% - Match: \"Design robust backend foundations: Build reliable, maintainable, and extensible services, APIs, databases, and integrations around evolving AI models and tooling\" -> Core Technical Skills > Backend: REST APIs, GraphQL, Microservices; Architecture: API design, Service-oriented architecture",
+      "match_evidence": [
+        {
+          "dimension": "technical",
+          "offer_quote": "Design robust backend foundations: Build reliable, maintainable, and extensible services, APIs, databases, and integrations around evolving AI models and tooling",
+          "profile_element": "Core Technical Skills > Backend: REST APIs, GraphQL, Microservices; Architecture: API design, Service-oriented architecture",
+          "note": null
+        },
+        {
+          "dimension": "seniority",
+          "offer_quote": "Staff-level autonomy and judgement: You make sound decisions independently, communicate trade-offs clearly, and know when to optimise for speed and when quality is non-negotiable",
+          "profile_element": "Career Highlights > Benevity (2021–2026) — Senior Staff Engineer, Platform evolution post-acquisition, cross-team architecture, AI-assisted engineering practices",
+          "note": null
+        },
+        {
+          "dimension": "ai",
+          "offer_quote": "Build production AI systems: Design and ship agentic tools and AI-powered workflows that gather context from multiple internal systems, orchestrate models and tools, parse structured outputs, and handle uncertainty and failure safely",
+          "profile_element": "Core Technical Skills > AI/ML: LLM integration, Multi-agent workflows, Semantic search, Embeddings",
+          "note": null
+        },
+        {
+          "dimension": "technical",
+          "offer_quote": "Pragmatic technology choices: Python experience and familiarity with current model providers or agent frameworks are useful",
+          "profile_element": "Core Technical Skills > Languages: Python",
+          "note": null
+        }
+      ],
+      "gaps": [
+        {
+          "offer_quote": "🌏 Location: France, Germany, Spain, or Italy — remote within these hiring locations.",
+          "note": "Location Preferences > 1. Geneva, Switzerland; Switzerland is not a hiring location, so this needs residence in one of the four countries"
+        },
+        {
+          "offer_quote": "Production AI experience: You have shipped an AI agent or agentic workflow used by real users and can explain its orchestration, tool use, state, structured outputs, evaluation, retries, and failure modes",
+          "note": "profile/context.md documents multi-agent workflows for engineering, not a shipped customer-facing agent"
+        }
+      ],
+      "evidence_status": "full_text",
+      "date_found": "2026-10-09",
+      "status": "new"
+    },
+    {
+      "id": "2df9cb4b4a2870aecb64aa7249e147d6",
+      "title": "Staff Software Engineer, AI and Data Risk",
+      "company": "Vanta",
+      "location": "County Dublin, Ireland / UK remote-first",
+      "url": "https://www.linkedin.com/jobs/view/4475984220",
+      "source": "linkedin",
+      "summary": "TypeScript/React/Node staff role on privacy and AI governance; remote-first but limited to UK/Ireland.",
+      "score": 68,
+      "grade": "C",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-09",
+      "status": "new"
+    },
+    {
+      "id": "d5d69f5fddee197fa5b15ee61681f1dd",
+      "title": "Senior GenAI Engineer",
+      "company": "Board",
+      "location": "Chiasso, Ticino, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4475204574",
+      "source": "linkedin",
+      "summary": "GenAI product team building Board AI Agents for the agentic planning platform; Senior IC in Ticino.",
+      "score": 67,
+      "grade": "C",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-09",
+      "status": "new"
+    },
+    {
+      "id": "507e3649a9ce9eeb44af7a1e372f6e90",
+      "title": "Founding CTO / Technical Co-Founder",
+      "company": "Shape Engine",
+      "location": "Remote (CET overlap), listed Barcelona",
+      "url": "https://www.linkedin.com/jobs/view/4475516024",
+      "source": "linkedin",
+      "summary": "Fashion-tech pre-product venture seeking hands-on technical co-founder; Python backend, React/Next.js, AI integrations; modest stipend + co-founder equity.",
+      "score": 64,
+      "grade": "C",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-09",
+      "status": "new"
+    },
+    {
+      "id": "d56c73d224f11961ba24a20bbb6fa7ea",
+      "title": "Technical co-founder / CTO",
+      "company": "Diamind",
+      "location": "Stockholm, Sweden",
+      "url": "https://www.linkedin.com/jobs/view/4476713805",
+      "source": "linkedin",
+      "summary": "Sting Core sustainability-reporting startup seeking technical co-founder; TS/React/Postgres, tenant isolation; pre-seed planned Q4/Q1. Location not stated as remote.",
+      "score": 62,
+      "grade": "C",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-09",
+      "status": "new"
+    },
+    {
+      "id": "c96b225a4d6a1d58f6cd41e756b51a78",
+      "title": "Staff / Principal Product Engineer",
+      "company": "hey idun",
+      "location": "Nybro, Sweden",
+      "url": "https://www.linkedin.com/jobs/view/4475237168",
+      "source": "linkedin",
+      "summary": "Swedish AI product for trades/service companies; agent architecture on TS/React/Next.js + Convex. Posting in Swedish.",
+      "score": 62,
+      "grade": "C",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-09",
+      "status": "new"
+    },
+    {
+      "id": "8e449638989b579cd633aea07f46fb79",
+      "title": "Staff Back-End Engineer Node.js H/F",
+      "company": "Undisclosed fintech (via CN Amirault)",
+      "location": "Remote (France)",
+      "url": "https://www.linkedin.com/jobs/view/4476574541",
+      "source": "linkedin",
+      "summary": "Recruiter listing, fintech startup, TypeScript/Node.js/Postgres/Kafka/AWS/K8s, full remote CDI in France.",
+      "score": 60,
+      "grade": "C",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-09",
+      "status": "new"
+    },
+    {
+      "id": "1a1026035fadf3df9297ebbb6ad42404",
+      "title": "Senior Software Engineer, AI Dev Experience",
+      "company": "Thomson Reuters",
+      "location": "Zug, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4467539935",
+      "source": "linkedin",
+      "summary": "AI Developer Experience team (CoCounsel agentic evals platform), Python/AWS/ECS; enterprise.",
+      "score": 58,
+      "grade": "C",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-09",
+      "status": "new"
+    },
+    {
+      "id": "badbb9d9ec559b19e6b59f8363e7f6ed",
+      "title": "Principal Software Engineer - Search Algorithms - Elasticsearch",
+      "company": "Elastic",
+      "location": "Switzerland (distributed)",
+      "url": "https://www.linkedin.com/jobs/view/4460123820",
+      "source": "linkedin",
+      "summary": "Elasticsearch search/vector relevance internals, Java-heavy; distributed company.",
+      "score": 55,
+      "grade": "C",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-09",
+      "status": "new"
+    },
+    {
+      "id": "e243fc1bbd4ecb3bda243ec4e74cb6dd",
+      "title": "Principal Engineer",
+      "company": "Azumuta",
+      "location": "Ghent, Belgium (on-site)",
+      "url": "https://www.linkedin.com/jobs/view/4474695097",
+      "source": "linkedin",
+      "summary": "Node/TS/React/Postgres principal role, explicitly not remote.",
+      "score": 54,
+      "grade": "D",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-09",
+      "status": "new"
+    },
+    {
+      "id": "d96d4b70ed0672b2b337f4af7f8362e5",
+      "title": "Staff Software Engineer (Unified Compute)",
+      "company": "Seqera",
+      "location": "Barcelona, Spain",
+      "url": "https://www.linkedin.com/jobs/view/4476319196",
+      "source": "linkedin",
+      "summary": "Low-level scheduling systems for scientific cloud workloads.",
+      "score": 50,
+      "grade": "D",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-09",
+      "status": "new"
+    },
+    {
+      "id": "ecf5f4446161992d36788b1422aec96a",
+      "title": "Tech Lead, Frontend Platform",
+      "company": "Sygnum Bank",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4465842805",
+      "source": "linkedin",
+      "summary": "Frontend platform lead at a digital-asset bank.",
+      "score": 50,
+      "grade": "D",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-09",
+      "status": "new"
+    },
+    {
+      "id": "1ace6a4c6d19e49425de4c837e610df4",
+      "title": "Founding Engineer",
+      "company": "WhyBrilliant",
+      "location": "Bonn, Germany",
+      "url": "https://www.linkedin.com/jobs/view/4475798351",
+      "source": "linkedin",
+      "summary": "Founding engineer with relocation to Bonn; low experience bar; not remote.",
+      "score": 48,
+      "grade": "D",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-09",
+      "status": "new"
+    },
+    {
+      "id": "06863ca42147f66d8a98e2bab143b4d8",
+      "title": "MLOps / AI Platform Engineer",
+      "company": "CHANEL",
+      "location": "Geneva, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4467543659",
+      "source": "linkedin",
+      "summary": "6-month CDD, Databricks/Azure Python platform for a data science team.",
+      "score": 47,
+      "grade": "D",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-09",
+      "status": "new"
+    },
+    {
+      "id": "9ff67e24a776aa55274138c05d73eb8c",
+      "title": "Staff Engineer (Java)",
+      "company": "Parser",
+      "location": "Spain (remote)",
+      "url": "https://www.linkedin.com/jobs/view/4476742812",
+      "source": "linkedin",
+      "summary": "Consulting firm, Java/Kafka staff role for a UK retailer, Spain-based remote.",
+      "score": 42,
+      "grade": "D",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-09",
+      "status": "new"
+    },
+    {
+      "id": "7be04c5dfe5a60acecec2030a948c6fc",
+      "title": "Lead Software Engineer (C++/Python)",
+      "company": "Undisclosed (via Code Compass)",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4475224466",
+      "source": "linkedin",
+      "summary": "Recruiter listing, C++/Python lead.",
+      "score": 45,
+      "grade": "D",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-09",
+      "status": "new"
+    },
+    {
+      "id": "fbe02da000cfa1f79e4d057a88b8326f",
+      "title": ".NET Software Engineer – Stealth Start-Up",
+      "company": "Undisclosed (via Code Compass)",
+      "location": "Zurich / Remote",
+      "url": "https://www.linkedin.com/jobs/view/4475214967",
+      "source": "linkedin",
+      "summary": "Recruiter listing, C#/.NET stack.",
+      "score": 40,
+      "grade": "D",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-09",
+      "status": "new"
+    },
+    {
+      "id": "e1f544b42cf91f41097ea007b5caa6ac",
+      "title": "Software Engineer",
+      "company": "Vitol",
+      "location": "Geneva, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4475471775",
+      "source": "linkedin",
+      "summary": "2–5 years, trading reporting/release tooling.",
+      "score": 38,
+      "grade": "F",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-09",
       "status": "new"
     }
   ]

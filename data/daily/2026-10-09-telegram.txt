@@ -1,0 +1,40 @@
+🎯 *Job Hunt — 2026-10-09*
+
+*1.* *Senior AI Product Engineer (Geneva, Switzerland)* @ Sealio
+📍 Geneva, Switzerland (hybrid, 3 days on-site) | ⭐ 85/100 | 🏆 Grade A
+🧾 Score: 85% - Match: "You will be among the first employees in the engineering team at Sealio. You will work directly alongside the Founders." -> Career Highlights > Alaya (2016–2021) — Cofounder & Head of Technologies, Built entire platform from zero, scaled to acquisition by Benevity; Target Roles > 2. Founding Engineer / First Engineer
+💡 Sealio is a Geneva pre-seed AI startup (tenders and RFP automation) hiring its first engineers.
+🔗 https://www.linkedin.com/jobs/view/4477832316
+
+*2.* *Agentic SDLC Transformation Lead* @ Talan
+📍 Meyrin, Geneva, Switzerland | ⭐ 74/100 | 🏆 Grade B
+🧾 Score: 74% - Match: "Modéliser un écosystème d'agents virtuels autonomes et collaboratifs adaptés aux enjeux des équipes de dev." -> Summary > Transitioning from traditional developer to "Agent Manager", orchestrating multi-agent workflows (OpenClaw, Claude CLI); Key Strengths > AI-augmented engineering pioneer
+💡 The job is Magino's "Agent Manager" pitch written as a job description: design the agent ecosystem for a developer SDLC, specs, handoffs and human-in-the-loop, with a CTO posture, in Meyrin.
+🔗 https://www.linkedin.com/jobs/view/4476816456
+
+*3.* *Senior Full Stack Developer* @ Delta Labs
+📍 Zurich, Switzerland | ⭐ 74/100 | 🏆 Grade B
+🧾 Score: 74% - Match: "You use AI tools as a core part of your development workflow and consider AI-assisted engineering the standard, not…" -> Key Strengths > AI-augmented engineering pioneer
+💡 Delta Labs is a small Zurich AI startup that simulates consumer behaviour with LLM agent "twins".
+🔗 https://www.linkedin.com/jobs/view/4477159672
+
+*4.* *Staff Full-stack Product Engineer (Prague/Brno/Remote EU)* @ Productboard
+📍 Remote EU / Prague / Brno | ⭐ 73/100 | 🏆 Grade B
+🧾 Score: 73% - Match: "A context infrastructure layer. Repo-versioned guidance that AI tools load automatically — improving the output of…" -> Summary > structuring technical context, and building systems where AI and engineers scale product velocity; orchestrating multi-agent workflows (OpenClaw, Claude CLI)
+💡 Productboard wants a staff engineer to make its codebase agent-native: context layers that Claude Code and Cursor load, agent workflows and AI code review.
+🔗 https://www.linkedin.com/jobs/view/4476326916
+
+*5.* *Lead Engineer, AI Platform* @ Undisclosed company (via Jobgether)
+📍 Switzerland (fully remote) | ⭐ 73/100 | 🏆 Grade B
+🧾 Score: 73% - Match: "Experience working with complex, tool-using AI systems involving multiple tools, planning, orchestration, or sub-agents…" -> Core Technical Skills > AI/ML: Multi-agent workflows; Summary > orchestrating multi-agent workflows (OpenClaw, Claude CLI)
+💡 This role leads AI quality for a company whose agents take real actions: evals, agent trajectory observability, model and prompt experiments, plus a small team to manage.
+🔗 https://www.linkedin.com/jobs/view/4474669995
+
+*6.* *Staff Applied AI Engineer* @ Qonto
+📍 Remote (France, Germany, Spain or Italy) | ⭐ 72/100 | 🏆 Grade B
+🧾 Score: 72% - Match: "Design robust backend foundations: Build reliable, maintainable, and extensible services, APIs, databases, and…" -> Core Technical Skills > Backend: REST APIs, GraphQL, Microservices; Architecture: API design, Service-oriented architecture
+💡 Qonto (profitable, 750K SMEs) wants staff-level engineers to build the agentic layer its financial-crime investigators use, with no PM and full ownership.
+🔗 https://www.linkedin.com/jobs/view/4476348721
+
+---
+📊 _23 new offers | 1957 total tracked_
