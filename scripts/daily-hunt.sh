@@ -12,6 +12,9 @@ echo "[$(date)] Starting daily job hunt..." | tee "$LOG_FILE"
 
 cd "$REPO_DIR"
 
+# Fix : ANTHROPIC_API_KEY écrase le login OAuth Claude (401 Invalid API key)
+unset ANTHROPIC_API_KEY || true
+
 # Run Claude Code with the orchestrator prompt
 claude --model claude-opus-5-5 --dangerously-skip-permissions \
   -p "$(cat "$PROMPT_FILE")" \

@@ -14,16 +14,21 @@ No LinkedIn cookie? Use web search only (Indeed, SwissDevJobs, Wellfound, Linked
 
 Run at minimum 8 different searches covering:
 - Staff/Principal/Platform Engineer **Genève (geoId Geneva)**
+- Staff/Principal/Platform Engineer **geoId Switzerland** (tout le pays : Lausanne, Zurich, Berne, Bâle, Valais — la Suisse entière est prioritaire)
 - Bassin genevois côté français : Annemasse, Saint-Julien-en-Genevois, Ferney-Voltaire, Pays de Gex, Haute-Savoie
 - Ingénieur / Lead / Principal **en français** sur Genève (offres FR moins concurrencées)
-- Staff/Principal/Platform Engineer Switzerland (Lausanne, Zurich, reste de la Suisse)
-- Founding Engineer / First Engineer startup
-- VP Engineering / Head of Engineering Geneva
+- Founding Engineer / First Engineer startup + geoId Switzerland ou Geneva
+- VP Engineering / Head of Engineering Geneva ou Switzerland
 - CTO early-stage startup Switzerland
-- Remote Staff Engineer Europe-friendly
-- AI/ML Platform Engineer remote or Switzerland
+- Remote Staff Engineer Europe-friendly (seulement en complément : la Suisse d'abord)
+- AI/ML Platform Engineer Switzerland
 
 Aim for 25–40 raw results (le bassin genevois est étroit : augmenter le volume de recherches, pas la zone).
+
+**Priorité Suisse :** toute annonce située en Suisse (Genève, bassin genevois côté
+français, Suisse Romande, Zurich et reste du pays) passe AVANT toute annonce remote
+Europe, même avec un score technique légèrement inférieur. Dans le rapport final,
+les offres suisses sont listées en premier.
 
 **Exclusion obligatoire (offres trop lointaines) :** exclure du rapport toute offre
 on-site ou hybride hors de la Suisse (Berlin, Paris, Munich, Amsterdam, Dublin, USA,
@@ -36,7 +41,7 @@ Follow `.claude/agents/profile-matcher.md` to score each offer.
 **Scoring dimensions (10 total, A-F grade):**
 1. Technical fit (stack overlap with TypeScript/Node/React/Python/AWS/Platform/AI)
 2. Seniority fit (Staff+/Principal/CTO/Founding = best)
-3. Location fit (Genève et bassin genevois côté français > Suisse Romande > reste de la Suisse > Remote EU > Remote USA — les on-site hors Suisse sont exclus)
+3. Location fit (Genève > bassin genevois côté français + canton de Vaud > reste de la Suisse > Remote EU — les on-site hors Suisse sont exclus ; toute annonce suisse passe avant une remote)
 4. Company type (startup/scaleup > product > enterprise)
 5. Role impact (build from zero > platform ownership > IC feature work)
 6. Mission alignment (impact-driven, AI-first, engineering culture)
