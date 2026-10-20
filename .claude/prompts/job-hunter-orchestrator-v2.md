@@ -12,15 +12,23 @@ Follow `.claude/agents/job-searcher.md` to run searches.
 
 No LinkedIn cookie? Use web search only (Indeed, SwissDevJobs, Wellfound, LinkedIn public, HN Who's Hiring, Glassdoor, Jobup.ch, Remoteok, WeWorkRemotely).
 
-Run at minimum 6 different searches covering:
-- Staff/Principal/Platform Engineer Switzerland
+Run at minimum 8 different searches covering:
+- Staff/Principal/Platform Engineer **Genève (geoId Geneva)**
+- Bassin genevois côté français : Annemasse, Saint-Julien-en-Genevois, Ferney-Voltaire, Pays de Gex, Haute-Savoie
+- Ingénieur / Lead / Principal **en français** sur Genève (offres FR moins concurrencées)
+- Staff/Principal/Platform Engineer Switzerland (Lausanne, Zurich, reste de la Suisse)
 - Founding Engineer / First Engineer startup
 - VP Engineering / Head of Engineering Geneva
 - CTO early-stage startup Switzerland
 - Remote Staff Engineer Europe-friendly
 - AI/ML Platform Engineer remote or Switzerland
 
-Aim for 15–25 raw results.
+Aim for 25–40 raw results (le bassin genevois est étroit : augmenter le volume de recherches, pas la zone).
+
+**Exclusion obligatoire (offres trop lointaines) :** exclure du rapport toute offre
+on-site ou hybride hors de la Suisse (Berlin, Paris, Munich, Amsterdam, Dublin, USA,
+etc.). Seules les offres **fully remote Europe** (timezone CET compatible) survivent
+à ce filtre. Voir `.claude/agents/job-searcher.md` > "Offres à exclure".
 
 ## Step 3: Score & Rank (career-ops style)
 Follow `.claude/agents/profile-matcher.md` to score each offer.
@@ -28,7 +36,7 @@ Follow `.claude/agents/profile-matcher.md` to score each offer.
 **Scoring dimensions (10 total, A-F grade):**
 1. Technical fit (stack overlap with TypeScript/Node/React/Python/AWS/Platform/AI)
 2. Seniority fit (Staff+/Principal/CTO/Founding = best)
-3. Location fit (Geneva > Switzerland > Remote EU > Remote USA)
+3. Location fit (Genève et bassin genevois côté français > Suisse Romande > reste de la Suisse > Remote EU > Remote USA — les on-site hors Suisse sont exclus)
 4. Company type (startup/scaleup > product > enterprise)
 5. Role impact (build from zero > platform ownership > IC feature work)
 6. Mission alignment (impact-driven, AI-first, engineering culture)
@@ -136,6 +144,7 @@ The orchestrating system will forward it to Telegram.
 
 ## Rules
 - ONLY include real offers found via search. Never fabricate.
+- Exclure les offres trop lointaines : on-site/hybride hors Suisse = interdit dans le rapport ; fully remote Europe = OK. Genève et le bassin genevois (côté français inclus) passent avant tout le reste.
 - If fewer than 3 A/B offers found, include top C grades to fill.
 - Always include direct URL to the job posting.
 - Keep `why` punchy and specific to Magino's profile (cofounder background, Alaya→Benevity, AI-augmented engineering, Geneva-based).
