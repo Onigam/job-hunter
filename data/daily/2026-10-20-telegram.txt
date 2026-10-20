@@ -1,40 +1,40 @@
 🎯 *Job Hunt — 2026-10-20*
 
-*1.* *Founding Product Engineer* @ Axion Lab
-📍 Remote-first EU (Paris / Luxembourg / Amsterdam work weeks) | ⭐ 81/100 | 🏆 Grade B
-🧾 Score: 81% - Match: "As our first full-time engineer, you will be the technical owner of Axion Lab." -> Career Highlights > Alaya (2016–2021) — Cofounder & Head of Technologies, Built entire platform from zero, scaled to acquisition by Benevity; Target Roles > 2. Founding Engineer / First Engineer
-💡 Two cofounders, no engineer yet: the first hire owns the whole architecture and turns their agent workflows into production systems, which is basically a replay of Alaya with an AI core.
-🔗 https://www.linkedin.com/jobs/view/4481542772
-
-*2.* *Chief Product & Technology Officer* @ Everlife Prévoyance funéraire
+*1.* *Chief Product & Technology Officer* @ Everlife Prévoyance funéraire
 📍 Villars-sur-Glâne, Fribourg, Switzerland (hybrid, 2 remote days/week) | ⭐ 79/100 | 🏆 Grade B
 🧾 Score: 79% - Match: "En tant que CPTO, vous prenez la direction du pôle produit et technologie d’Everlife, aujourd’hui constitué de deux…" -> Target Roles > 4. CTO (early-stage startup); Career Highlights > Alaya (2016–2021) — Cofounder & Head of Technologies, Built entire platform from zero, scaled to acquisition by Benevity
 💡 It's a real CPTO seat on the leadership team of a 25-person Swiss scale-up.
 🔗 https://www.linkedin.com/jobs/view/4480345897
 
-*3.* *Founding AI Engineer* @ Planeco Building
-📍 Lisbon or Remote (Europe) | ⭐ 77/100 | 🏆 Grade B
-🧾 Score: 77% - Match: "work across the stack: TypeScript, JavaScript, React on the front, APIs, Node.js and Postgres on the back." -> Core Technical Skills > Languages: TypeScript, JavaScript, Node.js; Frontend: React; Databases: PostgreSQL
-💡 The stack is exactly Magino's (TypeScript, React, Node, Postgres) and the work is an agent runtime with MCP, RAG and evals on a greenfield product.
-🔗 https://www.linkedin.com/jobs/view/4478062850
+*2.* *Software Engineer, Product* @ Adaptyv
+📍 Lausanne, Vaud, Switzerland | ⭐ 79/100 | 🏆 Grade B
+🧾 Score: 79% - Match: "Full-stack production experience. We use TypeScript, React, Node, Postgres — but what matters is you can work across…" -> Core Technical Skills > Languages: TypeScript, JavaScript, Node.js; Frontend: React; Databases: PostgreSQL
+💡 Adaptyv runs an automated wet lab that AI agents drive through APIs, and the stack is word for word Magino's (TypeScript, React, Node, Postgres).
+🔗 https://www.linkedin.com/jobs/view/4481259631
 
-*4.* *Software Engineer - Pirate & Architect* @ Coresystems AG
+*3.* *Software Engineer - Pirate & Architect* @ Coresystems AG
 📍 Zurich, Switzerland | ⭐ 76/100 | 🏆 Grade B
 🧾 Score: 76% - Match: "Agentic coding with a firm hand — you let agents code for you, but you keep them on a short leash: strict architecture…" -> Summary > Transitioning from traditional developer to "Agent Manager", multiplying team productivity by orchestrating multi-agent workflows (OpenClaw, Claude CLI); Summary > structuring technical context
 💡 The posting reads like Magino's Agent Manager pitch: let agents write the code, but within strict architecture guidelines, with ownership of the architecture as the company grows.
 🔗 https://www.linkedin.com/jobs/view/4477743577
 
-*5.* *Founding Engineer - Remote or Hybrid (UK/EU)* @ Tarebase
-📍 Remote Europe (GMT-1 to GMT+3) / Munich / London | ⭐ 76/100 | 🏆 Grade B
-🧾 Score: 76% - Match: "As our first employee, you'd have a real say in both the product and the engineering decisions behind it." -> Career Highlights > Alaya (2016–2021) — Cofounder & Head of Technologies, Built entire platform from zero, scaled to acquisition by Benevity; Target Roles > 2. Founding Engineer / First Engineer
-💡 First employee alongside a former Raycast founding engineer, building agentic plus deterministic logistics software for SMEs, remote within Europe.
-🔗 https://www.linkedin.com/jobs/view/4480360590
+*4.* *Software Engineer, Backend* @ Adaptyv
+📍 Lausanne, Vaud, Switzerland | ⭐ 76/100 | 🏆 Grade B
+🧾 Score: 76% - Match: "Strong experience designing and building production backend systems. We use Python and TypeScript on the backend with…" -> Core Technical Skills > Languages: TypeScript, Node.js, Python; Databases: PostgreSQL; Architecture: Service-oriented architecture
+💡 Same Lausanne team as the Product role, on the backend side: Python and TypeScript services, instrument APIs and data pipelines.
+🔗 https://www.linkedin.com/jobs/view/4481251882
 
-*6.* *Staff / Principal Software Engineer, Platform* @ Lovable
-📍 Stockholm, Sweden (on-site 5 days/week) | ⭐ 76/100 | 🏆 Grade B
-🧾 Score: 76% - Match: "10+ years in platform, infrastructure, or developer experience engineering, with a track record operating at senior…" -> Summary > 17+ years of experience in software architecture, system design, and platform engineering; Career Highlights > Benevity (2021–2026) — Senior Staff Engineer, Platform evolution post-acquisition, cross-team architecture, AI-assisted engineering practices
-💡 Lovable is one of Europe's fastest-growing AI companies, and this staff/principal platform role owns the developer platform and the rollout of AI-driven development across the engineering org.
-🔗 https://www.linkedin.com/jobs/view/4414708154
+*5.* *Lead Software Engineer, AI* @ Thomson Reuters
+📍 Zug, Switzerland (hybrid) | ⭐ 74/100 | 🏆 Grade B
+🧾 Score: 74% - Match: "Comfort operating with high autonomy on a fast-moving, senior-heavy team that builds with AI-native/agentic engineering…" -> Summary > Transitioning from traditional developer to "Agent Manager", multiplying team productivity by orchestrating multi-agent workflows (OpenClaw, Claude CLI)
+💡 This is the tech lead seat on Thomson Reuters' agent platform team, and the posting describes a small senior group shipping with agentic coding tools, which is Magino's Agent Manager pitch.
+🔗 https://www.linkedin.com/jobs/view/4480287027
+
+*6.* *Head of Delivery* @ OneDoc
+📍 Geneva / Lausanne, Switzerland (hybrid, 3 days on-site) | ⭐ 73/100 | 🏆 Grade B
+🧾 Score: 73% - Match: "You are the CTO's right arm for execution." -> Target Roles > 3. VP Engineering / Engineering Lead (hybrid IC)
+💡 A hands-on engineering lead role at Switzerland's main patient-booking platform, based in Geneva or Lausanne, reporting to the CTO and judged on code reviews and releases rather than Gantt charts.
+🔗 https://www.linkedin.com/jobs/view/4455246805
 
 ---
-📊 _32 new offers | 1989 total tracked_
+📊 _54 new offers | 2011 total tracked_

@@ -29535,6 +29535,520 @@
       "date_posted": "2026-10-10",
       "date_found": "2026-10-20",
       "status": "new"
+    },
+    {
+      "id": "a8b3f74be814b95369ce2624a17b10be",
+      "title": "Software Engineer, Product",
+      "company": "Adaptyv",
+      "location": "Lausanne, Vaud, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4481259631",
+      "source": "linkedin",
+      "summary": "Lausanne biotech startup building an agent-driven automated lab; full-stack TS/React/Node/Postgres on the LabOS orchestration platform.",
+      "score": 79,
+      "grade": "B",
+      "score_breakdown": {
+        "technical": 10,
+        "seniority": 4,
+        "location": 9,
+        "company": 9,
+        "impact": 8,
+        "mission": 8,
+        "compensation": 5,
+        "growth": 9,
+        "ai": 9,
+        "novelty": 10
+      },
+      "match_reason": "Score: 79% - Match: \"Full-stack production experience. We use TypeScript, React, Node, Postgres — but what matters is you can work across the stack.\" -> Core Technical Skills > Languages: TypeScript, JavaScript, Node.js; Frontend: React; Databases: PostgreSQL",
+      "match_evidence": [
+        {
+          "dimension": "technical",
+          "offer_quote": "Full-stack production experience. We use TypeScript, React, Node, Postgres — but what matters is you can work across the stack.",
+          "profile_element": "Core Technical Skills > Languages: TypeScript, JavaScript, Node.js; Frontend: React; Databases: PostgreSQL",
+          "note": null
+        },
+        {
+          "dimension": "ai",
+          "offer_quote": "Building custom AI agents and tooling that automate decisions across the experiment lifecycle, from protocol design to troubleshooting failed results",
+          "profile_element": "Core Technical Skills > AI/ML: LLM integration, Multi-agent workflows",
+          "note": null
+        },
+        {
+          "dimension": "ai",
+          "offer_quote": "Builds with AI. You use AI tools heavily, but you have enough experience without them to know what good looks like.",
+          "profile_element": "Summary > Transitioning from traditional developer to \"Agent Manager\", multiplying team productivity by orchestrating multi-agent workflows (OpenClaw, Claude CLI); Key Strengths > AI-augmented engineering pioneer",
+          "note": null
+        },
+        {
+          "dimension": "impact",
+          "offer_quote": "You'll own large areas of the product. We're a small team where individual engineers have large impact on what gets built and how.",
+          "profile_element": "Key Strengths > Builder mindset with strong architectural thinking",
+          "note": null
+        },
+        {
+          "dimension": "technical",
+          "offer_quote": "Creating interfaces and APIs that give scientists and AI agents visibility into what's happening in the lab in real time",
+          "profile_element": "Core Technical Skills > Backend: REST APIs, GraphQL; Architecture: API design",
+          "note": null
+        }
+      ],
+      "gaps": [
+        {
+          "offer_quote": "Software Engineer, Product",
+          "note": "IC title with no Staff/Lead scope stated; below Target Roles > 1. Staff/Principal"
+        },
+        {
+          "offer_quote": "Curious about biology. No background required, but running real experiments in the physical world should excite you.",
+          "note": "No biotech or lab-automation experience in profile/context.md"
+        }
+      ],
+      "evidence_status": "full_text",
+      "date_posted": "2026-10-19",
+      "date_found": "2026-10-20",
+      "status": "new"
+    },
+    {
+      "id": "a1038f6a946e355eff3963352eea3cd0",
+      "title": "Software Engineer, Backend",
+      "company": "Adaptyv",
+      "location": "Lausanne, Vaud, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4481251882",
+      "source": "linkedin",
+      "summary": "Backend role at Adaptyv (Lausanne): Python/TS on Postgres, instrument integration and data pipelines.",
+      "score": 76,
+      "grade": "B",
+      "score_breakdown": {
+        "technical": 8,
+        "seniority": 4,
+        "location": 9,
+        "company": 9,
+        "impact": 7,
+        "mission": 8,
+        "compensation": 5,
+        "growth": 9,
+        "ai": 7,
+        "novelty": 10
+      },
+      "match_reason": "Score: 76% - Match: \"Strong experience designing and building production backend systems. We use Python and TypeScript on the backend with Postgres, but what matters is that you can architect systems that are reliable and maintainable.\" -> Core Technical Skills > Languages: TypeScript, Node.js, Python; Databases: PostgreSQL; Architecture: Service-oriented architecture",
+      "match_evidence": [
+        {
+          "dimension": "technical",
+          "offer_quote": "Strong experience designing and building production backend systems. We use Python and TypeScript on the backend with Postgres, but what matters is that you can architect systems that are reliable and maintainable.",
+          "profile_element": "Core Technical Skills > Languages: TypeScript, Node.js, Python; Databases: PostgreSQL; Architecture: Service-oriented architecture",
+          "note": null
+        },
+        {
+          "dimension": "technical",
+          "offer_quote": "Comfortable with API design and systems integration.",
+          "profile_element": "Core Technical Skills > Architecture: API design",
+          "note": null
+        },
+        {
+          "dimension": "impact",
+          "offer_quote": "High-autonomy, founder mindset.",
+          "profile_element": "Key Strengths > Engineering cofounder — built platform from zero",
+          "note": null
+        }
+      ],
+      "gaps": [
+        {
+          "offer_quote": "Experience building data pipelines and processing infrastructure.",
+          "note": "No data-pipeline work called out in profile/context.md"
+        },
+        {
+          "offer_quote": "Software Engineer, Backend",
+          "note": "IC title, no Staff/Lead scope stated"
+        }
+      ],
+      "evidence_status": "full_text",
+      "date_posted": "2026-10-19",
+      "date_found": "2026-10-20",
+      "status": "new"
+    },
+    {
+      "id": "174fcca3e8e06d940668d36c40b0de03",
+      "title": "Lead Software Engineer, AI",
+      "company": "Thomson Reuters",
+      "location": "Zug, Switzerland (hybrid)",
+      "url": "https://www.linkedin.com/jobs/view/4480287027",
+      "source": "linkedin",
+      "summary": "Lead AI Engineer on TR legal agent platform: agent infra, evals/observability, progressive delivery, RFC/ADR leadership.",
+      "score": 74,
+      "grade": "B",
+      "score_breakdown": {
+        "technical": 8,
+        "seniority": 8,
+        "location": 6,
+        "company": 4,
+        "impact": 7,
+        "mission": 7,
+        "compensation": 8,
+        "growth": 6,
+        "ai": 10,
+        "novelty": 10
+      },
+      "match_reason": "Score: 74% - Match: \"Comfort operating with high autonomy on a fast-moving, senior-heavy team that builds with AI-native/agentic engineering practices.\" -> Summary > Transitioning from traditional developer to \"Agent Manager\", multiplying team productivity by orchestrating multi-agent workflows (OpenClaw, Claude CLI)",
+      "match_evidence": [
+        {
+          "dimension": "ai",
+          "offer_quote": "Comfort operating with high autonomy on a fast-moving, senior-heavy team that builds with AI-native/agentic engineering practices.",
+          "profile_element": "Summary > Transitioning from traditional developer to \"Agent Manager\", multiplying team productivity by orchestrating multi-agent workflows (OpenClaw, Claude CLI)",
+          "note": null
+        },
+        {
+          "dimension": "seniority",
+          "offer_quote": "A track record of setting technical direction across multiple concurrent initiatives, not just delivering one project end-to-end.",
+          "profile_element": "Career Highlights > Benevity (2021–2026) — Senior Staff Engineer, cross-team architecture",
+          "note": null
+        },
+        {
+          "dimension": "technical",
+          "offer_quote": "Strong backend engineering fundamentals, including distributed systems design, service architecture, and cloud infrastructure.",
+          "profile_element": "Core Technical Skills > Architecture: Service-oriented architecture, Microservices; Cloud & Infra: AWS, Docker, Kubernetes",
+          "note": null
+        },
+        {
+          "dimension": "ai",
+          "offer_quote": "Direct experience building with modern LLM APIs, agent frameworks/SDKs, or agent-to-tool integration protocols.",
+          "profile_element": "Core Technical Skills > AI/ML: LLM integration, Multi-agent workflows",
+          "note": null
+        },
+        {
+          "dimension": "technical",
+          "offer_quote": "Experience leading architecture for developer-facing platforms, plugin/extension systems, or integration ecosystems.",
+          "profile_element": "Core Technical Skills > Architecture: Platform engineering, API design",
+          "note": null
+        }
+      ],
+      "gaps": [
+        {
+          "offer_quote": "Experience with managed agent runtime infrastructure (e.g., AWS Bedrock AgentCore or similar).",
+          "note": "AWS is listed, Bedrock AgentCore is not"
+        },
+        {
+          "offer_quote": "Domain expertise in legal, regulated, professional-services, or other fiduciary domains is a plus, but not required.",
+          "note": "No legal-domain experience in profile/context.md"
+        }
+      ],
+      "evidence_status": "full_text",
+      "date_posted": "2026-10-19",
+      "date_found": "2026-10-20",
+      "status": "new"
+    },
+    {
+      "id": "13c40b29ba81804d567c487f8e91773e",
+      "title": "Head of Delivery",
+      "company": "OneDoc",
+      "location": "Geneva / Lausanne, Switzerland (hybrid, 3 days on-site)",
+      "url": "https://www.linkedin.com/jobs/view/4455246805",
+      "source": "linkedin",
+      "summary": "OneDoc (80 people, Swiss healthtech): hands-on Head of Delivery, CTO right arm, owns release cadence and code quality.",
+      "score": 73,
+      "grade": "B",
+      "score_breakdown": {
+        "technical": 6,
+        "seniority": 8,
+        "location": 10,
+        "company": 8,
+        "impact": 7,
+        "mission": 8,
+        "compensation": 6,
+        "growth": 7,
+        "ai": 3,
+        "novelty": 10
+      },
+      "match_reason": "Score: 73% - Match: \"You are the CTO's right arm for execution.\" -> Target Roles > 3. VP Engineering / Engineering Lead (hybrid IC)",
+      "match_evidence": [
+        {
+          "dimension": "seniority",
+          "offer_quote": "You are the CTO's right arm for execution.",
+          "profile_element": "Target Roles > 3. VP Engineering / Engineering Lead (hybrid IC)",
+          "note": null
+        },
+        {
+          "dimension": "location",
+          "offer_quote": "Location: Geneva / Lausanne",
+          "profile_element": "Location Preferences > 1. Genève, Suisse",
+          "note": null
+        },
+        {
+          "dimension": "technical",
+          "offer_quote": "A strong software engineer first. You can open an unfamiliar codebase, understand it, and guide a developer to a concrete solution in the code, not on a whiteboard.",
+          "profile_element": "Summary > 17+ years of experience in software architecture, system design, and platform engineering",
+          "note": null
+        },
+        {
+          "dimension": "company",
+          "offer_quote": "OneDoc is the leading healthcare platform in Switzerland.",
+          "profile_element": "Company Preferences > Startups and scale-ups (Series A to post-acquisition); Impact-driven / purpose-driven companies",
+          "note": null
+        }
+      ],
+      "gaps": [
+        {
+          "offer_quote": "7+ years building software, with real experience leading delivery for a team, meaning you've personally been accountable for releases, not just present at standups.",
+          "note": "Release ownership is implied by Alaya Head of Technologies but not stated in profile/context.md"
+        },
+        {
+          "offer_quote": "Take-home coding exercise",
+          "note": "Process step, not a gap, but worth knowing"
+        }
+      ],
+      "evidence_status": "full_text",
+      "date_posted": "2026-10-15",
+      "date_found": "2026-10-20",
+      "status": "new"
+    },
+    {
+      "id": "4e83f585949f164e3f64d1cb50444798",
+      "title": "Principal Engineer, Operations",
+      "company": "On",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4479058129",
+      "source": "linkedin",
+      "summary": "TS/Node/Postgres principal role, but on finance and ERP platforms",
+      "score": 67,
+      "grade": "C",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-20",
+      "status": "new"
+    },
+    {
+      "id": "29c135a6dd60fdab3f3d8bb741c13bc8",
+      "title": "Lead AI Engineer – Agentic Offering",
+      "company": "AXA",
+      "location": "Winterthur, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4480975212",
+      "source": "linkedin",
+      "summary": "Agentic P&C pipelines; fluent German required, Python/LangChain/GCP",
+      "score": 66,
+      "grade": "C",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-20",
+      "status": "new"
+    },
+    {
+      "id": "80a83ebbaec7125cd13fe874863098be",
+      "title": "Senior Engineer - Machine Learning & AI Enablement",
+      "company": "Roche",
+      "location": "Basel, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4479886117",
+      "source": "linkedin",
+      "summary": "ML engineering at big pharma; ML theory/GPU focus",
+      "score": 63,
+      "grade": "C",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-20",
+      "status": "new"
+    },
+    {
+      "id": "724a83d9095cb76801b24e47568d2083",
+      "title": "Senior Software Architect, IIoT Platform (Netilion)",
+      "company": "Endress+Hauser",
+      "location": "Reinach BL, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4461239410",
+      "source": "linkedin",
+      "summary": "Platform architect role, German fluency required, IIoT",
+      "score": 62,
+      "grade": "C",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-20",
+      "status": "new"
+    },
+    {
+      "id": "099c19eaf9aea9f4ee43ec51132a36ff",
+      "title": "AI Lead, Agentic Systems- Biotech R&D",
+      "company": "Monte Rosa Therapeutics",
+      "location": "Basel, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4478463779",
+      "source": "linkedin",
+      "summary": "PhD + scientific data domain required",
+      "score": 60,
+      "grade": "C",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-20",
+      "status": "new"
+    },
+    {
+      "id": "4e6520c0e9484e2fcac1fa53af4609df",
+      "title": "Tech Lead Inventory Insights",
+      "company": "Verity",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4476446430",
+      "source": "linkedin",
+      "summary": "People-manager tech lead, CV/drone data",
+      "score": 58,
+      "grade": "C",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-20",
+      "status": "new"
+    },
+    {
+      "id": "7ca3bf762184cefa65696438ac04aa64",
+      "title": "Senior Software Engineer",
+      "company": "Corintis",
+      "location": "Lausanne, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4479550991",
+      "source": "linkedin",
+      "summary": "Python simulation software, IC",
+      "score": 57,
+      "grade": "C",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-20",
+      "status": "new"
+    },
+    {
+      "id": "de531cdaf0036a77dc8cedc5878fd033",
+      "title": "Infrastructure Software Engineer",
+      "company": "OneDoc",
+      "location": "Geneva / Lausanne, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4455244758",
+      "source": "linkedin",
+      "summary": "DevOps IC, 3+ yrs level",
+      "score": 55,
+      "grade": "C",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-20",
+      "status": "new"
+    },
+    {
+      "id": "114eef75f224a18d2e774d92d65aa3b7",
+      "title": "Senior AI Engineer",
+      "company": "Ivy Partners",
+      "location": "Geneva, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4479036661",
+      "source": "linkedin",
+      "summary": "Consulting firm",
+      "score": 52,
+      "grade": "D",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-20",
+      "status": "new"
+    },
+    {
+      "id": "676e4995ae202a52db30a34ced132a03",
+      "title": "Head of Engineering",
+      "company": "RUAG",
+      "location": "Wangen-Brüttisellen, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4477339408",
+      "source": "linkedin",
+      "summary": "Defense radar/sensor engineering, German",
+      "score": 45,
+      "grade": "D",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-20",
+      "status": "new"
+    },
+    {
+      "id": "4a0027250d149f374eac6d8a4a657fc3",
+      "title": "Head of Product Orchestration",
+      "company": "Private Flight",
+      "location": "Zug, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4476451392",
+      "source": "linkedin",
+      "summary": "Product orchestration, not engineering",
+      "score": 48,
+      "grade": "D",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-20",
+      "status": "new"
+    },
+    {
+      "id": "6ef9d0ec359b03c5848def986c767b9f",
+      "title": "Founding Research Engineer",
+      "company": "KIIO",
+      "location": "Lugano, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4479050200",
+      "source": "linkedin",
+      "summary": "ML research on dynamical systems, entry level",
+      "score": 47,
+      "grade": "D",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-20",
+      "status": "new"
+    },
+    {
+      "id": "773c3ade58051e39255060ff95e4f701",
+      "title": "Software Architect",
+      "company": "Kandou AI",
+      "location": "Saint-Sulpice, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4480956177",
+      "source": "linkedin",
+      "summary": "Hardware interconnect firmware (CMIS)",
+      "score": 35,
+      "grade": "F",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-20",
+      "status": "new"
+    },
+    {
+      "id": "c5a46d9162ded1f658e8dfb1a4d5577a",
+      "title": "Staff Engineer, Imunify360",
+      "company": "CloudLinux",
+      "location": "Remote (global)",
+      "url": "https://www.linkedin.com/jobs/view/4478278018",
+      "source": "linkedin",
+      "summary": "Python/Go security product, remote across time zones",
+      "score": 56,
+      "grade": "C",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-20",
+      "status": "new"
+    },
+    {
+      "id": "b667f114c474ffc9eb7901cc534d6dac",
+      "title": "Founding Cloud Engineer (FinOps x AI)",
+      "company": "Built Different",
+      "location": "Amsterdam (remote or hybrid)",
+      "url": "https://www.linkedin.com/jobs/view/4480349272",
+      "source": "linkedin",
+      "summary": "Excluded: Amsterdam HQ, remote scope not stated as Europe-wide; ambiguous",
+      "score": null,
+      "grade": "excluded",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-20",
+      "status": "excluded"
+    },
+    {
+      "id": "49a7ed6c10895d2f62ddd31082d8e662",
+      "title": "Staff Full-stack Product Engineer",
+      "company": "Productboard",
+      "location": "Prague, Czechia",
+      "url": "https://www.linkedin.com/jobs/view/4481299272",
+      "source": "linkedin",
+      "summary": "Excluded: on-site Prague with relocation",
+      "score": null,
+      "grade": "excluded",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-20",
+      "status": "excluded"
+    },
+    {
+      "id": "33ddc54bd695b852ec06658cca375d87",
+      "title": "Senior Software Engineer, Inference",
+      "company": "AssemblyAI",
+      "location": "Remote (US pay range)",
+      "url": "https://www.linkedin.com/jobs/view/4480910356",
+      "source": "linkedin",
+      "summary": "Excluded: US remote",
+      "score": null,
+      "grade": "excluded",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-20",
+      "status": "excluded"
+    },
+    {
+      "id": "2354aaa933290b9da9be36bc893b8b1c",
+      "title": "Director of Software Engineering (Federal Health)",
+      "company": "Commence",
+      "location": "Remote (US)",
+      "url": "https://www.linkedin.com/jobs/view/4469075587",
+      "source": "linkedin",
+      "summary": "Excluded: US federal health",
+      "score": null,
+      "grade": "excluded",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-20",
+      "status": "excluded"
     }
   ]
 }
