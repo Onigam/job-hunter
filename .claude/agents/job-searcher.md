@@ -49,24 +49,17 @@ blocks it. Paste the literal value directly into the curl command.
 8. `keywords=Staff%20Engineer%20remote` (no geoId filter)
 9. `keywords=Staff%20Engineer%20part-time` + geoId Geneva (50% / part-time)
 10. `keywords=CTO%20part-time` OR `keywords=fractional%20CTO` + geoId Geneva
-11. `keywords=Ingénieur` + geoId Geneva (offres en français, souvent moins concurrencées)
+11. `keywords=Ingénieur` + geoId Geneva (offres en français D'ENTREPRISES SUISSES — PAS d'offres situées en France)
 12. `keywords=Lead%20Engineer` OR `keywords=Principal%20Engineer` + geoId Geneva
 
-### 1b. Bassin genevois côté français (PRIORITY ZONE)
+### 1b. Filtre géographique strict (Suisse uniquement)
 
-Le bassin genevois inclut la zone frontalière française, viable en croisement frontalier.
-Ces zones n'ont pas toujours de geoId LinkedIn fiable : utiliser des recherches par
-mot-clé avec `keywords` (sans geoId) ou via WebSearch :
-
-- `keywords=Engineer%20Annemasse`
-- `keywords=Engineer%20Saint-Julien-en-Genevois`
-- `keywords=Engineer%20Ferney-Voltaire`
-- `keywords=Engineer%20Pays%20de%20Gex`
-- `keywords=Ingénieur%20Haute-Savoie`
-- WebSearch : `"Genève" OR "Annemasse" OR "Saint-Julien" OR "Ferney" site:indeed.com`,
-  `site:jobup.ch "Genève"`, `"bassin genevois" ingénieur`, `"Haute-Savoie" (CTO OR Staff OR Lead)`
-
-Ces offres sont priorité haute, au même niveau que Genève ville.
+Le bassin de recherche s'arrête à la frontière suisse. **Aucune offre située en
+France** ne doit être incluse, même dans le bassin genevois (Annemasse,
+Saint-Julien-en-Genevois, Ferney-Voltaire, Pays de Gex, Haute-Savoie) :
+- Vérifier la ville dans chaque résultat ; filtrer explicitement les villes françaises
+- Les offres "Remote" doivent préciser le pays ; un "Remote" ambigu est marqué
+  `location: ambiguous` et pénalisé au scoring, jamais rattaché à la Suisse par défaut
 
 **Parsing LinkedIn response:**
 The response is JSON. Look for job cards in the `elements` array. Each card contains:
@@ -149,14 +142,16 @@ In the output JSON, add a `"part_time": true` flag for any role that is explicit
 - Aim for 25-40 raw results before dedup and filtering (le bassin genevois est étroit : élargir le volume de recherche, pas la zone)
 - Always include the direct URL to the job posting
 
-### Offres à exclure (trop lointaines)
+### Offres à exclure (trop lointaines ou hors zone)
 
 Exclure du résultat final toute offre dont le lieu est :
-- On-site ou hybride **hors Suisse** (Berlin, Munich, Paris, Amsterdam, Dublin,
+- **En France** (Annemasse, Saint-Julien-en-Genevois, Ferney-Voltaire, Pays de Gex,
+  Haute-Savoie, Paris, etc.) — aucune exception, même « bassin genevois »
+- On-site ou hybride **hors Suisse** (Berlin, Munich, Amsterdam, Dublin,
   Copenhague, Stockholm, USA, etc.) — sauf si l'offre est **fully remote Europe**
 - On-site aux **USA** ou hors d'Europe, même en remote « US-friendly » (timezone incompatible)
-- Une ville suisse hors bassin genevois reste OK (Lausanne, Zurich, Valais) mais avec
-  une priorité moindre que Genève et le bassin genevois côté français
+- Une ville suisse hors Genève/Vaud reste OK (Valais, Zurich, Berne) mais avec
+  une priorité moindre que Genève et le canton de Vaud
 
 En cas de doute sur la localisation (ville ambiguë, « Remote » non précisé), garder
 l'offre mais la marquer `location: ambiguous` pour que le scoring la pénalise légèrement.

@@ -15,8 +15,7 @@ No LinkedIn cookie? Use web search only (Indeed, SwissDevJobs, Wellfound, Linked
 Run at minimum 8 different searches covering:
 - Staff/Principal/Platform Engineer **Genève (geoId Geneva)**
 - Staff/Principal/Platform Engineer **geoId Switzerland** (tout le pays : Lausanne, Zurich, Berne, Bâle, Valais — la Suisse entière est prioritaire)
-- Bassin genevois côté français : Annemasse, Saint-Julien-en-Genevois, Ferney-Voltaire, Pays de Gex, Haute-Savoie
-- Ingénieur / Lead / Principal **en français** sur Genève (offres FR moins concurrencées)
+- Ingénieur / Lead / Principal **en français** sur Genève (offres FR de la langue, entreprises suisses — PAS d'offres situées en France)
 - Founding Engineer / First Engineer startup + geoId Switzerland ou Geneva
 - VP Engineering / Head of Engineering Geneva ou Switzerland
 - CTO early-stage startup Switzerland
@@ -25,10 +24,14 @@ Run at minimum 8 different searches covering:
 
 Aim for 25–40 raw results (le bassin genevois est étroit : augmenter le volume de recherches, pas la zone).
 
-**Priorité Suisse :** toute annonce située en Suisse (Genève, bassin genevois côté
-français, Suisse Romande, Zurich et reste du pays) passe AVANT toute annonce remote
-Europe, même avec un score technique légèrement inférieur. Dans le rapport final,
-les offres suisses sont listées en premier.
+**Priorité Suisse :** toute annonce située en Suisse (Genève, Vaud, Suisse Romande,
+Zurich et reste du pays) passe AVANT toute annonce remote Europe, même avec un score
+technique légèrement inférieur. Dans le rapport final, les offres suisses sont listées
+en premier.
+
+**Interdiction :** aucune offre située en France (Annemasse, Saint-Julien-en-Genevois,
+Ferney-Voltaire, Pays de Gex, Haute-Savoie...) — même « bassin genevois ». Filtrer
+explicitement les résultats dont la ville est en France.
 
 **Exclusion obligatoire (offres trop lointaines) :** exclure du rapport toute offre
 on-site ou hybride hors de la Suisse (Berlin, Paris, Munich, Amsterdam, Dublin, USA,

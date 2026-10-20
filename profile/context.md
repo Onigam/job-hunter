@@ -44,10 +44,10 @@ Transitioning from traditional developer to "Agent Manager", multiplying team pr
 
 ## Location Preferences (Priority Order)
 1. **Genève, Suisse** — Priorité maximale
-2. **Bassin genevois + vaudois** — Priorité maximale : côté français (Saint-Julien-en-Genevois, Annemasse, Ferney-Voltaire, Pays de Gex, Archamps, Haute-Savoie proche, croisement frontalier OK) **et** canton de Vaud (Lausanne, Nyon, Morges, Yverdon)
+2. **Canton de Vaud** (Lausanne, Nyon, Morges, Yverdon) — Priorité maximale
 3. **Reste de la Suisse** (Valais, Neuchâtel, Fribourg, Berne, Zurich, Bâle, etc.) — Haute priorité : toute annonce en Suisse passe avant une annonce remote
 4. **Remote Europe** (timezone CET compatible) — Priorité moyenne, seulement si aucune option suisse
-5. **Exclure** : on-site ou hybride hors de Suisse (Paris, Berlin, Amsterdam, Dublin, USA, etc.), même à bon score. Remote hors Europe (US-friendly) = exclu.
+5. **Exclure** : toute annonce située en France (Annemasse, Saint-Julien-en-Genevois, Ferney-Voltaire, Pays de Gex, Haute-Savoie...) — le bassin genevois s'arrête à la frontière suisse. Aussi exclure : on-site ou hybride hors de Suisse (Paris, Berlin, Amsterdam, Dublin, USA, etc.), même à bon score. Remote hors Europe (US-friendly) = exclu.
 
 ## Company Preferences
 - Startups and scale-ups (Series A to post-acquisition)
