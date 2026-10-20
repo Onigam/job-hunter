@@ -1,0 +1,377 @@
+{
+  "date": "2026-10-20",
+  "total_searched": 318,
+  "new_offers": 32,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Founding Product Engineer",
+      "company": "Axion Lab",
+      "location": "Remote-first EU (Paris / Luxembourg / Amsterdam work weeks)",
+      "url": "https://www.linkedin.com/jobs/view/4481542772",
+      "score": 81,
+      "grade": "B",
+      "match_reason": "Score: 81% - Match: \"As our first full-time engineer, you will be the technical owner of Axion Lab.\" -> Career Highlights > Alaya (2016–2021) — Cofounder & Head of Technologies, Built entire platform from zero, scaled to acquisition by Benevity; Target Roles > 2. Founding Engineer / First Engineer",
+      "match_evidence": [
+        {
+          "dimension": "impact",
+          "offer_quote": "As our first full-time engineer, you will be the technical owner of Axion Lab.",
+          "profile_element": "Career Highlights > Alaya (2016–2021) — Cofounder & Head of Technologies, Built entire platform from zero, scaled to acquisition by Benevity; Target Roles > 2. Founding Engineer / First Engineer",
+          "note": null
+        },
+        {
+          "dimension": "ai",
+          "offer_quote": "A major part of the role is turning experimental AI workflows into reliable production systems: agent orchestration, evals, quality gates, structured data, traceability, expert review flows and operational reliability.",
+          "profile_element": "Core Technical Skills > AI/ML: LLM integration, Multi-agent workflows; Summary > Transitioning from traditional developer to \"Agent Manager\", multiplying team productivity by orchestrating multi-agent workflows (OpenClaw, Claude CLI)",
+          "note": null
+        },
+        {
+          "dimension": "technical",
+          "offer_quote": "You’ll define and evolve the architecture, infrastructure, testing, observability, security, CI/CD and engineering standards behind both our client-facing platform and the internal AI systems used to deliver live client work.",
+          "profile_element": "Core Technical Skills > Architecture: Platform engineering, API design; Cloud & Infra: AWS, Docker, Kubernetes, CI/CD",
+          "note": "The posting names no specific language or cloud"
+        },
+        {
+          "dimension": "location",
+          "offer_quote": "We are remote-first with occasional collaborative work weeks in Paris, Luxembourg or Amsterdam.",
+          "profile_element": "Location Preferences > 3. Remote (Europe-friendly timezone)",
+          "note": null
+        },
+        {
+          "dimension": "mission",
+          "offer_quote": "Our work already spans value creation, due diligence, decarbonisation, financing and sustainability reporting for portfolio companies across Europe and beyond.",
+          "profile_element": "Company Preferences > Impact-driven / purpose-driven companies; AI/ML or developer tools companies",
+          "note": null
+        },
+        {
+          "dimension": "compensation",
+          "offer_quote": "Real ownership: high-equity founding role with 4-year vesting, 6-month cliff",
+          "profile_element": "Compensation > Open to discussion based on role and equity",
+          "note": "No salary range given"
+        }
+      ],
+      "gaps": [
+        {
+          "offer_quote": "Prior exposure to enterprise-grade data quality, audit, or reporting systems used in regulated industries (finance, energy, insurance, etc.).",
+          "note": "Listed as a bonus; no regulated-industry reporting experience in profile/context.md"
+        },
+        {
+          "offer_quote": "Huge hands-on experience in LLM-based systems (agents, eval tooling, RAG workflows, etc.)",
+          "note": "Profile lists LLM integration, multi-agent workflows and semantic search; eval tooling is not mentioned explicitly"
+        }
+      ],
+      "evidence_status": "full_text",
+      "why": "Two cofounders, no engineer yet: the first hire owns the whole architecture and turns their agent workflows into production systems, which is basically a replay of Alaya with an AI core. Sustainability and value-creation work for private-market funds fits the impact angle, and the role is remote-first in Europe.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Chief Product & Technology Officer",
+      "company": "Everlife Prévoyance funéraire",
+      "location": "Villars-sur-Glâne, Fribourg, Switzerland (hybrid, 2 remote days/week)",
+      "url": "https://www.linkedin.com/jobs/view/4480345897",
+      "score": 79,
+      "grade": "B",
+      "match_reason": "Score: 79% - Match: \"En tant que CPTO, vous prenez la direction du pôle produit et technologie d’Everlife, aujourd’hui constitué de deux développeurs en Suisse, et vous le développez.\" -> Target Roles > 4. CTO (early-stage startup); Career Highlights > Alaya (2016–2021) — Cofounder & Head of Technologies, Built entire platform from zero, scaled to acquisition by Benevity",
+      "match_evidence": [
+        {
+          "dimension": "seniority",
+          "offer_quote": "En tant que CPTO, vous prenez la direction du pôle produit et technologie d’Everlife, aujourd’hui constitué de deux développeurs en Suisse, et vous le développez.",
+          "profile_element": "Target Roles > 4. CTO (early-stage startup); Career Highlights > Alaya (2016–2021) — Cofounder & Head of Technologies, Built entire platform from zero, scaled to acquisition by Benevity",
+          "note": null
+        },
+        {
+          "dimension": "ai",
+          "offer_quote": "Vous avez dirigé des équipes pluridisciplinaires et su industrialiser le développement assisté par l'IA à l'échelle d'une équipe, en maîtrisant ses effets sur la cohérence de l'architecture.",
+          "profile_element": "Summary > Transitioning from traditional developer to \"Agent Manager\", multiplying team productivity by orchestrating multi-agent workflows (OpenClaw, Claude CLI); Key Strengths > AI-augmented engineering pioneer",
+          "note": null
+        },
+        {
+          "dimension": "ai",
+          "offer_quote": "Déployez l'IA dans les opérations et le développement, et veillez à son bon usage.",
+          "profile_element": "Key Strengths > AI-augmented engineering pioneer; Core Technical Skills > AI/ML: LLM integration",
+          "note": null
+        },
+        {
+          "dimension": "technical",
+          "offer_quote": "Intégrez nos services à l'offre d'institutionnels via des API ou un contrôle d'accès sur leurs SSO.",
+          "profile_element": "Core Technical Skills > Backend: REST APIs, GraphQL, Microservices; Architecture: API design",
+          "note": null
+        },
+        {
+          "dimension": "impact",
+          "offer_quote": "Concevez, avec l'équipe, une architecture modulaire qui encadre l'innovation produit en permettant à une scale-up comme la nôtre de garder un code sain tout en restant agile sur son marché.",
+          "profile_element": "Core Technical Skills > Architecture: Platform engineering, Service-oriented architecture",
+          "note": null
+        },
+        {
+          "dimension": "location",
+          "offer_quote": "Des bureaux à Fribourg (Suisse) et du télétravail possible 2 jours par semaine.",
+          "profile_element": "Location Preferences > 2. Switzerland (other cities)",
+          "note": "3 office days a week in Fribourg, about 1h20 by train from Geneva"
+        },
+        {
+          "dimension": "mission",
+          "offer_quote": "Un travail utile qui soulage concrètement des familles.",
+          "profile_element": "Company Preferences > Impact-driven / purpose-driven companies",
+          "note": null
+        }
+      ],
+      "gaps": [
+        {
+          "offer_quote": "Elle s'appuie notamment sur PHP / Laravel et une base MariaDB hébergée en Suisse, et une quinzaine de services externes y sont connectés.",
+          "note": "PHP, Laravel and MariaDB are not in profile/context.md"
+        },
+        {
+          "offer_quote": "Vous parlez couramment français et avez un très bon niveau d'anglais technique.",
+          "note": "Spoken languages are not listed in profile/context.md"
+        },
+        {
+          "offer_quote": "Seraient également appréciés une expérience dans l'assurance, la prévoyance, la banque ou la santé",
+          "note": "No insurance, pension, banking or health experience in profile"
+        }
+      ],
+      "evidence_status": "full_text",
+      "why": "It's a real CPTO seat on the leadership team of a 25-person Swiss scale-up. You start close to the code with two developers, then build the team, and the brief explicitly asks for someone who has industrialised AI-assisted development across a team. Purpose-driven product, Romandie, and the Alaya story answers almost every line of the profile section.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Founding AI Engineer",
+      "company": "Planeco Building",
+      "location": "Lisbon or Remote (Europe)",
+      "url": "https://www.linkedin.com/jobs/view/4478062850",
+      "score": 77,
+      "grade": "B",
+      "match_reason": "Score: 77% - Match: \"work across the stack: TypeScript, JavaScript, React on the front, APIs, Node.js and Postgres on the back.\" -> Core Technical Skills > Languages: TypeScript, JavaScript, Node.js; Frontend: React; Databases: PostgreSQL",
+      "match_evidence": [
+        {
+          "dimension": "technical",
+          "offer_quote": "work across the stack: TypeScript, JavaScript, React on the front, APIs, Node.js and Postgres on the back.",
+          "profile_element": "Core Technical Skills > Languages: TypeScript, JavaScript, Node.js; Frontend: React; Databases: PostgreSQL",
+          "note": null
+        },
+        {
+          "dimension": "ai",
+          "offer_quote": "have built the whole body of an agent, not one limb: retrieval and RAG (vector and semantic search), MCP, tool calling, evals.",
+          "profile_element": "Core Technical Skills > AI/ML: LLM integration, Multi-agent workflows, Semantic search, Embeddings",
+          "note": null
+        },
+        {
+          "dimension": "ai",
+          "offer_quote": "are at home driving models from the CLI and treat Claude Code or Cursor as daily tools.",
+          "profile_element": "Summary > Transitioning from traditional developer to \"Agent Manager\", multiplying team productivity by orchestrating multi-agent workflows (OpenClaw, Claude CLI)",
+          "note": null
+        },
+        {
+          "dimension": "impact",
+          "offer_quote": "Real greenfield: No legacy system, no inherited codebase. You set the standards for how this product gets built.",
+          "profile_element": "Career Highlights > Alaya (2016–2021) — Cofounder & Head of Technologies, Built entire platform from zero, scaled to acquisition by Benevity",
+          "note": null
+        },
+        {
+          "dimension": "location",
+          "offer_quote": "Lisbon or remote: Work from our office in central Lisbon, where our chef cooks lunch and dinner three times a week, or remote from anywhere in Europe.",
+          "profile_element": "Location Preferences > 3. Remote (Europe-friendly timezone)",
+          "note": null
+        },
+        {
+          "dimension": "growth",
+          "offer_quote": "Profitable with a run rate over €10M",
+          "profile_element": "Company Preferences > Startups and scale-ups (Series A to post-acquisition)",
+          "note": "Bootstrapped, 15–20% MoM per the posting"
+        }
+      ],
+      "gaps": [
+        {
+          "offer_quote": "have a portfolio we can look at. Send us a GitHub link and one sentence about what you built yourself.",
+          "note": "GitHub (Onigam) is listed, but profile/context.md does not describe a public portfolio"
+        },
+        {
+          "offer_quote": "Founding AI Engineer",
+          "note": "LinkedIn tags the role 'Associate'; title is IC, not Staff+ or lead"
+        }
+      ],
+      "evidence_status": "full_text",
+      "why": "The stack is exactly Magino's (TypeScript, React, Node, Postgres) and the work is an agent runtime with MCP, RAG and evals on a greenfield product. Planeco is a bootstrapped, profitable German construction-planning company with a €10M+ run rate, and the role can be done remotely from Europe.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Software Engineer - Pirate & Architect",
+      "company": "Coresystems AG",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4477743577",
+      "score": 76,
+      "grade": "B",
+      "match_reason": "Score: 76% - Match: \"Agentic coding with a firm hand — you let agents code for you, but you keep them on a short leash: strict architecture guidelines, clean design patterns, no sprawl\" -> Summary > Transitioning from traditional developer to \"Agent Manager\", multiplying team productivity by orchestrating multi-agent workflows (OpenClaw, Claude CLI); Summary > structuring technical context",
+      "match_evidence": [
+        {
+          "dimension": "ai",
+          "offer_quote": "Agentic coding with a firm hand — you let agents code for you, but you keep them on a short leash: strict architecture guidelines, clean design patterns, no sprawl",
+          "profile_element": "Summary > Transitioning from traditional developer to \"Agent Manager\", multiplying team productivity by orchestrating multi-agent workflows (OpenClaw, Claude CLI); Summary > structuring technical context",
+          "note": null
+        },
+        {
+          "dimension": "technical",
+          "offer_quote": "Shipping features end to end — the React screen, the Python service behind it, and the AWS infrastructure it runs on",
+          "profile_element": "Core Technical Skills > Frontend: React; Languages: Python; Cloud & Infra: AWS",
+          "note": null
+        },
+        {
+          "dimension": "ai",
+          "offer_quote": "Building and maintaining AI agentic workflows — on industry-standard frameworks, with the same architectural discipline you would apply to any other production system",
+          "profile_element": "Core Technical Skills > AI/ML: Multi-agent workflows, LLM integration",
+          "note": null
+        },
+        {
+          "dimension": "impact",
+          "offer_quote": "Shape and own the technical architecture as the company scales",
+          "profile_element": "Core Technical Skills > Architecture: Platform engineering, Service-oriented architecture, Microservices; Career Highlights > Benevity (2021–2026) — Senior Staff Engineer, Platform evolution post-acquisition, cross-team architecture, AI-assisted engineering practices",
+          "note": null
+        },
+        {
+          "dimension": "seniority",
+          "offer_quote": "Multiple years of experience as a software engineer, ideally with ownership of architecture decisions",
+          "profile_element": "Career Highlights > Benevity (2021–2026) — Senior Staff Engineer, Platform evolution post-acquisition, cross-team architecture, AI-assisted engineering practices",
+          "note": null
+        }
+      ],
+      "gaps": [
+        {
+          "offer_quote": "Software Engineer - Pirate & Architect",
+          "note": "Title is not Staff/Principal and LinkedIn tags it 'Associate'; level and pay need checking"
+        },
+        {
+          "offer_quote": "Integrating with our customers’ systems — real business data from real enterprise landscapes, rarely clean and never twice the same",
+          "note": "No enterprise-integration experience called out in profile/context.md"
+        }
+      ],
+      "evidence_status": "full_text",
+      "why": "The posting reads like Magino's Agent Manager pitch: let agents write the code, but within strict architecture guidelines, with ownership of the architecture as the company grows. The stack is React, Python and AWS, and the role is in Zurich. The title is junior, so the level needs checking early.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Founding Engineer - Remote or Hybrid (UK/EU)",
+      "company": "Tarebase",
+      "location": "Remote Europe (GMT-1 to GMT+3) / Munich / London",
+      "url": "https://www.linkedin.com/jobs/view/4480360590",
+      "score": 76,
+      "grade": "B",
+      "match_reason": "Score: 76% - Match: \"As our first employee, you'd have a real say in both the product and the engineering decisions behind it.\" -> Career Highlights > Alaya (2016–2021) — Cofounder & Head of Technologies, Built entire platform from zero, scaled to acquisition by Benevity; Target Roles > 2. Founding Engineer / First Engineer",
+      "match_evidence": [
+        {
+          "dimension": "impact",
+          "offer_quote": "As our first employee, you'd have a real say in both the product and the engineering decisions behind it.",
+          "profile_element": "Career Highlights > Alaya (2016–2021) — Cofounder & Head of Technologies, Built entire platform from zero, scaled to acquisition by Benevity; Target Roles > 2. Founding Engineer / First Engineer",
+          "note": null
+        },
+        {
+          "dimension": "technical",
+          "offer_quote": "You'll work mostly in Rust and TypeScript, across the full stack: data engineering, AI, backend, frontend, infrastructure and deployment.",
+          "profile_element": "Core Technical Skills > Languages: TypeScript, Node.js",
+          "note": "TypeScript matches; Rust does not"
+        },
+        {
+          "dimension": "ai",
+          "offer_quote": "You use coding agents effectively, but stay close to the code.",
+          "profile_element": "Key Strengths > AI-augmented engineering pioneer; Summary > Transitioning from traditional developer to \"Agent Manager\", multiplying team productivity by orchestrating multi-agent workflows (OpenClaw, Claude CLI)",
+          "note": null
+        },
+        {
+          "dimension": "compensation",
+          "offer_quote": "Compensation: €100.000–120.000 base salary plus 0.75–1% equity",
+          "profile_element": "Compensation > Open to discussion based on role and equity",
+          "note": null
+        },
+        {
+          "dimension": "location",
+          "offer_quote": "Location: Munich or London, or remote within Europe (GMT-1 to GMT+3) with regular meet-ups.",
+          "profile_element": "Location Preferences > 3. Remote (Europe-friendly timezone)",
+          "note": null
+        },
+        {
+          "dimension": "growth",
+          "offer_quote": "We have just closed our pre-seed funding round with a top European VC and we are now looking for a founding engineer to build Tare with us.",
+          "profile_element": "Company Preferences > Startups and scale-ups (Series A to post-acquisition)",
+          "note": "Pre-seed is earlier than the Series A floor in the profile"
+        }
+      ],
+      "gaps": [
+        {
+          "offer_quote": "You'll work mostly in Rust and TypeScript",
+          "note": "Rust is not in profile/context.md"
+        },
+        {
+          "offer_quote": "Compensation: €100.000–120.000 base salary plus 0.75–1% equity",
+          "note": "Below Geneva market rates (Compensation > Geneva market rates expected for local positions)"
+        }
+      ],
+      "evidence_status": "full_text",
+      "why": "First employee alongside a former Raycast founding engineer, building agentic plus deterministic logistics software for SMEs, remote within Europe. Pay is transparent (€100–120k plus up to 1% equity). The catch is Rust, which half the codebase uses.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 6,
+      "title": "Staff / Principal Software Engineer, Platform",
+      "company": "Lovable",
+      "location": "Stockholm, Sweden (on-site 5 days/week)",
+      "url": "https://www.linkedin.com/jobs/view/4414708154",
+      "score": 76,
+      "grade": "B",
+      "match_reason": "Score: 76% - Match: \"10+ years in platform, infrastructure, or developer experience engineering, with a track record operating at senior engineering levels.\" -> Summary > 17+ years of experience in software architecture, system design, and platform engineering; Career Highlights > Benevity (2021–2026) — Senior Staff Engineer, Platform evolution post-acquisition, cross-team architecture, AI-assisted engineering practices",
+      "match_evidence": [
+        {
+          "dimension": "seniority",
+          "offer_quote": "10+ years in platform, infrastructure, or developer experience engineering, with a track record operating at senior engineering levels.",
+          "profile_element": "Summary > 17+ years of experience in software architecture, system design, and platform engineering; Career Highlights > Benevity (2021–2026) — Senior Staff Engineer, Platform evolution post-acquisition, cross-team architecture, AI-assisted engineering practices",
+          "note": null
+        },
+        {
+          "dimension": "ai",
+          "offer_quote": "Integrate tools for AI-driven development across the engineering org.",
+          "profile_element": "Key Strengths > AI-augmented engineering pioneer; Summary > Transitioning from traditional developer to \"Agent Manager\", multiplying team productivity by orchestrating multi-agent workflows (OpenClaw, Claude CLI)",
+          "note": null
+        },
+        {
+          "dimension": "impact",
+          "offer_quote": "Bring order and structure to our codebase; integrate or build application frameworks to support a growing engineering organisation.",
+          "profile_element": "Target Roles > 1. Staff/Principal Platform Engineer; Core Technical Skills > Architecture: Platform engineering",
+          "note": null
+        },
+        {
+          "dimension": "technical",
+          "offer_quote": "Solid working knowledge of Docker, Kubernetes, and modern infrastructure practices",
+          "profile_element": "Core Technical Skills > Cloud & Infra: AWS, Docker, Kubernetes, CI/CD",
+          "note": null
+        },
+        {
+          "dimension": "technical",
+          "offer_quote": "Frontend: React and Typescript.",
+          "profile_element": "Core Technical Skills > Frontend: React; Languages: TypeScript",
+          "note": null
+        }
+      ],
+      "gaps": [
+        {
+          "offer_quote": "Strong proficiency in at least one systems-oriented language (Go, Rust, C++, or similar)",
+          "note": "Go, Rust and C++ are not in profile/context.md"
+        },
+        {
+          "offer_quote": "You're based in Stockholm or ready to relocate — this is an on-site, 5-days-a-week role.",
+          "note": "Location Preferences rank Geneva first; full on-site relocation to Stockholm is a big ask"
+        }
+      ],
+      "evidence_status": "full_text",
+      "why": "Lovable is one of Europe's fastest-growing AI companies, and this staff/principal platform role owns the developer platform and the rollout of AI-driven development across the engineering org. On paper it's a top-tier fit, but it requires 5 days a week on-site in Stockholm plus Go or Rust.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
