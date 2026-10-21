@@ -8,11 +8,11 @@ Forward deployed interviews tend to circle the same questions: can you get dropp
 
 **Likely questions:** "Tell me about something you built from scratch." "How do you handle ambiguity?" "Why a founding role?"
 
-**Situation.** In 2016 I co-founded Alaya, an employee purpose and engagement platform. There was no product, no customers and no codebase, just a business partner who was already talking to enterprise prospects.
+**Situation.** In 2016 I co-founded Alaya, an employee purpose and engagement platform. There was no product, no customers and no codebase, and the business side was already going after its first enterprise clients.
 
 **Task.** My job was to build the whole platform, on my own at first, while the business side was signing the first clients. Whatever I built had to be demo-ready quickly and still hold up once real companies started running their employees through it.
 
-**Action.** I picked a stack I knew would carry us without heroics, Node.js, React and PostgreSQL, and got the core features to a demo-able state in roughly three months. From there the product grew in whatever direction the clients pulled it: multi-tenancy, an API layer that enterprise clients could integrate against, impact reporting, even postal campaigns. Once there was enough revenue I hired and onboarded the first three engineers, and set up CI/CD, code review habits and architecture docs so they weren't depending on what was in my head.
+**Action.** I picked a stack I knew would carry us without heroics, Node.js, React and PostgreSQL, and got the core features to a demo-able state in roughly three months. From there the product grew in whatever direction the clients pulled it: multi-tenancy, an API layer, impact reporting, even postal campaigns. As the client base grew I hired and onboarded the first three engineers, and set up CI/CD, code review habits and architecture docs so they weren't depending on what was in my head.
 
 **Result.** The platform reached 50+ enterprise clients across Switzerland and France, and Benevity, a Canadian unicorn valued above $1B, acquired us in 2021. The technical decisions from the first months were still in production at the time of the acquisition.
 
@@ -44,11 +44,11 @@ Forward deployed interviews tend to circle the same questions: can you get dropp
 
 **Task.** Change how roughly two teams' worth of engineers worked, without any authority to tell them to.
 
-**Action.** I didn't try to convince everyone at once. Three engineers were already curious, so I started with them and paired on their real tickets rather than toy examples. I built small internal demos that showed actual time saved, ran informal lunch sessions where I mostly just worked live in front of people, and put reusable prompt templates in a shared repo so nobody had to start from zero. When someone saved a couple of hours on a PR review cycle, I wrote it down and shared it, because a colleague's result is more convincing than mine.
+**Action.** I didn't try to convince everyone at once. Three engineers were already curious, so I started with them and showed the tooling on real work rather than toy examples. I built small internal demos that showed actual time saved, ran informal lunch sessions where I mostly just worked live in front of people, and put reusable prompt templates in a shared repo so nobody had to start from zero. When someone saved a couple of hours on a PR review cycle, I wrote it down and shared it, because a colleague's result is more convincing than mine.
 
 **Result.** Within about three months, ~70% of engineers on both teams were using AI-assisted code review and generation, and I ended up as the informal AI tooling lead for the org.
 
-**Reflection.** It was slower than a top-down rollout would have been, but it stuck, because the people who adopted it on their own terms became the ones advocating for it. That's very close to what a forward deployed engineer does with a customer's team: live pairing on their actual problem is what moves an evaluation into production, not a slide deck.
+**Reflection.** It was slower than a top-down rollout would have been, but it stuck, because the people who adopted it on their own terms became the ones advocating for it. That's very close to what a forward deployed engineer does with a customer's team: working live on their actual problem is what moves an evaluation into production, not a slide deck.
 
 ---
 
@@ -56,7 +56,7 @@ Forward deployed interviews tend to circle the same questions: can you get dropp
 
 **Likely questions:** "Tell me about a trade-off you made." "How do you decide what goes on the roadmap?" "Tell me about pushing back on stakeholders."
 
-**Situation.** At Alaya the monolith had started to crack under load. Half the team wanted a full microservices rewrite, and the investors wanted new features, not a rewrite.
+**Situation.** At Alaya the monolith had started to crack under load. The team was split between a full microservices rewrite and a modular monolith, and the investors wanted new features, not a rewrite.
 
 **Task.** I needed a decision I could defend to both camps, one that fixed the real scaling problem without freezing delivery for months.
 

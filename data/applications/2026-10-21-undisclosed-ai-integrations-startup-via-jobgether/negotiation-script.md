@@ -4,7 +4,7 @@
 
 - Compensation listed: **USD 120k to 200k** base, "depending on experience".
 - Equity listed: **0.05% to 0.15%**.
-- Remote-first, hiring across Canada, the US and Europe. The body of the posting says the role is based in Switzerland, while the header shows Moses Lake, WA. Clarify this early, because it changes who employs you and how you're paid.
+- Remote-first, hiring across Canada, the US and Europe. The body of the posting says the role is based in Switzerland, while the LinkedIn header shows Chicago, IL (an earlier version showed Moses Lake, WA). Clarify this early, because it changes who employs you and how you're paid.
 - Jobgether is an intermediary. It shortlists candidates and the startup runs the interviews and makes the offer. Don't discuss numbers in depth with Jobgether; save that for the company.
 
 ## Questions to ask before any number comes up
@@ -60,7 +60,7 @@ If they say the band is fixed:
 
 If they bring up the lack of a customer-facing title:
 
-"Fair point. I've been upfront about that. What I bring is the part that's hard to train: I've built an API platform that enterprise clients integrated against, I've worked inside an acquirer's much larger system, and I've moved two teams onto new tooling through live pairing. Getting comfortable with the call cadence takes a few weeks. Integration and architecture judgement takes years."
+"Fair point. I've been upfront about that. What I bring is the part that's hard to train: I built a platform from zero, API layer included, that 50+ enterprise clients ran on, I've worked inside an acquirer's much larger system, and I've moved two teams onto new tooling through live demos and no mandate. Getting comfortable with the call cadence takes a few weeks. Integration and architecture judgement takes years."
 
 ## Geographic discount pushback
 

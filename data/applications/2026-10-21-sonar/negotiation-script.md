@@ -2,7 +2,7 @@
 
 ## Context worth knowing before the first call
 
-Sonar (SonarSource) was founded in Geneva and still runs a hub there. The posting says the company is profitable with over $400M in revenue, and it's privately held, so this isn't an early-stage startup where equity is most of the package. Expect a structured salary grid, an annual bonus, and possibly a long-term incentive plan. Ask about every piece explicitly rather than assuming.
+Sonar (SonarSource) was founded in Geneva and still runs a hub there. Today it is headquartered in Austin, serves 7M+ developers and 75% of the Fortune 100 (per the posting), and is privately held, so this isn't an early-stage startup where equity is most of the package. Expect a structured salary grid, an annual bonus, and possibly a long-term incentive plan. Ask about every piece explicitly rather than assuming.
 
 The role is three office days a week in Geneva (Mon, Tue, Thu). No relocation needed, which is a point in your favour since it removes cost and risk for them.
 
@@ -51,9 +51,9 @@ If they push back on the billing gap ("you don't have Stripe experience"):
 
 ## Geneva cost pushback
 
-If they reference a company-wide or EU grid (Bochum, London), or suggest Geneva is overpaid:
+If they reference a company-wide grid from another office (Austin HQ or elsewhere in Europe), or suggest Geneva is overpaid:
 
-"Geneva is consistently one of the most expensive cities in the world, and that's reflected in local Staff salaries. The role is posted in Geneva and requires three office days, so I'd expect the comp to be benchmarked against Geneva, not against the Bochum or London grids."
+"Geneva is consistently one of the most expensive cities in the world, and that's reflected in local Staff salaries. The role is posted in Geneva and requires three office days, so I'd expect the comp to be benchmarked against Geneva, not against grids from other offices."
 
 ## Long-term incentives and equity
 

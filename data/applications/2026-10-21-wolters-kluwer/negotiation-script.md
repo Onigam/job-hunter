@@ -2,94 +2,100 @@
 
 ## Context worth knowing before the first call
 
-Wolters Kluwer is a large, listed Dutch company (Euronext Amsterdam), not a startup. Expect a formal grade structure, an annual bonus as a percentage of base, and possibly a long-term incentive (share plan) at Principal level. There's no startup equity to negotiate, so the levers are base, bonus target, LTI, sign-on and contract terms.
+Wolters Kluwer is a large, listed Dutch information-services company (Euronext Amsterdam), so this is a structured corporate package: salary band, annual bonus, probably a long-term incentive in shares for senior levels. There's no startup equity to negotiate, but there's real room in level, base, bonus target and LTI.
 
-The listing is posted from Alphen aan den Rijn (Netherlands) and describes the role as **remote-first in the US or EU**. Switzerland isn't in the EU, so the first real question is employability, not money:
+The posting lists Alphen aan den Rijn (Netherlands) and Chicago, and says remote-first in the US or EU with a 9 to 11 AM CST overlap (4 to 6 PM in Geneva). Switzerland isn't in the EU, so the first thing to settle is **how they would employ you**: a Swiss entity, an employer-of-record, or a Dutch contract. A Dutch contract for a Geneva resident creates tax and social security issues, so push for Swiss employment (local entity or EOR) with Swiss-market pay. Ask this at the intro screen, not at offer stage.
 
-1. Does Wolters Kluwer have a Swiss entity that could employ you in Geneva? Ask the recruiter directly.
-2. If not, would they use an Employer of Record, or a contractor arrangement?
-3. If they insist on an EU contract, would they expect relocation to the Netherlands?
+Location fit note: this is a remote role outside Switzerland, which ranks below Swiss-based roles in your priorities. Worth pursuing for the scope, but don't let it slow down Swiss processes.
 
-Settle this in the screening call, because it decides which currency and which market you anchor against. Also note the posting labels the level "mid-senior" while the title says Principal; confirm the internal grade before discussing numbers.
+## Market range (to verify before any comp discussion)
 
-## Market ranges (estimates, verify before the call)
+Working estimates, not quotes. Check levels.fyi (Wolters Kluwer, Principal / Staff), Glassdoor, and Salarium, the salary calculator from the Swiss Federal Statistical Office, before the call.
 
-These are working figures from typical market patterns, not quotes. Check levels.fyi, Glassdoor (Wolters Kluwer, Netherlands and US) and any recruiter conversations before naming a number.
+| Reference | Base | Notes |
+|---|---|---|
+| Wolters Kluwer NL, Principal | ~EUR 100-135k | Dutch grids run well below Geneva |
+| Wolters Kluwer US, Principal | ~USD 170-230k | Posting is US-first, useful upper reference |
+| Geneva, Principal / Staff+ IC | ~CHF 185-230k | Local benchmark you should anchor to |
+| Zurich big tech, Staff/Principal | CHF 250k+ total | Ceiling reference only, not a demand |
 
-**If employed in Geneva (Swiss entity or EOR), CHF:**
+**Your numbers (Swiss employment):**
+1. Anchor: CHF 220k base plus bonus and LTI.
+2. Target: CHF 200k base, bonus 15% or more, LTI grant on top.
+3. Walk-away: below CHF 180k base with no LTI, or any Dutch-grid offer that isn't adjusted to Geneva. Decide this before the call and don't move it during the call.
 
-| Component | Low | Mid | Strong |
-|---|---|---|---|
-| Base salary | 180k | 205k | 235k |
-| Bonus target | 10% | 15% | 20% |
-| Total cash | ~200k | ~235k | ~280k |
-
-**If employed on a Dutch contract, EUR:**
-
-| Component | Low | Mid | Strong |
-|---|---|---|---|
-| Base salary | 115k | 135k | 155k |
-| Bonus target | 10% | 15% | 20% |
-
-Dutch numbers will look low next to Geneva costs. Don't accept a Dutch-band salary paid to you in Geneva without the pushback below.
-
-**Your numbers (Geneva-based):**
-1. Anchor: CHF 230k base plus bonus and LTI.
-2. Target: CHF 210k base, 15% bonus, LTI grant on top.
-3. Walk-away: below CHF 185k base with no LTI. Decide this before the call and don't move it during the call.
-
-**If it has to be a contractor setup:** contractors carry their own social charges, pension (2nd pillar) and no paid leave, so the day rate needs to be roughly 1.3x to 1.4x the salaried equivalent. Something in the CHF 1,100 to 1,300/day range is a reasonable starting point to check.
+If they can only hire via a Dutch contract, the comparison changes completely. Don't negotiate numbers until the employment structure is clear.
 
 ## When they ask for your expectations first
 
 Get their band first:
 
-"Before I put a number down, could you share the range for this grade? I'd also like to understand whether the role would be on a Swiss contract, through an employer of record, or something else, since that changes the comparison quite a bit."
+"Before I put a number down, could you share the band for the Principal level, and which country's grid it's based on? I'm in Geneva, so that matters a lot here."
 
 If they insist:
 
-"For a Principal role based in Geneva, owning platform and agent work across a ~100-engineer org, I'm looking at around CHF 230k base plus bonus and the long-term incentive. That reflects Principal pay locally and the scope in the posting, which covers architecture, delivery and mentoring."
+"For a Principal role employed in Switzerland, I'm looking at around CHF 220k base, plus bonus and long-term incentive. That reflects Geneva Principal-level pay and the scope in the posting: platform components used by hundreds of product teams, plus hands-on ownership of agents like UpToDate Expert AI."
 
 Then stop talking.
 
 ## If the offer comes in low
 
-Offer around CHF 180-190k base, or a Dutch band converted:
+Offer around CHF 170-185k base:
 
-"Thanks, I appreciate it. I'm keen on the role, and the scope is what I want next. The base is below where I expected for a Principal in Geneva, though. Is there room to get it to CHF 215k? If base is fixed by the grade, I'd want to look at the grade itself, or at the bonus target and LTI to close the gap."
+"Thanks, and I'm keen on the role. The base sits below what Principal scope pays in Geneva, though. I've got 17 years of experience, I built a platform from zero through to acquisition by a unicorn, and I've worked as a Senior Staff IC in a large microservices org. Is there room to bring the base closer to CHF 205k?"
 
-If they say the grade is fixed:
+If the band is fixed:
 
-"Understood. Then can we talk about a sign-on payment for year one and a higher LTI grant? I'd also like to agree a comp review at twelve months, tied to specific outcomes on the platform."
+"Understood. If base is capped, can we look at the other levers? A higher bonus target, a larger initial LTI grant, a signing bonus, or a guaranteed review at twelve months tied to clear objectives would all help."
 
-## Geographic discount pushback
+If they push on the agent-production gap ("you haven't shipped a customer-facing agent with safety evals"):
 
-They may want to pay a Netherlands or "EU remote" rate because the team is based in Alphen aan den Rijn.
+"That's fair, and I said so in the process. The posting asks for expertise in one area and proficiency in others. My depth is platform architecture and full-stack delivery, which is what a central GenAI platform runs on. The agent-specific tooling is the part I'll ramp on in the first quarter, and I'd rather be paid for the scope I'll own than discounted for it."
 
-"I get why the band is set from the Netherlands. But I'd be paying Swiss rent, Swiss health insurance and Swiss social charges, and Geneva sits at or near the top of most European cost-of-living rankings. Paid on a Dutch scale, the role would be a real pay cut in practice. What I'm asking is to be paid on the Swiss market where I live and work. If that isn't possible, I'd rather be told now than find out at offer stage."
+If they try to level you as Senior rather than Principal:
 
-If they offer relocation to the Netherlands instead, it's a separate decision. Ask about relocation support and the Dutch expat tax ruling (check the current percentage, as it's being reduced), and compare after tax, not gross.
+"I'd want to understand what separates the two levels in your framework. I've owned architecture across teams at Benevity and built a whole platform at Alaya, which is Principal scope by most definitions. If there's a specific gap, I'd prefer to start at Principal with clear expectations than at Senior with a vague promotion path."
 
-## Long-term incentive and other terms
+## Geographic pushback
 
-As a listed company, any equity will be shares or performance shares under a group plan, not options.
+If they suggest Dutch or "EU remote" pay:
 
-- Ask whether Principal grade is eligible for the LTI plan, the typical grant size, the vesting schedule (often three years) and whether performance conditions apply.
-- Ask what happens to unvested awards if you leave or the role is restructured.
-- Check pension contributions on a Swiss contract (employer share of the 2nd pillar varies a lot between employers).
-- Ask how much travel is expected for team events and whether it's covered, since "remote-first" and "candidates may need to appear onsite" both appear in the posting.
-- Confirm working-hour overlap expectations with US colleagues; Expert AI and the platform have US-facing teams.
+"Geneva is one of the most expensive cities in the world, and Swiss employment comes with Swiss employer costs either way. If I'm employed in Switzerland, the pay needs to be benchmarked against Switzerland. Applying a Dutch grid to a Geneva contract would effectively be a large pay cut against the local market."
+
+If they say the role is remote so location shouldn't matter:
+
+"I understand. But the overlap with Chicago means my working day runs into early evening every day, and the occasional onsites mean travel from Geneva. Remote doesn't make Geneva cheaper."
+
+## Long-term incentive (listed company)
+
+Ask, don't assume:
+
+1. Is there an LTI or share plan at Principal level, and what's the typical initial grant?
+2. Vesting schedule and performance conditions (corporate LTIs are often three-year cliff vesting tied to targets like TSR or EPS).
+3. Is it cash-settled or share-settled, and how is it taxed for a Swiss employee?
+4. Refresh grants: annual, or only on promotion?
+5. What happens to unvested awards if you leave or the role is restructured?
+
+If the LTI is small or absent:
+
+"That's fine, but then the cash side has to carry more of the package, so I'd expect the base nearer the top of the range."
+
+## Other things to put on the table
+
+1. Employment structure (Swiss entity or EOR), settled first.
+2. Pension: LPP / 2nd pillar employer contribution above the legal minimum. It's worth a lot over time.
+3. Signing bonus to offset any bonus forfeited at the current employer.
+4. Home office allowance and coverage of travel costs for onsites.
+5. Vacation: 25 days minimum.
+6. Learning budget, conferences (AI engineering, platform engineering).
+7. Start date that fits your notice period.
 
 ## Competing offer template
 
-Use only if it's true, or adapt to "in conversations with":
+Use only if real, or framed honestly as an active process:
 
-"I want to be transparent with you. I'm in late-stage conversations with another company, a [Staff/Principal] role at around CHF [X] total compensation. Wolters Kluwer is still my preference because of the platform scope and Expert AI, but I need the numbers to be closer. Is there anything you can do on base or LTI?"
+"I want to be transparent: I'm in late stages with another company for a Staff-level platform role in Geneva, at around CHF [X] base. Wolters Kluwer is the one I'd prefer because of the agent platform scope and UpToDate. If we can get closer to CHF [Y], I'm ready to commit and stop the other process."
 
-Keep it calm and factual. Don't bluff a figure you can't stand behind if they ask for details.
+If there's no competing offer, don't invent one. Say instead:
 
-## What not to do
-
-- Don't accept on the call. "Thank you, can I take a day or two to look at the full package?" is always fine.
-- Don't negotiate before the employment-entity question is settled.
-- Don't trade away base for a one-off sign-on if you can avoid it, since future bonus and raises are calculated on base.
+"I'm in active conversations with a few Swiss companies, and I'll be making a decision in the next couple of weeks."
