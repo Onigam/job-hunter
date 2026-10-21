@@ -1,7 +1,7 @@
 {
   "date": "2026-10-21",
-  "total_searched": 1074,
-  "new_offers": 28,
+  "total_searched": 1454,
+  "new_offers": 45,
   "top_offers": [
     {
       "rank": 1,
@@ -67,6 +67,68 @@
     },
     {
       "rank": 2,
+      "title": "Software Engineer, Lab Automation",
+      "company": "Adaptyv",
+      "location": "Lausanne, Vaud, Switzerland (on-site)",
+      "url": "https://www.linkedin.com/jobs/view/4481257777",
+      "score": 74,
+      "grade": "B",
+      "match_reason": "Score: 74% - Match: \"AI-native builder. It's 2026 — you build with coding agents like Claude Code as a default, and you have sharp judgment about what they produce.\" -> Summary > orchestrating multi-agent workflows (OpenClaw, Claude CLI); Key Strengths > AI-augmented engineering pioneer",
+      "match_evidence": [
+        {
+          "dimension": "ai",
+          "offer_quote": "AI-native builder. It's 2026 — you build with coding agents like Claude Code as a default, and you have sharp judgment about what they produce.",
+          "profile_element": "Summary > orchestrating multi-agent workflows (OpenClaw, Claude CLI); Key Strengths > AI-augmented engineering pioneer",
+          "note": null
+        },
+        {
+          "dimension": "technical",
+          "offer_quote": "Strong software engineering skills. You write production code in Python and/or TypeScript — well-structured and maintainable, not just prototypes.",
+          "profile_element": "Core Technical Skills > Languages: TypeScript, JavaScript, Node.js, Python, Java",
+          "note": null
+        },
+        {
+          "dimension": "technical",
+          "offer_quote": "TypeScript and Python, Postgres (Supabase), Modal for compute.",
+          "profile_element": "Core Technical Skills > Languages: TypeScript, Python; Databases: PostgreSQL",
+          "note": null
+        },
+        {
+          "dimension": "technical",
+          "offer_quote": "Comfortable at the hardware-software boundary. You've built software that drives physical devices, or you're excited to.",
+          "profile_element": "Summary > from embedded systems to SaaS; Career Highlights > Sagemcom (2011–2014) — Software Architect (GWT), Telecom set-top boxes",
+          "note": "Set-top box work is the only hardware-adjacent item in the profile"
+        },
+        {
+          "dimension": "company",
+          "offer_quote": "Adaptyv is building an automated lab that lets AI agents run biology experiments.",
+          "profile_element": "Company Preferences > AI/ML or developer tools companies; Impact-driven / purpose-driven companies",
+          "note": null
+        },
+        {
+          "dimension": "location",
+          "offer_quote": "Location: Lausanne, Switzerland (on-site — you need hands-on access to physical instruments).",
+          "profile_element": "Location Preferences > 2. Canton de Vaud (Lausanne, Nyon, Morges, Yverdon)",
+          "note": "Fully on-site in Lausanne, ~40 min by train from Geneva"
+        }
+      ],
+      "gaps": [
+        {
+          "offer_quote": "Lab automation experience is a strong plus. Familiarity with PyHamilton, PyLabRobot, Opentrons, or similar tooling helps — as does a background in robotics, industrial automation, IoT, or embedded systems.",
+          "note": "No lab automation or instrument-driver work in profile/context.md"
+        },
+        {
+          "offer_quote": "This is a broad, hands-on role for a strong engineer who wants their code to drive real machines and see it run the same day.",
+          "note": "IC role with no Staff/lead scope; below Target Roles priority list"
+        }
+      ],
+      "evidence_status": "full_text",
+      "why": "Adaptyv's lab is literally infrastructure for AI agents to run experiments, and the posting asks for someone who builds with Claude Code by default, which is Magino's Agent Manager pitch. TS/Python/Postgres matches, Lausanne is top-priority location. The catch: IC title and hardware-driver work outside the profile; worth pairing with the Head of Software Engineering opening already tracked.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
       "title": "Senior Infrastructure Engineer",
       "company": "Rivia",
       "location": "Zurich, Switzerland (3-4 office days/week, Enge)",
@@ -132,7 +194,183 @@
       "status": "new"
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "title": "Senior Software Engineer, Agentic Risk & Posture",
+      "company": "Check Point Software",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4480998460",
+      "score": 74,
+      "grade": "B",
+      "match_reason": "Score: 74% - Match: \"Find pragmatic solutions to complex algorithmic problems, scanning code and configurations to spot malicious or vulnerable agents, MCP servers and skills.\" -> Core Technical Skills > AI/ML: LLM integration, Multi-agent workflows; Summary > orchestrating multi-agent workflows (OpenClaw, Claude CLI)",
+      "match_evidence": [
+        {
+          "dimension": "ai",
+          "offer_quote": "Find pragmatic solutions to complex algorithmic problems, scanning code and configurations to spot malicious or vulnerable agents, MCP servers and skills.",
+          "profile_element": "Core Technical Skills > AI/ML: LLM integration, Multi-agent workflows; Summary > orchestrating multi-agent workflows (OpenClaw, Claude CLI)",
+          "note": null
+        },
+        {
+          "dimension": "seniority",
+          "offer_quote": "Experience in building up or leading teams while contributing to the core tech;",
+          "profile_element": "Career Highlights > Alaya (2016–2021) — Cofounder & Head of Technologies, Built entire platform from zero",
+          "note": null
+        },
+        {
+          "dimension": "technical",
+          "offer_quote": "Familiar with production level Python, or another interesting set of programming languages;",
+          "profile_element": "Core Technical Skills > Languages: TypeScript, JavaScript, Node.js, Python, Java",
+          "note": null
+        },
+        {
+          "dimension": "company",
+          "offer_quote": "Excited about a front-row seat in a fast growing, early-stage company (a rapidly changing, often ambiguous and undefined environment);",
+          "profile_element": "Key Strengths > Engineering cofounder — built platform from zero; Company Preferences > Startups and scale-ups",
+          "note": null
+        },
+        {
+          "dimension": "impact",
+          "offer_quote": "The Agentic Risk & Posture team builds the security layer for AI agents in production.",
+          "profile_element": "Key Strengths > AI-augmented engineering pioneer; Target Roles > 1. Staff/Principal Platform Engineer",
+          "note": null
+        }
+      ],
+      "gaps": [
+        {
+          "offer_quote": "Frequent contributor to open-source projects and an active participant in open-source communities;",
+          "note": "Only a GitHub link in profile/context.md, no open-source contributions listed"
+        },
+        {
+          "offer_quote": "Interest in AI security.",
+          "note": "No security background in profile/context.md"
+        }
+      ],
+      "evidence_status": "full_text",
+      "why": "Check Point's Zurich agent-security team scans for risky agents, MCP servers and skills, the exact tooling surface Magino works with daily as an Agent Manager. Posting wants someone who has built up teams while coding, which is the Alaya cofounder record. Title is Senior and security domain is new, so pitch it as a lead-track hire.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Software Architect",
+      "company": "Zerolook",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4479416660",
+      "score": 72,
+      "grade": "B",
+      "match_reason": "Score: 72% - Match: \"As an early hire, you get to define the architecture at the center of it all.\" -> Target Roles > 2. Founding Engineer / First Engineer; Career Highlights > Alaya (2016–2021) — Cofounder & Head of Technologies",
+      "match_evidence": [
+        {
+          "dimension": "impact",
+          "offer_quote": "As an early hire, you get to define the architecture at the center of it all.",
+          "profile_element": "Target Roles > 2. Founding Engineer / First Engineer; Career Highlights > Alaya (2016–2021) — Cofounder & Head of Technologies",
+          "note": null
+        },
+        {
+          "dimension": "seniority",
+          "offer_quote": "System Architecture: Define the architecture and design, and lead the implementation of a large-scale, high-performance, cost effective infrastructure.",
+          "profile_element": "Core Technical Skills > Architecture: Platform engineering, API design, Service-oriented architecture, Microservices; Target Roles > 1. Staff/Principal Platform Engineer",
+          "note": null
+        },
+        {
+          "dimension": "company",
+          "offer_quote": "Startup DNA: Comfortable with the \"0 to 1\" phase-ambiguity, fast iteration, and taking extreme ownership.",
+          "profile_element": "Key Strengths > Engineering cofounder — built platform from zero",
+          "note": null
+        },
+        {
+          "dimension": "seniority",
+          "offer_quote": "Technical Leadership: set standards and best practices, and hire, lead and mentor other engineers as the team grows.",
+          "profile_element": "Career Highlights > Alaya (2016–2021) — Cofounder & Head of Technologies",
+          "note": null
+        },
+        {
+          "dimension": "compensation",
+          "offer_quote": "CHF 140.000-150.000 + significant stock options",
+          "profile_element": "Compensation > Open to discussion based on role and equity",
+          "note": "Base is below Zurich Staff market; equity carries the upside"
+        },
+        {
+          "dimension": "location",
+          "offer_quote": null,
+          "profile_element": "Location Preferences > 3. Reste de la Suisse (Valais, Neuchâtel, Fribourg, Berne, Zurich, Bâle, etc.)",
+          "note": "Location taken from LinkedIn card; the sibling Zerolook posting states Zurich hybrid 2-3 days"
+        }
+      ],
+      "gaps": [
+        {
+          "offer_quote": "Engineering Foundation: extensive knowledge of Java and related Enterprise technologies and frameworks, competency in C++, experience with containerization and orchestration",
+          "note": "Java is in profile but dates from Sagemcom (2011–2014); no C++ in profile/context.md. Docker/Kubernetes do match"
+        },
+        {
+          "offer_quote": "Large scale applications: experience building applications serving over 1K QPS at latencies on the order of 1 sec",
+          "note": "No throughput figures in profile/context.md"
+        },
+        {
+          "offer_quote": "Travel Tech: Previous experience with OTAs, metasearch, or GDS/NDC integration is a significant plus.",
+          "note": "No travel-tech experience in profile/context.md"
+        }
+      ],
+      "evidence_status": "full_text",
+      "why": "Seed startup by ex-Google Flights and Kayak founders where the first architect defines the whole serving infrastructure and then hires the team, close to the Alaya blank-page story. Stack is Java/C++ (Magino's Java is old, C++ absent) and the CHF 140-150k base is low for Zurich, so the equity has to make the case.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 6,
+      "title": "Senior Forward Deployed Engineer, GenAI, Google Cloud",
+      "company": "Google",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4471983453",
+      "score": 71,
+      "grade": "B",
+      "match_reason": "Score: 71% - Match: \"5 years of experience building and shipping production-grade AI-driven solutions to external or internal customers using Python, TypeScript or comparable languages.\" -> Core Technical Skills > Languages: TypeScript, Python; AI/ML: LLM integration",
+      "match_evidence": [
+        {
+          "dimension": "technical",
+          "offer_quote": "5 years of experience building and shipping production-grade AI-driven solutions to external or internal customers using Python, TypeScript or comparable languages.",
+          "profile_element": "Core Technical Skills > Languages: TypeScript, Python; AI/ML: LLM integration",
+          "note": null
+        },
+        {
+          "dimension": "ai",
+          "offer_quote": "Serve as the lead developer for AI applications, transitioning from rapid prototypes to production-grade agentic workflows (e.g., multi-agent systems, model context protocol servers) that drive measurable return on investment.",
+          "profile_element": "Core Technical Skills > AI/ML: Multi-agent workflows; Summary > orchestrating multi-agent workflows (OpenClaw, Claude CLI)",
+          "note": null
+        },
+        {
+          "dimension": "technical",
+          "offer_quote": "Architect and code the connective tissue between Google’s AI products and customer's live infrastructure, including APIs, legacy data silos, and security perimeters.",
+          "profile_element": "Core Technical Skills > Architecture: Platform engineering, API design, Service-oriented architecture",
+          "note": null
+        },
+        {
+          "dimension": "ai",
+          "offer_quote": "Experience building pipelines for structured, unstructured data, incorporating vector databases and retrieval-augmented generation Retrieval-Augmented Generation (RAG)-like architectures to power enterprise-grade AI solutions.",
+          "profile_element": "Core Technical Skills > AI/ML: Semantic search, Embeddings",
+          "note": null
+        }
+      ],
+      "gaps": [
+        {
+          "offer_quote": "Experience designing and building AI systems on cloud platforms (e.g., Google Cloud Platform (GCP)).",
+          "note": "Profile cloud is AWS; no GCP in profile/context.md"
+        },
+        {
+          "offer_quote": "Master’s degree or PhD in AI, Computer Science, or a related technical field.",
+          "note": "No degree listed in profile/context.md"
+        },
+        {
+          "offer_quote": "In most instances, this position requires in-person interviews as part of the hiring process.",
+          "note": "Customer-embedded Go-To-Market role, closer to consulting than product ownership"
+        }
+      ],
+      "evidence_status": "full_text",
+      "why": "The preferred qualifications read like Magino's AI section: multi-agent systems, MCP servers, RAG and eval pipelines, in Python or TypeScript. Google Zurich pays top of the Swiss market. Downsides are GCP over AWS, a Senior title, and a customer-facing field role rather than platform ownership; the Staff variants tracked earlier are the better entry point if still open.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 7,
       "title": "Forward Deployed Engineer (Founding)",
       "company": "Undisclosed AI integrations startup (via Jobgether)",
       "location": "Switzerland (remote-first, Europe)",
@@ -188,7 +426,7 @@
       "status": "new"
     },
     {
-      "rank": 4,
+      "rank": 8,
       "title": "Principal Full Stack Engineer, AI Platform & Agents",
       "company": "Wolters Kluwer",
       "location": "Remote Europe (remote-first US/EU, listed Alphen aan den Rijn, NL)",

@@ -6,23 +6,35 @@
 💡 Staff seat in Geneva at Sonar, whose product verifies AI-generated code, and the posting asks for someone who steers Claude and Codex.
 🔗 https://www.linkedin.com/jobs/view/4480367212
 
-*2.* *Senior Infrastructure Engineer* @ Rivia
+*2.* *Software Engineer, Lab Automation* @ Adaptyv
+📍 Lausanne, Vaud, Switzerland (on-site) | ⭐ 74/100 | 🏆 Grade B
+🧾 Score: 74% - Match: "AI-native builder. It's 2026 — you build with coding agents like Claude Code as a default, and you have sharp judgment…" -> Summary > orchestrating multi-agent workflows (OpenClaw, Claude CLI); Key Strengths > AI-augmented engineering pioneer
+💡 Lausanne lab built for AI agents, hiring someone who codes with Claude Code by default, on Magino's TS/Python stack.
+🔗 https://www.linkedin.com/jobs/view/4481257777
+
+*3.* *Senior Infrastructure Engineer* @ Rivia
 📍 Zurich, Switzerland (3-4 office days/week, Enge) | ⭐ 79/100 | 🏆 Grade B
 🧾 Score: 79% - Match: "You are our first dedicated infrastructure hire, embedded in the engineering team." -> Key Strengths > Engineering cofounder — built platform from zero; Career Highlights > Alaya (2016–2021) — Cofounder & Head of Technologies, Built entire platform from zero
 💡 First and only infra owner at a Series A Zurich startup that wants AI-native ops with Claude Code, basically the Alaya playbook on the platform side.
 🔗 https://www.linkedin.com/jobs/view/4442805599
 
-*3.* *Forward Deployed Engineer (Founding)* @ Undisclosed AI integrations startup (via Jobgether)
-📍 Switzerland (remote-first, Europe) | ⭐ 73/100 | 🏆 Grade B
-🧾 Score: 73% - Match: "Working within a small, experienced, remote-first engineering team, you will have a meaningful opportunity to influence…" -> Target Roles > 2. Founding Engineer / First Engineer; Career Highlights > Alaya (2016–2021) — Cofounder & Head of Technologies
-💡 Founding role at a remote-first startup connecting apps to AI agents, where APIs, auth and data flows meet Magino's multi-agent work.
-🔗 https://www.linkedin.com/jobs/view/4478430814
+*4.* *Senior Software Engineer, Agentic Risk & Posture* @ Check Point Software
+📍 Zurich, Switzerland | ⭐ 74/100 | 🏆 Grade B
+🧾 Score: 74% - Match: "Find pragmatic solutions to complex algorithmic problems, scanning code and configurations to spot malicious or…" -> Core Technical Skills > AI/ML: LLM integration, Multi-agent workflows; Summary > orchestrating multi-agent workflows (OpenClaw, Claude CLI)
+💡 Zurich team securing AI agents and MCP servers, wants a coder who has built teams, which is the Alaya record.
+🔗 https://www.linkedin.com/jobs/view/4480998460
 
-*4.* *Principal Full Stack Engineer, AI Platform & Agents* @ Wolters Kluwer
-📍 Remote Europe (remote-first US/EU, listed Alphen aan den Rijn, NL) | ⭐ 75/100 | 🏆 Grade B
-🧾 Score: 75% - Match: "TypeScript, Node.js, React, Python, LangChain/LangGraph, MCP/A2A, Rust" -> Core Technical Skills > Languages: TypeScript, JavaScript, Node.js, Python; Frontend: React
-💡 The stack line reads like Magino's skills section (TS, Node, React, Python, AWS, agents, MCP), as a Principal IC on a remote-first EU GenAI platform.
-🔗 https://www.linkedin.com/jobs/view/4351889039
+*5.* *Software Architect* @ Zerolook
+📍 Zurich, Switzerland | ⭐ 72/100 | 🏆 Grade B
+🧾 Score: 72% - Match: "As an early hire, you get to define the architecture at the center of it all." -> Target Roles > 2. Founding Engineer / First Engineer; Career Highlights > Alaya (2016–2021) — Cofounder & Head of Technologies
+💡 First architect at a seed startup from ex-Google Flights/Kayak founders, blank-page build like Alaya; Java/C++ stack.
+🔗 https://www.linkedin.com/jobs/view/4479416660
+
+*6.* *Senior Forward Deployed Engineer, GenAI, Google Cloud* @ Google
+📍 Zurich, Switzerland | ⭐ 71/100 | 🏆 Grade B
+🧾 Score: 71% - Match: "5 years of experience building and shipping production-grade AI-driven solutions to external or internal customers…" -> Core Technical Skills > Languages: TypeScript, Python; AI/ML: LLM integration
+💡 Multi-agent systems, MCP servers and RAG in Python/TypeScript, Google Zurich pay; Senior title and GCP instead of AWS.
+🔗 https://www.linkedin.com/jobs/view/4471983453
 
 ---
-📊 _28 new offers | 2039 total tracked_
+📊 _45 new offers | 2056 total tracked_
