@@ -1,0 +1,28 @@
+🎯 *Job Hunt — 2026-10-21*
+
+*1.* *Staff Software Engineer (Java) - Billing* @ Sonar
+📍 Geneva, Switzerland (hybrid, 3 office days/week) | ⭐ 78/100 | 🏆 Grade B
+🧾 Score: 78% - Match: "Over 6 years of software engineering experience, including working as a Tech Lead, Staff Engineer, or Software…" -> Career Highlights > Benevity (2021–2026) — Senior Staff Engineer, Geneva (Remote); Target Roles > 1. Staff/Principal Platform Engineer
+💡 Staff seat in Geneva at Sonar, whose product verifies AI-generated code, and the posting asks for someone who steers Claude and Codex.
+🔗 https://www.linkedin.com/jobs/view/4480367212
+
+*2.* *Senior Infrastructure Engineer* @ Rivia
+📍 Zurich, Switzerland (3-4 office days/week, Enge) | ⭐ 79/100 | 🏆 Grade B
+🧾 Score: 79% - Match: "You are our first dedicated infrastructure hire, embedded in the engineering team." -> Key Strengths > Engineering cofounder — built platform from zero; Career Highlights > Alaya (2016–2021) — Cofounder & Head of Technologies, Built entire platform from zero
+💡 First and only infra owner at a Series A Zurich startup that wants AI-native ops with Claude Code, basically the Alaya playbook on the platform side.
+🔗 https://www.linkedin.com/jobs/view/4442805599
+
+*3.* *Forward Deployed Engineer (Founding)* @ Undisclosed AI integrations startup (via Jobgether)
+📍 Switzerland (remote-first, Europe) | ⭐ 73/100 | 🏆 Grade B
+🧾 Score: 73% - Match: "Working within a small, experienced, remote-first engineering team, you will have a meaningful opportunity to influence…" -> Target Roles > 2. Founding Engineer / First Engineer; Career Highlights > Alaya (2016–2021) — Cofounder & Head of Technologies
+💡 Founding role at a remote-first startup connecting apps to AI agents, where APIs, auth and data flows meet Magino's multi-agent work.
+🔗 https://www.linkedin.com/jobs/view/4478430814
+
+*4.* *Principal Full Stack Engineer, AI Platform & Agents* @ Wolters Kluwer
+📍 Remote Europe (remote-first US/EU, listed Alphen aan den Rijn, NL) | ⭐ 75/100 | 🏆 Grade B
+🧾 Score: 75% - Match: "TypeScript, Node.js, React, Python, LangChain/LangGraph, MCP/A2A, Rust" -> Core Technical Skills > Languages: TypeScript, JavaScript, Node.js, Python; Frontend: React
+💡 The stack line reads like Magino's skills section (TS, Node, React, Python, AWS, agents, MCP), as a Principal IC on a remote-first EU GenAI platform.
+🔗 https://www.linkedin.com/jobs/view/4351889039
+
+---
+📊 _28 new offers | 2039 total tracked_

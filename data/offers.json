@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20",
+  "last_updated": "2026-10-21",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -30048,6 +30048,646 @@
       "grade": "excluded",
       "evidence_status": "full_text",
       "date_found": "2026-10-20",
+      "status": "excluded"
+    },
+    {
+      "title": "Staff Software Engineer (Java) - Billing",
+      "company": "Sonar",
+      "location": "Geneva, Switzerland (hybrid, 3 office days/week)",
+      "url": "https://www.linkedin.com/jobs/view/4480367212",
+      "score": 78,
+      "grade": "B",
+      "match_reason": "Score: 78% - Match: \"Over 6 years of software engineering experience, including working as a Tech Lead, Staff Engineer, or Software Architect.\" -> Career Highlights > Benevity (2021–2026) — Senior Staff Engineer, Geneva (Remote); Target Roles > 1. Staff/Principal Platform Engineer",
+      "match_evidence": [
+        {
+          "dimension": "seniority",
+          "offer_quote": "Over 6 years of software engineering experience, including working as a Tech Lead, Staff Engineer, or Software Architect.",
+          "profile_element": "Career Highlights > Benevity (2021–2026) — Senior Staff Engineer, Geneva (Remote); Target Roles > 1. Staff/Principal Platform Engineer",
+          "note": null
+        },
+        {
+          "dimension": "ai",
+          "offer_quote": "Proficiency in working with and steering AI coding tools (Codex, Claude, etc).",
+          "profile_element": "Summary > Transitioning from traditional developer to \"Agent Manager\", multiplying team productivity by orchestrating multi-agent workflows (OpenClaw, Claude CLI)",
+          "note": null
+        },
+        {
+          "dimension": "technical",
+          "offer_quote": "Architect and guide the design of our on-premises and AWS cloud applications.",
+          "profile_element": "Core Technical Skills > Cloud & Infra: AWS, Docker, Kubernetes, CI/CD; Architecture: Platform engineering, Service-oriented architecture",
+          "note": null
+        },
+        {
+          "dimension": "technical",
+          "offer_quote": "Experience with relational RDBMS (such as Postgres) and SQL.",
+          "profile_element": "Core Technical Skills > Databases: MongoDB, PostgreSQL, Redis",
+          "note": null
+        },
+        {
+          "dimension": "company",
+          "offer_quote": "Sonar is driving the future of agent-centric software development.",
+          "profile_element": "Company Preferences > AI/ML or developer tools companies",
+          "note": null
+        },
+        {
+          "dimension": "location",
+          "offer_quote": "Our team operates across global hubs in Austin, Bochum, Dubai, Geneva, London, Singapore, Tokyo, and Washington D.C.",
+          "profile_element": "Location Preferences > 1. Genève, Suisse",
+          "note": "Role posted in Geneva; three anchor office days (Mon, Tue, Thu)"
+        }
+      ],
+      "gaps": [
+        {
+          "offer_quote": "Proficiency with Java coupled with a strong passion for Clean Code and rigorous software quality standards.",
+          "note": "Java is listed in Core Technical Skills > Languages, but every recent role (Alaya, Benevity) is TypeScript/Node; Java depth dates from Sagemcom (GWT, 2011–2014)"
+        },
+        {
+          "offer_quote": "Domain expertise with billing and payment processing systems (we use Stripe) and/or general experience with subscription management is highly desirable.",
+          "note": "No billing, payments or Stripe experience in profile/context.md"
+        }
+      ],
+      "evidence_status": "full_text",
+      "why": "Staff seat in Geneva at the company whose whole pitch is verifying AI-generated code, and the posting explicitly asks for someone who steers Claude and Codex rather than just tolerating them. Billing for usage-based AI products is cross-functional architecture work, close to what Magino did after the Benevity acquisition. The catch is Java as the main language and no Stripe background.",
+      "apply_by": null,
+      "status": "new",
+      "id": "f8830050a50340dfe5a31be12efd9c43",
+      "source": "linkedin",
+      "summary": "Staff Engineer in the Billing squad (StoreFront) at Sonar, Geneva hub. Owns architecture and delivery of usage-based billing for AI-native products on AWS, steering AI coding tools.",
+      "score_breakdown": {
+        "technical": 6,
+        "seniority": 9,
+        "location": 10,
+        "company": 7,
+        "impact": 6,
+        "mission": 7,
+        "compensation": 8,
+        "growth": 7,
+        "ai": 8,
+        "novelty": 10
+      },
+      "date_found": "2026-10-21",
+      "date_posted_rel": "1 day ago"
+    },
+    {
+      "title": "Senior Infrastructure Engineer",
+      "company": "Rivia",
+      "location": "Zurich, Switzerland (3-4 office days/week, Enge)",
+      "url": "https://www.linkedin.com/jobs/view/4442805599",
+      "score": 79,
+      "grade": "B",
+      "match_reason": "Score: 79% - Match: \"You are our first dedicated infrastructure hire, embedded in the engineering team.\" -> Key Strengths > Engineering cofounder — built platform from zero; Career Highlights > Alaya (2016–2021) — Cofounder & Head of Technologies, Built entire platform from zero",
+      "match_evidence": [
+        {
+          "dimension": "impact",
+          "offer_quote": "You are our first dedicated infrastructure hire, embedded in the engineering team.",
+          "profile_element": "Key Strengths > Engineering cofounder — built platform from zero; Career Highlights > Alaya (2016–2021) — Cofounder & Head of Technologies, Built entire platform from zero",
+          "note": null
+        },
+        {
+          "dimension": "technical",
+          "offer_quote": "Own our AWS platform end to end across staging and production: EKS, RDS, MemoryDB/Redis, S3, DynamoDB, IAM, networking.",
+          "profile_element": "Core Technical Skills > Cloud & Infra: AWS, Docker, Kubernetes, CI/CD; Databases: Redis",
+          "note": null
+        },
+        {
+          "dimension": "ai",
+          "offer_quote": "An AI-native way of working: you use agents (Claude Code or similar) for real infrastructure work and can show concrete examples.",
+          "profile_element": "Summary > orchestrating multi-agent workflows (OpenClaw, Claude CLI); Key Strengths > AI-augmented engineering pioneer",
+          "note": null
+        },
+        {
+          "dimension": "technical",
+          "offer_quote": "You have owned complex CI/CD end to end (GitHub Actions or equivalent).",
+          "profile_element": "Core Technical Skills > Cloud & Infra: CI/CD",
+          "note": null
+        },
+        {
+          "dimension": "growth",
+          "offer_quote": "In March 2026, Rivia raised its $15M Series A led by Earlybird Venture Capital.",
+          "profile_element": "Company Preferences > Startups and scale-ups (Series A to post-acquisition)",
+          "note": null
+        },
+        {
+          "dimension": "location",
+          "offer_quote": "Working Model: We work 3-4 days per week from our Zurich office in Enge.",
+          "profile_element": "Location Preferences > 3. Reste de la Suisse (Valais, Neuchâtel, Fribourg, Berne, Zurich, Bâle, etc.)",
+          "note": "3-4 days a week in Zurich, about 2h45 by train from Geneva"
+        }
+      ],
+      "gaps": [
+        {
+          "offer_quote": "5+ years of hands-on infrastructure or DevOps experience with deep AWS expertise, including cost optimization work.",
+          "note": "AWS is in profile but dedicated infra/DevOps years and cost optimisation are not stated in profile/context.md"
+        },
+        {
+          "offer_quote": "Keycloak or similar identity provider operations (OIDC, SSO, secrets management).",
+          "note": "Not in profile/context.md"
+        },
+        {
+          "offer_quote": "Working Model: We work 3-4 days per week from our Zurich office in Enge.",
+          "note": "Heavy on-site requirement in Zurich, far from Geneva"
+        }
+      ],
+      "evidence_status": "full_text",
+      "why": "Series A startup in Zurich where Magino would be the first and only infrastructure owner, which is the Alaya situation again on the platform side. The posting wants someone who already drives Claude Code agents for real infra work, so the Agent Manager angle is a direct answer. Title is Senior, not Staff, and 3-4 days in Zurich is a real commute cost.",
+      "apply_by": null,
+      "status": "new",
+      "id": "aade27c2ec62920f42d17a94f55b83f2",
+      "source": "linkedin",
+      "summary": "First dedicated infrastructure hire at Rivia (clinical trial data engine, $15M Series A led by Earlybird, March 2026). Owns the AWS/EKS platform, CI/CD, identity and costs, working AI-native with agents.",
+      "score_breakdown": {
+        "technical": 7,
+        "seniority": 6,
+        "location": 8,
+        "company": 9,
+        "impact": 8,
+        "mission": 8,
+        "compensation": 7,
+        "growth": 8,
+        "ai": 9,
+        "novelty": 9
+      },
+      "date_found": "2026-10-21",
+      "date_posted_rel": "2 days ago"
+    },
+    {
+      "title": "Forward Deployed Engineer (Founding)",
+      "company": "Undisclosed AI integrations startup (via Jobgether)",
+      "location": "Switzerland (remote-first, Europe)",
+      "url": "https://www.linkedin.com/jobs/view/4478430814",
+      "score": 73,
+      "grade": "B",
+      "match_reason": "Score: 73% - Match: \"Working within a small, experienced, remote-first engineering team, you will have a meaningful opportunity to influence product direction, technical decisions, and the company's growth.\" -> Target Roles > 2. Founding Engineer / First Engineer; Career Highlights > Alaya (2016–2021) — Cofounder & Head of Technologies",
+      "match_evidence": [
+        {
+          "dimension": "impact",
+          "offer_quote": "Working within a small, experienced, remote-first engineering team, you will have a meaningful opportunity to influence product direction, technical decisions, and the company's growth.",
+          "profile_element": "Target Roles > 2. Founding Engineer / First Engineer; Career Highlights > Alaya (2016–2021) — Cofounder & Head of Technologies",
+          "note": null
+        },
+        {
+          "dimension": "technical",
+          "offer_quote": "API and integration expertise: Strong understanding of APIs, third-party integrations, authentication, data flows, and production system troubleshooting, with the ability to diagnose and resolve complex technical problems.",
+          "profile_element": "Core Technical Skills > Backend: Node.js, Express, REST APIs, GraphQL, Microservices; Architecture: API design",
+          "note": null
+        },
+        {
+          "dimension": "ai",
+          "offer_quote": "Join an innovative, fast-growing technology startup building infrastructure that enables developers to create powerful integrations between applications and AI agents.",
+          "profile_element": "Core Technical Skills > AI/ML: LLM integration, Multi-agent workflows; Company Preferences > AI/ML or developer tools companies",
+          "note": null
+        },
+        {
+          "dimension": "seniority",
+          "offer_quote": "Professional experience: At least five years of full-stack software engineering experience, with a demonstrated ability to deliver production-ready solutions and manage technical projects end to end.",
+          "profile_element": "Summary > 17+ years of experience in software architecture, system design, and platform engineering",
+          "note": null
+        },
+        {
+          "dimension": "location",
+          "offer_quote": "Our partner is looking for a Forward Deployed Engineer (Founding) based in Switzerland.",
+          "profile_element": "Location Preferences > 3. Reste de la Suisse; 4. Remote Europe",
+          "note": "Remote-first, Switzerland-based; city not specified"
+        }
+      ],
+      "gaps": [
+        {
+          "offer_quote": "Customer-facing engineering: Experience working directly with customers or developers to understand technical requirements, guide implementations, resolve complex issues, and support successful product adoption.",
+          "note": "Customer-facing implementation work is not described in profile/context.md"
+        },
+        {
+          "offer_quote": "Equity compensation ranging from 0.05% to 0.15%, offering the opportunity to participate in the company's long-term growth.",
+          "note": "Small equity for a founding title; company identity hidden behind Jobgether"
+        }
+      ],
+      "evidence_status": "full_text",
+      "why": "Founding title at an AI-agent integration startup, remote-first and asking for someone based in Switzerland. The job sits between APIs, auth and data flows on one side and agents on the other, which is where Magino's platform and multi-agent work overlap. Expect a lot of customer time, and the company is only revealed after applying through Jobgether.",
+      "apply_by": null,
+      "status": "new",
+      "id": "bdc81a01a259ad295bd430672cbe025b",
+      "source": "linkedin",
+      "summary": "Founding forward deployed engineer at a remote-first startup building integration infrastructure between applications and AI agents. Full-stack plus customer-facing implementation work. $120k-$200k + 0.05-0.15% equity. Listed via Jobgether; company not named.",
+      "score_breakdown": {
+        "technical": 7,
+        "seniority": 7,
+        "location": 7,
+        "company": 8,
+        "impact": 8,
+        "mission": 6,
+        "compensation": 6,
+        "growth": 7,
+        "ai": 8,
+        "novelty": 9
+      },
+      "date_found": "2026-10-21",
+      "date_posted_rel": "6 days ago"
+    },
+    {
+      "title": "Principal Full Stack Engineer, AI Platform & Agents",
+      "company": "Wolters Kluwer",
+      "location": "Remote Europe (remote-first US/EU, listed Alphen aan den Rijn, NL)",
+      "url": "https://www.linkedin.com/jobs/view/4351889039",
+      "score": 75,
+      "grade": "B",
+      "match_reason": "Score: 75% - Match: \"TypeScript, Node.js, React, Python, LangChain/LangGraph, MCP/A2A, Rust\" -> Core Technical Skills > Languages: TypeScript, JavaScript, Node.js, Python; Frontend: React",
+      "match_evidence": [
+        {
+          "dimension": "technical",
+          "offer_quote": "TypeScript, Node.js, React, Python, LangChain/LangGraph, MCP/A2A, Rust",
+          "profile_element": "Core Technical Skills > Languages: TypeScript, JavaScript, Node.js, Python; Frontend: React",
+          "note": null
+        },
+        {
+          "dimension": "ai",
+          "offer_quote": "Design and implement full‑stack applications, AI agents, and platform components that enable rapid GenAI agent development, validation, and deployment.",
+          "profile_element": "Core Technical Skills > AI/ML: LLM integration, Multi-agent workflows; Architecture: Platform engineering",
+          "note": null
+        },
+        {
+          "dimension": "seniority",
+          "offer_quote": "Lead by example and be heavily hands-on: drive architecture, mentor engineers, and take ownership of larger projects.",
+          "profile_element": "Target Roles > 1. Staff/Principal Platform Engineer; Career Highlights > Benevity (2021–2026) — Senior Staff Engineer",
+          "note": null
+        },
+        {
+          "dimension": "technical",
+          "offer_quote": "AWS (primary), Azure, GCP; Docker, Terraform, GitHub Actions",
+          "profile_element": "Core Technical Skills > Cloud & Infra: AWS, Docker, Kubernetes, CI/CD",
+          "note": null
+        },
+        {
+          "dimension": "location",
+          "offer_quote": "Work setup: Remote-first in US or EU, with hybrid options near major offices. Collaboration requires 9–11 AM CST overlap. Occasional travel for team onsites/offsites as needed.",
+          "profile_element": "Location Preferences > 4. Remote Europe (timezone CET compatible)",
+          "note": "9-11 AM CST overlap is 16:00-18:00 CET"
+        }
+      ],
+      "gaps": [
+        {
+          "offer_quote": "Experience with LangChain/LangGraph and MCP; vector/RAG systems; OpenSearch.",
+          "note": "LangGraph, MCP and OpenSearch are not named in profile (semantic search and embeddings are)"
+        },
+        {
+          "offer_quote": "Our team is building a central GenAI Platform to empower hundreds of product teams across the organization with scalable capabilities for rapid development, validation, and deployment of AI agents.",
+          "note": "Large enterprise context (Company Preferences > Avoid: large legacy enterprises), even if the team claims startup agility"
+        }
+      ],
+      "evidence_status": "full_text",
+      "why": "The stack line is almost Magino's skills section copied out: TypeScript, Node, React, Python, AWS, plus agents and MCP. It's a Principal IC seat on a 100-engineer GenAI platform team that is remote-first in the EU. Ranked last because it's a large enterprise and remote, and every Swiss offer comes first.",
+      "apply_by": null,
+      "status": "new",
+      "id": "87c1e087a79250a9a9855da19d63d4e0",
+      "source": "linkedin",
+      "summary": "Principal IC on Wolters Kluwer central GenAI platform (100 engineers, remote-first). Builds agent platform components and flagship agents such as UpToDate Expert AI. Stack: TypeScript, Node, React, Python, LangGraph, MCP, AWS.",
+      "score_breakdown": {
+        "technical": 10,
+        "seniority": 9,
+        "location": 5,
+        "company": 5,
+        "impact": 7,
+        "mission": 7,
+        "compensation": 6,
+        "growth": 6,
+        "ai": 10,
+        "novelty": 10
+      },
+      "date_found": "2026-10-21",
+      "date_posted_rel": "16 hours ago"
+    },
+    {
+      "id": "349efb338d7ed4695a85c0f1bf93c8f2",
+      "title": "Senior Frontend & Mobile Engineer — React / Flutter",
+      "company": "Geneva health-staffing SaaS startup (via Teamis)",
+      "location": "Geneva, Switzerland (2 office days/week)",
+      "url": "https://www.linkedin.com/jobs/view/4480497438",
+      "source": "linkedin",
+      "summary": "5-person Geneva SaaS startup (hospital staff scheduling) hiring owner of React web + Flutter mobile. Senior IC, no AI, Flutter gap.",
+      "score": 66,
+      "grade": "C",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-21",
+      "status": "reviewed"
+    },
+    {
+      "id": "8a28206b1413e90470b085945d967bad",
+      "title": "AI Tooling Engineer",
+      "company": "Undisclosed (via Jobgether)",
+      "location": "Switzerland (fully remote)",
+      "url": "https://www.linkedin.com/jobs/view/4480775765",
+      "source": "linkedin",
+      "summary": "Internal agentic platform: Python, LangGraph, MCP, evals. Strong AI fit but mid-level scope (3+ yrs, works under a Principal).",
+      "score": 65,
+      "grade": "C",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-21",
+      "status": "reviewed"
+    },
+    {
+      "id": "7fae5fb81434c75506cdaa983f424b5e",
+      "title": "Forward Deployed Engineer – AI & Automation (80-100%)",
+      "company": "Sanitas Krankenversicherung",
+      "location": "Zurich, Switzerland (hybrid)",
+      "url": "https://www.linkedin.com/jobs/view/4477337457",
+      "source": "linkedin",
+      "summary": "LLM/agent integration into insurance core systems; fluent German required.",
+      "score": 62,
+      "grade": "C",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-21",
+      "status": "reviewed"
+    },
+    {
+      "id": "1a651d464f93e13cbb3a00e28a7760d6",
+      "title": "Medical AI Data Engineer",
+      "company": "Tune Insight",
+      "location": "Lausanne, Vaud, Switzerland (on-site/hybrid)",
+      "url": "https://www.linkedin.com/jobs/view/4479521159",
+      "source": "linkedin",
+      "summary": "RAG agents over federated clinical data; requires OMOP/FHIR/medical ontology production experience.",
+      "score": 58,
+      "grade": "C",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-21",
+      "status": "reviewed"
+    },
+    {
+      "id": "9f65c3db4f498ba8de63b2d1499b3d6a",
+      "title": "Co-Tech Lead & Senior Python Backend Developer",
+      "company": "LocalBini",
+      "location": "Zurich / remote, Switzerland (part-time)",
+      "url": "https://www.linkedin.com/jobs/view/4481247629",
+      "source": "linkedin",
+      "summary": "Equity-only compensation for 12 months; Python/AWS/Terraform. Part-time.",
+      "score": 50,
+      "grade": "D",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-21",
+      "status": "reviewed"
+    },
+    {
+      "id": "992b53f4faf4c5758aca55f1595f3b4d",
+      "title": "Co-Tech Lead & Senior React Typescript Developer",
+      "company": "LocalBini",
+      "location": "Zurich / remote, Switzerland (20-100%)",
+      "url": "https://www.linkedin.com/jobs/view/4481241842",
+      "source": "linkedin",
+      "summary": "Equity-only compensation; React/TS frontend role. Part-time.",
+      "score": 48,
+      "grade": "D",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-21",
+      "status": "reviewed"
+    },
+    {
+      "id": "780048dbfa8f69d9510e8738c5f7cebd",
+      "title": "Senior Backend Engineer (Account)",
+      "company": "Proton",
+      "location": "Geneva, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4462827007",
+      "source": "linkedin",
+      "summary": "PHP/Symfony backend, on-prem; account lifecycle APIs.",
+      "score": 60,
+      "grade": "C",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-21",
+      "status": "reviewed"
+    },
+    {
+      "id": "a49407782c62f719e8ef0936475afade",
+      "title": "Team Lead Software Engineering – Sourcing & Purchasing",
+      "company": "Brack.Alltron",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4473286576",
+      "source": "linkedin",
+      "summary": "Java team lead, German-language posting, e-commerce internal systems.",
+      "score": 52,
+      "grade": "D",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-21",
+      "status": "reviewed"
+    },
+    {
+      "id": "1053fc389ac24e03e7d303a93f657cb4",
+      "title": "Backend Software Engineer - GovTech SaaS (80-100%)",
+      "company": "Konova AG",
+      "location": "Zug, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4476675081",
+      "source": "linkedin",
+      "summary": "PHP/Laravel, good German required; mid-level.",
+      "score": 50,
+      "grade": "D",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-21",
+      "status": "reviewed"
+    },
+    {
+      "id": "9a6d8887ee948a265e0a8b500253a2f9",
+      "title": "Data & AI Engineer (Lausanne / Zurich)",
+      "company": "Unit8",
+      "location": "Zurich / Lausanne, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4479350045",
+      "source": "linkedin",
+      "summary": "Consultancy data & AI engineering.",
+      "score": 55,
+      "grade": "C",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-21",
+      "status": "reviewed"
+    },
+    {
+      "id": "0c3dfd43f0d2e17f51862188b7c9e3a9",
+      "title": "Fullstack Web Developer",
+      "company": "Auterion",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4479108386",
+      "source": "linkedin",
+      "summary": "Mid-level full stack.",
+      "score": 50,
+      "grade": "D",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-21",
+      "status": "reviewed"
+    },
+    {
+      "id": "31bb7c164e00eba196ee6b2f394c95e2",
+      "title": "Co-fondateur",
+      "company": "Amadeli",
+      "location": "Geneva, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4303004568",
+      "source": "linkedin",
+      "summary": "Excluded: Business co-founder (fundraising/sales), unpaid, not a technical role",
+      "score": null,
+      "grade": "excluded",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-21",
+      "status": "excluded"
+    },
+    {
+      "id": "d670ffde7aff239053ae438a5ceeeb35",
+      "title": "Staff Engineer - Innovation",
+      "company": "Enclustra",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4468637718",
+      "source": "linkedin",
+      "summary": "Excluded: Embedded hardware/FPGA",
+      "score": null,
+      "grade": "excluded",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-21",
+      "status": "excluded"
+    },
+    {
+      "id": "dcef9e6027a9cd840df9069a6c3d4ad6",
+      "title": "Senior Software Engineer (Agentic Search) - Web Access Engineer",
+      "company": "Nebius",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4477707686",
+      "source": "linkedin",
+      "summary": "Excluded: Browser internals / fingerprinting specialist",
+      "score": null,
+      "grade": "excluded",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-21",
+      "status": "excluded"
+    },
+    {
+      "id": "6b6ba8628bbcd78ff18452a0e402a98a",
+      "title": "Senior Director, Technology",
+      "company": "Living Proof",
+      "location": "Fully, Valais, Switzerland (listing)",
+      "url": "https://www.linkedin.com/jobs/view/4477715016",
+      "source": "linkedin",
+      "summary": "Excluded: Enterprise IT (NetSuite/Workday/SFCC), USD comp suggests US role",
+      "score": null,
+      "grade": "excluded",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-21",
+      "status": "excluded"
+    },
+    {
+      "id": "28985abd7c4a42217a1fb9eca18b1cdf",
+      "title": "Staff Machine Learning Engineer - Wildfire",
+      "company": "Overstory",
+      "location": "Switzerland (remote)",
+      "url": "https://www.linkedin.com/jobs/view/4477324899",
+      "source": "linkedin",
+      "summary": "Excluded: Eastern North America timezone required; geospatial ML",
+      "score": null,
+      "grade": "excluded",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-21",
+      "status": "excluded"
+    },
+    {
+      "id": "633c9a4950e17066ad3676806af6d746",
+      "title": "Staff Product Engineer (Connect)",
+      "company": "Gigs",
+      "location": "Berlin, Germany",
+      "url": "https://www.linkedin.com/jobs/view/4480358481",
+      "source": "linkedin",
+      "summary": "Excluded: On-site/in-person outside Switzerland",
+      "score": null,
+      "grade": "excluded",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-21",
+      "status": "excluded"
+    },
+    {
+      "id": "8c1e87c0b23d4d977bdec94e13f004f9",
+      "title": "Senior R&D Engineer",
+      "company": "Proton",
+      "location": "Geneva, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4342309775",
+      "source": "linkedin",
+      "summary": "Excluded: VPN performance engineering, networking specialist",
+      "score": null,
+      "grade": "excluded",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-21",
+      "status": "excluded"
+    },
+    {
+      "id": "401e43299e77b9024fdaf92191e2ffec",
+      "title": "Full-Stack Web Engineer",
+      "company": "CERN",
+      "location": "Geneva, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4480474949",
+      "source": "linkedin",
+      "summary": "Excluded: Junior/fellowship level, ops-heavy",
+      "score": null,
+      "grade": "excluded",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-21",
+      "status": "excluded"
+    },
+    {
+      "id": "37576e16087b7276f934df98ebabfd08",
+      "title": "Software Architect",
+      "company": "SwissPeak Partners (client undisclosed)",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4478973986",
+      "source": "linkedin",
+      "summary": "Excluded: Consulting software house, .NET/Java, fluent German required",
+      "score": null,
+      "grade": "excluded",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-21",
+      "status": "excluded"
+    },
+    {
+      "id": "d346cf491bd345abd0b21fa0a2c1a170",
+      "title": "Team Lead Software Architecture",
+      "company": "Mettler-Toledo",
+      "location": "Greifensee, Zurich, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4476649918",
+      "source": "linkedin",
+      "summary": "Excluded: Embedded instruments, large enterprise",
+      "score": null,
+      "grade": "excluded",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-21",
+      "status": "excluded"
+    },
+    {
+      "id": "823548ce537c953fed20a974297bc5db",
+      "title": "Global AI Platform Manager",
+      "company": "Hitachi Energy",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4479894046",
+      "source": "linkedin",
+      "summary": "Excluded: Enterprise AI ops management, Microsoft stack",
+      "score": null,
+      "grade": "excluded",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-21",
+      "status": "excluded"
+    },
+    {
+      "id": "200831e2fbeb5dc5a634ab180dafae07",
+      "title": "Software Engineer (.NET)",
+      "company": "Code Compass (client undisclosed)",
+      "location": "Kreuzlingen, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4477393570",
+      "source": "linkedin",
+      "summary": "Excluded: .NET recruiter listing",
+      "score": null,
+      "grade": "excluded",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-21",
+      "status": "excluded"
+    },
+    {
+      "id": "dac800474f5d590080dd3ee50b210c4e",
+      "title": "Senior Software Engineer (.NET, stealth start-up)",
+      "company": "Code Compass (client undisclosed)",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4477397393",
+      "source": "linkedin",
+      "summary": "Excluded: .NET recruiter listing",
+      "score": null,
+      "grade": "excluded",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-21",
       "status": "excluded"
     }
   ]

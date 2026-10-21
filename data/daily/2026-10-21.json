@@ -1,0 +1,247 @@
+{
+  "date": "2026-10-21",
+  "total_searched": 1074,
+  "new_offers": 28,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Staff Software Engineer (Java) - Billing",
+      "company": "Sonar",
+      "location": "Geneva, Switzerland (hybrid, 3 office days/week)",
+      "url": "https://www.linkedin.com/jobs/view/4480367212",
+      "score": 78,
+      "grade": "B",
+      "match_reason": "Score: 78% - Match: \"Over 6 years of software engineering experience, including working as a Tech Lead, Staff Engineer, or Software Architect.\" -> Career Highlights > Benevity (2021–2026) — Senior Staff Engineer, Geneva (Remote); Target Roles > 1. Staff/Principal Platform Engineer",
+      "match_evidence": [
+        {
+          "dimension": "seniority",
+          "offer_quote": "Over 6 years of software engineering experience, including working as a Tech Lead, Staff Engineer, or Software Architect.",
+          "profile_element": "Career Highlights > Benevity (2021–2026) — Senior Staff Engineer, Geneva (Remote); Target Roles > 1. Staff/Principal Platform Engineer",
+          "note": null
+        },
+        {
+          "dimension": "ai",
+          "offer_quote": "Proficiency in working with and steering AI coding tools (Codex, Claude, etc).",
+          "profile_element": "Summary > Transitioning from traditional developer to \"Agent Manager\", multiplying team productivity by orchestrating multi-agent workflows (OpenClaw, Claude CLI)",
+          "note": null
+        },
+        {
+          "dimension": "technical",
+          "offer_quote": "Architect and guide the design of our on-premises and AWS cloud applications.",
+          "profile_element": "Core Technical Skills > Cloud & Infra: AWS, Docker, Kubernetes, CI/CD; Architecture: Platform engineering, Service-oriented architecture",
+          "note": null
+        },
+        {
+          "dimension": "technical",
+          "offer_quote": "Experience with relational RDBMS (such as Postgres) and SQL.",
+          "profile_element": "Core Technical Skills > Databases: MongoDB, PostgreSQL, Redis",
+          "note": null
+        },
+        {
+          "dimension": "company",
+          "offer_quote": "Sonar is driving the future of agent-centric software development.",
+          "profile_element": "Company Preferences > AI/ML or developer tools companies",
+          "note": null
+        },
+        {
+          "dimension": "location",
+          "offer_quote": "Our team operates across global hubs in Austin, Bochum, Dubai, Geneva, London, Singapore, Tokyo, and Washington D.C.",
+          "profile_element": "Location Preferences > 1. Genève, Suisse",
+          "note": "Role posted in Geneva; three anchor office days (Mon, Tue, Thu)"
+        }
+      ],
+      "gaps": [
+        {
+          "offer_quote": "Proficiency with Java coupled with a strong passion for Clean Code and rigorous software quality standards.",
+          "note": "Java is listed in Core Technical Skills > Languages, but every recent role (Alaya, Benevity) is TypeScript/Node; Java depth dates from Sagemcom (GWT, 2011–2014)"
+        },
+        {
+          "offer_quote": "Domain expertise with billing and payment processing systems (we use Stripe) and/or general experience with subscription management is highly desirable.",
+          "note": "No billing, payments or Stripe experience in profile/context.md"
+        }
+      ],
+      "evidence_status": "full_text",
+      "why": "Staff seat in Geneva at the company whose whole pitch is verifying AI-generated code, and the posting explicitly asks for someone who steers Claude and Codex rather than just tolerating them. Billing for usage-based AI products is cross-functional architecture work, close to what Magino did after the Benevity acquisition. The catch is Java as the main language and no Stripe background.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Senior Infrastructure Engineer",
+      "company": "Rivia",
+      "location": "Zurich, Switzerland (3-4 office days/week, Enge)",
+      "url": "https://www.linkedin.com/jobs/view/4442805599",
+      "score": 79,
+      "grade": "B",
+      "match_reason": "Score: 79% - Match: \"You are our first dedicated infrastructure hire, embedded in the engineering team.\" -> Key Strengths > Engineering cofounder — built platform from zero; Career Highlights > Alaya (2016–2021) — Cofounder & Head of Technologies, Built entire platform from zero",
+      "match_evidence": [
+        {
+          "dimension": "impact",
+          "offer_quote": "You are our first dedicated infrastructure hire, embedded in the engineering team.",
+          "profile_element": "Key Strengths > Engineering cofounder — built platform from zero; Career Highlights > Alaya (2016–2021) — Cofounder & Head of Technologies, Built entire platform from zero",
+          "note": null
+        },
+        {
+          "dimension": "technical",
+          "offer_quote": "Own our AWS platform end to end across staging and production: EKS, RDS, MemoryDB/Redis, S3, DynamoDB, IAM, networking.",
+          "profile_element": "Core Technical Skills > Cloud & Infra: AWS, Docker, Kubernetes, CI/CD; Databases: Redis",
+          "note": null
+        },
+        {
+          "dimension": "ai",
+          "offer_quote": "An AI-native way of working: you use agents (Claude Code or similar) for real infrastructure work and can show concrete examples.",
+          "profile_element": "Summary > orchestrating multi-agent workflows (OpenClaw, Claude CLI); Key Strengths > AI-augmented engineering pioneer",
+          "note": null
+        },
+        {
+          "dimension": "technical",
+          "offer_quote": "You have owned complex CI/CD end to end (GitHub Actions or equivalent).",
+          "profile_element": "Core Technical Skills > Cloud & Infra: CI/CD",
+          "note": null
+        },
+        {
+          "dimension": "growth",
+          "offer_quote": "In March 2026, Rivia raised its $15M Series A led by Earlybird Venture Capital.",
+          "profile_element": "Company Preferences > Startups and scale-ups (Series A to post-acquisition)",
+          "note": null
+        },
+        {
+          "dimension": "location",
+          "offer_quote": "Working Model: We work 3-4 days per week from our Zurich office in Enge.",
+          "profile_element": "Location Preferences > 3. Reste de la Suisse (Valais, Neuchâtel, Fribourg, Berne, Zurich, Bâle, etc.)",
+          "note": "3-4 days a week in Zurich, about 2h45 by train from Geneva"
+        }
+      ],
+      "gaps": [
+        {
+          "offer_quote": "5+ years of hands-on infrastructure or DevOps experience with deep AWS expertise, including cost optimization work.",
+          "note": "AWS is in profile but dedicated infra/DevOps years and cost optimisation are not stated in profile/context.md"
+        },
+        {
+          "offer_quote": "Keycloak or similar identity provider operations (OIDC, SSO, secrets management).",
+          "note": "Not in profile/context.md"
+        },
+        {
+          "offer_quote": "Working Model: We work 3-4 days per week from our Zurich office in Enge.",
+          "note": "Heavy on-site requirement in Zurich, far from Geneva"
+        }
+      ],
+      "evidence_status": "full_text",
+      "why": "Series A startup in Zurich where Magino would be the first and only infrastructure owner, which is the Alaya situation again on the platform side. The posting wants someone who already drives Claude Code agents for real infra work, so the Agent Manager angle is a direct answer. Title is Senior, not Staff, and 3-4 days in Zurich is a real commute cost.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Forward Deployed Engineer (Founding)",
+      "company": "Undisclosed AI integrations startup (via Jobgether)",
+      "location": "Switzerland (remote-first, Europe)",
+      "url": "https://www.linkedin.com/jobs/view/4478430814",
+      "score": 73,
+      "grade": "B",
+      "match_reason": "Score: 73% - Match: \"Working within a small, experienced, remote-first engineering team, you will have a meaningful opportunity to influence product direction, technical decisions, and the company's growth.\" -> Target Roles > 2. Founding Engineer / First Engineer; Career Highlights > Alaya (2016–2021) — Cofounder & Head of Technologies",
+      "match_evidence": [
+        {
+          "dimension": "impact",
+          "offer_quote": "Working within a small, experienced, remote-first engineering team, you will have a meaningful opportunity to influence product direction, technical decisions, and the company's growth.",
+          "profile_element": "Target Roles > 2. Founding Engineer / First Engineer; Career Highlights > Alaya (2016–2021) — Cofounder & Head of Technologies",
+          "note": null
+        },
+        {
+          "dimension": "technical",
+          "offer_quote": "API and integration expertise: Strong understanding of APIs, third-party integrations, authentication, data flows, and production system troubleshooting, with the ability to diagnose and resolve complex technical problems.",
+          "profile_element": "Core Technical Skills > Backend: Node.js, Express, REST APIs, GraphQL, Microservices; Architecture: API design",
+          "note": null
+        },
+        {
+          "dimension": "ai",
+          "offer_quote": "Join an innovative, fast-growing technology startup building infrastructure that enables developers to create powerful integrations between applications and AI agents.",
+          "profile_element": "Core Technical Skills > AI/ML: LLM integration, Multi-agent workflows; Company Preferences > AI/ML or developer tools companies",
+          "note": null
+        },
+        {
+          "dimension": "seniority",
+          "offer_quote": "Professional experience: At least five years of full-stack software engineering experience, with a demonstrated ability to deliver production-ready solutions and manage technical projects end to end.",
+          "profile_element": "Summary > 17+ years of experience in software architecture, system design, and platform engineering",
+          "note": null
+        },
+        {
+          "dimension": "location",
+          "offer_quote": "Our partner is looking for a Forward Deployed Engineer (Founding) based in Switzerland.",
+          "profile_element": "Location Preferences > 3. Reste de la Suisse; 4. Remote Europe",
+          "note": "Remote-first, Switzerland-based; city not specified"
+        }
+      ],
+      "gaps": [
+        {
+          "offer_quote": "Customer-facing engineering: Experience working directly with customers or developers to understand technical requirements, guide implementations, resolve complex issues, and support successful product adoption.",
+          "note": "Customer-facing implementation work is not described in profile/context.md"
+        },
+        {
+          "offer_quote": "Equity compensation ranging from 0.05% to 0.15%, offering the opportunity to participate in the company's long-term growth.",
+          "note": "Small equity for a founding title; company identity hidden behind Jobgether"
+        }
+      ],
+      "evidence_status": "full_text",
+      "why": "Founding title at an AI-agent integration startup, remote-first and asking for someone based in Switzerland. The job sits between APIs, auth and data flows on one side and agents on the other, which is where Magino's platform and multi-agent work overlap. Expect a lot of customer time, and the company is only revealed after applying through Jobgether.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Principal Full Stack Engineer, AI Platform & Agents",
+      "company": "Wolters Kluwer",
+      "location": "Remote Europe (remote-first US/EU, listed Alphen aan den Rijn, NL)",
+      "url": "https://www.linkedin.com/jobs/view/4351889039",
+      "score": 75,
+      "grade": "B",
+      "match_reason": "Score: 75% - Match: \"TypeScript, Node.js, React, Python, LangChain/LangGraph, MCP/A2A, Rust\" -> Core Technical Skills > Languages: TypeScript, JavaScript, Node.js, Python; Frontend: React",
+      "match_evidence": [
+        {
+          "dimension": "technical",
+          "offer_quote": "TypeScript, Node.js, React, Python, LangChain/LangGraph, MCP/A2A, Rust",
+          "profile_element": "Core Technical Skills > Languages: TypeScript, JavaScript, Node.js, Python; Frontend: React",
+          "note": null
+        },
+        {
+          "dimension": "ai",
+          "offer_quote": "Design and implement full‑stack applications, AI agents, and platform components that enable rapid GenAI agent development, validation, and deployment.",
+          "profile_element": "Core Technical Skills > AI/ML: LLM integration, Multi-agent workflows; Architecture: Platform engineering",
+          "note": null
+        },
+        {
+          "dimension": "seniority",
+          "offer_quote": "Lead by example and be heavily hands-on: drive architecture, mentor engineers, and take ownership of larger projects.",
+          "profile_element": "Target Roles > 1. Staff/Principal Platform Engineer; Career Highlights > Benevity (2021–2026) — Senior Staff Engineer",
+          "note": null
+        },
+        {
+          "dimension": "technical",
+          "offer_quote": "AWS (primary), Azure, GCP; Docker, Terraform, GitHub Actions",
+          "profile_element": "Core Technical Skills > Cloud & Infra: AWS, Docker, Kubernetes, CI/CD",
+          "note": null
+        },
+        {
+          "dimension": "location",
+          "offer_quote": "Work setup: Remote-first in US or EU, with hybrid options near major offices. Collaboration requires 9–11 AM CST overlap. Occasional travel for team onsites/offsites as needed.",
+          "profile_element": "Location Preferences > 4. Remote Europe (timezone CET compatible)",
+          "note": "9-11 AM CST overlap is 16:00-18:00 CET"
+        }
+      ],
+      "gaps": [
+        {
+          "offer_quote": "Experience with LangChain/LangGraph and MCP; vector/RAG systems; OpenSearch.",
+          "note": "LangGraph, MCP and OpenSearch are not named in profile (semantic search and embeddings are)"
+        },
+        {
+          "offer_quote": "Our team is building a central GenAI Platform to empower hundreds of product teams across the organization with scalable capabilities for rapid development, validation, and deployment of AI agents.",
+          "note": "Large enterprise context (Company Preferences > Avoid: large legacy enterprises), even if the team claims startup agility"
+        }
+      ],
+      "evidence_status": "full_text",
+      "why": "The stack line is almost Magino's skills section copied out: TypeScript, Node, React, Python, AWS, plus agents and MCP. It's a Principal IC seat on a 100-engineer GenAI platform team that is remote-first in the EU. Ranked last because it's a large enterprise and remote, and every Swiss offer comes first.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
