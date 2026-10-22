@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-21",
+  "last_updated": "2026-10-22",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -31168,6 +31168,727 @@
       "grade": "excluded",
       "evidence_status": "full_text",
       "date_found": "2026-10-21",
+      "status": "excluded"
+    },
+    {
+      "id": "b474b5d2be4e0efe66229681c861fcfb",
+      "title": "Principal Engineer, Hybrid Cloud Environment",
+      "company": "Google",
+      "location": "Zurich, Switzerland (or San Jose, Munich, Kirkland, New York)",
+      "url": "https://www.linkedin.com/jobs/view/4481110963",
+      "source": "linkedin",
+      "date_posted": "2026-10-21",
+      "score": 76,
+      "grade": "B",
+      "score_breakdown": {
+        "technical": 6,
+        "seniority": 10,
+        "location": 8,
+        "company": 5,
+        "impact": 7,
+        "mission": 6,
+        "compensation": 10,
+        "growth": 6,
+        "ai": 9,
+        "novelty": 9
+      },
+      "match_reason": "Score: 76% - Match: \"Experience with AI application platforms, prompt engineering systems, or orchestrating agentic workflows.\" -> Summary > orchestrating multi-agent workflows (OpenClaw, Claude CLI); Core Technical Skills > AI/ML: LLM integration, Multi-agent workflows",
+      "match_evidence": [
+        {
+          "dimension": "ai",
+          "offer_quote": "Experience with AI application platforms, prompt engineering systems, or orchestrating agentic workflows.",
+          "profile_element": "Summary > orchestrating multi-agent workflows (OpenClaw, Claude CLI); Core Technical Skills > AI/ML: LLM integration, Multi-agent workflows",
+          "note": null
+        },
+        {
+          "dimension": "seniority",
+          "offer_quote": "Experience in a technical leadership role leading senior engineering teams and defining multi-year architectural strategies.",
+          "profile_element": "Career Highlights > Alaya (2016–2021) — Cofounder & Head of Technologies; Career Highlights > Benevity (2021–2026) — Senior Staff Engineer, cross-team architecture",
+          "note": null
+        },
+        {
+          "dimension": "impact",
+          "offer_quote": "owning the technical direction and multi-year roadmap for the Hybrid Cloud Environment platform",
+          "profile_element": "Target Roles > 1. Staff/Principal Platform Engineer; Core Technical Skills > Architecture: Platform engineering",
+          "note": null
+        },
+        {
+          "dimension": "technical",
+          "offer_quote": "Deep familiarity with developer infrastructure and Cloud Platform solutions.",
+          "profile_element": "Core Technical Skills > Cloud & Infra: AWS, Docker, Kubernetes, CI/CD; Architecture: Platform engineering, API design",
+          "note": "Preferred qualification; profile cloud is AWS, not GCP"
+        },
+        {
+          "dimension": "ai",
+          "offer_quote": "allowing both human engineers and autonomous AI agents to stand up real, enterprise-grade cloud environments in seconds",
+          "profile_element": "Key Strengths > AI-augmented engineering pioneer; Summary > building systems where AI and engineers scale product velocity",
+          "note": null
+        },
+        {
+          "dimension": "location",
+          "offer_quote": "Zürich, Switzerland",
+          "profile_element": "Location Preferences > 3. Reste de la Suisse (Valais, Neuchâtel, Fribourg, Berne, Zurich, Bâle, etc.)",
+          "note": "Zurich is one of five location options the candidate picks at application"
+        },
+        {
+          "dimension": "compensation",
+          "offer_quote": "Germany: €232000 - €237000 (EUR) + 30% bonus target + equity + benefits",
+          "profile_element": "Compensation > Open to discussion based on role and equity",
+          "note": "No CHF band published; the Munich band is a floor proxy for Zurich"
+        }
+      ],
+      "gaps": [
+        {
+          "offer_quote": "15 years of experience in software engineering, with a focus on designing, building, and operating large-scale, distributed cloud infrastructure, policy engines, or control planes.",
+          "note": "17+ years in profile/context.md, but on SaaS product platforms, not cloud control planes or policy engines"
+        },
+        {
+          "offer_quote": "Track record of designing compilers, policy engines, or domain-specific languages that compile high-level configurations or intents into secure cloud configurations.",
+          "note": "No compiler, policy engine or DSL work in profile/context.md"
+        },
+        {
+          "offer_quote": "bridging the gap between traditional developer ecosystems (Google3, etc.) and Google Cloud Platform (GCP)",
+          "note": "Profile lists AWS only; no GCP or Google-internal tooling"
+        }
+      ],
+      "evidence_status": "full_text",
+      "why": "Principal seat in Zurich on a platform that turns natural-language intent into governed cloud environments for humans and AI agents, which is the agent-manager thesis applied to infra. Seniority and AI signal are top-tier and the pay is Google Principal. The honest risk is depth: it asks for 15 years of control-plane and policy-engine work, while Magino's 17 years are on SaaS product platforms on AWS.",
+      "date_found": "2026-10-22",
+      "status": "new"
+    },
+    {
+      "id": "46c69457be22f4390d91fe0a69b6ac03",
+      "title": "Staff Software Engineer - Platform",
+      "company": "Undisclosed fintech (via Jobgether)",
+      "location": "Switzerland (remote, globally distributed team)",
+      "url": "https://www.linkedin.com/jobs/view/4481166959",
+      "source": "linkedin",
+      "date_posted": "2026-10-22",
+      "score": 74,
+      "grade": "B",
+      "score_breakdown": {
+        "technical": 6,
+        "seniority": 9,
+        "location": 8,
+        "company": 7,
+        "impact": 8,
+        "mission": 6,
+        "compensation": 7,
+        "growth": 7,
+        "ai": 7,
+        "novelty": 9
+      },
+      "match_reason": "Score: 74% - Match: \"A track record of leading technical direction across team boundaries, including ownership of architectural decisions, technical proposals, and cross-team implementation.\" -> Career Highlights > Benevity (2021–2026) — Senior Staff Engineer, cross-team architecture; Target Roles > 1. Staff/Principal Platform Engineer",
+      "match_evidence": [
+        {
+          "dimension": "seniority",
+          "offer_quote": "A track record of leading technical direction across team boundaries, including ownership of architectural decisions, technical proposals, and cross-team implementation.",
+          "profile_element": "Career Highlights > Benevity (2021–2026) — Senior Staff Engineer, cross-team architecture; Target Roles > 1. Staff/Principal Platform Engineer",
+          "note": null
+        },
+        {
+          "dimension": "ai",
+          "offer_quote": "Experience developing agentic or AI-native developer tools, or designing systems intended to be operated by AI agents.",
+          "profile_element": "Summary > orchestrating multi-agent workflows (OpenClaw, Claude CLI); Key Strengths > AI-augmented engineering pioneer",
+          "note": null
+        },
+        {
+          "dimension": "company",
+          "offer_quote": "Previous startup experience and comfort working in an environment with ambiguity, changing priorities, and evolving processes.",
+          "profile_element": "Career Highlights > Alaya (2016–2021) — Cofounder & Head of Technologies, Built entire platform from zero",
+          "note": null
+        },
+        {
+          "dimension": "impact",
+          "offer_quote": "Own platform architecture and technical strategy",
+          "profile_element": "Target Roles > 1. Staff/Principal Platform Engineer; Core Technical Skills > Architecture: Platform engineering, Service-oriented architecture",
+          "note": null
+        },
+        {
+          "dimension": "technical",
+          "offer_quote": "Solid experience with relational databases, including core database concepts applicable to PostgreSQL.",
+          "profile_element": "Core Technical Skills > Databases: MongoDB, PostgreSQL, Redis",
+          "note": null
+        },
+        {
+          "dimension": "location",
+          "offer_quote": "Our partner is looking for a Staff Software Engineer – Platform based in Switzerland.",
+          "profile_element": "Location Preferences > 3. Reste de la Suisse",
+          "note": "City not specified; benefits include a home-office allowance, so remote within Switzerland is likely"
+        },
+        {
+          "dimension": "compensation",
+          "offer_quote": "Stock options.",
+          "profile_element": "Compensation > Open to discussion based on role and equity",
+          "note": "Salary only stated as competitive"
+        }
+      ],
+      "gaps": [
+        {
+          "offer_quote": "Strong production-level expertise in Kafka or Redpanda, including partitioning, consumer groups, rebalancing, retention policies, delivery guarantees, and performance under load.",
+          "note": "No Kafka/Redpanda or event-streaming platform in profile/context.md"
+        },
+        {
+          "offer_quote": "Proficiency in Go, or deep experience with another strongly typed programming language and the ability to become productive in Go quickly.",
+          "note": "No Go; TypeScript and Java are the strongly typed languages in the profile"
+        },
+        {
+          "offer_quote": "Strong Kubernetes knowledge beyond the basics, including the ability to write Helm charts and apply security best practices; relevant professional experience or certifications are expected.",
+          "note": "Kubernetes is listed under Cloud & Infra, but no Helm or certification"
+        }
+      ],
+      "evidence_status": "full_text",
+      "why": "Staff platform owner based in Switzerland at a startup with stock options, cross-team architecture by influence, which matches the Benevity remit, and AI-native dev tooling is part of the brief. The gap is the core stack: Go plus Kafka/Redpanda streaming at scale, neither of which is in the profile.",
+      "date_found": "2026-10-22",
+      "status": "new"
+    },
+    {
+      "id": "6c8c3697ffd818073b2309c8016863ea",
+      "title": "Senior Fullstack Developer (m/w/d) - Claude Code Expert",
+      "company": "Undisclosed coaching marketplace (via Jobgether)",
+      "location": "Switzerland (remote or hybrid)",
+      "url": "https://www.linkedin.com/jobs/view/4481168987",
+      "source": "linkedin",
+      "date_posted": "2026-10-22",
+      "score": 74,
+      "grade": "B",
+      "score_breakdown": {
+        "technical": 9,
+        "seniority": 6,
+        "location": 8,
+        "company": 7,
+        "impact": 7,
+        "mission": 7,
+        "compensation": 5,
+        "growth": 6,
+        "ai": 10,
+        "novelty": 9
+      },
+      "match_reason": "Score: 74% - Match: \"Extensive experience in AI-assisted software development, preferably using Claude Code in real-world development workflows.\" -> Summary > orchestrating multi-agent workflows (OpenClaw, Claude CLI); Key Strengths > AI-augmented engineering pioneer",
+      "match_evidence": [
+        {
+          "dimension": "ai",
+          "offer_quote": "Extensive experience in AI-assisted software development, preferably using Claude Code in real-world development workflows.",
+          "profile_element": "Summary > orchestrating multi-agent workflows (OpenClaw, Claude CLI); Key Strengths > AI-augmented engineering pioneer",
+          "note": null
+        },
+        {
+          "dimension": "technical",
+          "offer_quote": "Design, develop, and maintain backend services and REST APIs using TypeScript, Node.js, and Express.",
+          "profile_element": "Core Technical Skills > Languages: TypeScript, JavaScript, Node.js; Backend: Node.js, Express, REST APIs",
+          "note": null
+        },
+        {
+          "dimension": "technical",
+          "offer_quote": "Advanced proficiency in TypeScript, particularly for backend application development.",
+          "profile_element": "Core Technical Skills > Languages: TypeScript, Node.js",
+          "note": null
+        },
+        {
+          "dimension": "impact",
+          "offer_quote": "Opportunity to influence engineering practices, infrastructure decisions, and the long-term technical roadmap.",
+          "profile_element": "Key Strengths > Builder mindset with strong architectural thinking; Career Highlights > Alaya (2016–2021) — Cofounder & Head of Technologies",
+          "note": null
+        },
+        {
+          "dimension": "company",
+          "offer_quote": "support the launch and continued evolution of an innovative online marketplace for life coaching and counseling",
+          "profile_element": "Company Preferences > Startups and scale-ups; Impact-driven / purpose-driven companies",
+          "note": null
+        },
+        {
+          "dimension": "location",
+          "offer_quote": "Flexible working hours and the possibility of remote or hybrid collaboration.",
+          "profile_element": "Location Preferences > 3. Reste de la Suisse",
+          "note": "Posting says based in Switzerland; city not given"
+        }
+      ],
+      "gaps": [
+        {
+          "offer_quote": "Hands-on experience with Firebase and the Google Cloud Platform ecosystem.",
+          "note": "Profile cloud is AWS; no Firebase or GCP"
+        },
+        {
+          "offer_quote": "Familiarity with frontend development using SvelteKit 2, Svelte 5, TypeScript, and Tailwind CSS.",
+          "note": "Tailwind and TypeScript are in the profile, Svelte is not (React, Vue.js, Astro)"
+        },
+        {
+          "offer_quote": "Experience integrating third-party services such as Stripe and Twilio.",
+          "note": "No Stripe or Twilio integration in profile/context.md"
+        },
+        {
+          "offer_quote": "Senior Fullstack Developer (m/w/d) - Claude Code Expert",
+          "note": "Senior title, a step below Staff+; scope is launch and stabilisation of an existing product"
+        }
+      ],
+      "evidence_status": "full_text",
+      "why": "The only Swiss posting this week that makes Claude Code the headline requirement, on Magino's exact backend stack (TypeScript, Node, Express, REST). Small team taking a coaching marketplace from build to launch, with room to set engineering practice. It's a Senior title on Firebase/GCP and Svelte, so pitch it as tech lead, and a 50% arrangement could be worth asking about given Givernance.",
+      "date_found": "2026-10-22",
+      "status": "new"
+    },
+    {
+      "id": "3329ad753163d280f5d6dec67955b74b",
+      "title": "Software Engineer Lead",
+      "company": "QSC",
+      "location": "Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4454265869",
+      "source": "linkedin",
+      "date_posted": "2026-10-21",
+      "summary": "Staff-level Lead Full Stack (React/Redux/TypeScript, WebSocket) owning VisionSuite Designer, hybrid Zurich; enterprise (Acuity/QSC), C++ interop and no AI angle.",
+      "score": 66,
+      "grade": "C",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-22",
+      "status": "new"
+    },
+    {
+      "id": "6c15052efe54a95df8996552b451e06f",
+      "title": "Senior Backend Engineer (Media Delivery)",
+      "company": "Frontify",
+      "location": "St Gallen, St Gallen, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4466223554",
+      "source": "linkedin",
+      "date_posted": "2026-10-21",
+      "summary": "Senior Backend on Node.js/TypeScript media delivery on AWS EKS at Frontify, St Gallen; Senior IC scope, FFmpeg/C++ media focus.",
+      "score": 68,
+      "grade": "C",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-22",
+      "status": "new"
+    },
+    {
+      "id": "4d9411db92c35c92eeeb8ba83062afb4",
+      "title": "AWS - Platform Devops Engineer - Fintech",
+      "company": "Beyond Potentials",
+      "location": "Le Vaud, Vaud, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4480443825",
+      "source": "linkedin",
+      "date_posted": "2026-10-20",
+      "summary": "Senior IC owning the platform direction and AWS landing zone at a FINMA-regulated asset manager in Vaud (via recruiter Beyond Potentials); DevOps-heavy (Terraform, Vault, SAST).",
+      "score": 66,
+      "grade": "C",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-22",
+      "status": "new"
+    },
+    {
+      "id": "4e37b16e45c04b1c0181cb478492c30b",
+      "title": "Senior DevOps Engineer",
+      "company": "Proton",
+      "location": "Geneva, Geneva, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4453337305",
+      "source": "linkedin",
+      "date_posted": "2026-10-16",
+      "summary": "Senior DevOps at Proton Geneva: CI/CD at scale, ArgoCD, K8s on-prem; Go/Rust/Ansible gaps, salary band quoted for Paris.",
+      "score": 64,
+      "grade": "C",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-22",
+      "status": "new"
+    },
+    {
+      "id": "99565d2ffbbfe0d31e7cc6e98741863d",
+      "title": "Backend Engineer, Solving",
+      "company": "Jobgether",
+      "location": "Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4481176414",
+      "source": "linkedin",
+      "date_posted": "2026-10-22",
+      "summary": "TypeScript/Node.js DeFi solving engine (contract) via Jobgether, Switzerland; mid-level scope, crypto domain.",
+      "score": 58,
+      "grade": "C",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-22",
+      "status": "new"
+    },
+    {
+      "id": "5a98b26e57e624b7a7b821cac15c7d90",
+      "title": "Senior Software Engineer",
+      "company": "TripleLift",
+      "location": "Zurich, Zurich, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4462801768",
+      "source": "linkedin",
+      "date_posted": "2026-10-15",
+      "summary": "Senior Java RTB engineer at TripleLift Zurich; uses Claude Code day to day but Java core and Senior scope.",
+      "score": 60,
+      "grade": "C",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-22",
+      "status": "new"
+    },
+    {
+      "id": "2c8779602014fcae097afd32f48dfd79",
+      "title": "Senior Engineer - Authorisation and Core Services (80-100%)",
+      "company": "Sygnum Bank",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4480385047",
+      "source": "linkedin",
+      "date_posted": "2026-10-16",
+      "summary": "Senior Engineer, authorisation & core services at Sygnum Bank Zurich; banking, Senior scope.",
+      "score": 58,
+      "grade": "C",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-22",
+      "status": "new"
+    },
+    {
+      "id": "48080f797e340102fde97512abe04851",
+      "title": "Cloud Platform Engineer",
+      "company": "Jobgether",
+      "location": "Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4480449115",
+      "source": "linkedin",
+      "date_posted": "2026-10-20",
+      "summary": "Cloud Platform Engineer for AI team of a logistics group (Azure-first) via Jobgether, Switzerland remote.",
+      "score": 56,
+      "grade": "C",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-22",
+      "status": "new"
+    },
+    {
+      "id": "73ffd3d9ff09fd40e9eb2e72d22e0fc7",
+      "title": "Staff Engineer - Trust & Vault",
+      "company": "Yuno",
+      "location": "Madrid, Community of Madrid, Spain",
+      "url": "https://www.linkedin.com/jobs/view/4479606359",
+      "source": "linkedin",
+      "date_posted": "2026-10-16",
+      "summary": "Staff Engineer Trust & Vault at Yuno (payments, PCI vaulting), remote anywhere; listed Madrid, Swiss options preferred.",
+      "score": 58,
+      "grade": "C",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-22",
+      "status": "new"
+    },
+    {
+      "id": "a7a2f16e8af01b17bdef0ce82ea0fded",
+      "title": "Sr. Forward Deployed Engineer - FDE (Fullstack)",
+      "company": "FDE Times",
+      "location": "Zurich, Zurich, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4479432903",
+      "source": "linkedin",
+      "date_posted": "2026-10-21",
+      "summary": "Databricks-focused Senior FDE (Spark, billable) relayed by FDE Times aggregator, Zurich.",
+      "score": 55,
+      "grade": "C",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-22",
+      "status": "new"
+    },
+    {
+      "id": "c642b53f63eea4b495fb9f86b643bf52",
+      "title": "Staff Software Engineer, Site Reliability Engineering, Google Cloud",
+      "company": "Google",
+      "location": "Zurich, Zurich, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4471931122",
+      "source": "linkedin",
+      "date_posted": "2026-10-21",
+      "summary": "Staff SRE Google Cloud Zurich; SRE track, not product/platform building.",
+      "score": 54,
+      "grade": "D",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-22",
+      "status": "new"
+    },
+    {
+      "id": "2f28bcb57d141f6abc14a76447a5c29f",
+      "title": "Frontend Engineer (B2B Products)",
+      "company": "Proton",
+      "location": "Geneva, Geneva, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4387248524",
+      "source": "linkedin",
+      "date_posted": "2026-10-15",
+      "summary": "Frontend Engineer B2B at Proton Geneva; IC frontend scope.",
+      "score": 54,
+      "grade": "D",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-22",
+      "status": "new"
+    },
+    {
+      "id": "298d45c3a7bcad63d3d685fe58ea79ec",
+      "title": "Advisor, Software Engineer - Ag & Trading",
+      "company": "Cargill",
+      "location": "Geneva, Geneva, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4479426871",
+      "source": "linkedin",
+      "date_posted": "2026-10-21",
+      "summary": "Advisor Software Engineer for trading systems at Cargill Geneva; HFT/low-latency trading stack, large enterprise.",
+      "score": 50,
+      "grade": "D",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-22",
+      "status": "new"
+    },
+    {
+      "id": "5d3b4af8cac56709877548fd2d235e0e",
+      "title": "Data & AI Engineer (Lausanne / Zurich, Switzerland)",
+      "company": "Unit8",
+      "location": "Lausanne, Vaud, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4479342463",
+      "source": "linkedin",
+      "date_posted": "2026-10-16",
+      "summary": "Data & AI Engineer at Unit8 (consulting), Lausanne; mid-level, client delivery.",
+      "score": 50,
+      "grade": "D",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-22",
+      "status": "new"
+    },
+    {
+      "id": "3c1b8ed23e59de74abfb9601ab164515",
+      "title": "Senior Artificial Intelligence Engineer",
+      "company": "Groupe ANSAM",
+      "location": "Vaud, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4443790699",
+      "source": "linkedin",
+      "date_posted": "2026-10-16",
+      "summary": "Senior AI Engineer at Novatix/Groupe ANSAM (IT services), Vaud; MLOps consulting.",
+      "score": 50,
+      "grade": "D",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-22",
+      "status": "new"
+    },
+    {
+      "id": "c44fa1da85e461d03b24514fb01412d6",
+      "title": "Staff Machine Learning Engineer, LLM Inference Optimization",
+      "company": "Nebius",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4479413990",
+      "source": "linkedin",
+      "date_posted": "2026-10-21",
+      "summary": "Staff ML Engineer, LLM inference optimisation at Nebius Zurich; ML systems/CUDA specialty.",
+      "score": 50,
+      "grade": "D",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-22",
+      "status": "new"
+    },
+    {
+      "id": "af004d508b2832dd0db9c6dbc12848db",
+      "title": "Staff ML Engineer (f/md)",
+      "company": "Hexagon Robotics",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4477077634",
+      "source": "linkedin",
+      "date_posted": "2026-10-15",
+      "summary": "Staff ML Engineer, Hexagon Robotics Zurich; robotics ML.",
+      "score": 48,
+      "grade": "D",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-22",
+      "status": "new"
+    },
+    {
+      "id": "6d3b01a2cf4ba81383284939a2f6a8c4",
+      "title": "Senior AI Software Engineer",
+      "company": "Noir",
+      "location": "Bern, Berne, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4482094229",
+      "source": "linkedin",
+      "date_posted": "2026-10-21",
+      "summary": "Senior AI Software Engineer via Noir (recruiter), Bern; CHF 110-125k, B2 German required.",
+      "score": 45,
+      "grade": "D",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-22",
+      "status": "new"
+    },
+    {
+      "id": "39c31f606c39efb7937047c88027d421",
+      "title": "Senior Cloud Engineer",
+      "company": "Artificialy",
+      "location": "Lugano, Ticino, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4469725377",
+      "source": "linkedin",
+      "date_posted": "2026-10-16",
+      "summary": "Senior Cloud Engineer, Artificialy, Lugano.",
+      "score": 45,
+      "grade": "D",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-22",
+      "status": "new"
+    },
+    {
+      "id": "d41705de66e8fe1fdb663f6ba53051a2",
+      "title": "DevOps Engineer - GenAI",
+      "company": "SuisseCo GmbH",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4478841907",
+      "source": "linkedin",
+      "date_posted": "2026-10-20",
+      "summary": "DevOps Engineer GenAI, SuisseCo, Zurich.",
+      "score": 45,
+      "grade": "D",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-22",
+      "status": "new"
+    },
+    {
+      "id": "c65343e30f4f2e75cff945d10d1d93c6",
+      "title": "Lead Solutions Architect",
+      "company": "JRMC & Associés",
+      "location": "Geneva, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4480006462",
+      "source": "linkedin",
+      "date_posted": "2026-10-22",
+      "summary": "Lead Solutions Architect via JRMC & Associés, Geneva; consulting.",
+      "score": 45,
+      "grade": "D",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-22",
+      "status": "new"
+    },
+    {
+      "id": "16b342333eacb7018a8040afc18e446c",
+      "title": "Customer Integration Engineer",
+      "company": "Cerrion",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4482435437",
+      "source": "linkedin",
+      "date_posted": "2026-10-22",
+      "summary": "Customer Integration Engineer at Cerrion Zurich; customer-facing integration.",
+      "score": 40,
+      "grade": "D",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-22",
+      "status": "new"
+    },
+    {
+      "id": "29fa2640c792f23a06e4cb2c699d125b",
+      "title": "Développeur Fullstack / DevOps Senior (H/F)",
+      "company": "Qim info",
+      "location": "Geneva, Geneva, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4478654912",
+      "source": "linkedin",
+      "date_posted": "2026-10-20",
+      "summary": "Senior Fullstack/DevOps at Qim info (IT consulting), Geneva.",
+      "score": 40,
+      "grade": "D",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-22",
+      "status": "new"
+    },
+    {
+      "id": "76dae1e5e7c63f732d961213fc09573f",
+      "title": "Frontend Software Engineer (100% Remote - worldwide)",
+      "company": "Tether.io",
+      "location": "Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4480187824",
+      "source": "linkedin",
+      "date_posted": "2026-10-16",
+      "summary": "Frontend Engineer at Tether, remote worldwide.",
+      "score": 40,
+      "grade": "D",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-22",
+      "status": "new"
+    },
+    {
+      "id": "d9be40c5563c28f4d645d164c41450ee",
+      "title": "Software Engineer – Python/PHP & PostgreSQL",
+      "company": "Swissquote",
+      "location": "Gland, Vaud, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4472155875",
+      "source": "linkedin",
+      "date_posted": "2026-10-21",
+      "summary": "Swissquote Gland, Python/PHP, 2-4 years experience; too junior.",
+      "score": 35,
+      "grade": "F",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-22",
+      "status": "new"
+    },
+    {
+      "id": "be6d8823201e49f62543801c3a16add0",
+      "title": "Senior Full Stack Developer (m/w/d) 50-100%",
+      "company": "Swissprime Technologies AG",
+      "location": "Horgen, Zurich, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4477398467",
+      "source": "linkedin",
+      "date_posted": "2026-10-16",
+      "summary": "Swissprime Horgen, C#/.NET, German required.",
+      "score": 35,
+      "grade": "F",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-22",
+      "status": "new"
+    },
+    {
+      "id": "6ac4a7fba7a38a86eca6036616edc887",
+      "title": "Software Architect",
+      "company": "GlobalEngineer GmbH",
+      "location": "Zürich Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4482442581",
+      "source": "linkedin",
+      "date_posted": "2026-10-22",
+      "summary": "GlobalEngineer Zurich, C/C++/Java MBSE architect, German.",
+      "score": 30,
+      "grade": "F",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-22",
+      "status": "new"
+    },
+    {
+      "id": "67d9b311c13757b354e589a872960784",
+      "title": "ARIA - Literature Review AI Automation (IT-PW-WDA-2026-165-GRAP)",
+      "company": "CERN",
+      "location": "Geneva, Geneva, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4480489337",
+      "source": "linkedin",
+      "date_posted": "2026-10-20",
+      "summary": "CERN QUEST graduate position (entry level, 2-6 years post-master).",
+      "score": null,
+      "grade": "excluded",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-22",
+      "status": "excluded"
+    },
+    {
+      "id": "c2159f627b72c453be881ac542308d25",
+      "title": "Principal Generalist Engineer",
+      "company": "Moniepoint Group",
+      "location": "Portugal",
+      "url": "https://www.linkedin.com/jobs/view/4471726208",
+      "source": "linkedin",
+      "date_posted": "2026-10-20",
+      "summary": "Moniepoint Principal Generalist listed in Portugal, no remote-Europe statement.",
+      "score": null,
+      "grade": "excluded",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-22",
+      "status": "excluded"
+    },
+    {
+      "id": "f236127bcd657f5abc03c390b2015591",
+      "title": "Fullstack Software Engineer (x/f/m) - Global Architecture",
+      "company": "Alan",
+      "location": "Belgium",
+      "url": "https://www.linkedin.com/jobs/view/4462172629",
+      "source": "linkedin",
+      "date_posted": "2026-10-16",
+      "summary": "Alan fullstack engineer, Belgium HQ; not Staff and outside Switzerland.",
+      "score": null,
+      "grade": "excluded",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-22",
+      "status": "excluded"
+    },
+    {
+      "id": "5ca6b7df96e832adff6b3a5450b65c47",
+      "title": "Staff Software Engineer - Market Data",
+      "company": "Jobgether",
+      "location": "Netherlands",
+      "url": "https://www.linkedin.com/jobs/view/4480447215",
+      "source": "linkedin",
+      "date_posted": "2026-10-20",
+      "summary": "Jobgether Staff Market Data, must be based in the Netherlands.",
+      "score": null,
+      "grade": "excluded",
+      "evidence_status": "full_text",
+      "date_found": "2026-10-22",
       "status": "excluded"
     }
   ]

@@ -1,0 +1,22 @@
+🎯 *Job Hunt — 2026-10-22*
+
+*1.* *Principal Engineer, Hybrid Cloud Environment* @ Google
+📍 Zurich, Switzerland (or San Jose, Munich, Kirkland, New York) | ⭐ 76/100 | 🏆 Grade B
+🧾 Score: 76% - Match: "Experience with AI application platforms, prompt engineering systems, or orchestrating agentic workflows." -> Summary > orchestrating multi-agent workflows (OpenClaw, Claude CLI); Core Technical Skills > AI/ML: LLM integration, Multi-agent workflows
+💡 Principal in Zurich on a platform that turns natural-language intent into cloud environments for engineers and AI agents; stretch on control-plane depth.
+🔗 https://www.linkedin.com/jobs/view/4481110963
+
+*2.* *Staff Software Engineer - Platform* @ Undisclosed fintech (via Jobgether)
+📍 Switzerland (remote, globally distributed team) | ⭐ 74/100 | 🏆 Grade B
+🧾 Score: 74% - Match: "A track record of leading technical direction across team boundaries, including ownership of architectural decisions…" -> Career Highlights > Benevity (2021–2026) — Senior Staff Engineer, cross-team architecture; Target Roles > 1. Staff/Principal Platform Engineer
+💡 Staff platform owner in Switzerland with stock options and AI-native dev tooling in scope; Go and Kafka/Redpanda are the gaps.
+🔗 https://www.linkedin.com/jobs/view/4481166959
+
+*3.* *Senior Fullstack Developer (m/w/d) - Claude Code Expert* @ Undisclosed coaching marketplace (via Jobgether)
+📍 Switzerland (remote or hybrid) | ⭐ 74/100 | 🏆 Grade B
+🧾 Score: 74% - Match: "Extensive experience in AI-assisted software development, preferably using Claude Code in real-world development…" -> Summary > orchestrating multi-agent workflows (OpenClaw, Claude CLI); Key Strengths > AI-augmented engineering pioneer
+💡 Claude Code is the headline requirement, on Magino's exact TS/Node/Express stack; Senior title, Firebase/GCP and Svelte.
+🔗 https://www.linkedin.com/jobs/view/4481168987
+
+---
+📊 _34 new offers | 2090 total tracked_

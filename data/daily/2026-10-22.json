@@ -1,0 +1,221 @@
+{
+  "date": "2026-10-22",
+  "total_searched": 381,
+  "new_offers": 34,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Principal Engineer, Hybrid Cloud Environment",
+      "company": "Google",
+      "location": "Zurich, Switzerland (or San Jose, Munich, Kirkland, New York)",
+      "url": "https://www.linkedin.com/jobs/view/4481110963",
+      "score": 76,
+      "grade": "B",
+      "match_reason": "Score: 76% - Match: \"Experience with AI application platforms, prompt engineering systems, or orchestrating agentic workflows.\" -> Summary > orchestrating multi-agent workflows (OpenClaw, Claude CLI); Core Technical Skills > AI/ML: LLM integration, Multi-agent workflows",
+      "match_evidence": [
+        {
+          "dimension": "ai",
+          "offer_quote": "Experience with AI application platforms, prompt engineering systems, or orchestrating agentic workflows.",
+          "profile_element": "Summary > orchestrating multi-agent workflows (OpenClaw, Claude CLI); Core Technical Skills > AI/ML: LLM integration, Multi-agent workflows",
+          "note": null
+        },
+        {
+          "dimension": "seniority",
+          "offer_quote": "Experience in a technical leadership role leading senior engineering teams and defining multi-year architectural strategies.",
+          "profile_element": "Career Highlights > Alaya (2016–2021) — Cofounder & Head of Technologies; Career Highlights > Benevity (2021–2026) — Senior Staff Engineer, cross-team architecture",
+          "note": null
+        },
+        {
+          "dimension": "impact",
+          "offer_quote": "owning the technical direction and multi-year roadmap for the Hybrid Cloud Environment platform",
+          "profile_element": "Target Roles > 1. Staff/Principal Platform Engineer; Core Technical Skills > Architecture: Platform engineering",
+          "note": null
+        },
+        {
+          "dimension": "technical",
+          "offer_quote": "Deep familiarity with developer infrastructure and Cloud Platform solutions.",
+          "profile_element": "Core Technical Skills > Cloud & Infra: AWS, Docker, Kubernetes, CI/CD; Architecture: Platform engineering, API design",
+          "note": "Preferred qualification; profile cloud is AWS, not GCP"
+        },
+        {
+          "dimension": "ai",
+          "offer_quote": "allowing both human engineers and autonomous AI agents to stand up real, enterprise-grade cloud environments in seconds",
+          "profile_element": "Key Strengths > AI-augmented engineering pioneer; Summary > building systems where AI and engineers scale product velocity",
+          "note": null
+        },
+        {
+          "dimension": "location",
+          "offer_quote": "Zürich, Switzerland",
+          "profile_element": "Location Preferences > 3. Reste de la Suisse (Valais, Neuchâtel, Fribourg, Berne, Zurich, Bâle, etc.)",
+          "note": "Zurich is one of five location options the candidate picks at application"
+        },
+        {
+          "dimension": "compensation",
+          "offer_quote": "Germany: €232000 - €237000 (EUR) + 30% bonus target + equity + benefits",
+          "profile_element": "Compensation > Open to discussion based on role and equity",
+          "note": "No CHF band published; the Munich band is a floor proxy for Zurich"
+        }
+      ],
+      "gaps": [
+        {
+          "offer_quote": "15 years of experience in software engineering, with a focus on designing, building, and operating large-scale, distributed cloud infrastructure, policy engines, or control planes.",
+          "note": "17+ years in profile/context.md, but on SaaS product platforms, not cloud control planes or policy engines"
+        },
+        {
+          "offer_quote": "Track record of designing compilers, policy engines, or domain-specific languages that compile high-level configurations or intents into secure cloud configurations.",
+          "note": "No compiler, policy engine or DSL work in profile/context.md"
+        },
+        {
+          "offer_quote": "bridging the gap between traditional developer ecosystems (Google3, etc.) and Google Cloud Platform (GCP)",
+          "note": "Profile lists AWS only; no GCP or Google-internal tooling"
+        }
+      ],
+      "evidence_status": "full_text",
+      "why": "Principal seat in Zurich on a platform that turns natural-language intent into governed cloud environments for humans and AI agents, which is the agent-manager thesis applied to infra. Seniority and AI signal are top-tier and the pay is Google Principal. The honest risk is depth: it asks for 15 years of control-plane and policy-engine work, while Magino's 17 years are on SaaS product platforms on AWS.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Staff Software Engineer - Platform",
+      "company": "Undisclosed fintech (via Jobgether)",
+      "location": "Switzerland (remote, globally distributed team)",
+      "url": "https://www.linkedin.com/jobs/view/4481166959",
+      "score": 74,
+      "grade": "B",
+      "match_reason": "Score: 74% - Match: \"A track record of leading technical direction across team boundaries, including ownership of architectural decisions, technical proposals, and cross-team implementation.\" -> Career Highlights > Benevity (2021–2026) — Senior Staff Engineer, cross-team architecture; Target Roles > 1. Staff/Principal Platform Engineer",
+      "match_evidence": [
+        {
+          "dimension": "seniority",
+          "offer_quote": "A track record of leading technical direction across team boundaries, including ownership of architectural decisions, technical proposals, and cross-team implementation.",
+          "profile_element": "Career Highlights > Benevity (2021–2026) — Senior Staff Engineer, cross-team architecture; Target Roles > 1. Staff/Principal Platform Engineer",
+          "note": null
+        },
+        {
+          "dimension": "ai",
+          "offer_quote": "Experience developing agentic or AI-native developer tools, or designing systems intended to be operated by AI agents.",
+          "profile_element": "Summary > orchestrating multi-agent workflows (OpenClaw, Claude CLI); Key Strengths > AI-augmented engineering pioneer",
+          "note": null
+        },
+        {
+          "dimension": "company",
+          "offer_quote": "Previous startup experience and comfort working in an environment with ambiguity, changing priorities, and evolving processes.",
+          "profile_element": "Career Highlights > Alaya (2016–2021) — Cofounder & Head of Technologies, Built entire platform from zero",
+          "note": null
+        },
+        {
+          "dimension": "impact",
+          "offer_quote": "Own platform architecture and technical strategy",
+          "profile_element": "Target Roles > 1. Staff/Principal Platform Engineer; Core Technical Skills > Architecture: Platform engineering, Service-oriented architecture",
+          "note": null
+        },
+        {
+          "dimension": "technical",
+          "offer_quote": "Solid experience with relational databases, including core database concepts applicable to PostgreSQL.",
+          "profile_element": "Core Technical Skills > Databases: MongoDB, PostgreSQL, Redis",
+          "note": null
+        },
+        {
+          "dimension": "location",
+          "offer_quote": "Our partner is looking for a Staff Software Engineer – Platform based in Switzerland.",
+          "profile_element": "Location Preferences > 3. Reste de la Suisse",
+          "note": "City not specified; benefits include a home-office allowance, so remote within Switzerland is likely"
+        },
+        {
+          "dimension": "compensation",
+          "offer_quote": "Stock options.",
+          "profile_element": "Compensation > Open to discussion based on role and equity",
+          "note": "Salary only stated as competitive"
+        }
+      ],
+      "gaps": [
+        {
+          "offer_quote": "Strong production-level expertise in Kafka or Redpanda, including partitioning, consumer groups, rebalancing, retention policies, delivery guarantees, and performance under load.",
+          "note": "No Kafka/Redpanda or event-streaming platform in profile/context.md"
+        },
+        {
+          "offer_quote": "Proficiency in Go, or deep experience with another strongly typed programming language and the ability to become productive in Go quickly.",
+          "note": "No Go; TypeScript and Java are the strongly typed languages in the profile"
+        },
+        {
+          "offer_quote": "Strong Kubernetes knowledge beyond the basics, including the ability to write Helm charts and apply security best practices; relevant professional experience or certifications are expected.",
+          "note": "Kubernetes is listed under Cloud & Infra, but no Helm or certification"
+        }
+      ],
+      "evidence_status": "full_text",
+      "why": "Staff platform owner based in Switzerland at a startup with stock options, cross-team architecture by influence, which matches the Benevity remit, and AI-native dev tooling is part of the brief. The gap is the core stack: Go plus Kafka/Redpanda streaming at scale, neither of which is in the profile.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Senior Fullstack Developer (m/w/d) - Claude Code Expert",
+      "company": "Undisclosed coaching marketplace (via Jobgether)",
+      "location": "Switzerland (remote or hybrid)",
+      "url": "https://www.linkedin.com/jobs/view/4481168987",
+      "score": 74,
+      "grade": "B",
+      "match_reason": "Score: 74% - Match: \"Extensive experience in AI-assisted software development, preferably using Claude Code in real-world development workflows.\" -> Summary > orchestrating multi-agent workflows (OpenClaw, Claude CLI); Key Strengths > AI-augmented engineering pioneer",
+      "match_evidence": [
+        {
+          "dimension": "ai",
+          "offer_quote": "Extensive experience in AI-assisted software development, preferably using Claude Code in real-world development workflows.",
+          "profile_element": "Summary > orchestrating multi-agent workflows (OpenClaw, Claude CLI); Key Strengths > AI-augmented engineering pioneer",
+          "note": null
+        },
+        {
+          "dimension": "technical",
+          "offer_quote": "Design, develop, and maintain backend services and REST APIs using TypeScript, Node.js, and Express.",
+          "profile_element": "Core Technical Skills > Languages: TypeScript, JavaScript, Node.js; Backend: Node.js, Express, REST APIs",
+          "note": null
+        },
+        {
+          "dimension": "technical",
+          "offer_quote": "Advanced proficiency in TypeScript, particularly for backend application development.",
+          "profile_element": "Core Technical Skills > Languages: TypeScript, Node.js",
+          "note": null
+        },
+        {
+          "dimension": "impact",
+          "offer_quote": "Opportunity to influence engineering practices, infrastructure decisions, and the long-term technical roadmap.",
+          "profile_element": "Key Strengths > Builder mindset with strong architectural thinking; Career Highlights > Alaya (2016–2021) — Cofounder & Head of Technologies",
+          "note": null
+        },
+        {
+          "dimension": "company",
+          "offer_quote": "support the launch and continued evolution of an innovative online marketplace for life coaching and counseling",
+          "profile_element": "Company Preferences > Startups and scale-ups; Impact-driven / purpose-driven companies",
+          "note": null
+        },
+        {
+          "dimension": "location",
+          "offer_quote": "Flexible working hours and the possibility of remote or hybrid collaboration.",
+          "profile_element": "Location Preferences > 3. Reste de la Suisse",
+          "note": "Posting says based in Switzerland; city not given"
+        }
+      ],
+      "gaps": [
+        {
+          "offer_quote": "Hands-on experience with Firebase and the Google Cloud Platform ecosystem.",
+          "note": "Profile cloud is AWS; no Firebase or GCP"
+        },
+        {
+          "offer_quote": "Familiarity with frontend development using SvelteKit 2, Svelte 5, TypeScript, and Tailwind CSS.",
+          "note": "Tailwind and TypeScript are in the profile, Svelte is not (React, Vue.js, Astro)"
+        },
+        {
+          "offer_quote": "Experience integrating third-party services such as Stripe and Twilio.",
+          "note": "No Stripe or Twilio integration in profile/context.md"
+        },
+        {
+          "offer_quote": "Senior Fullstack Developer (m/w/d) - Claude Code Expert",
+          "note": "Senior title, a step below Staff+; scope is launch and stabilisation of an existing product"
+        }
+      ],
+      "evidence_status": "full_text",
+      "why": "The only Swiss posting this week that makes Claude Code the headline requirement, on Magino's exact backend stack (TypeScript, Node, Express, REST). Small team taking a coaching marketplace from build to launch, with room to set engineering practice. It's a Senior title on Firebase/GCP and Svelte, so pitch it as tech lead, and a 50% arrangement could be worth asking about given Givernance.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}
