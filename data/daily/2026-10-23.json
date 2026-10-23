@@ -1,7 +1,7 @@
 {
   "date": "2026-10-23",
-  "total_searched": 1317,
-  "new_offers": 14,
+  "total_searched": 1936,
+  "new_offers": 25,
   "top_offers": [
     {
       "rank": 1,
@@ -346,6 +346,243 @@
       "why": "Exact stack match (Python, React, TypeScript, AWS) plus agentic workflows at a Series B energy startup, fully remote in Europe. Only surfaces after the Swiss roles: recruiter post with the company unnamed and a GBP salary under Geneva rates.",
       "apply_by": null,
       "status": "new"
+    },
+    {
+      "rank": 7,
+      "title": "Senior+ Full-Stack Engineer",
+      "company": "Jobgether (partner: remote-first AI developer-infrastructure startup)",
+      "location": "Switzerland (remote-first)",
+      "url": "https://www.linkedin.com/jobs/view/4481180351",
+      "score": 76,
+      "grade": "B",
+      "match_reason": "Score: 76% - Match: \"Strong TypeScript skills and the ability to work confidently across the stack, including Node.js backend services and React-based frontend applications.\" -> Core Technical Skills > Languages: TypeScript, Node.js; Frontend: React",
+      "match_evidence": [
+        {
+          "dimension": "technical",
+          "offer_quote": "Strong TypeScript skills and the ability to work confidently across the stack, including Node.js backend services and React-based frontend applications.",
+          "profile_element": "Core Technical Skills > Languages: TypeScript, Node.js; Frontend: React",
+          "note": null
+        },
+        {
+          "dimension": "ai",
+          "offer_quote": "Build and maintain the tools developers and AI agents use to interact with the platform, including APIs, SDKs, command-line interfaces (CLI), Model Context Protocol (MCP) integrations, and web applications.",
+          "profile_element": "Core Technical Skills > AI/ML: LLM integration, Multi-agent workflows; Summary > orchestrating multi-agent workflows (OpenClaw, Claude CLI)",
+          "note": null
+        },
+        {
+          "dimension": "technical",
+          "offer_quote": "At least 5 years of software engineering experience at a senior level or above, with strong foundations in backend development, API design, database architecture, distributed systems, and performance optimization.",
+          "profile_element": "Core Technical Skills > Architecture: Platform engineering, API design, Service-oriented architecture, Microservices",
+          "note": null
+        },
+        {
+          "dimension": "impact",
+          "offer_quote": "In this highly autonomous role, you will influence technical architecture, product strategy, and the engineering roadmap.",
+          "profile_element": "Key Strengths > Builder mindset with strong architectural thinking",
+          "note": null
+        }
+      ],
+      "gaps": [
+        {
+          "offer_quote": "Our partner is looking for a Senior+ Full-Stack Engineer based in Switzerland.",
+          "note": "Title is Senior+, one level below the Staff/Principal target in Target Roles"
+        },
+        {
+          "offer_quote": "This position is listed on behalf of a partner company, who manages all applications and next steps.",
+          "note": "Company not disclosed; stage, funding and pay unknown"
+        }
+      ],
+      "evidence_status": "full_text",
+      "why": "Developer platform that plugs AI agents into external APIs via MCP, SDK and CLI, on the exact TypeScript/Node/React stack, remote-first from Switzerland. Title is Senior+, so pitch the Alaya platform-from-zero story to negotiate scope.",
+      "apply_by": null,
+      "status": "new",
+      "found_in_run": "afternoon"
+    },
+    {
+      "rank": 8,
+      "title": "Cloud Software Engineer (Specs)",
+      "company": "Snap Inc.",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4482095482",
+      "score": 70,
+      "grade": "B",
+      "match_reason": "Score: 70% - Match: \"Production experience with full-stack web development (e.g., React, TypeScript, Node.js) alongside containerization and cloud tooling (Kubernetes, Docker, Terraform, CI/CD pipelines)\" -> Core Technical Skills > Languages: TypeScript, Node.js; Frontend: React; Cloud & Infra: Docker, Kubernetes, CI/CD",
+      "match_evidence": [
+        {
+          "dimension": "technical",
+          "offer_quote": "Production experience with full-stack web development (e.g., React, TypeScript, Node.js) alongside containerization and cloud tooling (Kubernetes, Docker, Terraform, CI/CD pipelines)",
+          "profile_element": "Core Technical Skills > Languages: TypeScript, Node.js; Frontend: React; Cloud & Infra: Docker, Kubernetes, CI/CD",
+          "note": null
+        },
+        {
+          "dimension": "technical",
+          "offer_quote": "Hands-on experience designing, building, and operating distributed systems and cloud infrastructure at scale on AWS (e.g. EC2, EKS, S3, IAM, KMS)",
+          "profile_element": "Core Technical Skills > Cloud & Infra: AWS",
+          "note": null
+        },
+        {
+          "dimension": "impact",
+          "offer_quote": "Help shape the longer-term technical direction of the Specs cloud platform.",
+          "profile_element": "Target Roles > 1. Staff/Principal Platform Engineer; Core Technical Skills > Architecture: Platform engineering",
+          "note": null
+        },
+        {
+          "dimension": "seniority",
+          "offer_quote": "Ability to drive scope and deliver complex platform projects with minimal supervision",
+          "profile_element": "Career Highlights > Benevity (2021–2026) — Senior Staff Engineer, cross-team architecture",
+          "note": null
+        }
+      ],
+      "gaps": [
+        {
+          "offer_quote": "Proficiency in Go, JavaScript/TypeScript",
+          "note": "Go is not listed in profile/context.md"
+        },
+        {
+          "offer_quote": "Own services end-to-end in production, including SLOs, on-call rotations, capacity planning, and incident response",
+          "note": "On-call/SRE duties; the level is not stated, likely below Staff"
+        }
+      ],
+      "evidence_status": "full_text",
+      "why": "Platform and developer-portal work for Snap's AR glasses, on AWS with TypeScript/React/Node and Kubernetes. That's almost the whole Core Skills list, in Zurich. Level isn't stated, so ask whether it can be scoped at Staff.",
+      "apply_by": null,
+      "status": "new",
+      "found_in_run": "afternoon"
+    },
+    {
+      "rank": 9,
+      "title": "GPU Cloud Engineer (Core Infrastructure)",
+      "company": "Lyceum",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4481642996",
+      "score": 67,
+      "grade": "C",
+      "match_reason": "Score: 67% - Match: \"High sense of ownership, you like building from the ground up\" -> Career Highlights > Alaya (2016–2021) — Cofounder & Head of Technologies, Built entire platform from zero",
+      "match_evidence": [
+        {
+          "dimension": "impact",
+          "offer_quote": "High sense of ownership, you like building from the ground up",
+          "profile_element": "Career Highlights > Alaya (2016–2021) — Cofounder & Head of Technologies, Built entire platform from zero",
+          "note": null
+        },
+        {
+          "dimension": "technical",
+          "offer_quote": "A background in SRE, platform engineering, or distributed systems",
+          "profile_element": "Core Technical Skills > Architecture: Platform engineering, Microservices",
+          "note": null
+        },
+        {
+          "dimension": "technical",
+          "offer_quote": "Experience with Kubernetes, Terraform & Ansible",
+          "profile_element": "Core Technical Skills > Cloud & Infra: Kubernetes, Docker",
+          "note": null
+        }
+      ],
+      "gaps": [
+        {
+          "offer_quote": "GPU fractionalisation, adaptive load balancing and cross-GPU workload allocation",
+          "note": "No GPU/HPC or low-level scheduling experience in profile/context.md"
+        },
+        {
+          "offer_quote": "Experience scaling compute infrastructure at a neocloud provider or high-performance computing org",
+          "note": "Not in profile/context.md"
+        }
+      ],
+      "evidence_status": "full_text",
+      "why": "Early-stage Swiss GPU cloud with real build-from-zero scope, but the work is low-level GPU scheduling, far from the TS/Node/product core. Lyceum was tracked in April for Head of Engineering, so this IC role is a way back in.",
+      "apply_by": null,
+      "status": "new",
+      "found_in_run": "afternoon"
+    },
+    {
+      "rank": 10,
+      "title": "Engineering Manager - Software/Cloud, RIVR",
+      "company": "Amazon (RIVR Technologies AG)",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4482750014",
+      "score": 66,
+      "grade": "C",
+      "match_reason": "Score: 66% - Match: \"7+ years of professional experience building and operating large-scale backend systems in a Service-Oriented Architecture (SOA) or microservices context.\" -> Core Technical Skills > Architecture: Service-oriented architecture, Microservices",
+      "match_evidence": [
+        {
+          "dimension": "technical",
+          "offer_quote": "7+ years of professional experience building and operating large-scale backend systems in a Service-Oriented Architecture (SOA) or microservices context.",
+          "profile_element": "Core Technical Skills > Architecture: Service-oriented architecture, Microservices",
+          "note": null
+        },
+        {
+          "dimension": "technical",
+          "offer_quote": "Proven experience architecting solutions on AWS.",
+          "profile_element": "Core Technical Skills > Cloud & Infra: AWS",
+          "note": null
+        },
+        {
+          "dimension": "seniority",
+          "offer_quote": "Proven ability to delegate and grow, yet remain connected to the technology details.",
+          "profile_element": "Target Roles > 3. VP Engineering / Engineering Lead (hybrid IC)",
+          "note": null
+        }
+      ],
+      "gaps": [
+        {
+          "offer_quote": "Experience with building and operating ML training infrastructure, integrating it in the SDLC.",
+          "note": "Not in profile/context.md"
+        },
+        {
+          "offer_quote": "Design and implement a production-grade Linux distribution from scratch using Yocto/OpenEmbedded.",
+          "note": "Embedded Linux/Yocto not in profile (only early Sagemcom set-top-box work)"
+        }
+      ],
+      "evidence_status": "full_text",
+      "why": "The SOA/AWS cloud qualifications match well, inside an ETH spin-off that Amazon bought, which is the Alaya-to-Benevity story in reverse. But the listed duties are Yocto/embedded and it's Amazon process, so it's worth a look and no more.",
+      "apply_by": null,
+      "status": "new",
+      "found_in_run": "afternoon"
+    },
+    {
+      "rank": 11,
+      "title": "Full-Stack Software Engineer - AI-Native Product Development",
+      "company": "xorlab",
+      "location": "Zurich, Switzerland (hybrid)",
+      "url": "https://www.linkedin.com/jobs/view/4480674486",
+      "score": 64,
+      "grade": "C",
+      "match_reason": "Score: 64% - Match: \"are highly proficient in AI-assisted software engineering and use AI as an integral part of how you design, write, test, debug, and review software\" -> Key Strengths > AI-augmented engineering pioneer; Summary > orchestrating multi-agent workflows (OpenClaw, Claude CLI)",
+      "match_evidence": [
+        {
+          "dimension": "ai",
+          "offer_quote": "are highly proficient in AI-assisted software engineering and use AI as an integral part of how you design, write, test, debug, and review software",
+          "profile_element": "Key Strengths > AI-augmented engineering pioneer; Summary > orchestrating multi-agent workflows (OpenClaw, Claude CLI)",
+          "note": null
+        },
+        {
+          "dimension": "technical",
+          "offer_quote": "have solid experience with modern frontend development, ideally with React",
+          "profile_element": "Core Technical Skills > Frontend: React, Redux",
+          "note": null
+        },
+        {
+          "dimension": "technical",
+          "offer_quote": "work with technologies including React, Java, PostgreSQL, Elasticsearch, Nginx, and Docker",
+          "profile_element": "Core Technical Skills > Languages: Java; Databases: PostgreSQL; Cloud & Infra: Docker",
+          "note": null
+        }
+      ],
+      "gaps": [
+        {
+          "offer_quote": "put particular care into the frontend, creating intuitive and polished user experiences for complex cybersecurity problems",
+          "note": "Frontend-heavy IC scope, below the Staff/Principal target"
+        },
+        {
+          "offer_quote": "bring experience in cybersecurity, email security, or related technical domains",
+          "note": "No security domain experience in profile/context.md"
+        }
+      ],
+      "evidence_status": "full_text",
+      "why": "A Swiss email-security scale-up that makes AI-assisted engineering a hard requirement, which is rare. It's a mid-level full-stack IC seat, though, so it only makes sense as a door-opener.",
+      "apply_by": null,
+      "status": "new",
+      "found_in_run": "afternoon"
     }
   ]
 }
