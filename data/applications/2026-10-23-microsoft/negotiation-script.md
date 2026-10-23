@@ -2,7 +2,7 @@
 
 ## The shape of this offer
 
-The LinkedIn listing places the role in Zürich, full-time, on the Visual Studio Code team (VS Code and GitHub Copilot). It's an IC5 posting, and Microsoft publishes the base range for Switzerland: **CHF 183,800 to 309,700 per year**. Work mode isn't stated. The page header also shows "Des Moines, IA", which contradicts the body, so confirm with the recruiter that the role is really Zürich-based.
+The LinkedIn listing places the role in Zürich, full-time, on the Visual Studio Code team (VS Code and GitHub Copilot). It's an IC5 posting, and Microsoft publishes the base range for Switzerland: **CHF 183,800 to 309,700 per year**. Work mode isn't stated. The page header has shown both "Des Moines, IA" and "Boydton, VA", which contradicts the body, so confirm with the recruiter that the role is really Zürich-based.
 
 This is a big-company offer, not a startup one. There's no equity percentage to fight over, and no vesting cliff or anti-dilution to worry about. The package is built from five levers:
 

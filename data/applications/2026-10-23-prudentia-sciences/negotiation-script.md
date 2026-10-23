@@ -2,7 +2,7 @@
 
 ## The shape of this offer
 
-Per the LinkedIn listing, the role is a senior, client-facing FDE tagged "Management" level, with London, Dublin or Basel strongly preferred to support EU clients. The listing frames it as a chance to "build and lead" as a founding engineering leader and to help grow the forward-deployed team. Posted base is **€110,000 to €132,000 plus equity**. Investors named are GV, McKesson, Iaso Ventures, Virtue and SignalFire, so this is a venture-backed early-stage company, probably US-headquartered.
+Per the LinkedIn listing, the role is a senior, client-facing FDE tagged "Management" level, with London, Dublin or Basel strongly preferred to support EU clients. The listing frames it as a chance to "build and lead" as a founding engineering leader and to help grow the forward-deployed team. Posted base is **€110,000 to €132,000 plus equity**. The company is headquartered in Cambridge, Massachusetts. It raised a $20M Series A in January 2026 led by McKesson Ventures (with SignalFire; GV, Iaso Ventures and Virtue from the $7M seed), about $27M in total, and has said part of that money goes to expanding into Europe. So this is a US Series A startup hiring its first European client-facing engineers, which helps your case on scope.
 
 The euro band is the first thing to deal with. At roughly 0.93 to 0.95 CHF per euro it works out to about **CHF 103k to 125k**, which is a London or Dublin number, not a Basel one. A senior engineer in Basel with 17 years of experience would normally sit well above that, and Basel pharma employers (Roche, Novartis) set a high local floor.
 

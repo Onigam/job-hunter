@@ -1,79 +1,77 @@
-# STAR+R Stories: Adaptyv, Head of Software Engineering (Lausanne)
+# STAR+R Stories: Adaptyv, Head of Software Engineering
 
-This is a player-coach role in a small team, so expect the loop to probe five things: whether you still ship code, how you decide what to build, defer or kill, how you hire and hold a quality bar, how AI agents change the way a team works, and how you cope with a domain (biology, lab hardware) you don't know yet. Every fact below comes from `profile/star-bank.md` and `profile/context.md`. Don't add numbers in the room that aren't written here, and be honest that lab automation and instrument integration are new territory.
-
----
-
-## 1. Building Alaya from a blank page to an acquisition
-
-**Likely prompts:** "Tell me about something you built from scratch." / "How have you built and managed a team?" / "What does founder mindset mean to you?"
-
-**Situation.** In 2016 I co-founded Alaya, an employee purpose and impact platform. There was no product, no customers and no team, and the business side was already talking to enterprise clients who expected something they could actually use.
-
-**Task.** I had to architect and build the whole platform, alone at first, and then grow an engineering team around it without slowing down the commercial side.
-
-**Action.** I chose a stack I knew would hold up without heroics, Node.js, React and PostgreSQL, and got the core features to a first demo in about three months. After that the roadmap followed what clients needed: a multi-tenant architecture, an API layer, impact reporting, postal campaigns. When traction justified it I hired and onboarded the first three engineers, and I kept writing code the whole time. What changed was that I also set up CI/CD, a code review habit and architecture docs, because the design couldn't keep living only in my head if other people were going to make decisions that fit it.
-
-**Result.** Alaya reached 50+ enterprise clients across Switzerland and France, and Benevity, a Canadian unicorn valued above $1B, acquired it in 2021. The platform came through due diligence and the acquisition intact, which is the best evidence I have that the early calls were sound.
-
-**Reflection.** I added proper observability far too late; we only brought in APM once things hurt. At Adaptyv that lesson matters even more, since a failed run in a wet lab costs reagents and days, not just a retry. I'd also design for multi-tenancy from day one, because retrofitting it cost us more than I'd guessed, and a lab serving biopharma and AI labs side by side has the same isolation problem.
+The posting is a player-coach role: own the roadmap, decide what gets built or cancelled, set architecture across frontend, backend, data pipelines and lab hardware, hire the team, and turn AI-assisted development into a speed advantage. These four stories map to those themes. Each one is written to be told out loud in about two minutes.
 
 ---
 
-## 2. Deciding what not to build: the monolith versus microservices debate
+## 1. Building the platform and the first team from nothing (Alaya)
 
-**Likely prompts:** "How do you decide what goes on the roadmap?" / "Tell me about a technical trade-off under business pressure." / "How do you handle tech debt?"
+**Likely questions:** "Tell me about something you built from scratch." / "How have you hired and set the bar for an early team?" / "What does founder mindset mean to you?"
 
-**Situation.** At Alaya our monolith was starting to show cracks under load. Half the team wanted a full microservices rewrite, others preferred a modular monolith, and the investors wanted new features, not a rewrite.
+**Situation.** In 2016 I cofounded Alaya, an employee purpose and impact platform. There was no product, no customer and no code. The business side was already talking to enterprise prospects, so the clock started on day one.
 
-**Task.** I needed a decision we could defend on both fronts, one that bought us scalability without freezing delivery for months.
+**Task.** My job was the whole technical side: pick a stack, build something we could demo, then turn it into a platform that real companies would trust with their employees' data. Once that worked, I had to hire people and give them a way of working that would survive without me reviewing every line.
 
-**Action.** Rather than settle it in a meeting, I ran a two-week spike that prototyped both approaches and load-tested them. Then I took the trade-offs to the leadership team and the investors with numbers instead of opinions. My proposal was a strangler-fig migration: pull out the two highest-traffic modules first, leave everything else in the monolith, and write down the criteria that would justify extracting anything more. That last part was what made the "defer" stick, since it gave people a clear trigger instead of a vague "later".
+**Action.** I chose a boring, pragmatic stack (Node.js, React, PostgreSQL) because I'd be the only engineer for a while and I needed to move without fighting the tools. The core features were demo-ready in about three months. From there I grew it piece by piece: an API layer, multi-tenancy, impact reporting, and later postal campaigns, which was the one feature where software had to drive something physical. When we could afford it, I hired the first three engineers. Before they arrived I set up CI/CD, a code review habit and short architecture docs, mostly so that new people could make decisions without asking me first.
 
-**Result.** The first extracted module shipped in six weeks and performance on the busiest endpoints improved by roughly 40%. The rest of the monolith stayed stable all the way through the acquisition, and we never needed a big-bang rewrite.
+**Result.** The platform went to production and reached 50+ enterprise clients across Switzerland and France. Benevity, a Canadian company valued at over $1B, acquired Alaya in 2021, which I took as a fair validation of the technical choices we'd made early on.
 
-**Reflection.** The hardest part wasn't technical. It was convincing people that not rewriting everything was the right call, and data is what settled it. Next time I'd benchmark earlier and shorten the debate. It's the same reflex I'd bring to the "build, defer, kill" part of this job: make the kill criteria explicit before the argument starts.
-
----
-
-## 3. Turning AI tooling into a team habit without a mandate
-
-**Likely prompts:** "How do AI agents change how a team should work?" / "How would you build AI-assisted development into a speed advantage?" / "Tell me about influencing without authority."
-
-**Situation.** At Benevity I was a Senior Staff IC with no direct reports. I wanted two engineering teams that didn't report to me to adopt AI-assisted development, and nobody had asked them to.
-
-**Task.** Change how those engineers worked day to day, with no authority to tell them to.
-
-**Action.** I started with three engineers who were already curious and built small internal demos that showed time saved on real tasks, not toy examples. From there I ran informal lunch-and-learn sessions with no mandate attached, just live demos. The prompt templates that worked went into a shared repo so people could reuse them instead of reinventing them, and I wrote up concrete wins, like a PR review cycle that came in about two hours faster.
-
-**Result.** Within three months roughly 70% of engineers on both teams were using AI-assisted code review and generation, and I became the informal AI tooling lead across the org. Since then I've pushed further on my own work: most of it now runs through multi-agent workflows with Claude CLI and OpenClaw, where my job is closer to structuring context and reviewing output than typing code.
-
-**Reflection.** Going without a mandate was slower, but it stuck, because the people who adopted it on their own terms became its advocates. As head of a small team I'd have the authority to mandate it. I probably still wouldn't, at least not at first. I'd set the defaults, make the agent setup part of onboarding, and measure where it actually speeds things up, because a team that only uses the tools because it was told to tends to use them badly.
+**Reflection.** Two things I'd change. We added proper observability far too late, and I'd now treat it as day-one infrastructure; for a lab where instruments fail in creative ways, that matters even more. I also underestimated how painful it is to retrofit multi-tenancy, so today I design for it from the start whenever outside users are on the roadmap.
 
 ---
 
-## 4. Walking into an unfamiliar system and listening before fixing
+## 2. Choosing not to rewrite (roadmap trade-off under pressure)
 
-**Likely prompts:** "You don't have a biology background. How would you ramp up?" / "Tell me about adapting to a new environment." / "What would your first 90 days look like?"
+**Likely questions:** "Tell me about a hard technical trade-off." / "How do you decide what to build, defer or cancel?" / "How do you handle tech debt when the business wants features?"
 
-**Situation.** After the acquisition in 2021 I joined Benevity as a Senior Staff Engineer. The organisation was about ten times larger than Alaya, with a different culture, a Java and microservices codebase I didn't know, and processes nothing like ours.
+**Situation.** A few years into Alaya, our monolith was starting to crack under load. Part of the team wanted a full microservices rewrite. Investors, meanwhile, wanted new features and had no appetite for a quarter spent rebuilding what already existed.
 
-**Task.** Integrate Alaya's capabilities into Benevity's platform and keep shipping new features, without losing the velocity we'd had as a startup.
+**Task.** I had to make a call I could defend to both sides, one that fixed the scaling problem without freezing product work.
 
-**Action.** Honestly, my first instinct was to start fixing things, and I moved too fast on a few that weren't broken. Once I caught that, I changed approach. I spent about a month mapping the existing architecture before proposing changes, and I built relationships with the platform and infrastructure teams before pushing any technical opinion. Over time I became the cross-team architecture liaison for the Europe-facing product surface.
+**Action.** Rather than settle it in a meeting, I ran a two-week spike and prototyped both approaches with load tests, so the conversation could be about numbers instead of taste. The data pointed to a middle path. I proposed a strangler-fig migration: pull out the two highest-traffic modules, leave everything else in the monolith, and write down explicit criteria for when another module would earn its own service. Then I presented the trade-offs to the CTO and the investors with the benchmark results in front of them, and led the extraction myself.
 
-**Result.** We migrated Alaya's core features into Benevity's platform, I contributed to three major cross-team architecture decisions, and I became the go-to person for AI tooling across two teams.
+**Result.** The first extracted module shipped in six weeks. The busiest endpoints got roughly 40% faster. The rest of the monolith stayed stable all the way through the acquisition, and we never needed a big-bang rewrite. Just as important, we cancelled the rewrite cleanly, so nobody kept half-working on it in the background.
 
-**Reflection.** Slowing down and listening first made me far more effective than my early rush did. That's exactly how I'd handle biology at Adaptyv. I'd spend the first weeks next to the scientists and the instruments, learning where assays fail, which steps get retried by hand and where data goes missing, before I'd let myself redraw the roadmap.
+**Reflection.** The engineering was the easy part; convincing people that "not rewriting everything" was the ambitious choice took longer. I'd benchmark earlier next time to shorten the debate. For Adaptyv I'd apply the same rule: define the criteria for promoting something (a new instrument integration, a new pipeline stage) before the argument starts.
 
 ---
 
-## Questions to ask them
+## 3. Making AI-assisted development stick without a mandate (Benevity)
 
-These double as a check on whether the role is what it claims.
+**Likely questions:** "How do you use AI coding tools, and how do they change a team?" / "How do you influence people who don't report to you?" / "How would you turn AI into a speed advantage here?"
 
-- How many engineers are on the team today, and how many hires does the roadmap assume for the next twelve months?
-- What share of the week would you expect to be hands-on coding versus managing?
-- Where does a run fail most often today: instrument control, scheduling, data processing, or the hand-off to the customer?
-- How did the 5,000+ designs from the Proteinbase competition stress the software, and what broke?
-- Who owns the reverse-engineered instrument drivers, and how are they tested before a real run?
+**Situation.** At Benevity I was a Senior Staff IC with no direct reports. I was convinced AI-assisted development could save the teams real time, but the two teams I worked with didn't report to me, and plenty of engineers were sceptical, some for good reasons.
+
+**Task.** I wanted them to change how they actually worked day to day, not just sit through a presentation.
+
+**Action.** I started small, with three engineers who were already curious. Together we built internal demos on real tickets from our backlog, because toy examples convince nobody. I ran informal lunch-and-learn sessions with no mandate attached and put reusable prompt templates in a shared repo so people could start from something that worked. When a change saved real time, like a PR review cycle that came in about two hours shorter, I wrote it down and shared it. I also listened to the sceptics, and some of their objections (hallucinated APIs, review fatigue) became rules in the templates.
+
+**Result.** Within three months, roughly 70% of the engineers on both teams were using AI-assisted review and code generation. I became the informal AI tooling lead across the org. Since then I've pushed it much further in my own work, and today I run multi-agent workflows with Claude CLI where agents draft, test and review while I direct and decide.
+
+**Reflection.** The mandate-free approach was slower but stickier, because the people who adopted it on their own terms became its advocates. The lesson I'd bring to a small team is that AI makes writing code cheap and reviewing it expensive. The speed advantage comes from investing in tests, clear specs and good context for the agents, otherwise you just move the bottleneck to the reviewer.
+
+---
+
+## 4. Joining a bigger organisation and slowing down first (post-acquisition)
+
+**Likely questions:** "Tell me about a mistake you made." / "How do you handle joining an existing team with its own way of doing things?" / "How would you approach your first 90 days here?"
+
+**Situation.** After the acquisition in 2021 I joined Benevity as a Senior Staff Engineer. The organisation was about ten times the size of Alaya, the codebase was mostly Java microservices, and the processes and culture were different from what I'd built.
+
+**Task.** We had to move Alaya's capabilities into Benevity's platform and keep shipping new features while doing it.
+
+**Action.** Honestly, I started badly. In the first weeks I tried to fix things that weren't broken, because they didn't match how I'd have done them. When I saw that it wasn't landing, I changed approach. I spent a month mapping the existing architecture before proposing anything, and built relationships with the platform and infrastructure teams before pushing technical opinions. Over time I became the cross-team architecture liaison for the European product surface.
+
+**Result.** The core Alaya features were migrated into Benevity's platform. I contributed to three major cross-team architecture decisions and became the go-to person for AI tooling across two engineering teams.
+
+**Reflection.** Listening first made me far more effective than being right early. At Adaptyv I'd be the new person walking into a lab that already runs, with a team that knows the instruments better than I do. My first weeks would go to understanding how an experiment actually flows from order to data, and only then to changing the roadmap.
+
+---
+
+## Gaps to address openly
+
+**Biology.** I don't have a background, and the posting says that's fine. Before any interview, read the EGFR competition write-up (bioRxiv, 2025) and Adaptyv's Substack, and be ready to explain in plain words what a binding assay measures.
+
+**Formal management.** At Alaya I hired and led the first engineers; at Benevity I led without reports. If asked about performance management or difficult conversations, be honest about scale and talk about how you'd set the quality bar for a team of four to eight.
+
+**Lab hardware.** No direct experience. The closest is three years of set-top box software at Sagemcom and the postal-campaign integration at Alaya. Frame it as respect for systems that fail physically, and ask good questions about their device orchestration layer.

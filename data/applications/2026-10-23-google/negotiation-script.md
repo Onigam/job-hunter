@@ -2,7 +2,7 @@
 
 ## The shape of this offer
 
-The LinkedIn listing shows Zürich, Switzerland, full-time, on the Feeds Features team inside Shopping Graph Data Acquisition. The page title also says "Des Moines, IA", which contradicts the header, so **confirm with the recruiter that the role really sits in Zürich** before anything else. No salary is posted for Switzerland.
+The LinkedIn listing shows Zürich, Switzerland, full-time, on the Feeds Features team inside Shopping Graph Data Acquisition. The page title shows a US location instead ("Des Moines, IA" on one fetch, "Boydton, VA" on another), which contradicts the header, so **confirm with the recruiter that the role really sits in Zürich** before anything else. No salary is posted for Switzerland.
 
 "Staff Software Engineer" at Google means **L6**. Big-company offer, so there's no equity percentage, cliff or anti-dilution to argue about. The package is made of:
 
@@ -96,7 +96,7 @@ Get everything in writing: level, base, GSU grant and vesting schedule, sign-on 
 
 ## Checklist before the comp call
 
-- [ ] Confirm the role is Zürich, not Des Moines
+- [ ] Confirm the role is Zürich, not a US site
 - [ ] Confirm the target level is L6
 - [ ] Pull current L5/L6 Zürich data from levels.fyi
 - [ ] Know the status of the Microsoft process

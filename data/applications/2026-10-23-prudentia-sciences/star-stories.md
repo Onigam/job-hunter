@@ -63,5 +63,5 @@ The written criteria were what made it work, because they turned every later "sh
 ## Gaps to be ready for
 
 - **Life sciences and deal data.** No direct experience. Say so plainly, then point to Alaya: learning a client's domain quickly was the job. Read up on clinical trial registries, the typical biotech data room layout and how a licensing deal gets valued (rNPV) before the interview.
-- **Formal consulting or solutions title.** Not on the CV. The answer is Alaya: as cofounder and Head of Technologies, the clients' onboarding and escalations went through Magino directly.
+- **Formal consulting or solutions title.** Not on the CV. The answer is Alaya: as cofounder and Head of Technologies, Magino built and owned the platform 50+ enterprise clients ran on. Be concrete about which client-facing work (onboarding, integrations, escalations) was done personally, and don't stretch it.
 - **SSO/SAML, security questionnaires.** Be specific and truthful about what was done hands-on at Alaya or Benevity versus what was owned by other teams.
