@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22",
+  "last_updated": "2026-10-23",
   "offers": [
     {
       "id": "b7900b0c1d145eed72d4dff72699a780",
@@ -31890,6 +31890,297 @@
       "evidence_status": "full_text",
       "date_found": "2026-10-22",
       "status": "excluded"
+    },
+    {
+      "id": "85d8048ac33336d12962ccbb0f183899",
+      "title": "Head of Software Engineering",
+      "company": "Adaptyv",
+      "location": "Lausanne, Vaud, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4481254968",
+      "source": "linkedin",
+      "summary": "Adaptyv (automated wet lab for AI agents, Lausanne): hands-on Head of Software Engineering owning roadmap, architecture and AI-assisted dev practices. Repost of a role tracked in July/September.",
+      "score": 86,
+      "grade": "A",
+      "score_breakdown": {
+        "technical": 8,
+        "seniority": 9,
+        "location": 10,
+        "company": 9,
+        "impact": 9,
+        "mission": 8,
+        "compensation": 7,
+        "growth": 9,
+        "ai": 10,
+        "novelty": 7
+      },
+      "match_reason": "Score: 86% - Match: \"Building the team's AI-assisted development practices into a genuine speed advantage\" -> Summary > Transitioning from traditional developer to \"Agent Manager\", multiplying team productivity by orchestrating multi-agent workflows (OpenClaw, Claude CLI); Key Strengths > AI-augmented engineering pioneer",
+      "match_evidence": [
+        {
+          "dimension": "ai",
+          "offer_quote": "Building the team's AI-assisted development practices into a genuine speed advantage",
+          "profile_element": "Summary > Transitioning from traditional developer to \"Agent Manager\", multiplying team productivity by orchestrating multi-agent workflows (OpenClaw, Claude CLI); Key Strengths > AI-augmented engineering pioneer",
+          "note": null
+        },
+        {
+          "dimension": "seniority",
+          "offer_quote": "You'll be a player-coach — someone who still ships code but also owns the engineering roadmap, team structure, and technical direction.",
+          "profile_element": "Target Roles > 3. VP Engineering / Engineering Lead (hybrid IC)",
+          "note": null
+        },
+        {
+          "dimension": "technical",
+          "offer_quote": "Setting technical direction and architecture across frontend, backend, data pipelines, and lab-hardware integration",
+          "profile_element": "Core Technical Skills > Architecture: Platform engineering, API design, Service-oriented architecture; Frontend: React; Backend: Node.js, REST APIs",
+          "note": null
+        },
+        {
+          "dimension": "impact",
+          "offer_quote": "You've hired, managed, and developed engineers, and built a team that ships fast and holds a high bar — at least once before, in a startup or high-growth environment.",
+          "profile_element": "Career Highlights > Alaya (2016–2021) — Cofounder & Head of Technologies, Built entire platform from zero, scaled to acquisition by Benevity",
+          "note": null
+        },
+        {
+          "dimension": "company",
+          "offer_quote": "High-autonomy, founder mindset. We share context and vision openly.",
+          "profile_element": "Key Strengths > Engineering cofounder — built platform from zero",
+          "note": null
+        },
+        {
+          "dimension": "ai",
+          "offer_quote": "It's 2026 — you already build with AI agents and coding tools as a force multiplier, and you have a real point of view on how they change team structure, tooling, and workflow.",
+          "profile_element": "Core Technical Skills > AI/ML: Multi-agent workflows; Summary > orchestrating multi-agent workflows (OpenClaw, Claude CLI)",
+          "note": null
+        }
+      ],
+      "gaps": [
+        {
+          "offer_quote": "A genuine interest in biology. No background required, but our product is running biology experiments in the physical world and that should excite you.",
+          "note": "No biology or lab-automation background in profile/context.md (stated as not required)"
+        },
+        {
+          "offer_quote": "lab instruments worth millions of USD reverse-engineered into API-controllable hardware",
+          "note": "Hardware integration only indirectly covered (Sagemcom set-top boxes, 2011–2014)"
+        }
+      ],
+      "evidence_status": "full_text",
+      "date_posted": "2026-10-19",
+      "date_found": "2026-10-23",
+      "status": "new"
+    },
+    {
+      "id": "e96f9c6558bff34295b71f50b1f66012",
+      "title": "Principal Software Engineer (VS Code & GitHub Copilot)",
+      "company": "Microsoft",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4471457841",
+      "source": "linkedin",
+      "summary": "Microsoft VS Code team (Zurich): hands-on Principal on core editor, extension APIs and Copilot agent workflows; TypeScript/Rust.",
+      "score": 76,
+      "grade": "B",
+      "score_breakdown": {
+        "technical": 8,
+        "seniority": 9,
+        "location": 8,
+        "company": 5,
+        "impact": 7,
+        "mission": 7,
+        "compensation": 9,
+        "growth": 6,
+        "ai": 9,
+        "novelty": 8
+      },
+      "match_reason": "Score: 76% - Match: \"Experience designing shared platforms, APIs, or large application architectures, with sound judgment about extensibility, compatibility, performance, and maintainability.\" -> Core Technical Skills > Architecture: Platform engineering, API design, Service-oriented architecture",
+      "match_evidence": [
+        {
+          "dimension": "technical",
+          "offer_quote": "Experience designing shared platforms, APIs, or large application architectures, with sound judgment about extensibility, compatibility, performance, and maintainability.",
+          "profile_element": "Core Technical Skills > Architecture: Platform engineering, API design, Service-oriented architecture",
+          "note": null
+        },
+        {
+          "dimension": "technical",
+          "offer_quote": "Solid hands-on coding and design skills, with the ability to become productive in large TypeScript and Rust codebases.",
+          "profile_element": "Core Technical Skills > Languages: TypeScript, JavaScript, Node.js",
+          "note": null
+        },
+        {
+          "dimension": "ai",
+          "offer_quote": "Practical familiarity with AI coding tools and sound judgment about where they help, where they fall short, and how they change development workflows.",
+          "profile_element": "Summary > Transitioning from traditional developer to \"Agent Manager\", multiplying team productivity by orchestrating multi-agent workflows (OpenClaw, Claude CLI); Key Strengths > AI-augmented engineering pioneer",
+          "note": null
+        },
+        {
+          "dimension": "seniority",
+          "offer_quote": "Demonstrated technical leadership across multiple teams, including setting direction, building alignment, and delivering substantial initiatives without relying on reporting-line authority.",
+          "profile_element": "Career Highlights > Benevity (2021–2026) — Senior Staff Engineer, cross-team architecture; Target Roles > 1. Staff/Principal Platform Engineer",
+          "note": null
+        },
+        {
+          "dimension": "location",
+          "offer_quote": "We are looking for a Principal Software Engineer in Zurich",
+          "profile_element": "Location Preferences > 3. Reste de la Suisse (Valais, Neuchâtel, Fribourg, Berne, Zurich, Bâle, etc.)",
+          "note": null
+        }
+      ],
+      "gaps": [
+        {
+          "offer_quote": "Experience with TypeScript, JavaScript and Rust.",
+          "note": "Rust is not in profile/context.md"
+        },
+        {
+          "offer_quote": "Experience guiding cross-platform architecture, performance improvements, or major migrations in a large application.",
+          "note": "Desktop/editor-scale performance work not in profile/context.md; large enterprise, not startup (Company Preferences)"
+        }
+      ],
+      "evidence_status": "full_text",
+      "date_posted": "2026-10-22",
+      "date_found": "2026-10-23",
+      "status": "new"
+    },
+    {
+      "id": "d0cdbfb638c7933560bd659fd0f2bd5d",
+      "title": "Staff Full Stack Engineer",
+      "company": "Immersum (recruiter for a Series B energy startup)",
+      "location": "Europe (100% Remote)",
+      "url": "https://www.linkedin.com/jobs/view/4482474834",
+      "source": "linkedin",
+      "summary": "Recruiter post for a Series B energy-tech startup: remote-Europe Staff full-stack lead on tendering automation, risk tooling and agentic workflows.",
+      "score": 72,
+      "grade": "B",
+      "score_breakdown": {
+        "technical": 9,
+        "seniority": 8,
+        "location": 6,
+        "company": 6,
+        "impact": 6,
+        "mission": 7,
+        "compensation": 7,
+        "growth": 7,
+        "ai": 7,
+        "novelty": 9
+      },
+      "match_reason": "Score: 72% - Match: \"Tech Stack: Python, React, Typescript, AWS\" -> Core Technical Skills > Languages: TypeScript, Python; Frontend: React; Cloud & Infra: AWS",
+      "match_evidence": [
+        {
+          "dimension": "technical",
+          "offer_quote": "Tech Stack: Python, React, Typescript, AWS",
+          "profile_element": "Core Technical Skills > Languages: TypeScript, Python; Frontend: React; Cloud & Infra: AWS",
+          "note": null
+        },
+        {
+          "dimension": "seniority",
+          "offer_quote": "Proven track record as a Senior or Staff Engineer in a high-growth product organisation.",
+          "profile_element": "Career Highlights > Benevity (2021–2026) — Senior Staff Engineer",
+          "note": null
+        },
+        {
+          "dimension": "ai",
+          "offer_quote": "Deploy agentic workflows.",
+          "profile_element": "Core Technical Skills > AI/ML: Multi-agent workflows, LLM integration",
+          "note": null
+        },
+        {
+          "dimension": "impact",
+          "offer_quote": "Bonus: Background in climate tech, renewable energy, fintech, or 0-to-1 product launches.",
+          "profile_element": "Career Highlights > Alaya (2016–2021) — Cofounder & Head of Technologies, Built entire platform from zero",
+          "note": null
+        },
+        {
+          "dimension": "location",
+          "offer_quote": "Location: Europe (100% Remote)",
+          "profile_element": "Location Preferences > 4. Remote Europe (timezone CET compatible)",
+          "note": null
+        }
+      ],
+      "gaps": [
+        {
+          "offer_quote": "Deep expertise in Python and AWS server-less architecture.",
+          "note": "Python and AWS are in profile/context.md, serverless specifically is not"
+        },
+        {
+          "offer_quote": "Salary: £110,000 - £120,000+ Stock Options",
+          "note": "Below Geneva market rates (Compensation > Geneva market rates expected)"
+        }
+      ],
+      "evidence_status": "full_text",
+      "date_posted": "2026-10-22",
+      "date_found": "2026-10-23",
+      "status": "new"
+    },
+    {
+      "id": "7f96a29b37cb6901b75b40ba6038d276",
+      "title": "Senior ML Engineer (Technical Lead)",
+      "company": "Zerolook",
+      "location": "Zurich, Zurich, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4481143144",
+      "source": "linkedin",
+      "summary": "Zerolook (Zurich, seed travel-tech): ML tech lead, needs 4+ years production ML model training",
+      "score": 60,
+      "grade": "C",
+      "evidence_status": "full_text",
+      "date_posted": "2026-10-21",
+      "date_found": "2026-10-23",
+      "status": "new"
+    },
+    {
+      "id": "a6f155a0dbf51d2b7fb9196e7a10c8d4",
+      "title": "Lead Software Engineer",
+      "company": "Code Compass 🧭",
+      "location": "Zürich Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4477396458",
+      "source": "linkedin",
+      "summary": "Zurich Lead SE via recruiter: C++/Python, company unnamed",
+      "score": 58,
+      "grade": "C",
+      "evidence_status": "full_text",
+      "date_posted": "2026-10-16",
+      "date_found": "2026-10-23",
+      "status": "new"
+    },
+    {
+      "id": "22becf1ba1fd0ef3716b56c57298eca0",
+      "title": "Team Leader Systems Software (80-100%)",
+      "company": "Zurich Instruments",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4479423187",
+      "source": "linkedin",
+      "summary": "Zurich Instruments team lead: C++, quantum/HPC data path, MSc/PhD required",
+      "score": 45,
+      "grade": "D",
+      "evidence_status": "full_text",
+      "date_posted": "2026-10-21",
+      "date_found": "2026-10-23",
+      "status": "new"
+    },
+    {
+      "id": "ac9809eb8399ab6078cd653038b80e8d",
+      "title": "Founding Engineer",
+      "company": "Jobgether",
+      "location": "Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4479980432",
+      "source": "linkedin",
+      "summary": "Excluded: relocation to San Francisco required within first year",
+      "score": null,
+      "grade": "excluded",
+      "evidence_status": "full_text",
+      "date_posted": "2026-10-19",
+      "date_found": "2026-10-23",
+      "status": "excluded"
+    },
+    {
+      "id": "9a40757142ed17aca9e877ca6656d1b6",
+      "title": "Senior Platform Engineer",
+      "company": "Synthara AG",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4482052475",
+      "source": "linkedin",
+      "summary": "Embedded/SystemC virtual platforms, no stack overlap",
+      "score": 35,
+      "grade": "D",
+      "evidence_status": "full_text",
+      "date_posted": "2026-10-21",
+      "date_found": "2026-10-23",
+      "status": "new"
     }
   ]
 }

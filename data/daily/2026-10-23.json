@@ -1,0 +1,181 @@
+{
+  "date": "2026-10-23",
+  "total_searched": 784,
+  "new_offers": 8,
+  "top_offers": [
+    {
+      "rank": 1,
+      "title": "Head of Software Engineering",
+      "company": "Adaptyv",
+      "location": "Lausanne, Vaud, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4481254968",
+      "score": 86,
+      "grade": "A",
+      "match_reason": "Score: 86% - Match: \"Building the team's AI-assisted development practices into a genuine speed advantage\" -> Summary > Transitioning from traditional developer to \"Agent Manager\", multiplying team productivity by orchestrating multi-agent workflows (OpenClaw, Claude CLI); Key Strengths > AI-augmented engineering pioneer",
+      "match_evidence": [
+        {
+          "dimension": "ai",
+          "offer_quote": "Building the team's AI-assisted development practices into a genuine speed advantage",
+          "profile_element": "Summary > Transitioning from traditional developer to \"Agent Manager\", multiplying team productivity by orchestrating multi-agent workflows (OpenClaw, Claude CLI); Key Strengths > AI-augmented engineering pioneer",
+          "note": null
+        },
+        {
+          "dimension": "seniority",
+          "offer_quote": "You'll be a player-coach — someone who still ships code but also owns the engineering roadmap, team structure, and technical direction.",
+          "profile_element": "Target Roles > 3. VP Engineering / Engineering Lead (hybrid IC)",
+          "note": null
+        },
+        {
+          "dimension": "technical",
+          "offer_quote": "Setting technical direction and architecture across frontend, backend, data pipelines, and lab-hardware integration",
+          "profile_element": "Core Technical Skills > Architecture: Platform engineering, API design, Service-oriented architecture; Frontend: React; Backend: Node.js, REST APIs",
+          "note": null
+        },
+        {
+          "dimension": "impact",
+          "offer_quote": "You've hired, managed, and developed engineers, and built a team that ships fast and holds a high bar — at least once before, in a startup or high-growth environment.",
+          "profile_element": "Career Highlights > Alaya (2016–2021) — Cofounder & Head of Technologies, Built entire platform from zero, scaled to acquisition by Benevity",
+          "note": null
+        },
+        {
+          "dimension": "company",
+          "offer_quote": "High-autonomy, founder mindset. We share context and vision openly.",
+          "profile_element": "Key Strengths > Engineering cofounder — built platform from zero",
+          "note": null
+        },
+        {
+          "dimension": "ai",
+          "offer_quote": "It's 2026 — you already build with AI agents and coding tools as a force multiplier, and you have a real point of view on how they change team structure, tooling, and workflow.",
+          "profile_element": "Core Technical Skills > AI/ML: Multi-agent workflows; Summary > orchestrating multi-agent workflows (OpenClaw, Claude CLI)",
+          "note": null
+        }
+      ],
+      "gaps": [
+        {
+          "offer_quote": "A genuine interest in biology. No background required, but our product is running biology experiments in the physical world and that should excite you.",
+          "note": "No biology or lab-automation background in profile/context.md (stated as not required)"
+        },
+        {
+          "offer_quote": "lab instruments worth millions of USD reverse-engineered into API-controllable hardware",
+          "note": "Hardware integration only indirectly covered (Sagemcom set-top boxes, 2011–2014)"
+        }
+      ],
+      "evidence_status": "full_text",
+      "why": "Player-coach head of a small engineering team in Lausanne whose brief is literally to turn AI-assisted development into the team's speed advantage, which is your Agent Manager pitch word for word. Alaya covers the 'built a team in a startup' bar. Heads-up: this is a repost of the role tracked on 2026-07-09 and 2026-09-18, and an application package for Adaptyv's Lab Automation role was generated on 2026-10-21, so line the two up before applying.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Principal Software Engineer (VS Code & GitHub Copilot)",
+      "company": "Microsoft",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4471457841",
+      "score": 76,
+      "grade": "B",
+      "match_reason": "Score: 76% - Match: \"Experience designing shared platforms, APIs, or large application architectures, with sound judgment about extensibility, compatibility, performance, and maintainability.\" -> Core Technical Skills > Architecture: Platform engineering, API design, Service-oriented architecture",
+      "match_evidence": [
+        {
+          "dimension": "technical",
+          "offer_quote": "Experience designing shared platforms, APIs, or large application architectures, with sound judgment about extensibility, compatibility, performance, and maintainability.",
+          "profile_element": "Core Technical Skills > Architecture: Platform engineering, API design, Service-oriented architecture",
+          "note": null
+        },
+        {
+          "dimension": "technical",
+          "offer_quote": "Solid hands-on coding and design skills, with the ability to become productive in large TypeScript and Rust codebases.",
+          "profile_element": "Core Technical Skills > Languages: TypeScript, JavaScript, Node.js",
+          "note": null
+        },
+        {
+          "dimension": "ai",
+          "offer_quote": "Practical familiarity with AI coding tools and sound judgment about where they help, where they fall short, and how they change development workflows.",
+          "profile_element": "Summary > Transitioning from traditional developer to \"Agent Manager\", multiplying team productivity by orchestrating multi-agent workflows (OpenClaw, Claude CLI); Key Strengths > AI-augmented engineering pioneer",
+          "note": null
+        },
+        {
+          "dimension": "seniority",
+          "offer_quote": "Demonstrated technical leadership across multiple teams, including setting direction, building alignment, and delivering substantial initiatives without relying on reporting-line authority.",
+          "profile_element": "Career Highlights > Benevity (2021–2026) — Senior Staff Engineer, cross-team architecture; Target Roles > 1. Staff/Principal Platform Engineer",
+          "note": null
+        },
+        {
+          "dimension": "location",
+          "offer_quote": "We are looking for a Principal Software Engineer in Zurich",
+          "profile_element": "Location Preferences > 3. Reste de la Suisse (Valais, Neuchâtel, Fribourg, Berne, Zurich, Bâle, etc.)",
+          "note": null
+        }
+      ],
+      "gaps": [
+        {
+          "offer_quote": "Experience with TypeScript, JavaScript and Rust.",
+          "note": "Rust is not in profile/context.md"
+        },
+        {
+          "offer_quote": "Experience guiding cross-platform architecture, performance improvements, or major migrations in a large application.",
+          "note": "Desktop/editor-scale performance work not in profile/context.md; large enterprise, not startup (Company Preferences)"
+        }
+      ],
+      "evidence_status": "full_text",
+      "why": "Principal IC on VS Code and Copilot in Zurich: platform/extension API design in a large TypeScript codebase, with an explicit brief to shape how developers delegate and review work with coding agents. Big-company setting and a Zurich commute are the trade-offs, but the comp band and the agentic-dev scope are hard to beat in Switzerland.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Staff Full Stack Engineer",
+      "company": "Immersum (recruiter for a Series B energy startup)",
+      "location": "Europe (100% Remote)",
+      "url": "https://www.linkedin.com/jobs/view/4482474834",
+      "score": 72,
+      "grade": "B",
+      "match_reason": "Score: 72% - Match: \"Tech Stack: Python, React, Typescript, AWS\" -> Core Technical Skills > Languages: TypeScript, Python; Frontend: React; Cloud & Infra: AWS",
+      "match_evidence": [
+        {
+          "dimension": "technical",
+          "offer_quote": "Tech Stack: Python, React, Typescript, AWS",
+          "profile_element": "Core Technical Skills > Languages: TypeScript, Python; Frontend: React; Cloud & Infra: AWS",
+          "note": null
+        },
+        {
+          "dimension": "seniority",
+          "offer_quote": "Proven track record as a Senior or Staff Engineer in a high-growth product organisation.",
+          "profile_element": "Career Highlights > Benevity (2021–2026) — Senior Staff Engineer",
+          "note": null
+        },
+        {
+          "dimension": "ai",
+          "offer_quote": "Deploy agentic workflows.",
+          "profile_element": "Core Technical Skills > AI/ML: Multi-agent workflows, LLM integration",
+          "note": null
+        },
+        {
+          "dimension": "impact",
+          "offer_quote": "Bonus: Background in climate tech, renewable energy, fintech, or 0-to-1 product launches.",
+          "profile_element": "Career Highlights > Alaya (2016–2021) — Cofounder & Head of Technologies, Built entire platform from zero",
+          "note": null
+        },
+        {
+          "dimension": "location",
+          "offer_quote": "Location: Europe (100% Remote)",
+          "profile_element": "Location Preferences > 4. Remote Europe (timezone CET compatible)",
+          "note": null
+        }
+      ],
+      "gaps": [
+        {
+          "offer_quote": "Deep expertise in Python and AWS server-less architecture.",
+          "note": "Python and AWS are in profile/context.md, serverless specifically is not"
+        },
+        {
+          "offer_quote": "Salary: £110,000 - £120,000+ Stock Options",
+          "note": "Below Geneva market rates (Compensation > Geneva market rates expected)"
+        }
+      ],
+      "evidence_status": "full_text",
+      "why": "Exact stack match (Python, React, TypeScript, AWS) plus agentic workflows at a Series B energy startup, fully remote in Europe. Only surfaces after the Swiss roles: recruiter post with the company unnamed and a GBP salary under Geneva rates.",
+      "apply_by": null,
+      "status": "new"
+    }
+  ]
+}

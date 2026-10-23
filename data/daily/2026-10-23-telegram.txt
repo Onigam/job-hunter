@@ -1,0 +1,22 @@
+🎯 *Job Hunt — 2026-10-23*
+
+*1.* *Head of Software Engineering* @ Adaptyv
+📍 Lausanne, Vaud, Switzerland | ⭐ 86/100 | 🏆 Grade A
+🧾 Score: 86% - Match: "Building the team's AI-assisted development practices into a genuine speed advantage" -> Summary > Transitioning from traditional developer to "Agent Manager", multiplying team productivity by orchestrating multi-agent workflows (OpenClaw, Claude CLI); Key Strengths > AI-augmented engineering pioneer
+💡 Player-coach lead in Lausanne hired to make AI-assisted development the team's edge, i.e. the Agent Manager role (repost, check if already applied).
+🔗 https://www.linkedin.com/jobs/view/4481254968
+
+*2.* *Principal Software Engineer (VS Code & GitHub Copilot)* @ Microsoft
+📍 Zurich, Switzerland | ⭐ 76/100 | 🏆 Grade B
+🧾 Score: 76% - Match: "Experience designing shared platforms, APIs, or large application architectures, with sound judgment about…" -> Core Technical Skills > Architecture: Platform engineering, API design, Service-oriented architecture
+💡 Principal on VS Code/Copilot in Zurich: platform APIs in a big TypeScript codebase, with agentic dev workflows at the core.
+🔗 https://www.linkedin.com/jobs/view/4471457841
+
+*3.* *Staff Full Stack Engineer* @ Immersum (recruiter for a Series B energy startup)
+📍 Europe (100% Remote) | ⭐ 72/100 | 🏆 Grade B
+🧾 Score: 72% - Match: "Tech Stack: Python, React, Typescript, AWS" -> Core Technical Skills > Languages: TypeScript, Python; Frontend: React; Cloud & Infra: AWS
+💡 Exact Python/React/TS/AWS stack plus agentic workflows, remote Europe; recruiter post, salary under Geneva rates.
+🔗 https://www.linkedin.com/jobs/view/4482474834
+
+---
+📊 _8 new offers | 2098 total tracked_
