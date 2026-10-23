@@ -12,11 +12,29 @@
 💡 Principal on VS Code/Copilot in Zurich: platform APIs in a big TypeScript codebase, with agentic dev workflows at the core.
 🔗 https://www.linkedin.com/jobs/view/4471457841
 
-*3.* *Staff Full Stack Engineer* @ Immersum (recruiter for a Series B energy startup)
+*3.* *Staff Software Engineer, Shopping Graph* @ Google
+📍 Zurich, Switzerland | ⭐ 74/100 | 🏆 Grade B
+🧾 Score: 74% - Match: "Experience in prompt engineering, or multi-agent systems." -> Core Technical Skills > AI/ML: LLM integration, Multi-agent workflows; Summary > orchestrating multi-agent workflows (OpenClaw, Claude CLI)
+💡 One of the few Staff postings in Switzerland that lists multi-agent systems as a minimum qualification, which is exactly the Agent Manager pitch.
+🔗 https://www.linkedin.com/jobs/view/4481649969
+
+*4.* *Lead Software Engineer* @ Solskin by Zurich Soft Robotics
+📍 Zurich, Switzerland (hybrid, 3 days on-site) | ⭐ 71/100 | 🏆 Grade B
+🧾 Score: 71% - Match: "Own the full stack: You maintain and develop the whole software stack, from cloud and data management to user-facing…" -> Career Highlights > Alaya (2016–2021) — Cofounder & Head of Technologies, built entire platform from zero; Summary > from embedded systems to SaaS
+💡 First-lead role at a small Swiss climate-tech startup, deciding software direction alongside the CEO, which echoes the Alaya cofounder story.
+🔗 https://www.linkedin.com/jobs/view/4480652016
+
+*5.* *Forward Deployed Engineer* @ Prudentia Sciences
+📍 Basel, Switzerland (or London/Dublin) | ⭐ 70/100 | 🏆 Grade B
+🧾 Score: 70% - Match: "Practical experience with LLMs and AI applications: retrieval, prompting, extraction, evaluation, and the judgment to…" -> Core Technical Skills > AI/ML: LLM integration, Semantic search, Embeddings
+💡 Early, GV-backed AI startup where the field engineer also decides what becomes platform, with a Basel base option.
+🔗 https://www.linkedin.com/jobs/view/4477719640
+
+*6.* *Staff Full Stack Engineer* @ Immersum (recruiter for a Series B energy startup)
 📍 Europe (100% Remote) | ⭐ 72/100 | 🏆 Grade B
 🧾 Score: 72% - Match: "Tech Stack: Python, React, Typescript, AWS" -> Core Technical Skills > Languages: TypeScript, Python; Frontend: React; Cloud & Infra: AWS
 💡 Exact Python/React/TS/AWS stack plus agentic workflows, remote Europe; recruiter post, salary under Geneva rates.
 🔗 https://www.linkedin.com/jobs/view/4482474834
 
 ---
-📊 _8 new offers | 2098 total tracked_
+📊 _14 new offers | 2104 total tracked_

@@ -1,7 +1,7 @@
 {
   "date": "2026-10-23",
-  "total_searched": 784,
-  "new_offers": 8,
+  "total_searched": 1317,
+  "new_offers": 14,
   "top_offers": [
     {
       "rank": 1,
@@ -123,6 +123,176 @@
     },
     {
       "rank": 3,
+      "title": "Staff Software Engineer, Shopping Graph",
+      "company": "Google",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4481649969",
+      "score": 74,
+      "grade": "B",
+      "match_reason": "Score: 74% - Match: \"Experience in prompt engineering, or multi-agent systems.\" -> Core Technical Skills > AI/ML: LLM integration, Multi-agent workflows; Summary > orchestrating multi-agent workflows (OpenClaw, Claude CLI)",
+      "match_evidence": [
+        {
+          "dimension": "ai",
+          "offer_quote": "Experience in prompt engineering, or multi-agent systems.",
+          "profile_element": "Core Technical Skills > AI/ML: LLM integration, Multi-agent workflows; Summary > orchestrating multi-agent workflows (OpenClaw, Claude CLI)",
+          "note": null
+        },
+        {
+          "dimension": "technical",
+          "offer_quote": "5 years of experience with full stack development, across back-end such as Java, Python, Golang, or C++ codebases, and front-end experience including JavaScript or TypeScript, HTML, CSS or equivalent.",
+          "profile_element": "Core Technical Skills > Languages: TypeScript, JavaScript, Node.js, Python, Java",
+          "note": null
+        },
+        {
+          "dimension": "seniority",
+          "offer_quote": "As a Staff Software Engineer on the Feeds Features team, you will lead the technical direction, design, and execution of flagship Merchant Center experiences",
+          "profile_element": "Career Highlights > Benevity (2021–2026) — Senior Staff Engineer, cross-team architecture; Target Roles > 1. Staff/Principal Platform Engineer",
+          "note": null
+        },
+        {
+          "dimension": "ai",
+          "offer_quote": "Utilize Large Language Models (LLMs) and Gemini to help build autoraters for evaluating product data quality and to automate testing workflows.",
+          "profile_element": "Core Technical Skills > AI/ML: LLM integration; Key Strengths > AI-augmented engineering pioneer",
+          "note": null
+        }
+      ],
+      "gaps": [
+        {
+          "offer_quote": "Balance ambitious AI/ML capabilities with low latency, high throughput, and cost-efficient inference budgets.",
+          "note": "Inference serving at Google scale is not in profile/context.md"
+        },
+        {
+          "offer_quote": "3 years of experience working in a complex, matrixed organization involving cross-functional, or cross-business projects.",
+          "note": "Big-company matrix; Company Preferences favour startups/scale-ups"
+        }
+      ],
+      "evidence_status": "full_text",
+      "why": "One of the few Staff postings in Switzerland that lists multi-agent systems as a minimum qualification, which is exactly the Agent Manager pitch. Big-company matrix and a Zurich commute are the trade-offs.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Lead Software Engineer",
+      "company": "Solskin by Zurich Soft Robotics",
+      "location": "Zurich, Switzerland (hybrid, 3 days on-site)",
+      "url": "https://www.linkedin.com/jobs/view/4480652016",
+      "score": 71,
+      "grade": "B",
+      "match_reason": "Score: 71% - Match: \"Own the full stack: You maintain and develop the whole software stack, from cloud and data management to user-facing applications, and from low-level embedded firmware to high-level AI controllers learning from users.\" -> Career Highlights > Alaya (2016–2021) — Cofounder & Head of Technologies, built entire platform from zero; Summary > from embedded systems to SaaS",
+      "match_evidence": [
+        {
+          "dimension": "impact",
+          "offer_quote": "Own the full stack: You maintain and develop the whole software stack, from cloud and data management to user-facing applications, and from low-level embedded firmware to high-level AI controllers learning from users.",
+          "profile_element": "Career Highlights > Alaya (2016–2021) — Cofounder & Head of Technologies, built entire platform from zero; Summary > from embedded systems to SaaS",
+          "note": null
+        },
+        {
+          "dimension": "seniority",
+          "offer_quote": "Lead what comes next: With the CEO and CTO, you set the software direction and lead development of future products.",
+          "profile_element": "Target Roles > 2. Founding Engineer / First Engineer; Key Strengths > Engineering cofounder — built platform from zero",
+          "note": null
+        },
+        {
+          "dimension": "technical",
+          "offer_quote": "Cloud & data: You are comfortable with PostgreSQL, Docker and AWS.",
+          "profile_element": "Core Technical Skills > Databases: PostgreSQL; Cloud & Infra: AWS, Docker",
+          "note": null
+        },
+        {
+          "dimension": "technical",
+          "offer_quote": "Startup experience: You have worked in a startup before and know what that means.",
+          "profile_element": "Career Highlights > Alaya (2016–2021) — Cofounder & Head of Technologies",
+          "note": null
+        },
+        {
+          "dimension": "company",
+          "offer_quote": "Purpose: You care about climate and want to make buildings smarter.",
+          "profile_element": "Company Preferences > Impact-driven / purpose-driven companies",
+          "note": null
+        }
+      ],
+      "gaps": [
+        {
+          "offer_quote": "Embedded & Hardware: Shipped C/C++ on microcontrollers running on physical hardware; comfortable working with sensors, actuators, and basic electronics.",
+          "note": "Microcontroller C/C++ not in profile/context.md (Sagemcom was set-top box software in GWT)"
+        },
+        {
+          "offer_quote": "Applied AI & Control: Understanding of modern control and ML/RL methods, with hands-on PyTorch experience applied to physical or dynamic systems.",
+          "note": "Control/RL and PyTorch not in profile/context.md"
+        },
+        {
+          "offer_quote": "Hybrid setting: You will be expected to be on-site at least three days per week, and sometimes at customers’ locations, to work on real products.",
+          "note": "3 days/week in Zurich from Geneva"
+        }
+      ],
+      "evidence_status": "full_text",
+      "why": "First-lead role at a small Swiss climate-tech startup, deciding software direction alongside the CEO, which echoes the Alaya cofounder story. The embedded C/C++ and control/RL requirements are real gaps, and it's 3 days a week in Zurich.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Forward Deployed Engineer",
+      "company": "Prudentia Sciences",
+      "location": "Basel, Switzerland (or London/Dublin)",
+      "url": "https://www.linkedin.com/jobs/view/4477719640",
+      "score": 70,
+      "grade": "B",
+      "match_reason": "Score: 70% - Match: \"Practical experience with LLMs and AI applications: retrieval, prompting, extraction, evaluation, and the judgment to know when an AI output is good enough to put in front of a client.\" -> Core Technical Skills > AI/ML: LLM integration, Semantic search, Embeddings",
+      "match_evidence": [
+        {
+          "dimension": "ai",
+          "offer_quote": "Practical experience with LLMs and AI applications: retrieval, prompting, extraction, evaluation, and the judgment to know when an AI output is good enough to put in front of a client.",
+          "profile_element": "Core Technical Skills > AI/ML: LLM integration, Semantic search, Embeddings",
+          "note": null
+        },
+        {
+          "dimension": "technical",
+          "offer_quote": "Hands-on AWS experience: you've deployed and operated production systems on AWS and can reason about security, networking, and cost in client environments.",
+          "profile_element": "Core Technical Skills > Cloud & Infra: AWS",
+          "note": null
+        },
+        {
+          "dimension": "technical",
+          "offer_quote": "Strong full-stack or backend engineering skills: Python and SQL as a minimum, comfort with APIs and integrations, and the ability to work across a modern web stack.",
+          "profile_element": "Core Technical Skills > Languages: Python; Backend: REST APIs, GraphQL; Databases: PostgreSQL",
+          "note": null
+        },
+        {
+          "dimension": "seniority",
+          "offer_quote": "Ownership: Build and lead the platform as a foundational engineering leader",
+          "profile_element": "Key Strengths > Engineering cofounder — built platform from zero",
+          "note": null
+        },
+        {
+          "dimension": "location",
+          "offer_quote": "We are strongly prioritizing candidates based in London (UK), Dublin (Ireland), or Basel (Switzerland) to support our EU-based clients.",
+          "profile_element": "Location Preferences > 3. Reste de la Suisse (Bâle)",
+          "note": null
+        }
+      ],
+      "gaps": [
+        {
+          "offer_quote": "Experience in life sciences, biopharma, healthcare, or financial services, especially with clinical trial, scientific literature, or deal data.",
+          "note": "No life-sciences domain in profile/context.md (bonus, not required)"
+        },
+        {
+          "offer_quote": "5+ years of software engineering experience, including meaningful time in client-facing, forward deployed, solutions engineering, or technical consulting roles where you shipped code that clients depended on.",
+          "note": "Client-facing FDE track not explicit in profile; Company Preferences avoid consulting-style work"
+        },
+        {
+          "offer_quote": "Compensation Range: €110K - €132K",
+          "note": "Below Swiss market rates (Compensation)"
+        }
+      ],
+      "evidence_status": "full_text",
+      "why": "Early, GV-backed AI startup where the field engineer also decides what becomes platform, with a Basel base option. Client-facing and paid in euros below Swiss rates, so it's more a door into the company than a perfect fit.",
+      "apply_by": null,
+      "status": "new"
+    },
+    {
+      "rank": 6,
       "title": "Staff Full Stack Engineer",
       "company": "Immersum (recruiter for a Series B energy startup)",
       "location": "Europe (100% Remote)",
